@@ -35,10 +35,10 @@ export default async function MyPlansPage() {
               <h2 className="mt-2 font-[family-name:var(--font-display-serif)] text-3xl text-stone-950">{plan.name}</h2>
               <p className="mt-3 text-sm note-copy">Last updated: {plan.updatedAt.toISOString().slice(0, 10)}</p>
               <Link
-                href="/planner"
+                href={`/planner/${plan.id}`}
                 className="mt-5 inline-flex rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.86)] px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)] hover:text-stone-950"
               >
-                Open planner
+                Open plan
               </Link>
             </article>
           ))
