@@ -1,0 +1,42 @@
+import { NextResponse } from "next/server";
+
+import { getCatalogCourses } from "@/lib/courses/catalog";
+import { getSession } from "@/lib/auth/session";
+import { getPlanById } from "@/lib/plans/service";
+import { validateDraft } from "@/lib/planner/validation";
+
+type PlanValidateRouteProps = {
+  params: Promise<{
+    id: string;
+  }>;
+};
+
+export async function POST(_: Request, { params }: PlanValidateRouteProps) {
+  const session = await getSession();
+
+  if (!session) {
+    return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+  }
+
+  const planId = Number((await params).id);
+  if (!Number.isInteger(planId)) {
+    return NextResponse.json({ error: "Invalid plan id." }, { status: 400 });
+  }
+
+  const plan = await getPlanById(planId, session.userId);
+  if (!plan) {
+    return NextResponse.json({ error: "Plan not found." }, { status: 404 });
+  }
+
+  const courses = await getCatalogCourses();
+  const issues = validateDraft(
+    {
+      name: plan.name,
+      startTerm: plan.startTerm,
+      semesters: plan.semesters,
+    },
+    courses,
+  );
+
+  return NextResponse.json({ issues });
+}
