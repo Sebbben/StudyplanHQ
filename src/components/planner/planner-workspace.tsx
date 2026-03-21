@@ -59,6 +59,41 @@ function buildTermChoices(anchorTerm: string, radius = 6) {
   }));
 }
 
+function derivePlanEndTerm(draft: PlannerDraft) {
+  const orderedSemesters = [...draft.semesters].sort((left, right) => compareTermKeys(left.termKey, right.termKey));
+  return orderedSemesters.at(-1)?.termKey ?? shiftTermKey(draft.startTerm, TERM_COUNT - 1);
+}
+
+function countTermsInclusive(startTerm: string, endTerm: string) {
+  if (compareTermKeys(endTerm, startTerm) <= 0) {
+    return 1;
+  }
+
+  let count = 1;
+  let currentTerm = startTerm;
+
+  while (compareTermKeys(currentTerm, endTerm) < 0) {
+    currentTerm = shiftTermKey(currentTerm, 1);
+    count += 1;
+  }
+
+  return count;
+}
+
+function buildDraftForRange(draft: PlannerDraft, startTerm: string, endTerm: string) {
+  const renderedTermKeys = buildSequentialTerms(startTerm, countTermsInclusive(startTerm, endTerm));
+  const semesterMap = new Map(draft.semesters.map((semester) => [semester.termKey, semester]));
+
+  return {
+    ...draft,
+    startTerm,
+    semesters: renderedTermKeys.map((termKey) => ({
+      termKey,
+      courses: semesterMap.get(termKey)?.courses ?? [],
+    })),
+  };
+}
+
 function issueActionText(issue: PlannerIssue) {
   if (issue.type === "prerequisite" && issue.courseCode && issue.termKey) {
     return `Move ${issue.courseCode} later or place its prerequisite before ${termLabel(issue.termKey)}.`;
@@ -116,7 +151,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     }
   });
   const [planStartTerm, setPlanStartTerm] = useState<string>(() => initialDraft?.startTerm ?? draft.startTerm);
-  const [visibleStartTerm, setVisibleStartTerm] = useState<string>(() => initialDraft?.startTerm ?? draft.startTerm);
+  const [planEndTerm, setPlanEndTerm] = useState<string>(() => derivePlanEndTerm(initialDraft ?? draft));
   const [filters, setFilters] = useState<CourseFilterState>(() => createFilterState());
   const [saveMessage, setSaveMessage] = useState<string | null>(null);
   const [activeDropTermKey, setActiveDropTermKey] = useState<string | null>(null);
@@ -132,9 +167,9 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
 
   useEffect(() => {
     if (!isEditing) {
-      window.localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify({ ...draft, startTerm: planStartTerm }));
+      window.localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(buildDraftForRange(draft, planStartTerm, planEndTerm)));
     }
-  }, [draft, isEditing, planStartTerm]);
+  }, [draft, isEditing, planEndTerm, planStartTerm]);
 
   useEffect(() => {
     if (!modalTermKey) {
@@ -181,14 +216,17 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   );
   const issues = useMemo<PlannerIssue[]>(() => validateDraft(draftWithStartTerm, courses), [courses, draftWithStartTerm]);
   const sortedIssues = useMemo(() => sortIssuesForReview(issues), [issues]);
-  const visibleTermKeys = useMemo(() => buildSequentialTerms(visibleStartTerm, TERM_COUNT), [visibleStartTerm]);
-  const visibleSemesters = useMemo(() => {
+  const renderedTermKeys = useMemo(
+    () => buildSequentialTerms(planStartTerm, countTermsInclusive(planStartTerm, planEndTerm)),
+    [planEndTerm, planStartTerm],
+  );
+  const renderedSemesters = useMemo(() => {
     const semesterMap = new Map(draft.semesters.map((semester) => [semester.termKey, semester]));
-    return visibleTermKeys.map((termKey) => ({
+    return renderedTermKeys.map((termKey) => ({
       termKey,
       courses: semesterMap.get(termKey)?.courses ?? [],
     }));
-  }, [draft.semesters, visibleTermKeys]);
+  }, [draft.semesters, renderedTermKeys]);
   const totalPlacedCourses = useMemo(
     () => draft.semesters.reduce((sum, semester) => sum + semester.courses.length, 0),
     [draft.semesters],
@@ -236,13 +274,11 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     return [...semesters].sort((left, right) => compareTermKeys(left.termKey, right.termKey));
   }
 
-  function updateVisibleStartTerm(startTerm: string) {
-    setVisibleStartTerm(startTerm);
-  }
-
   function updatePlanStartTerm(startTerm: string) {
     setPlanStartTerm(startTerm);
-    setVisibleStartTerm(startTerm);
+    if (compareTermKeys(planEndTerm, startTerm) < 0) {
+      setPlanEndTerm(shiftTermKey(startTerm, TERM_COUNT - 1));
+    }
   }
 
   function getCourse(code: string) {
@@ -392,8 +428,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     }
 
     const payload = {
-      ...draft,
-      startTerm: planStartTerm,
+      ...buildDraftForRange(draft, planStartTerm, planEndTerm),
     };
 
     startTransition(async () => {
@@ -550,7 +585,13 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   }
 
   const planStartTermChoices = useMemo(() => buildTermChoices(planStartTerm), [planStartTerm]);
-  const visibleStartTermChoices = useMemo(() => buildTermChoices(visibleStartTerm), [visibleStartTerm]);
+  const planEndTermChoices = useMemo(() => {
+    const minimumCount = Math.max(TERM_COUNT, countTermsInclusive(planStartTerm, planEndTerm) + 3);
+    return buildSequentialTerms(planStartTerm, minimumCount).map((termKey) => ({
+      value: termKey,
+      label: termLabel(termKey),
+    }));
+  }, [planEndTerm, planStartTerm]);
   const boardTitle = isEditing ? "Edit saved plan" : "Planner";
   const isUsingDefaultPlanName = draft.name.trim() === DEFAULT_PLAN_NAME;
 
@@ -669,7 +710,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                   }`}
                 />
                 <p className="mt-2 text-sm note-copy">
-                  Drag courses onto the board or add them directly from a semester search modal. Visible semesters are only a view window.
+                  Drag courses onto the board or add them directly from a semester search modal. The planner now covers the full semester range you choose below.
                 </p>
               </div>
               <div className="flex items-center gap-3">
@@ -712,33 +753,20 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                 </div>
               </div>
               <div className="rounded-[1.3rem] border border-[var(--line)] bg-[rgba(255,253,247,0.84)] p-4">
-                <p className="text-xs uppercase tracking-[0.14em] note-copy">Visible semesters</p>
+                <p className="text-xs uppercase tracking-[0.14em] note-copy">Plan ends in</p>
                 <div className="mt-3 flex flex-wrap items-center gap-3">
-                  <button
-                    type="button"
-                    onClick={() => updateVisibleStartTerm(shiftTermKey(visibleStartTerm, -1))}
-                    className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
-                  >
-                    Earlier
-                  </button>
                   <select
-                    value={visibleStartTerm}
-                    onChange={(event) => updateVisibleStartTerm(event.target.value)}
+                    value={planEndTerm}
+                    onChange={(event) => setPlanEndTerm(event.target.value)}
                     className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm text-stone-900 outline-none"
                   >
-                    {visibleStartTermChoices.map((choice) => (
+                    {planEndTermChoices.map((choice) => (
                       <option key={choice.value} value={choice.value}>
-                        Start at {choice.label}
+                        {choice.label}
                       </option>
                     ))}
                   </select>
-                  <button
-                    type="button"
-                    onClick={() => updateVisibleStartTerm(shiftTermKey(visibleStartTerm, 1))}
-                    className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
-                  >
-                    Later
-                  </button>
+                  <span className="text-sm note-copy">Every semester between the start and end term is shown in the plan.</span>
                 </div>
               </div>
             </div>
@@ -756,10 +784,10 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
               <div className="mt-5 flex flex-wrap gap-3">
                 <button
                   type="button"
-                  onClick={() => openAddCourseModal(visibleTermKeys[0])}
+                  onClick={() => openAddCourseModal(renderedTermKeys[0])}
                   className="rounded-full border border-[var(--ink)] bg-[var(--ink)] px-5 py-3 text-sm font-medium text-white hover:opacity-92"
                 >
-                  Add to {termLabel(visibleTermKeys[0])}
+                  Add to {termLabel(renderedTermKeys[0])}
                 </button>
                 <button
                   type="button"
@@ -774,7 +802,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
 
           <div className="flex flex-col gap-4 rounded-[1.6rem] border border-[var(--line)] bg-[rgba(255,253,247,0.62)] p-4 sm:p-5">
             <div className="space-y-4">
-              {visibleSemesters.map((semester, index) => (
+              {renderedSemesters.map((semester, index) => (
                 <article
                   key={semester.termKey}
                   ref={(element) => {
