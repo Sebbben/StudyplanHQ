@@ -1,5 +1,5 @@
 import { sampleCourses } from "@/data/sample-courses";
-import { getCourseByCode, listCourses } from "@/lib/courses/service";
+import { getCourseByCode, listCourseFacets, listCourses, listCoursesByCodes } from "@/lib/courses/service";
 
 export async function getCatalogCourses(filters?: Parameters<typeof listCourses>[0]) {
   try {
@@ -33,5 +33,29 @@ export async function getCatalogCourseByCode(code: string) {
     return await getCourseByCode(code);
   } catch {
     return sampleCourses.find((course) => course.code === code) ?? null;
+  }
+}
+
+export async function getCatalogCoursesByCodes(codes: string[]) {
+  try {
+    return await listCoursesByCodes(codes);
+  } catch {
+    const codeSet = new Set(codes);
+    return sampleCourses.filter((course) => codeSet.has(course.code));
+  }
+}
+
+export async function getCatalogCourseFacets() {
+  try {
+    return await listCourseFacets();
+  } catch {
+    return {
+      departments: Array.from(new Set(sampleCourses.map((course) => course.department))).sort((left, right) =>
+        left.localeCompare(right),
+      ),
+      levels: Array.from(new Set(sampleCourses.map((course) => course.level))).sort((left, right) =>
+        left.localeCompare(right),
+      ),
+    };
   }
 }

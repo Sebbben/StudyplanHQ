@@ -1,13 +1,12 @@
 import { PlannerWorkspace } from "@/components/planner/planner-workspace";
 import { getSession } from "@/lib/auth/session";
-import { getCatalogCourses } from "@/lib/courses/catalog";
 
 export default async function PlannerPage() {
-  const [courses, session] = await Promise.all([getCatalogCourses(), getSession()]);
+  const session = await getSession();
 
   return (
     <div>
-      <PlannerWorkspace courses={courses} authenticated={Boolean(session)} />
+      <PlannerWorkspace initialCourses={[]} authenticated={Boolean(session)} />
     </div>
   );
 }

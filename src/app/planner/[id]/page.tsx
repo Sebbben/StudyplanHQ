@@ -2,7 +2,7 @@ import { notFound, redirect } from "next/navigation";
 
 import { PlannerWorkspace } from "@/components/planner/planner-workspace";
 import { getSession } from "@/lib/auth/session";
-import { getCatalogCourses } from "@/lib/courses/catalog";
+import { getCatalogCoursesByCodes } from "@/lib/courses/catalog";
 import { getPlanById } from "@/lib/plans/service";
 
 type PlannerPlanPageProps = {
@@ -23,15 +23,20 @@ export default async function PlannerPlanPage({ params }: PlannerPlanPageProps) 
     notFound();
   }
 
-  const [courses, plan] = await Promise.all([getCatalogCourses(), getPlanById(planId, session.userId)]);
+  const plan = await getPlanById(planId, session.userId);
 
   if (!plan) {
     notFound();
   }
 
+  const courseCodes = Array.from(
+    new Set(plan.semesters.flatMap((semester) => semester.courses.map((course) => course.code))),
+  );
+  const courses = await getCatalogCoursesByCodes(courseCodes);
+
   return (
     <PlannerWorkspace
-      courses={courses}
+      initialCourses={courses}
       authenticated
       planId={plan.id}
       initialDraft={{

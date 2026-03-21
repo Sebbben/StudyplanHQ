@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useDeferredValue, useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 
-import { filterAndRankCourses, deriveDefaultStartTerm, getSeasonFromTermKey, reviewGroupLabel, sortIssuesForReview } from "@/lib/planner/course-search";
+import { deriveDefaultStartTerm, getSeasonFromTermKey, reviewGroupLabel, sortIssuesForReview } from "@/lib/planner/course-search";
 import type { PlannerCourse, PlannerDraft, PlannerIssue } from "@/lib/planner/types";
 import { validateDraft } from "@/lib/planner/validation";
 import { plannerDraftSchema } from "@/lib/plans/schema";
@@ -16,7 +16,7 @@ const DRAG_MIME_TYPE = "text/plain";
 const DEFAULT_PLAN_NAME = "Plan 1";
 
 type PlannerWorkspaceProps = {
-  courses: PlannerCourse[];
+  initialCourses: PlannerCourse[];
   initialDraft?: PlannerDraft;
   authenticated: boolean;
   planId?: number | null;
@@ -118,7 +118,7 @@ function issueActionText(issue: PlannerIssue) {
   return issue.message;
 }
 
-export function PlannerWorkspace({ courses, initialDraft, authenticated, planId = null }: PlannerWorkspaceProps) {
+export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, planId = null }: PlannerWorkspaceProps) {
   const router = useRouter();
   const isEditing = planId !== null;
   const searchInputRef = useRef<HTMLInputElement | null>(null);
@@ -165,6 +165,13 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   const [modalTermKey, setModalTermKey] = useState<string | null>(null);
   const [modalFilters, setModalFilters] = useState<CourseFilterState>(() => createFilterState());
   const [selectedModalCourseCode, setSelectedModalCourseCode] = useState<string | null>(null);
+  const [knownCourses, setKnownCourses] = useState<PlannerCourse[]>(initialCourses);
+  const [searchResults, setSearchResults] = useState<PlannerCourse[]>([]);
+  const [modalSearchResults, setModalSearchResults] = useState<PlannerCourse[]>([]);
+  const [departments, setDepartments] = useState<string[]>([]);
+  const [levels, setLevels] = useState<string[]>([]);
+  const [isSidebarLoading, setIsSidebarLoading] = useState(false);
+  const [isModalLoading, setIsModalLoading] = useState(false);
   const [isPending, startTransition] = useTransition();
   const activeDropTermKeyRef = useRef<string | null>(null);
   const dragPayloadRef = useRef<DragPayload | null>(null);
@@ -191,28 +198,9 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     };
   }, []);
 
-  const departments = useMemo(
-    () => getUniqueSortedValues(courses.map((course) => course.department)),
-    [courses],
-  );
-  const levels = useMemo(
-    () => getUniqueSortedValues(courses.map((course) => course.level)),
-    [courses],
-  );
-  const courseMap = useMemo(() => new Map(courses.map((course) => [course.code, course])), [courses]);
+  const courseMap = useMemo(() => new Map(knownCourses.map((course) => [course.code, course])), [knownCourses]);
   const deferredQuery = useDeferredValue(filters.query);
   const deferredModalQuery = useDeferredValue(modalFilters.query);
-
-  const filteredCourses = useMemo(
-    () =>
-      filterAndRankCourses(courses, {
-        query: deferredQuery,
-        season: filters.season,
-        department: filters.department,
-        level: filters.level,
-      }),
-    [courses, deferredQuery, filters.department, filters.level, filters.season],
-  );
 
   const draftWithStartTerm = useMemo(
     () => ({
@@ -221,7 +209,10 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     }),
     [draft, planStartTerm],
   );
-  const issues = useMemo<PlannerIssue[]>(() => validateDraft(draftWithStartTerm, courses), [courses, draftWithStartTerm]);
+  const issues = useMemo<PlannerIssue[]>(
+    () => validateDraft(draftWithStartTerm, knownCourses),
+    [draftWithStartTerm, knownCourses],
+  );
   const sortedIssues = useMemo(() => sortIssuesForReview(issues), [issues]);
   const renderedTermKeys = useMemo(
     () => buildSequentialTerms(planStartTerm, countTermsInclusive(planStartTerm, planEndTerm)),
@@ -241,18 +232,9 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
 
   const modalSemester = modalTermKey ? draft.semesters.find((semester) => semester.termKey === modalTermKey) : null;
   const modalResults = useMemo(() => {
-    if (!modalTermKey) {
-      return [];
-    }
-
-    return filterAndRankCourses(courses, {
-      query: deferredModalQuery,
-      season: modalFilters.season,
-      department: modalFilters.department,
-      level: modalFilters.level,
-      excludeCodes: modalSemester?.courses.map((course) => course.code) ?? [],
-    });
-  }, [courses, deferredModalQuery, modalFilters.department, modalFilters.level, modalFilters.season, modalSemester?.courses, modalTermKey]);
+    const excludedCodes = new Set(modalSemester?.courses.map((course) => course.code) ?? []);
+    return modalSearchResults.filter((course) => !excludedCodes.has(course.code));
+  }, [modalSearchResults, modalSemester?.courses]);
   const reviewGroups = useMemo(() => {
     const grouped = new Map<string, { label: string; issues: Array<{ issue: PlannerIssue; key: string }> }>();
 
@@ -276,6 +258,139 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     selectedModalCourseCode && modalResults.some((course) => course.code === selectedModalCourseCode)
       ? selectedModalCourseCode
       : modalResults[0]?.code ?? null;
+
+  useEffect(() => {
+    async function loadFacets() {
+      const response = await fetch("/api/courses/meta");
+      if (!response.ok) {
+        return;
+      }
+
+      const payload = (await response.json()) as { departments?: string[]; levels?: string[] };
+      setDepartments(getUniqueSortedValues(payload.departments ?? []));
+      setLevels(getUniqueSortedValues(payload.levels ?? []));
+    }
+
+    void loadFacets();
+  }, []);
+
+  useEffect(() => {
+    function mergeCourses(nextCourses: PlannerCourse[]) {
+      if (nextCourses.length === 0) {
+        return;
+      }
+
+      setKnownCourses((current) => {
+        const byCode = new Map(current.map((course) => [course.code, course]));
+
+        nextCourses.forEach((course) => {
+          byCode.set(course.code, course);
+        });
+
+        return Array.from(byCode.values()).sort((left, right) => left.code.localeCompare(right.code));
+      });
+    }
+
+    mergeCourses(searchResults);
+    mergeCourses(modalSearchResults);
+  }, [modalSearchResults, searchResults]);
+
+  useEffect(() => {
+    const controller = new AbortController();
+
+    async function loadSearchResults() {
+      setIsSidebarLoading(true);
+
+      const url = new URL("/api/courses", window.location.origin);
+      if (deferredQuery.trim()) {
+        url.searchParams.set("query", deferredQuery.trim());
+      }
+      if (filters.season) {
+        url.searchParams.set("term", filters.season);
+      }
+      if (filters.department) {
+        url.searchParams.set("department", filters.department);
+      }
+      if (filters.level) {
+        url.searchParams.set("level", filters.level);
+      }
+      url.searchParams.set("limit", "60");
+
+      try {
+        const response = await fetch(url, { signal: controller.signal });
+        if (!response.ok) {
+          setSearchResults([]);
+          return;
+        }
+
+        const payload = (await response.json()) as { courses?: PlannerCourse[] };
+        setSearchResults(payload.courses ?? []);
+      } catch (error) {
+        if (!(error instanceof DOMException && error.name === "AbortError")) {
+          setSearchResults([]);
+        }
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsSidebarLoading(false);
+        }
+      }
+    }
+
+    void loadSearchResults();
+
+    return () => controller.abort();
+  }, [deferredQuery, filters.department, filters.level, filters.season]);
+
+  useEffect(() => {
+    if (!modalTermKey) {
+      setModalSearchResults([]);
+      return;
+    }
+
+    const controller = new AbortController();
+
+    async function loadModalResults() {
+      setIsModalLoading(true);
+
+      const url = new URL("/api/courses", window.location.origin);
+      if (deferredModalQuery.trim()) {
+        url.searchParams.set("query", deferredModalQuery.trim());
+      }
+      if (modalFilters.season) {
+        url.searchParams.set("term", modalFilters.season);
+      }
+      if (modalFilters.department) {
+        url.searchParams.set("department", modalFilters.department);
+      }
+      if (modalFilters.level) {
+        url.searchParams.set("level", modalFilters.level);
+      }
+      url.searchParams.set("limit", "60");
+
+      try {
+        const response = await fetch(url, { signal: controller.signal });
+        if (!response.ok) {
+          setModalSearchResults([]);
+          return;
+        }
+
+        const payload = (await response.json()) as { courses?: PlannerCourse[] };
+        setModalSearchResults(payload.courses ?? []);
+      } catch (error) {
+        if (!(error instanceof DOMException && error.name === "AbortError")) {
+          setModalSearchResults([]);
+        }
+      } finally {
+        if (!controller.signal.aborted) {
+          setIsModalLoading(false);
+        }
+      }
+    }
+
+    void loadModalResults();
+
+    return () => controller.abort();
+  }, [deferredModalQuery, modalFilters.department, modalFilters.level, modalFilters.season, modalTermKey]);
 
   function sortSemesters(semesters: PlannerDraft["semesters"]) {
     return [...semesters].sort((left, right) => compareTermKeys(left.termKey, right.termKey));
@@ -660,9 +775,11 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                 ))}
               </select>
             </div>
-            <p className="text-xs uppercase tracking-[0.14em] note-copy">{filteredCourses.length} matching courses</p>
+            <p className="text-xs uppercase tracking-[0.14em] note-copy">
+              {isSidebarLoading ? "Loading courses..." : `Showing ${searchResults.length} courses`}
+            </p>
             <div className="max-h-[70vh] space-y-3 overflow-y-auto pr-1">
-              {filteredCourses.map((course) => (
+              {searchResults.map((course) => (
                 <div
                   key={course.code}
                   draggable
@@ -693,7 +810,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                   <p className="mt-3 text-xs uppercase tracking-[0.12em] note-copy">Drag into a semester column</p>
                 </div>
               ))}
-              {filteredCourses.length === 0 ? (
+              {!isSidebarLoading && searchResults.length === 0 ? (
                 <div className="rounded-[1.2rem] border border-dashed border-[var(--line)] bg-[rgba(255,253,247,0.72)] p-4 text-sm note-copy">
                   No courses match the current search and filters.
                 </div>
@@ -1064,7 +1181,12 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                     </p>
                   </button>
                 ))}
-                {modalResults.length === 0 ? (
+                {isModalLoading ? (
+                  <div className="rounded-[1.2rem] border border-dashed border-[var(--line)] bg-[rgba(255,253,247,0.72)] p-4 text-sm note-copy">
+                    Loading courses...
+                  </div>
+                ) : null}
+                {!isModalLoading && modalResults.length === 0 ? (
                   <div className="rounded-[1.2rem] border border-dashed border-[var(--line)] bg-[rgba(255,253,247,0.72)] p-4 text-sm note-copy">
                     No courses match this semester search.
                   </div>

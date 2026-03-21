@@ -1,4 +1,4 @@
-import { and, asc, eq, ilike, or, sql } from "drizzle-orm";
+import { and, asc, eq, ilike, inArray, or, sql } from "drizzle-orm";
 
 import { db } from "@/lib/db";
 import { courses } from "@/lib/db/schema";
@@ -8,6 +8,7 @@ export type CourseFilters = {
   query?: string;
   term?: string;
   department?: string;
+  level?: string;
   limit?: number;
 };
 
@@ -21,6 +22,10 @@ export async function listCourses(filters: CourseFilters = {}): Promise<PlannerC
 
   if (filters.department) {
     conditions.push(eq(courses.department, filters.department));
+  }
+
+  if (filters.level) {
+    conditions.push(eq(courses.level, filters.level));
   }
 
   if (filters.term) {
@@ -65,5 +70,42 @@ export async function getCourseByCode(code: string): Promise<PlannerCourse | nul
     prerequisiteText: row.prerequisiteText,
     prerequisiteCourses: row.prerequisiteCourses,
     tags: row.tags,
+  };
+}
+
+export async function listCoursesByCodes(codes: string[]): Promise<PlannerCourse[]> {
+  if (codes.length === 0) {
+    return [];
+  }
+
+  const rows = await db.select().from(courses).where(inArray(courses.code, codes)).orderBy(asc(courses.code));
+
+  return rows.map((row) => ({
+    code: row.code,
+    title: row.title,
+    credits: row.credits,
+    offeredTerms: row.offeredTerms,
+    language: row.language,
+    level: row.level,
+    department: row.department,
+    officialUrl: row.officialUrl,
+    prerequisiteText: row.prerequisiteText,
+    prerequisiteCourses: row.prerequisiteCourses,
+    tags: row.tags,
+  }));
+}
+
+export async function listCourseFacets() {
+  const rows = await db
+    .select({
+      department: courses.department,
+      level: courses.level,
+    })
+    .from(courses)
+    .orderBy(asc(courses.department), asc(courses.level));
+
+  return {
+    departments: Array.from(new Set(rows.map((row) => row.department))).filter(Boolean),
+    levels: Array.from(new Set(rows.map((row) => row.level))).filter(Boolean),
   };
 }

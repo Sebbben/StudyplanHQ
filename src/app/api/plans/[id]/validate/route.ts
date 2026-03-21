@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-import { getCatalogCourses } from "@/lib/courses/catalog";
+import { getCatalogCoursesByCodes } from "@/lib/courses/catalog";
 import { getSession } from "@/lib/auth/session";
 import { getPlanById } from "@/lib/plans/service";
 import { validateDraft } from "@/lib/planner/validation";
@@ -31,7 +31,10 @@ export async function POST(_: Request, { params }: PlanValidateRouteProps) {
     return NextResponse.json({ error: "Plan not found." }, { status: 404 });
   }
 
-  const courses = await getCatalogCourses();
+  const courseCodes = Array.from(
+    new Set(plan.semesters.flatMap((semester) => semester.courses.map((course) => course.code))),
+  );
+  const courses = await getCatalogCoursesByCodes(courseCodes);
   const issues = validateDraft(
     {
       name: plan.name,
