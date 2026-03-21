@@ -6,10 +6,12 @@ export default async function CoursesPage() {
 
   return (
     <div className="space-y-8">
-      <section className="rounded-[2rem] border border-stone-200 bg-white p-8 shadow-sm shadow-stone-950/5">
-        <p className="text-sm font-semibold uppercase tracking-[0.3em] text-amber-700">Course Catalog</p>
-        <h1 className="mt-3 text-4xl font-semibold tracking-tight text-stone-950">Browse planning-ready UiO courses</h1>
-        <p className="mt-4 max-w-3xl text-base leading-7 text-stone-600">
+      <section className="note-panel-strong note-pin relative rounded-[2rem] p-8">
+        <p className="note-kicker">Course Catalog</p>
+        <h1 className="mt-3 font-[family-name:var(--font-display-serif)] text-4xl tracking-tight text-stone-950">
+          Browse planning-ready UiO courses
+        </h1>
+        <p className="mt-4 max-w-3xl text-base leading-7 note-copy">
           The catalog prioritizes the information students actually need for planning: credits, department, normal semester availability, and prerequisite context.
         </p>
       </section>

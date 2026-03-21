@@ -1,8 +1,19 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f5f3ef;
-  --foreground: #1c1917;
+  --background: #f7f0df;
+  --foreground: #2a241a;
+  --paper: rgba(255, 250, 241, 0.94);
+  --paper-strong: rgba(255, 253, 247, 0.98);
+  --line: rgba(113, 92, 60, 0.16);
+  --muted: #6c604d;
+  --ink: #2f3d6b;
+  --ink-soft: #e0e7fb;
+  --note: #fff2bf;
+  --note-rose: #f8ddd2;
+  --note-green: #dceccf;
+  --success-soft: #dfeecf;
+  --warning-soft: #f6e6b8;
 }
 
 @theme inline {
@@ -24,6 +35,17 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-geist-sans), sans-serif;
+  background-image:
+    radial-gradient(circle at top left, rgba(250, 213, 132, 0.34), transparent 28%),
+    radial-gradient(circle at right 20%, rgba(226, 214, 183, 0.5), transparent 22%),
+    repeating-linear-gradient(
+      to bottom,
+      rgba(47, 61, 107, 0.06) 0,
+      rgba(47, 61, 107, 0.06) 1px,
+      transparent 1px,
+      transparent 34px
+    ),
+    linear-gradient(180deg, #fbf6ea 0%, #f7f0df 52%, #f3ead7 100%);
 }
 
 a,
@@ -31,4 +53,50 @@ button,
 input {
   transition-property: color, background-color, border-color, box-shadow, opacity, transform;
   transition-duration: 180ms;
+}
+
+::selection {
+  background: rgba(47, 61, 107, 0.18);
+}
+
+.note-panel {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  box-shadow: 0 14px 34px rgba(92, 74, 43, 0.08);
+}
+
+.note-panel-strong {
+  border: 1px solid rgba(47, 61, 107, 0.16);
+  background: var(--paper-strong);
+  box-shadow: 0 18px 42px rgba(92, 74, 43, 0.1);
+}
+
+.note-kicker {
+  color: var(--ink);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.note-copy {
+  color: var(--muted);
+}
+
+.note-chip {
+  border: 1px solid rgba(47, 61, 107, 0.12);
+  background: var(--ink-soft);
+  color: var(--ink);
+}
+
+.note-pin::before {
+  content: "";
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  height: 12px;
+  width: 12px;
+  border-radius: 9999px;
+  background: rgba(189, 78, 45, 0.78);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.45) inset;
 }
