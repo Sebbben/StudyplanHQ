@@ -52,6 +52,52 @@ describe("validateDraft", () => {
     });
 
     expect(parsed.success).toBeTrue();
+    if (parsed.success) {
+      expect(parsed.data.completedCourses).toEqual([]);
+    }
+  });
+
+  test("treats completed courses as satisfying prerequisites before the plan starts", () => {
+    const courses: PlannerCourse[] = [
+      {
+        code: "IN2090",
+        title: "Databaser og datamodellering",
+        credits: 10,
+        offeredTerms: ["autumn"],
+        language: "Norwegian",
+        level: "Bachelor",
+        department: "Informatics",
+        officialUrl: "https://example.com/in2090",
+        prerequisiteText: "IN1000 – Introduksjon til objektorientert programmering",
+        prerequisiteCourses: ["IN1000"],
+        tags: [],
+      },
+      {
+        code: "IN1000",
+        title: "Introduksjon til objektorientert programmering",
+        credits: 10,
+        offeredTerms: ["spring"],
+        language: "Norwegian",
+        level: "Bachelor",
+        department: "Informatics",
+        officialUrl: "https://example.com/in1000",
+        prerequisiteText: null,
+        prerequisiteCourses: [],
+        tags: [],
+      },
+    ];
+
+    const issues = validateDraft(
+      {
+        name: "Master plan",
+        startTerm: "2026-autumn",
+        completedCourses: ["IN1000"],
+        semesters: [{ termKey: "2026-autumn", courses: [{ code: "IN2090" }] }],
+      },
+      courses,
+    );
+
+    expect(issues.some((issue) => issue.type === "prerequisite")).toBeFalse();
   });
 
   test("treats slash-separated mandatory prerequisite alternatives as one requirement", () => {
@@ -89,6 +135,7 @@ describe("validateDraft", () => {
       {
         name: "Alternative requirement",
         startTerm: "2026-spring",
+        completedCourses: [],
         semesters: [
           { termKey: "2026-spring", courses: [{ code: "INF1100" }] },
           { termKey: "2026-autumn", courses: [{ code: "IN2090" }] },
@@ -135,6 +182,7 @@ describe("validateDraft", () => {
       {
         name: "Separate requirements",
         startTerm: "2026-spring",
+        completedCourses: [],
         semesters: [
           { termKey: "2026-spring", courses: [{ code: "IN2140" }] },
           { termKey: "2026-autumn", courses: [{ code: "IN4230" }] },

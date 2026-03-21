@@ -48,6 +48,7 @@ export const studyPlans = pgTable("study_plans", {
     .references(() => users.id, { onDelete: "cascade" }),
   name: text("name").notNull(),
   startTerm: text("start_term").notNull(),
+  completedCourseCodes: text("completed_course_codes").array().notNull().default([]),
   status: text("status").notNull().default("draft"),
   deleted: boolean("deleted").notNull().default(false),
   createdAt: timestamp("created_at", { withTimezone: true }).defaultNow().notNull(),

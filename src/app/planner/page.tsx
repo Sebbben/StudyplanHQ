@@ -6,7 +6,11 @@ export default async function PlannerPage() {
 
   return (
     <div>
-      <PlannerWorkspace initialCourses={[]} authenticated={Boolean(session)} />
+      <PlannerWorkspace
+        initialCourses={[]}
+        authenticated={Boolean(session)}
+        initialDraft={undefined}
+      />
     </div>
   );
 }

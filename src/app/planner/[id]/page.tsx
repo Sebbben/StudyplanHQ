@@ -30,7 +30,10 @@ export default async function PlannerPlanPage({ params }: PlannerPlanPageProps) 
   }
 
   const courseCodes = Array.from(
-    new Set(plan.semesters.flatMap((semester) => semester.courses.map((course) => course.code))),
+    new Set([
+      ...plan.completedCourses,
+      ...plan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
+    ]),
   );
   const courses = await getCatalogCoursesByCodes(courseCodes);
 
@@ -42,6 +45,7 @@ export default async function PlannerPlanPage({ params }: PlannerPlanPageProps) 
       initialDraft={{
         name: plan.name,
         startTerm: plan.startTerm,
+        completedCourses: plan.completedCourses,
         semesters: plan.semesters,
       }}
     />

@@ -1,4 +1,4 @@
-import { compareTermKeys } from "@/lib/utils/term";
+import { compareTermKeys, shiftTermKey } from "@/lib/utils/term";
 
 import { derivePrerequisiteGroups } from "@/lib/planner/prerequisites";
 import type { PlannerCourse, PlannerDraft, PlannerIssue } from "@/lib/planner/types";
@@ -9,6 +9,11 @@ export function validateDraft(draft: PlannerDraft, courses: PlannerCourse[]): Pl
   const issues: PlannerIssue[] = [];
   const courseMap = new Map(courses.map((course) => [course.code, course]));
   const placements = new Map<string, string[]>();
+  const completedTermKey = shiftTermKey(draft.startTerm, -1);
+
+  for (const courseCode of draft.completedCourses ?? []) {
+    placements.set(courseCode, [completedTermKey]);
+  }
 
   for (const semester of draft.semesters) {
     let totalCredits = 0;

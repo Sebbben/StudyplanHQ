@@ -3,6 +3,7 @@ import { z } from "zod";
 export const plannerDraftSchema = z.object({
   name: z.string().trim().min(1).max(100),
   startTerm: z.string().regex(/^\d{4}-(spring|autumn)$/),
+  completedCourses: z.array(z.string().trim().min(1).max(20)).max(200).default([]),
   semesters: z
     .array(
       z.object({

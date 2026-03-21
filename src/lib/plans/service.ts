@@ -41,6 +41,7 @@ export async function getPlanById(planId: number, userId: number) {
 
   return {
     ...plan,
+    completedCourses: plan.completedCourseCodes,
     semesters: semesters.map((semester) => ({
       termKey: semester.termKey,
       courses: courseRows
@@ -58,6 +59,7 @@ export async function createPlan(userId: number, draft: PlannerDraft) {
         userId,
         name: draft.name,
         startTerm: draft.startTerm,
+        completedCourseCodes: draft.completedCourses,
       })
       .returning();
 
@@ -103,6 +105,7 @@ export async function updatePlan(planId: number, userId: number, draft: PlannerD
       .set({
         name: draft.name,
         startTerm: draft.startTerm,
+        completedCourseCodes: draft.completedCourses,
         updatedAt: new Date(),
       })
       .where(eq(studyPlans.id, planId));

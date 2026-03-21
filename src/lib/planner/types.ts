@@ -24,6 +24,7 @@ export type PlannedSemester = {
 export type PlannerDraft = {
   name: string;
   startTerm: string;
+  completedCourses: string[];
   semesters: PlannedSemester[];
 };
 

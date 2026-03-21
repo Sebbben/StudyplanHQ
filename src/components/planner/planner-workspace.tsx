@@ -34,11 +34,14 @@ type CourseFilterState = {
   level: string;
 };
 
+type ModalMode = "semester" | "completed";
+
 function createEmptyDraft(): PlannerDraft {
   const startTerm = deriveDefaultStartTerm();
   return {
     name: DEFAULT_PLAN_NAME,
     startTerm,
+    completedCourses: [],
     semesters: [],
   };
 }
@@ -91,6 +94,7 @@ function buildDraftForRange(draft: PlannerDraft, startTerm: string, endTerm: str
   return {
     ...draft,
     startTerm,
+    completedCourses: draft.completedCourses,
     semesters: renderedTermKeys.map((termKey) => ({
       termKey,
       courses: semesterMap.get(termKey)?.courses ?? [],
@@ -163,6 +167,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   const [activeReviewKey, setActiveReviewKey] = useState<string | null>(null);
   const [highlightedCourseKey, setHighlightedCourseKey] = useState<string | null>(null);
   const [modalTermKey, setModalTermKey] = useState<string | null>(null);
+  const [modalMode, setModalMode] = useState<ModalMode | null>(null);
   const [modalFilters, setModalFilters] = useState<CourseFilterState>(() => createFilterState());
   const [selectedModalCourseCode, setSelectedModalCourseCode] = useState<string | null>(null);
   const [knownCourses, setKnownCourses] = useState<PlannerCourse[]>(initialCourses);
@@ -183,12 +188,12 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }, [draft, isEditing, planEndTerm, planStartTerm]);
 
   useEffect(() => {
-    if (!modalTermKey) {
+    if (!modalMode) {
       return;
     }
 
     modalSearchInputRef.current?.focus();
-  }, [modalTermKey]);
+  }, [modalMode]);
 
   useEffect(() => {
     return () => {
@@ -230,11 +235,18 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     [draft.semesters],
   );
 
-  const modalSemester = modalTermKey ? draft.semesters.find((semester) => semester.termKey === modalTermKey) : null;
+  const modalSemester =
+    modalMode === "semester" && modalTermKey
+      ? draft.semesters.find((semester) => semester.termKey === modalTermKey)
+      : null;
   const modalResults = useMemo(() => {
-    const excludedCodes = new Set(modalSemester?.courses.map((course) => course.code) ?? []);
+    const excludedCodes = new Set(
+      modalMode === "completed"
+        ? draft.completedCourses
+        : modalSemester?.courses.map((course) => course.code) ?? [],
+    );
     return modalSearchResults.filter((course) => !excludedCodes.has(course.code));
-  }, [modalSearchResults, modalSemester?.courses]);
+  }, [draft.completedCourses, modalMode, modalSearchResults, modalSemester?.courses]);
   const reviewGroups = useMemo(() => {
     const grouped = new Map<string, { label: string; issues: Array<{ issue: PlannerIssue; key: string }> }>();
 
@@ -342,7 +354,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }, [deferredQuery, filters.department, filters.level, filters.season]);
 
   useEffect(() => {
-    if (!modalTermKey) {
+    if (!modalMode) {
       setModalSearchResults([]);
       return;
     }
@@ -390,7 +402,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     void loadModalResults();
 
     return () => controller.abort();
-  }, [deferredModalQuery, modalFilters.department, modalFilters.level, modalFilters.season, modalTermKey]);
+  }, [deferredModalQuery, modalFilters.department, modalFilters.level, modalFilters.season, modalMode]);
 
   function sortSemesters(semesters: PlannerDraft["semesters"]) {
     return [...semesters].sort((left, right) => compareTermKeys(left.termKey, right.termKey));
@@ -411,6 +423,26 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     setDraft((current) => ({
       ...current,
       semesters: sortSemesters(updater(current.semesters).filter((semester) => semester.courses.length > 0)),
+    }));
+  }
+
+  function addCompletedCourse(courseCode: string) {
+    setDraft((current) => {
+      if (current.completedCourses.includes(courseCode)) {
+        return current;
+      }
+
+      return {
+        ...current,
+        completedCourses: [...current.completedCourses, courseCode].sort((left, right) => left.localeCompare(right)),
+      };
+    });
+  }
+
+  function removeCompletedCourse(courseCode: string) {
+    setDraft((current) => ({
+      ...current,
+      completedCourses: current.completedCourses.filter((code) => code !== courseCode),
     }));
   }
 
@@ -511,6 +543,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }
 
   function openAddCourseModal(termKey: string) {
+    setModalMode("semester");
     setModalTermKey(termKey);
     setModalFilters({
       query: "",
@@ -520,7 +553,19 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     });
   }
 
+  function openCompletedCourseModal() {
+    setModalMode("completed");
+    setModalTermKey(null);
+    setModalFilters({
+      query: "",
+      season: "",
+      department: "",
+      level: "",
+    });
+  }
+
   function closeAddCourseModal() {
+    setModalMode(null);
     setModalTermKey(null);
     setModalFilters(createFilterState());
     setSelectedModalCourseCode(null);
@@ -532,6 +577,12 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }
 
   function handleAddFromModal(courseCode: string) {
+    if (modalMode === "completed") {
+      addCompletedCourse(courseCode);
+      closeAddCourseModal();
+      return;
+    }
+
     if (!modalTermKey) {
       return;
     }
@@ -539,6 +590,15 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     addCourseToSemester(modalTermKey, courseCode);
     closeAddCourseModal();
   }
+
+  const completedCourseDetails = useMemo(
+    () =>
+      draft.completedCourses
+        .map((courseCode) => courseMap.get(courseCode))
+        .filter((course): course is PlannerCourse => Boolean(course)),
+    [courseMap, draft.completedCourses],
+  );
+  const completedCourseCodes = useMemo(() => new Set(draft.completedCourses), [draft.completedCourses]);
 
   async function savePlan() {
     setSaveMessage(null);
@@ -807,7 +867,12 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                     {course.department} · {course.level}
                   </p>
                   <p className="mt-1 text-xs leading-5 note-copy">Normally offered: {course.offeredTerms.join(", ")}</p>
-                  <p className="mt-3 text-xs uppercase tracking-[0.12em] note-copy">Drag into a semester column</p>
+                  <div className="mt-3 flex items-center justify-between gap-3">
+                    <p className="text-xs uppercase tracking-[0.12em] note-copy">Drag into a semester column</p>
+                    <span className="text-[11px] font-semibold uppercase tracking-[0.12em] text-stone-600">
+                      {completedCourseCodes.has(course.code) ? "Already completed" : "Use drag or modal add"}
+                    </span>
+                  </div>
                 </div>
               ))}
               {!isSidebarLoading && searchResults.length === 0 ? (
@@ -855,6 +920,61 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                   {isPending ? "Saving..." : isEditing ? "Save changes" : "Save plan"}
                 </button>
                 {saveMessage ? <p className="text-sm note-copy">{saveMessage}</p> : null}
+              </div>
+            </div>
+
+            <div className="rounded-[1.3rem] border border-[var(--line)] bg-[rgba(255,253,247,0.78)] p-4">
+              <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+                <div className="min-w-0">
+                  <p className="note-kicker">Completed Courses</p>
+                  <p className="mt-2 text-sm leading-6 note-copy">
+                    Add courses you already finished before this plan starts so they satisfy prerequisites without appearing on the semester board.
+                  </p>
+                </div>
+                <div className="flex shrink-0 items-center gap-3">
+                  <div className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-center">
+                    <p className="text-xs uppercase tracking-[0.12em] note-copy">Marked completed</p>
+                    <p className="mt-1 text-xl font-semibold text-stone-950">{completedCourseDetails.length}</p>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={openCompletedCourseModal}
+                    className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-900 hover:border-[var(--ink)]"
+                  >
+                    Add completed courses
+                  </button>
+                </div>
+              </div>
+              <div className="mt-4 space-y-2">
+                {completedCourseDetails.length > 0 ? (
+                  completedCourseDetails.map((course) => (
+                    <div
+                      key={course.code}
+                      className="flex items-center justify-between gap-3 rounded-[1rem] border border-[rgba(47,61,107,0.16)] bg-white px-4 py-3"
+                    >
+                      <div className="min-w-0">
+                        <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                          <p className="font-mono text-sm font-semibold text-[var(--ink)]">{course.code}</p>
+                          <p className="text-xs note-copy">
+                            {course.department} · {course.level}
+                          </p>
+                        </div>
+                        <p className="mt-1 truncate text-sm text-stone-900">{course.title}</p>
+                      </div>
+                      <button
+                        type="button"
+                        onClick={() => removeCompletedCourse(course.code)}
+                        className="shrink-0 rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.9)] px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
+                      >
+                        Remove
+                      </button>
+                    </div>
+                  ))
+                ) : (
+                  <div className="rounded-[1.1rem] border border-dashed border-[rgba(47,61,107,0.24)] bg-[rgba(255,255,255,0.62)] p-4 text-sm note-copy">
+                    No completed courses added yet. Use `Add completed courses` to choose courses you already passed.
+                  </div>
+                )}
               </div>
             </div>
 
@@ -1083,7 +1203,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
         </aside>
       </div>
 
-      {modalTermKey ? (
+      {modalMode ? (
         <div
           className="fixed inset-0 z-50 flex items-center justify-center bg-[rgba(42,36,26,0.4)] px-4 py-8"
           onClick={closeAddCourseModal}
@@ -1095,12 +1215,14 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
           >
             <div className="flex items-start justify-between gap-4 border-b border-[var(--line)] px-6 py-5">
               <div>
-                <p className="note-kicker">Add To Semester</p>
+                <p className="note-kicker">{modalMode === "completed" ? "Add Completed Courses" : "Add To Semester"}</p>
                 <h2 className="mt-2 font-[family-name:var(--font-display-serif)] text-3xl text-stone-950">
-                  {termLabel(modalTermKey)}
+                  {modalMode === "completed" ? "Previously completed courses" : termLabel(modalTermKey ?? "")}
                 </h2>
                 <p className="mt-2 text-sm note-copy">
-                  Press Enter to add the selected course. Click any result to add it immediately.
+                  {modalMode === "completed"
+                    ? "Press Enter to add the selected course as already completed. Click any result to add it immediately."
+                    : "Press Enter to add the selected course. Click any result to add it immediately."}
                 </p>
               </div>
               <button
