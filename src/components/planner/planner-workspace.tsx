@@ -12,6 +12,7 @@ import { buildSequentialTerms, compareTermKeys, shiftTermKey, termLabel } from "
 const LOCAL_STORAGE_KEY = "studyplanhq-planner-draft";
 const TERM_COUNT = 6;
 const DRAG_MIME_TYPE = "text/plain";
+const DEFAULT_PLAN_NAME = "Plan 1";
 
 type PlannerWorkspaceProps = {
   courses: PlannerCourse[];
@@ -35,7 +36,7 @@ type CourseFilterState = {
 function createEmptyDraft(): PlannerDraft {
   const startTerm = deriveDefaultStartTerm();
   return {
-    name: "My UiO plan",
+    name: DEFAULT_PLAN_NAME,
     startTerm,
     semesters: [],
   };
@@ -550,10 +551,11 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   const planStartTermChoices = useMemo(() => buildTermChoices(planStartTerm), [planStartTerm]);
   const visibleStartTermChoices = useMemo(() => buildTermChoices(visibleStartTerm), [visibleStartTerm]);
   const boardTitle = isEditing ? "Edit saved plan" : "Planner";
+  const isUsingDefaultPlanName = draft.name.trim() === DEFAULT_PLAN_NAME;
 
   return (
     <>
-      <div className="grid gap-6 xl:grid-cols-[320px_minmax(0,1fr)_320px]">
+      <div className="grid gap-6 2xl:grid-cols-[280px_minmax(0,1fr)_280px]">
         <aside className="note-panel note-pin relative rounded-[1.9rem] p-5">
           <div className="space-y-4">
             <div>
@@ -659,7 +661,11 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                 <input
                   value={draft.name}
                   onChange={(event) => setDraft((current) => ({ ...current, name: event.target.value }))}
-                  className="mt-2 w-full bg-transparent font-[family-name:var(--font-display-serif)] text-4xl tracking-tight text-stone-950 outline-none"
+                  className={`mt-2 w-full cursor-text rounded-[0.7rem] border-b bg-transparent px-2 py-1 font-[family-name:var(--font-display-serif)] text-4xl tracking-tight outline-none ${
+                    isUsingDefaultPlanName
+                      ? "border-transparent text-stone-700 hover:border-[rgba(47,61,107,0.22)] hover:bg-[rgba(47,61,107,0.03)] focus:border-[rgba(47,61,107,0.34)] focus:bg-[rgba(47,61,107,0.05)] focus:text-stone-950"
+                      : "border-transparent text-stone-950 hover:border-[rgba(47,61,107,0.22)] hover:bg-[rgba(47,61,107,0.03)] focus:border-[rgba(47,61,107,0.34)] focus:bg-[rgba(47,61,107,0.05)]"
+                  }`}
                 />
                 <p className="mt-2 text-sm note-copy">
                   Drag courses onto the board or add them directly from a semester search modal. Visible semesters are only a view window.
@@ -758,24 +764,27 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
           ) : null}
 
           <div className="flex flex-col gap-4 rounded-[1.6rem] border border-[var(--line)] bg-[rgba(255,253,247,0.62)] p-4 sm:p-5">
-            <div className="overflow-x-auto pb-2">
-              <div className="flex min-w-max gap-4">
-                {visibleSemesters.map((semester) => (
-                  <article
-                    key={semester.termKey}
-                    ref={(element) => {
-                      semesterRefs.current.set(semester.termKey, element);
-                    }}
-                    onDragEnter={() => handleSemesterDragEnter(semester.termKey)}
-                    onDragOver={(event) => handleSemesterDragOver(event, semester.termKey)}
-                    onDrop={(event) => handleSemesterDrop(event, semester.termKey)}
-                    className={`min-h-[30rem] w-[18rem] shrink-0 rounded-[1.8rem] border bg-[rgba(255,253,247,0.9)] p-5 shadow-[0_12px_24px_rgba(100,82,41,0.08)] ${
-                      activeDropTermKey === semester.termKey
-                        ? "border-dashed border-[var(--ink)] bg-[rgba(255,242,191,0.82)]"
-                        : "border-[var(--line)]"
-                    }`}
-                  >
-                    <div className="flex items-start justify-between gap-4">
+            <div className="space-y-4">
+              {visibleSemesters.map((semester, index) => (
+                <article
+                  key={semester.termKey}
+                  ref={(element) => {
+                    semesterRefs.current.set(semester.termKey, element);
+                  }}
+                  onDragEnter={() => handleSemesterDragEnter(semester.termKey)}
+                  onDragOver={(event) => handleSemesterDragOver(event, semester.termKey)}
+                  onDrop={(event) => handleSemesterDrop(event, semester.termKey)}
+                  className={`rounded-[1.8rem] border bg-[rgba(255,253,247,0.9)] p-5 shadow-[0_12px_24px_rgba(100,82,41,0.08)] ${
+                    activeDropTermKey === semester.termKey
+                      ? "border-dashed border-[var(--ink)] bg-[rgba(255,242,191,0.82)]"
+                      : "border-[var(--line)]"
+                  }`}
+                >
+                  <div className="flex flex-col gap-4 border-b border-[rgba(113,92,60,0.12)] pb-4 lg:flex-row lg:items-start lg:justify-between">
+                    <div className="flex items-start gap-4">
+                      <div className="note-chip mt-1 flex h-9 w-9 shrink-0 items-center justify-center rounded-full text-sm font-semibold">
+                        {index + 1}
+                      </div>
                       <div>
                         <p className="font-mono text-sm font-semibold uppercase tracking-[0.14em] text-[var(--ink)]">
                           {semester.termKey}
@@ -784,22 +793,24 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                           {termLabel(semester.termKey)}
                         </h3>
                       </div>
-                      <div className="flex flex-col items-end gap-2">
-                        <span className="note-chip rounded-full px-3 py-1 text-sm font-medium">
-                          {semesterCredits(semester.termKey)} cr
-                        </span>
-                        <button
-                          type="button"
-                          onClick={() => openAddCourseModal(semester.termKey)}
-                          className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
-                        >
-                          Add course
-                        </button>
-                      </div>
                     </div>
-                    <div className="mt-4 space-y-3">
-                      {semester.courses.length > 0 ? (
-                        semester.courses.map((item) => {
+                    <div className="flex flex-wrap items-center gap-2 lg:justify-end">
+                      <span className="note-chip rounded-full px-3 py-1 text-sm font-medium">
+                        {semesterCredits(semester.termKey)} cr
+                      </span>
+                      <button
+                        type="button"
+                        onClick={() => openAddCourseModal(semester.termKey)}
+                        className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
+                      >
+                        Add course
+                      </button>
+                    </div>
+                  </div>
+                  <div className="mt-4">
+                    {semester.courses.length > 0 ? (
+                      <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
+                        {semester.courses.map((item) => {
                           const course = getCourse(item.code);
                           if (!course) {
                             return null;
@@ -828,40 +839,41 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                               } ${highlightedCourseKey === courseKey ? "ring-2 ring-[var(--ink)] ring-offset-2 ring-offset-transparent" : ""}`}
                             >
                               <div className="flex items-start justify-between gap-3">
-                                <div>
-                                  <p className="font-mono text-sm font-semibold text-[var(--ink)]">{course.code}</p>
+                                <div className="min-w-0">
+                                  <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                                    <p className="font-mono text-sm font-semibold text-[var(--ink)]">{course.code}</p>
+                                    <p className="text-xs note-copy">{course.credits} credits</p>
+                                  </div>
                                   <p className="mt-1 text-sm font-medium text-stone-900">{course.title}</p>
+                                  <p className="mt-2 text-xs note-copy">{course.offeredTerms.join(", ")}</p>
                                 </div>
                                 <button
                                   type="button"
                                   onClick={() => removeCourse(semester.termKey, course.code)}
-                                  className="text-sm note-copy hover:text-stone-950"
+                                  className="shrink-0 text-sm note-copy hover:text-stone-950"
                                 >
                                   Remove
                                 </button>
                               </div>
-                              <p className="mt-2 text-xs note-copy">
-                                {course.credits} credits · {course.offeredTerms.join(", ")}
-                              </p>
                             </div>
                           );
-                        })
-                      ) : (
-                        <div className="rounded-[1.2rem] border border-dashed border-[var(--line)] bg-[rgba(255,253,247,0.72)] px-4 py-8 text-center text-sm note-copy">
-                          <p>Drop a course here or open the semester search.</p>
-                          <button
-                            type="button"
-                            onClick={() => openAddCourseModal(semester.termKey)}
-                            className="mt-4 rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
-                          >
-                            Add course
-                          </button>
-                        </div>
-                      )}
-                    </div>
-                  </article>
-                ))}
-              </div>
+                        })}
+                      </div>
+                    ) : (
+                      <div className="rounded-[1.2rem] border border-dashed border-[var(--line)] bg-[rgba(255,253,247,0.72)] px-4 py-8 text-center text-sm note-copy">
+                        <p>Drop a course here or open the semester search.</p>
+                        <button
+                          type="button"
+                          onClick={() => openAddCourseModal(semester.termKey)}
+                          className="mt-4 rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
+                        >
+                          Add course
+                        </button>
+                      </div>
+                    )}
+                  </div>
+                </article>
+              ))}
             </div>
           </div>
         </section>
