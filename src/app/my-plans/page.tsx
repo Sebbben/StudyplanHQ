@@ -24,6 +24,12 @@ export default async function MyPlansPage() {
         <p className="mt-4 max-w-3xl text-base leading-7 note-copy">
           Saved plans stay private to the authenticated user. Duplicate and richer plan-management actions can extend from this base.
         </p>
+        <Link
+          href="/planner"
+          className="mt-6 inline-flex rounded-full border border-[var(--ink)] bg-[var(--ink)] px-5 py-3 text-sm font-medium text-white hover:opacity-92"
+        >
+          New plan
+        </Link>
       </section>
       <section className="grid gap-5 lg:grid-cols-2">
         {plans.length > 0 ? (

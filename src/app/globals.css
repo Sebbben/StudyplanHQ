@@ -92,11 +92,15 @@ input {
 .note-pin::before {
   content: "";
   position: absolute;
-  top: 14px;
+  top: 16px;
   right: 18px;
   height: 12px;
-  width: 12px;
-  border-radius: 9999px;
-  background: rgba(189, 78, 45, 0.78);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.45) inset;
+  width: 34px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, rgba(242, 220, 170, 0.92), rgba(228, 203, 149, 0.96));
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.5) inset,
+    0 4px 10px rgba(92, 74, 43, 0.12);
+  transform: rotate(6deg);
+  opacity: 0.95;
 }

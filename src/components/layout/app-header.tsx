@@ -21,6 +21,12 @@ export async function AppHeader() {
           <div className="flex items-center gap-3">
             {session ? (
               <>
+                <Link
+                  href="/planner"
+                  className="rounded-full border border-[var(--ink)] bg-[var(--ink)] px-4 py-2 text-sm font-medium text-white hover:opacity-92"
+                >
+                  New plan
+                </Link>
                 <span className="hidden rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-3 py-2 text-sm note-copy sm:inline">
                   {session.name ?? session.email ?? session.sub}
                 </span>
@@ -34,12 +40,20 @@ export async function AppHeader() {
                 </form>
               </>
             ) : (
-              <a
-                href="/api/auth/login"
-                className="rounded-full border border-[var(--ink)] bg-[var(--ink)] px-4 py-2 text-sm font-medium text-white hover:opacity-92"
-              >
-                Log in
-              </a>
+              <>
+                <Link
+                  href="/planner"
+                  className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-4 py-2 text-sm font-medium text-stone-700 hover:border-[var(--ink)] hover:text-stone-950"
+                >
+                  New plan
+                </Link>
+                <a
+                  href="/api/auth/login"
+                  className="rounded-full border border-[var(--ink)] bg-[var(--ink)] px-4 py-2 text-sm font-medium text-white hover:opacity-92"
+                >
+                  Log in
+                </a>
+              </>
             )}
           </div>
         </div>

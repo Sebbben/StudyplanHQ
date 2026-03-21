@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 
@@ -672,6 +673,14 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
                 </p>
               </div>
               <div className="flex items-center gap-3">
+                {isEditing ? (
+                  <Link
+                    href="/planner"
+                    className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.86)] px-5 py-3 text-sm font-medium text-stone-800 hover:border-[var(--ink)] hover:text-stone-950"
+                  >
+                    New plan
+                  </Link>
+                ) : null}
                 <button
                   type="button"
                   onClick={savePlan}
