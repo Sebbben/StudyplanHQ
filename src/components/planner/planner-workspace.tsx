@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useRef, useState, useTransition } from "react";
+import { useDeferredValue, useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 
 import { filterAndRankCourses, deriveDefaultStartTerm, getSeasonFromTermKey, reviewGroupLabel, sortIssuesForReview } from "@/lib/planner/course-search";
@@ -50,6 +50,10 @@ function createFilterState(): CourseFilterState {
     department: "",
     level: "",
   };
+}
+
+function getUniqueSortedValues<T extends string>(values: T[]) {
+  return Array.from(new Set(values)).sort((left, right) => left.localeCompare(right));
 }
 
 function buildTermChoices(anchorTerm: string, radius = 6) {
@@ -188,23 +192,26 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   }, []);
 
   const departments = useMemo(
-    () => Array.from(new Set(courses.map((course) => course.department))).sort((left, right) => left.localeCompare(right)),
+    () => getUniqueSortedValues(courses.map((course) => course.department)),
     [courses],
   );
   const levels = useMemo(
-    () => Array.from(new Set(courses.map((course) => course.level))).sort((left, right) => left.localeCompare(right)),
+    () => getUniqueSortedValues(courses.map((course) => course.level)),
     [courses],
   );
+  const courseMap = useMemo(() => new Map(courses.map((course) => [course.code, course])), [courses]);
+  const deferredQuery = useDeferredValue(filters.query);
+  const deferredModalQuery = useDeferredValue(modalFilters.query);
 
   const filteredCourses = useMemo(
     () =>
       filterAndRankCourses(courses, {
-        query: filters.query,
+        query: deferredQuery,
         season: filters.season,
         department: filters.department,
         level: filters.level,
       }),
-    [courses, filters],
+    [courses, deferredQuery, filters.department, filters.level, filters.season],
   );
 
   const draftWithStartTerm = useMemo(
@@ -239,13 +246,13 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     }
 
     return filterAndRankCourses(courses, {
-      query: modalFilters.query,
+      query: deferredModalQuery,
       season: modalFilters.season,
       department: modalFilters.department,
       level: modalFilters.level,
       excludeCodes: modalSemester?.courses.map((course) => course.code) ?? [],
     });
-  }, [courses, modalFilters, modalSemester?.courses, modalTermKey]);
+  }, [courses, deferredModalQuery, modalFilters.department, modalFilters.level, modalFilters.season, modalSemester?.courses, modalTermKey]);
   const reviewGroups = useMemo(() => {
     const grouped = new Map<string, { label: string; issues: Array<{ issue: PlannerIssue; key: string }> }>();
 
@@ -282,7 +289,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   }
 
   function getCourse(code: string) {
-    return courses.find((course) => course.code === code);
+    return courseMap.get(code);
   }
 
   function updateSemesters(updater: (semesters: PlannerDraft["semesters"]) => PlannerDraft["semesters"]) {

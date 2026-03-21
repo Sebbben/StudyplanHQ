@@ -58,6 +58,13 @@ export function getRedirectUri() {
   return `${env.APP_URL}${REDIRECT_PATH}`;
 }
 
+function clearOidcFlowCookies(cookieStore: Awaited<ReturnType<typeof cookies>>) {
+  cookieStore.delete(STATE_COOKIE);
+  cookieStore.delete(VERIFIER_COOKIE);
+  cookieStore.delete(NONCE_COOKIE);
+  cookieStore.delete(RETURN_TO_COOKIE);
+}
+
 function sanitizeReturnPath(value: string | null | undefined) {
   if (!value || !value.startsWith("/")) {
     return null;
@@ -130,78 +137,80 @@ export async function createAuthorizationUrl(returnTo?: string | null) {
 
 export async function exchangeAuthorizationCode(url: URL) {
   const cookieStore = await cookies();
-  const expectedState = cookieStore.get(STATE_COOKIE)?.value;
-  const verifier = cookieStore.get(VERIFIER_COOKIE)?.value;
-  const expectedNonce = cookieStore.get(NONCE_COOKIE)?.value;
-  const state = url.searchParams.get("state");
-  const code = url.searchParams.get("code");
+  try {
+    const expectedState = cookieStore.get(STATE_COOKIE)?.value;
+    const verifier = cookieStore.get(VERIFIER_COOKIE)?.value;
+    const expectedNonce = cookieStore.get(NONCE_COOKIE)?.value;
+    const state = url.searchParams.get("state");
+    const code = url.searchParams.get("code");
 
-  if (!expectedState || !verifier || !expectedNonce || !state || !code || state !== expectedState) {
-    throw new Error("Invalid OIDC callback state.");
+    if (!expectedState || !verifier || !expectedNonce || !state || !code || state !== expectedState) {
+      throw new Error("Invalid OIDC callback state.");
+    }
+
+    const discovery = await discoverOidcConfiguration();
+    const tokenResponse = await fetch(discovery.token_endpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+      body: new URLSearchParams({
+        grant_type: "authorization_code",
+        client_id: env.KEYCLOAK_CLIENT_ID,
+        client_secret: env.KEYCLOAK_CLIENT_SECRET,
+        code,
+        code_verifier: verifier,
+        redirect_uri: getRedirectUri(),
+      }),
+    });
+
+    if (!tokenResponse.ok) {
+      throw new Error("Failed to exchange authorization code.");
+    }
+
+    const tokenPayload = (await tokenResponse.json()) as { access_token?: string; id_token?: string };
+    if (!tokenPayload.access_token || !tokenPayload.id_token) {
+      throw new Error("OIDC token response did not include the required tokens.");
+    }
+
+    const jwks = createRemoteJWKSet(new URL(discovery.jwks_uri));
+    const idTokenResult = await jwtVerify<{
+      sub: string;
+      email?: string;
+      name?: string;
+      nonce?: string;
+    }>(tokenPayload.id_token, jwks, {
+      issuer: discovery.issuer,
+      audience: env.KEYCLOAK_CLIENT_ID,
+    });
+
+    if (idTokenResult.payload.nonce !== expectedNonce) {
+      throw new Error("Invalid OIDC nonce.");
+    }
+
+    const userInfoResponse = await fetch(discovery.userinfo_endpoint, {
+      headers: {
+        Authorization: `Bearer ${tokenPayload.access_token}`,
+      },
+      cache: "no-store",
+    });
+
+    if (!userInfoResponse.ok) {
+      throw new Error("Failed to fetch user profile from Keycloak.");
+    }
+
+    const userInfo = (await userInfoResponse.json()) as UserInfo;
+
+    if (userInfo.sub !== idTokenResult.payload.sub) {
+      throw new Error("OIDC subject mismatch between ID token and userinfo response.");
+    }
+
+    clearOidcFlowCookies(cookieStore);
+    return userInfo;
+  } catch (error) {
+    clearOidcFlowCookies(cookieStore);
+    throw error;
   }
-
-  const discovery = await discoverOidcConfiguration();
-  const tokenResponse = await fetch(discovery.token_endpoint, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded",
-    },
-    body: new URLSearchParams({
-      grant_type: "authorization_code",
-      client_id: env.KEYCLOAK_CLIENT_ID,
-      client_secret: env.KEYCLOAK_CLIENT_SECRET,
-      code,
-      code_verifier: verifier,
-      redirect_uri: getRedirectUri(),
-    }),
-  });
-
-  if (!tokenResponse.ok) {
-    throw new Error("Failed to exchange authorization code.");
-  }
-
-  const tokenPayload = (await tokenResponse.json()) as { access_token?: string; id_token?: string };
-  if (!tokenPayload.access_token || !tokenPayload.id_token) {
-    throw new Error("OIDC token response did not include the required tokens.");
-  }
-
-  const jwks = createRemoteJWKSet(new URL(discovery.jwks_uri));
-  const idTokenResult = await jwtVerify<{
-    sub: string;
-    email?: string;
-    name?: string;
-    nonce?: string;
-  }>(tokenPayload.id_token, jwks, {
-    issuer: discovery.issuer,
-    audience: env.KEYCLOAK_CLIENT_ID,
-  });
-
-  if (idTokenResult.payload.nonce !== expectedNonce) {
-    throw new Error("Invalid OIDC nonce.");
-  }
-
-  const userInfoResponse = await fetch(discovery.userinfo_endpoint, {
-    headers: {
-      Authorization: `Bearer ${tokenPayload.access_token}`,
-    },
-    cache: "no-store",
-  });
-
-  if (!userInfoResponse.ok) {
-    throw new Error("Failed to fetch user profile from Keycloak.");
-  }
-
-  cookieStore.delete(STATE_COOKIE);
-  cookieStore.delete(VERIFIER_COOKIE);
-  cookieStore.delete(NONCE_COOKIE);
-
-  const userInfo = (await userInfoResponse.json()) as UserInfo;
-
-  if (userInfo.sub !== idTokenResult.payload.sub) {
-    throw new Error("OIDC subject mismatch between ID token and userinfo response.");
-  }
-
-  return userInfo;
 }
 
 export async function consumePostLoginRedirectPath() {

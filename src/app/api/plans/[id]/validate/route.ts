@@ -4,6 +4,7 @@ import { getCatalogCourses } from "@/lib/courses/catalog";
 import { getSession } from "@/lib/auth/session";
 import { getPlanById } from "@/lib/plans/service";
 import { validateDraft } from "@/lib/planner/validation";
+import { assertSameOrigin } from "@/lib/security/request";
 
 type PlanValidateRouteProps = {
   params: Promise<{
@@ -17,6 +18,8 @@ export async function POST(_: Request, { params }: PlanValidateRouteProps) {
   if (!session) {
     return NextResponse.json({ error: "Authentication required." }, { status: 401 });
   }
+
+  await assertSameOrigin();
 
   const planId = Number((await params).id);
   if (!Number.isInteger(planId)) {
