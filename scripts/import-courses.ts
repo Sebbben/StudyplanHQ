@@ -27,7 +27,15 @@ if (!Array.isArray(rows)) {
 }
 
 const values = rows.map((row, index) => {
-  if (!row.code || !row.title || !row.credits || !row.department || !row.language || !row.level || !row.officialUrl) {
+  if (
+    !row.code ||
+    !row.title ||
+    row.credits == null ||
+    !row.department ||
+    !row.language ||
+    !row.level ||
+    !row.officialUrl
+  ) {
     throw new Error(`Row ${index + 1} is missing required fields.`);
   }
 
@@ -45,7 +53,8 @@ const values = rows.map((row, index) => {
       ? row.prerequisiteCourses
       : String(row.prerequisiteCourses ?? "").split("|").filter(Boolean),
     tags: Array.isArray(row.tags) ? row.tags : String(row.tags ?? "").split("|").filter(Boolean),
-    metadata: {},
+    metadata:
+      row.metadata && typeof row.metadata === "object" && !Array.isArray(row.metadata) ? row.metadata : {},
   };
 });
 
@@ -62,6 +71,7 @@ await db.insert(courses).values(values).onConflictDoUpdate({
     prerequisiteText: sql`excluded.prerequisite_text`,
     prerequisiteCourses: sql`excluded.prerequisite_courses`,
     tags: sql`excluded.tags`,
+    metadata: sql`excluded.metadata`,
     updatedAt: sql`now()`,
   },
 });

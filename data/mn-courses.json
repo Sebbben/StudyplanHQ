@@ -1,0 +1,387 @@
+[
+  {
+    "code": "BIOS9500",
+    "title": "Scientific Writing",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9500/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:27 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is most beneficial if you are ready to write up your study as first author."
+    }
+  },
+  {
+    "code": "ENT9601",
+    "title": "Entrepreneurship Research",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9601/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:08:05 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT9800",
+    "title": "Innovation and Intellectual Property Rights",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9800/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:41 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0501",
+    "title": "Sikkerhet og fysisk miljø",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0501/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0501/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:08",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0502",
+    "title": "Utviklende læringsmiljø",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0502/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0502/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:14",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0503",
+    "title": "Laboratoriesikkerhet",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0503/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0503/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:15",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0504",
+    "title": "Feltsikkerhet",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0504/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0504/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:16",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0505",
+    "title": "El-sikkerhet",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0505/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:17",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0506",
+    "title": "Klinikksikkerhet",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0506/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0506/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:18",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HMS0507",
+    "title": "Brannsikkerhet",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0507/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/HMS0507/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår og høst\nVår og høst.",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN-STK9000",
+    "title": "Ansvarlig datavitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK9000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:41:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kjennskap til sannsynlighetsberegning ( STK1000 – Innføring i anvendt statistikk eller STK1100 – Sannsynlighetsregning og statistisk modellering ) eller diskret matematikk, kjennskap til elementær kalkulus (differensiering, integrering) og elementære programmeringsferdigheter (Python) anbefales.\nDet er sterkt anbefalt å ha en viss kjennskap til matematisk sannsynlighetsanalyse (f.eks. STK1100), lineær algebra (f.eks. MAT1120 – Lineær algebra ) og algoritmer (f.eks. IN2010 – Algoritmer og datastrukturer )"
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "STK9900",
+    "title": "Statistical Methods and Applications",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Interdisciplinary Natural Sciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9900/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:04 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1000 – Introduction to Applied Statistics or STK1100 – Probability and Statistical Modelling or STK-FYS1110 – Probability, modeling and data analysis for the physical subjects\nAn introductory course in mathematics"
+    }
+  }
+]

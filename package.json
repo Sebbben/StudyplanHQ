@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "eslint .",
     "test": "bun test",
+    "courses:fetch-ifi": "bun run scripts/fetch-ifi-courses.ts",
+    "courses:fetch-uio": "bun run scripts/fetch-ifi-courses.ts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",

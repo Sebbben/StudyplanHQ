@@ -1,0 +1,190 @@
+[
+  {
+    "code": "NAT3000",
+    "title": "Realfaglig programmering i skolen",
+    "credits": 15,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:06:52",
+      "sourceOfferedTerms": "Undervisningen går over hele året. Semestersiden for våren blir synlig i midten av høstsemesteret. Hvis mindre enn 10 deltagere, forbeholder vi oss retten til å avlyse kurset. NB! Emnet undervises ikke studieåret 2026/27.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Vi anbefaler at du behersker grunnleggende strukturer i Python: variabler, vilkår, løkker, lister og funksjoner. Emnet tar også utgangspunkt i kjennskap til grunnleggende matematikk, slik som derivasjon og integrasjon, men bygger kun på kjennskap til definisjoner og konsepter, ikke på regneregler og regneteknikker.\nEmnet passer for både matematikklærere og lærere i naturvitenskapelige fag, og det vil bli lagt til rette for tverrfaglig arbeid og arbeid i praksisfellesskap. I emnet får du også mulighet til å jobbe med oppgaver som er tilpasset de programfagene du underviser i, som kjemi, fysikk, biologi og matematikk."
+    }
+  },
+  {
+    "code": "NAT3100V",
+    "title": "Elever med stort læringspotensial i realfag",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT3100V/",
+    "prerequisiteText": "Følgende forkunnskapskrav må dokumenteres:\ngrunnutdanning av minst 3 års varighet fra høyskole eller universitet tilsvarende en bachelor eller cand.mag.-grad\ndokumentert minimum to års undervisningserfaring fra skoleverket eller andre fullverdige skolerettede tilbud",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT3100V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:06:55",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har minimum 2 års erfaring med undervisning i skole."
+    }
+  },
+  {
+    "code": "NAT4010",
+    "title": "Naturfag 1: Energi, stoffer og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT4010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:06:58",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Undervisningserfaring fra grunnskole eller videregående skole og kjennskap til skolens naturfag"
+    }
+  },
+  {
+    "code": "NAT4020",
+    "title": "Naturfag 1: Celler, kropp og helse og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT4020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT4020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:21",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har undervisningserfaring fra grunnskole eller videregående skole og kjennskap til skolens naturfag.\nEmnet bygger på NAT4010 – Naturfag 1: Energi, stoffer og praksiser i naturfag 8-13 og forutsetter kunnskap tilsvarende dette emnet."
+    }
+  },
+  {
+    "code": "NAT4030",
+    "title": "Naturfag 2: Kjemiske reaksjoner, stråling og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:32:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "30 stp. fordypning i naturfag fra lærerutdanning, videreutdanning eller annen høyere utdanning, for eksempel Naturfag 1"
+    }
+  },
+  {
+    "code": "NAT4040",
+    "title": "Naturfag 2: Karbonforbindelser, klima, evolusjon, økologi og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har 30 studiepoeng fordypning i naturfag fra lærerutdanning, videreutdanning eller annen høyere utdanning, for eksempel Naturfag 1.\nEmnet bygger på NAT4030 – Naturfag 2: Kjemiske reaksjoner, stråling og praksiser i naturfag 8-13 og forutsetter kunnskap tilsvarende dette emnet."
+    }
+  },
+  {
+    "code": "NAT5000",
+    "title": "Naturfagdidaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT5000/",
+    "prerequisiteText": "Du må ha bestått alle disse emnene:\nPROF1015 – Profesjonsidentitet, læring og undervisning\nPROF3025 – Ledelse av elevers læring\nPROF4045 – Tilrettelegging for elevers læring\neller\nPPU3210 – PPU del 1 av 2: Undervisning og læringsforløp\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\neller andre tilsvarende emner.\nI tillegg kreves følgende disiplinære emner:\nMinimum 50 av 60 studiepoeng i lektorprogrammets 60 studiepoengs emnegruppe .\nFor å kunne delta på obligatorisk praksis er det et krav om at følgende emner må være bestått før undervisningen i NAT5000 starter:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "PPU3210",
+      "PPU3220",
+      "HMS0503",
+      "HMS0504",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NAT5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:07:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NATDID4901V",
+    "title": "Naturfagdidaktikk for lærerutdannere",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Science Education",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/natfag/NATDID4901V/",
+    "prerequisiteText": "For å ta emnet kreves generell studiekompetanse (GSK) . Du må også ha relevant master / hovedfag / tilsvarende (300 studiepoeng) innen et av naturfagene. For å kvalifisere for opptak må søker også være ansatt ved en lærerutdanningsinstitusjon, i en stilling som innebærer undervisningsoppgaver. Søknaden må vedlegges dokumentasjon på\ngenerell studiekompetanse (GSK)\nfullført mastergrad eller tilsvarende\nundervisningsstilling ved en lærerutdanningsinstitusjon\nat arbeidsgiver fullt ut vil finansiere deltakeravgiften",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/natfag/NATDID4901V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:07:05",
+      "sourceOfferedTerms": "Vår og høst\nKurset er avlyst for oppstart høsten 2025.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

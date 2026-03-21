@@ -16,7 +16,7 @@ export async function listCourses(filters: CourseFilters = {}): Promise<PlannerC
 
   if (filters.query) {
     const pattern = `%${filters.query}%`;
-    conditions.push(or(ilike(courses.code, pattern), ilike(courses.title, pattern)));
+    conditions.push(or(ilike(courses.code, pattern), ilike(courses.title, pattern), ilike(courses.department, pattern)));
   }
 
   if (filters.department) {
@@ -28,7 +28,8 @@ export async function listCourses(filters: CourseFilters = {}): Promise<PlannerC
   }
 
   const whereClause = conditions.length > 0 ? and(...conditions) : undefined;
-  const rows = await db.select().from(courses).where(whereClause).orderBy(asc(courses.code)).limit(filters.limit ?? 100);
+  const query = db.select().from(courses).where(whereClause).orderBy(asc(courses.code));
+  const rows = filters.limit ? await query.limit(filters.limit) : await query;
 
   return rows.map((row) => ({
     code: row.code,

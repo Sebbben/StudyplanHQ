@@ -1,5 +1,6 @@
 import { compareTermKeys } from "@/lib/utils/term";
 
+import { derivePrerequisiteGroups } from "@/lib/planner/prerequisites";
 import type { PlannerCourse, PlannerDraft, PlannerIssue } from "@/lib/planner/types";
 
 const MAX_RECOMMENDED_CREDITS = 30;
@@ -66,21 +67,27 @@ export function validateDraft(draft: PlannerDraft, courses: PlannerCourse[]): Pl
         continue;
       }
 
-      for (const dependencyCode of course.prerequisiteCourses) {
-        const dependencyTerms = placements.get(dependencyCode);
+      for (const dependencyGroup of derivePrerequisiteGroups(
+        course.prerequisiteText,
+        course.prerequisiteCourses,
+      )) {
+        const satisfiedTerms = dependencyGroup.flatMap((dependencyCode) => placements.get(dependencyCode) ?? []);
 
-        if (!dependencyTerms || dependencyTerms.length === 0) {
+        if (satisfiedTerms.length === 0) {
           issues.push({
             type: "prerequisite",
             severity: "warning",
             termKey: semester.termKey,
             courseCode: item.code,
-            message: `${item.code} depends on ${dependencyCode}, but ${dependencyCode} is not in the plan.`,
+            message:
+              dependencyGroup.length === 1
+                ? `${item.code} depends on ${dependencyGroup[0]}, but ${dependencyGroup[0]} is not in the plan.`
+                : `${item.code} depends on one of ${dependencyGroup.join(", ")}, but none of them are in the plan.`,
           });
           continue;
         }
 
-        const dependencySatisfied = dependencyTerms.some(
+        const dependencySatisfied = satisfiedTerms.some(
           (dependencyTerm) => compareTermKeys(dependencyTerm, semester.termKey) < 0,
         );
 
@@ -90,7 +97,10 @@ export function validateDraft(draft: PlannerDraft, courses: PlannerCourse[]): Pl
             severity: "warning",
             termKey: semester.termKey,
             courseCode: item.code,
-            message: `${item.code} depends on ${dependencyCode}, but it is planned too late or in the same semester.`,
+            message:
+              dependencyGroup.length === 1
+                ? `${item.code} depends on ${dependencyGroup[0]}, but it is planned too late or in the same semester.`
+                : `${item.code} depends on one of ${dependencyGroup.join(", ")}, but the planned option is too late or in the same semester.`,
           });
         }
       }

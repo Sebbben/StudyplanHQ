@@ -1,5 +1,6 @@
 import {
   boolean,
+  doublePrecision,
   integer,
   jsonb,
   pgTable,
@@ -26,7 +27,7 @@ export const users = pgTable(
 export const courses = pgTable("courses", {
   code: text("code").primaryKey(),
   title: text("title").notNull(),
-  credits: integer("credits").notNull(),
+  credits: doublePrecision("credits").notNull(),
   offeredTerms: text("offered_terms").array().notNull().default([]),
   language: text("language").notNull(),
   level: text("level").notNull(),

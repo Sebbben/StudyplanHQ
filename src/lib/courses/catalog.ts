@@ -23,7 +23,7 @@ export async function getCatalogCourses(filters?: Parameters<typeof listCourses>
 
         return true;
       })
-      .slice(0, filters?.limit ?? 100)
+      .slice(0, filters?.limit)
       .map((course) => ({ ...course }));
   }
 }

@@ -1,0 +1,5156 @@
+[
+  {
+    "code": "FINF1001",
+    "title": "Digital forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF1001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:41",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FINF4010",
+    "title": "Tverrfaglige perspektiver på digital forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:42",
+      "sourceOfferedTerms": "Vår og høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått emne JUROFF1201 – Introduksjon i forvaltningsrett og FINF1001 – Digital forvaltning"
+    }
+  },
+  {
+    "code": "FINF4011",
+    "title": "Digital teknologi i offentlig forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:42",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført emne FINF1001 – Digital forvaltning ,"
+    }
+  },
+  {
+    "code": "FINF4012",
+    "title": "Rettslig regulering av personvern og digital forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4012/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:42",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått emne JUROFF1201 – Introduksjon i forvaltningsrett og FINF1001 – Digital forvaltning"
+    }
+  },
+  {
+    "code": "FINF4022",
+    "title": "Forskningsmetoder innen forvaltningsinformatikken",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4022/",
+    "prerequisiteText": "Bestått emne FINF4011 – Digital teknologi i offentlig forvaltning og FINF4012 – Rettslig regulering av personvern og digital forvaltning eller tilsvarende",
+    "prerequisiteCourses": [
+      "FINF4011",
+      "FINF4012"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4022/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:46",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FINF4031",
+    "title": "Individuell semesteroppgave og forberedelse av masteroppgave",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4031/",
+    "prerequisiteText": "Bestått emne FINF4010 – Tverrfaglige perspektiver på digital forvaltning , FINF4011 – Digital teknologi i offentlig forvaltning , FINF4012 – Rettslig regulering av personvern og digital forvaltning , FINF4021 – Digitalisering av rettsregler (videreført) og FINF4022 – Forskningsmetoder innen forvaltningsinformatikken eller tilsvarende",
+    "prerequisiteCourses": [
+      "FINF4010",
+      "FINF4011",
+      "FINF4012",
+      "FINF4021",
+      "FINF4022"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF4031/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FINF4110",
+    "title": "Digitalisering i offentlig forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:43",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått JUROFF1201 – Introduksjon i forvaltningsrett og FINF1001 – Digital forvaltning"
+    }
+  },
+  {
+    "code": "FINF4111",
+    "title": "Digitalisering i praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4111/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:44",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått JUROFF1201 – Introduksjon i forvaltningsrett og FINF1001 – Digital forvaltning JUROFF1201 - Introduksjon i forvaltningsrett og FINF1001 - Digital forvaltning\nStudenter på Master i forvaltningsinformatikk, skal følge FINF4110 – Digitalisering i offentlig forvaltning Digitalisering i offentlig forvaltning og FINF4112 – Norsk personvernrett og GDPR Norsk personvernrett og GDPR i samme semester som de tar FINF4111 Digitalisering i praksis. Det er anbefalt at også andre studenter enten har eksamen i ett eller to av disse fagene, eller følger ett eller to av fagene parallelt med FINF4111 – Digitalisering i praksis ."
+    }
+  },
+  {
+    "code": "FINF4112",
+    "title": "Norsk personvernrett og GDPR",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4112/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4112/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:45",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått JUROFF1201 – Introduksjon i forvaltningsrett og FINF1001 – Digital forvaltning"
+    }
+  },
+  {
+    "code": "FINF4121",
+    "title": "Digitalisering av rettsregler",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4121/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4121/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått emne JUROFF1201, FINF1001 og JUR1630 eller tilsvarende"
+    }
+  },
+  {
+    "code": "FINF4131",
+    "title": "Forvaltningsinformatisk prosjekt",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4131/",
+    "prerequisiteText": "Emnet bygger på emnene FINF4110, FINF4111 og FINF4112, og forutsetter at eksamen i disse emne er bestått. Dersom særlige grunner foreligger, kan programleder dispensere fra dette kravet og godkjenne deltakelse med kun 2 av de nevnte FINF-emnene.",
+    "prerequisiteCourses": [
+      "FINF4110",
+      "FINF4111",
+      "FINF4112"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/FINF4131/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FINF5002",
+    "title": "Masteroppgave i forvaltningsinformatikk",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/afin/FINF5002/",
+    "prerequisiteText": "Alle øvrige deler av Forvaltningsinformatikk (master) skal være gjennomført før arbeidet med masteroppgaven begynner. Etter søknad til AFIN kan det gis tillatelse til at masterarbeidet påbegynnes selv om ett semi-obligatorisk emne eller valgfritt emne gjenstår.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/afin/FINF5002/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR4504",
+    "title": "Human Rights in Practice",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR4504/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR4504/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:53 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR4510",
+    "title": "Human rights, Politics, and Legitimacy",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR4510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR4510/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Thise course is discontinued.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5131",
+    "title": "Human Rights in History, Philosophy and Politics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5131/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5131/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:55 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students with no background in human rights studies are strongly advised to prepare in advance the recommended readings."
+    }
+  },
+  {
+    "code": "HUMR5132",
+    "title": "Human Rights Law in Context",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5132/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5132/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:57 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5133",
+    "title": "Business and Human Rights",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5133/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5133/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:59 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5140",
+    "title": "Human rights in international and national law",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5140/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:01 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5145",
+    "title": "Human Rights in Asia",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Unknown",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5145/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5145/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2019",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students should have basic knowledge about international human rights, as well as some knowledge about Asia as a region."
+    }
+  },
+  {
+    "code": "HUMR5150",
+    "title": "The Philosophy of Human Rights",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5150/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:02 PM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students with no background in human rights studies are strongly advised to read the introductory readings."
+    }
+  },
+  {
+    "code": "HUMR5191",
+    "title": "Human Rights Methodology: Research, Analysis and Thesis Preparation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5191/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5191/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:04 PM",
+      "sourceOfferedTerms": "Spring and autumn\nEvery autumn starting 2020\nEvery autumn starting 2020",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5200",
+    "title": "Thesis in The Theory and Practice of Human Rights",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5200/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:07 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5260",
+    "title": "Thesis in The Theory and Practice of Human Rights",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5260/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:08 PM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HUMR5502",
+    "title": "Dealing with Diversity: Human Rights Approaches to Ethnic Conflict",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5502/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5502/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:11 PM",
+      "sourceOfferedTerms": "Spring\nThis course has been discontinued.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students with no background in human rights studies are strongly advised to prepare in advance the recommended readings."
+    }
+  },
+  {
+    "code": "HUMR5508",
+    "title": "Human Rights and Diversity - Leading Cases and Core Dilemmas",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5508/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5508/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:13 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "Introductory course in human rights."
+    }
+  },
+  {
+    "code": "HUMR5702",
+    "title": "Human Rights and Sustainable Development: Interdisciplinary Perspectives on Theory and Practices",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5702/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/HUMR5702/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:15 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "Participants should have a general command of the subject matter studied in the first semester courses of the Master of Philosophy program in the Theory and Practice of Human Rights"
+    }
+  },
+  {
+    "code": "ICTL5060",
+    "title": "Master thesis",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/ICTL5060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/ICTL5060/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:50 PM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ICTLTHESIS",
+    "title": "Master Thesis",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/ICTLTHESIS/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/ICTLTHESIS/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:53 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFEXFAC04",
+    "title": "Examen facultatum, rettsvitenskapelig variant",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFEXFAC04/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFEXFAC04/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:56",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFSPR1211",
+    "title": "Fransk for jurister",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Fransk",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR1211/",
+    "prerequisiteText": "Det kreves språkkunnskaper i fransk på nivå med B- eller C-språk. Hvis det er tvil om kravet er oppfylt, innhentes uttalelser fra vedkommende lærer/ansvarlige språkmiljø.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR1211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:58",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Fransk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFSPR1311",
+    "title": "Tysk for jurister",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Tysk",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR1311/",
+    "prerequisiteText": "Det kreves språkkunnskaper i tysk på nivå med B- eller C-språk. Hvis det er tvil om kravet er oppfylt, innhentes uttalelser fra vedkommende lærer/ansvarlige språkmiljø.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR1311/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:00",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Tysk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFSPR5211",
+    "title": "Fransk for jurister",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Fransk",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR5211/",
+    "prerequisiteText": "Det kreves språkkunnskaper i fransk på nivå med B- eller C-språk. Hvis det er tvil om kravet er oppfylt, innhentes uttalelser fra vedkommende lærer/ansvarlige språkmiljø.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR5211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:02",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Fransk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFSPR5311",
+    "title": "Tysk for jurister",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Tysk",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR5311/",
+    "prerequisiteText": "Det kreves språkkunnskaper i tysk på nivå med B- eller C-språk. Hvis det er tvil om kravet er oppfylt, innhentes uttalelser fra vedkommende lærer/ansvarlige språkmiljø.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFSPR5311/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:04",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Tysk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFVU1100",
+    "title": "Retten og den digitale velferdsstaten",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFVU1100/",
+    "prerequisiteText": "Se avsnittet om opptak og adgangsregulering",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFVU1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:05",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JFVU1300",
+    "title": "Arbeidsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JFVU1300/",
+    "prerequisiteText": "Se avsnittet om opptak og adgangsregulering",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JFVU1300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:03",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR1070",
+    "title": "Forhandlinger",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1070/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:09",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR1120",
+    "title": "Utlendingsrett (fremmedrett) (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1120/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:05",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på master-nivå. Imidlertid er læringsmål på dette emnet justert for studenter på bachelor-nivå."
+    }
+  },
+  {
+    "code": "JUR1130",
+    "title": "Demokrati og rettsstat: krise og krig",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1130/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Faget er primært beregnet på jusstudenter, og noe kjennskap til juridisk metode forutsettes for å forstå faget.\nMerk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1220",
+    "title": "Bygge- og entrepriserett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1220/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:13",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på master-nivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelor-nivå."
+    }
+  },
+  {
+    "code": "JUR1230",
+    "title": "International Commercial Law: contracts, applicable law and arbitration",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1230/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:06 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1280",
+    "title": "Internasjonal privatrett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1280/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:17",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR1285",
+    "title": "Innføring i markeds-, konkurranse- og immaterialrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1285/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1285/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:19",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kjennskap til juridisk metode."
+    }
+  },
+  {
+    "code": "JUR1310",
+    "title": "EU Competition Law (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:21 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level.\nHowever, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1412",
+    "title": "Energy Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1412/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1412/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:06 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1430",
+    "title": "Tilvirkningskontrakter (dynamisk kontraktsrett)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1430/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:25",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på master-nivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelor-nivå."
+    }
+  },
+  {
+    "code": "JUR1435",
+    "title": "Bærekraftig arealforvaltning: plan- og bygningsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1435/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1435/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Faget er primært beregnet på jusstudenter, og noe kjennskap til juridisk metode forutsettes for å forstå faget.\nMerk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1441",
+    "title": "EU External Relations Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1441/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1441/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:07 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1450",
+    "title": "Marine Insurance (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:31 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level.\nHowever, the achievement requirements are adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1504",
+    "title": "Konflikthåndtering (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1504/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1504/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1511",
+    "title": "Individuell arbeidsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1511/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1511/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:35",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1512",
+    "title": "Kollektiv arbeidsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1512/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1512/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:37",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1520",
+    "title": "International Environmental Law and Sustainability",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1520/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:39 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level. However, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1525",
+    "title": "Sustainable Business, Finance & Circular Economy",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1525/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1525/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:41 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level.\nHowever, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1528",
+    "title": "Corporate Sustainability Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1528/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1528/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:43 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1528C",
+    "title": "Corporate Sustainability Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1528C/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1528C/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:09 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1530",
+    "title": "Refugee and Asylum Law (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:09 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1550",
+    "title": "Helserett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1550/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1550/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:46",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1565",
+    "title": "EU Constitutional Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1565/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1565/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:09 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1580",
+    "title": "Kommunalrett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:50",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1590",
+    "title": "Likestillings- og diskrimineringsrett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1590/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:52",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1630",
+    "title": "Privacy and Data Protection",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1630/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:54 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level. However, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1671",
+    "title": "Legal Technology: Artificial Intelligence and Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1671/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1671/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:44:56 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended that students have a general understanding of information and communications technology (ICT) law and that students combine this course with other courses focusing on ICT Law.\nPlease note that lectures and curriculum for this course is aimed at students at master degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor degree Level."
+    }
+  },
+  {
+    "code": "JUR1710",
+    "title": "International Human Rights Law: Institutions and Procedures (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUR1710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUR1710/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:17 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level. However, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1730",
+    "title": "International Humanitarian Law (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUR1730/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUR1730/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:19 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level.\nHowever, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1820",
+    "title": "Patent- og varemerkerett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1820/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1820/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:44:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på master-nivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelor-nivå."
+    }
+  },
+  {
+    "code": "JUR1880",
+    "title": "Financial Market Law and Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1880/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1880/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:45:00 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level. However, the learning outcome is adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1910",
+    "title": "Women's Law and Human Rights (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1910/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1910/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:10 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1911",
+    "title": "International Climate Change Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1911/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1911/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2027",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course is aimed at students at master degree level.\nHowever, the achievement requirements are adjusted for students who take the subject at bachelor degree level."
+    }
+  },
+  {
+    "code": "JUR1932",
+    "title": "Law of Obligations in a Comparative-Historical Perspective",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1932/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1932/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:45:03 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Please note that lectures and curriculum for this course are aimed at students at master’s degree level. However, the achievement requirements are adjusted for students who take the subject at bachelor’s degree level."
+    }
+  },
+  {
+    "code": "JUR1960",
+    "title": "Trygderett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1960/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:06",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Merk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1970",
+    "title": "Barnerett (BA)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1970/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1970/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:08",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Faget er primært beregnet på jusstudenter, og noe kjennskap til juridisk metode forutsettes for å forstå faget. Praktisk erfaring fra rettsanvendelse, f.eks. fra barnevernet, kan i noen grad veie opp for dette.\nMerk at undervisning og pensum er utarbeidet for emnet på masternivå. Imidlertid er læringskrav på dette emnet justert for studenter på bachelornivå."
+    }
+  },
+  {
+    "code": "JUR1981",
+    "title": "Grunnleggende skatterett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1981/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR1981/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:10",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Første studieår av studieprogrammet Rettsvitenskap (jus) (master) ."
+    }
+  },
+  {
+    "code": "JUR5030",
+    "title": "Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR5030/",
+    "prerequisiteText": "Bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse)",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR5030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:13",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR5060",
+    "title": "Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR5060/",
+    "prerequisiteText": "Bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse)",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR5060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:16",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9010",
+    "title": "Vitenskapsfilosofi, vitenskapsteori og metode",
+    "credits": 4,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Ph.d.",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:10",
+      "sourceOfferedTerms": "Vår\nSe avsnitt om eksamen",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9021",
+    "title": "Internationalization, transnational Law and Comparison",
+    "credits": 4,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9021/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9021/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:11 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9031",
+    "title": "Perspectives on legal history, sociology of law and law & economics",
+    "credits": 4,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "PhD",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9031/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9031/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:45:21 PM",
+      "sourceOfferedTerms": "Autumn\nThe subject is taught in Norwegian in odd-numbered years",
+      "sourceLanguage": "Norwegian",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9041",
+    "title": "Research ethics, academic writing and dissemination of research",
+    "credits": 4,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9041/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9041/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:45:23 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9201",
+    "title": "Nasjonalt doktorgradsseminar 1",
+    "credits": 1,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9201/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9202",
+    "title": "Nasjonalt doktorgradsseminar 2",
+    "credits": 1,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9202/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9202/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:12",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9302",
+    "title": "Skriftlig arbeid og forskningspublisering",
+    "credits": 7,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9302/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9302/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:14",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUR9503",
+    "title": "Internasjonale seminarer i rettsvitenskap",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9503/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUR9503/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUROFF1000",
+    "title": "Innføring i juss",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:31",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUROFF1201",
+    "title": "Introduksjon i forvaltningsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1201/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Ingen forutsetninger. Emnet er åpent for studenter med forskjellig bakgrunn."
+    }
+  },
+  {
+    "code": "JUROFF1410",
+    "title": "Folkerett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1410/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:35",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUROFF1500",
+    "title": "Strafferett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1500/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUROFF1500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:37",
+      "sourceOfferedTerms": "Høst\nHøst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS1111",
+    "title": "Privatrett I",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS1111/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS1111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:14",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS1211",
+    "title": "Privatrett II",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS1211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS1211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:15",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS1111 – Privatrett I"
+    }
+  },
+  {
+    "code": "JUS2111",
+    "title": "Statsforfatningsrett, folkerett og menneskerettigheter",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS2111/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I",
+    "prerequisiteCourses": [
+      "JUS1111"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS2111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:47",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS1211 – Privatrett II"
+    }
+  },
+  {
+    "code": "JUS2211",
+    "title": "Forvaltningsrett og EØS-rett",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS2211/",
+    "prerequisiteText": "Bestått EXPHIL03 – Examen philosophicum\nBestått JUS1111 – Privatrett I og JUS1211 – Privatrett II",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS2211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:50",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant"
+    }
+  },
+  {
+    "code": "JUS3112",
+    "title": "Formuerett I",
+    "credits": 22,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3112/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUS2111"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3112/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:15",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS2211 – Forvaltningsrett og EØS-rett"
+    }
+  },
+  {
+    "code": "JUS3213",
+    "title": "Formuerett II",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3213/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 - Examen philosophicum.\nBestått eksamen i JUS1111 - Privatrett I og JUS1211 - Privatrett II .\nBestått eksamen i JFEXFAC04 - Examen facultatum - rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4).\nBestått eksamen i JUS2111 - Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 - Forvaltningsrett og EØS-rett .",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUS2111",
+      "JUS2211"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3213/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:16",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS3112 – Formuerett I\nGjennomført JUS3220 – Rettshistorie"
+    }
+  },
+  {
+    "code": "JUS3220",
+    "title": "Rettshistorie",
+    "credits": 8,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3220/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 - Examen philosophicum\nBestått eksamen i JUS1111 - Privatrett I og JUS1211 - Privatrett II (alternativt bestått eksamen i JUR1000 - 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 - Examen facultatum - rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 - Statsforfatningsrett, folkerett og menneskerettigheter (alternativt bestått eksamen i JUR2000 - 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUR2000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS3220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:45:58",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS2211 – Forvaltningsrett og EØS-rett"
+    }
+  },
+  {
+    "code": "JUS4011",
+    "title": "Praksisarbeid: Juridisk rådgivning for kvinner (JURK)",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:00",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS4012",
+    "title": "Praksisarbeid: Jussbuss",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4012/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:01",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS4111",
+    "title": "Metode og etikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4111/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett\nBestått eksamen i JUS3112 – Formuerett I , JUS3220 – Rettshistorie , JUS3213 – Formuerett II og valgemne på bachelornivå fra 3. studieår i jusstudiet",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUS2111",
+      "JUS2211",
+      "JUS3112",
+      "JUS3220",
+      "JUS3213"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:16",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS4212 – Sivilprosess og JUS4213 – Strafferett og straffeprosess eller JUS4211 – Prosess og strafferett (nedlagt)"
+    }
+  },
+  {
+    "code": "JUS4121",
+    "title": "Rettsøkonomi 1",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4121/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II (alternativt bestått eksamen i JUR1000 – 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett (alternativt bestått eksamen i JUR2000 – 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR2000P – Privatisteksamen i 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JUS3112 – Formuerett I , JUS3220 – Rettshistorie , JUS3213 – Formuerett II og valgemne på bachelornivå fra 3. studieår i jusstudiet (alternativt bestått eksamen i JUR3000 – 3. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR3000P – Privatisteksamen i 3.avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUS2211",
+      "JUR2000",
+      "JUR2000P",
+      "JUS3112",
+      "JUS3220",
+      "JUS3213",
+      "JUR3000",
+      "JUR3000P"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4121/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:17",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS4212 – Sivilprosess , JUS4213 – Strafferett og straffeprosess eller JUS4211 – Prosess og strafferett (nedlagt)"
+    }
+  },
+  {
+    "code": "JUS4122",
+    "title": "Rettssosiologi 1",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4122/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II (alternativt bestått eksamen i JUR1000 – 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett (alternativt bestått eksamen i JUR2000 – 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR2000P – Privatisteksamen i 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JUS3112 – Formuerett I , JUS3220 – Rettshistorie , JUS3213 – Formuerett II og valgemne på bachelornivå fra 3. studieår i jusstudiet (alternativt bestått eksamen i JUR3000 – 3. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR3000P – Privatisteksamen i 3.avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUS2211",
+      "JUR2000",
+      "JUR2000P",
+      "JUS3112",
+      "JUS3220",
+      "JUS3213",
+      "JUR3000",
+      "JUR3000P"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4122/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:17",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS4212 – Sivilprosess og JUS4213 – Strafferett og straffeprosess . (Alternativt JUS4211 – Prosess og strafferett (nedlagt) )"
+    }
+  },
+  {
+    "code": "JUS4123",
+    "title": "Rettsfilosofi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4123/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II (alternativt bestått eksamen i JUR1000 – 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett (alternativt bestått eksamen i JUR2000 – 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR2000P – Privatisteksamen i 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JUS3112 – Formuerett I , JUS3220 – Rettshistorie , JUS3213 – Formuerett II og valgemne på bachelornivå fra 3. studieår i jusstudiet (alternativt bestått eksamen i JUR3000 – 3. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR3000P – Privatisteksamen i 3.avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUS2211",
+      "JUR2000",
+      "JUR2000P",
+      "JUS3112",
+      "JUS3220",
+      "JUS3213",
+      "JUR3000",
+      "JUR3000P"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4123/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:18",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS4212 – Sivilprosess , JUS4213 – Strafferett og straffeprosess eller JUS4211 – Prosess og strafferett (nedlagt)"
+    }
+  },
+  {
+    "code": "JUS4212",
+    "title": "Sivilprosess",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4212/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II (alternativt bestått eksamen i JUR1000 – 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett (alternativt bestått eksamen i JUR2000 – 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR2000P – Privatisteksamen i 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JUS3112 – Formuerett I og JUS3220 – Rettshistorie (alternativt bestått eksamen i JUR3000 – 3. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR3000P – Privatisteksamen i 3.avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUS2211",
+      "JUR2000",
+      "JUR2000P",
+      "JUS3112",
+      "JUS3220",
+      "JUR3000",
+      "JUR3000P"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4212/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:18",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS3213 – Formuerett II og valgemne fra 3. studieår i jusstudiet"
+    }
+  },
+  {
+    "code": "JUS4213",
+    "title": "Strafferett og straffeprosess",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4213/",
+    "prerequisiteText": "Bestått eksamen i EXPHIL03 – Examen philosophicum\nBestått eksamen i JUS1111 – Privatrett I og JUS1211 – Privatrett II (alternativt bestått eksamen i JUR1000 – 1. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JFEXFAC04 – Examen facultatum, rettsvitenskapelig variant (se også forskrift om studier og eksamener ved Universitetet i Oslo § 3.6 nr.4)\nBestått eksamen i JUS2111 – Statsforfatningsrett, folkerett og menneskerettigheter og JUS2211 – Forvaltningsrett og EØS-rett (alternativt bestått eksamen i JUR2000 – 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR2000P – Privatisteksamen i 2. avdeling, masterstudiet i rettsvitenskap (nedlagt) )\nBestått eksamen i JUS3112 – Formuerett I og JUS3220 – Rettshistorie (alternativt bestått eksamen i JUR3000 – 3. avdeling, masterstudiet i rettsvitenskap (nedlagt) eller JUR3000P – Privatisteksamen i 3.avdeling, masterstudiet i rettsvitenskap (nedlagt) )",
+    "prerequisiteCourses": [
+      "JUS1111",
+      "JUS1211",
+      "JUR1000",
+      "JUS2111",
+      "JUS2211",
+      "JUR2000",
+      "JUR2000P",
+      "JUS3112",
+      "JUS3220",
+      "JUR3000",
+      "JUR3000P"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS4213/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:18",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gjennomført JUS3213 – Formuerett II , valgemne fra 3. studieår i jusstudiet og JUS4212 – Sivilprosess"
+    }
+  },
+  {
+    "code": "JUS5010",
+    "title": "Juridisk praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5010/",
+    "prerequisiteText": "Bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) og obligatorisk etikkurs som inngår i emnet:JUS4111 må gjennomføres og godkjennes senest samme semester som du deltar på praksisordningen",
+    "prerequisiteCourses": [
+      "JUS4111"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:19",
+      "sourceOfferedTerms": "Vår og høst\nHvert semester",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5011",
+    "title": "Juridisk praksis: Juridisk rådgivning for kvinner",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5011/",
+    "prerequisiteText": "Det er krav om bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller tilsvarende) for å få rapporten vurdert og godkjent, men dette er ikke er krav for å få jobb i JURK.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:22",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5012",
+    "title": "Juridisk praksis: Jusstudentenes rettshjelpsarbeid",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5012/",
+    "prerequisiteText": "Det er krav om bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller tilsvarende) for å få rapporten vurdert og godkjent, men dette er ikke er krav for å få jobb i Juss-Buss.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5012/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:25",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5020",
+    "title": "Praksis i utlandet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5020/",
+    "prerequisiteText": "Bestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse)\nOBS: Merk påmeldingsfristen, se avsnittet om opptak og adgangsregulering.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5020/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5042",
+    "title": "Moot Court",
+    "credits": 20,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5042/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5042/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:46:28 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5043",
+    "title": "Prosedyre",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5043/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5043/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5061",
+    "title": "Domstolar og domsskriving",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5061/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5061/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:32",
+      "sourceOfferedTerms": "Haust\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5070",
+    "title": "Forhandlinger",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5070/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:34",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5080",
+    "title": "Data Science for Lawyers",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5080/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:46:36 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5120",
+    "title": "Utlendingsrett (fremmedrett)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:19",
+      "sourceOfferedTerms": "Vår\nHver vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5130",
+    "title": "Demokrati og rettsstat: krise og krig",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:40",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5134",
+    "title": "International Law of Peace",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5134/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5134/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:40:45 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Prior knowledge of international law and/or human rights is helpful but not required."
+    }
+  },
+  {
+    "code": "JUS5220",
+    "title": "Bygge- og entrepriserett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:42",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5230",
+    "title": "International Commercial Law: contracts, applicable law and arbitration",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5230/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:20 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5251",
+    "title": "Eiendomsrett og ekspropriasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5251/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5251/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:46",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5280",
+    "title": "Internasjonal privatrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5280/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:48",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5310",
+    "title": "EU Competition Law",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:46:50 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5320",
+    "title": "EØS-rett: næringsliv og arbeidsrett i EUs indre marked",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5406",
+    "title": "Maritime Law",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5406/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5406/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:46:54 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5412",
+    "title": "Energy Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5412/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5412/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:20 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5420",
+    "title": "Forsikringsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:46:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5425",
+    "title": "Ressurs- og konsesjonsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5425/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5425/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:00",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5430",
+    "title": "Tilvirkningskontrakter (dynamisk kontraktsrett)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5430/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5435",
+    "title": "Bærekraftig arealforvaltning: plan- og bygningsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5435/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5435/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:04",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5441",
+    "title": "EU External Relations Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5441/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5441/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:21 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5450",
+    "title": "Marine Insurance",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:08 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Three years of law studies."
+    }
+  },
+  {
+    "code": "JUS5501",
+    "title": "Rettslig bevisteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5501/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.\nI tillegg må du ha bestått minst ett av følgende alternativer:\nEksamen i JUS4213 – Strafferett og straffeprosess (dette alternativet anbefales)\nEksamen i JUS4212 – Sivilprosess\nEksamen i JUS4211 – Prosess og strafferett (nedlagt)\nEksamen i JUR4000 – 4. avdeling, masterstudiet i rettsvitenskap (nedlagt)",
+    "prerequisiteCourses": [
+      "JUS4213",
+      "JUS4212",
+      "JUS4211",
+      "JUR4000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5501/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:10",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått eksamen i JUS4111 – Metode og etikk"
+    }
+  },
+  {
+    "code": "JUS5502",
+    "title": "Lovgivningslære (Lovlab)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5502/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5502/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:12",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5503",
+    "title": "Human Rights and Counter-Terrorism: Striking a Balance?",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5503/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5503/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:20 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "An understanding of international law, the substance of individual human rights, and structures of major international organizations are recommended. This is an advanced course that builds upon these foundational elements."
+    }
+  },
+  {
+    "code": "JUS5504",
+    "title": "Konflikthåndtering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5504/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5504/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5506",
+    "title": "Politi- og påtalerett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5506/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet. Masterstudenter fra Politihøyskolen er unntatt fra forkunnskapskravene.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5506/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:16",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5507",
+    "title": "Juss og kritikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5507/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5507/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:18",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5511",
+    "title": "Individuell arbeidsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5511/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5511/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:20",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5512",
+    "title": "Kollektiv arbeidsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5512/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5512/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:22",
+      "sourceOfferedTerms": "Vår\nHver vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5520",
+    "title": "International Environmental Law and Sustainability",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5520/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:24 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Prior knowledge of international law."
+    }
+  },
+  {
+    "code": "JUS5525",
+    "title": "Sustainable Business, Finance & Circular Economy",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5525/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5525/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:26 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5528",
+    "title": "Corporate Sustainability Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5528/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5528/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:28 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5530",
+    "title": "Refugee and Asylum Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:21 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5540",
+    "title": "Public International Law",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5540/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:32 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5550",
+    "title": "Helserett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5550/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5550/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:34",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5565",
+    "title": "EU Constitutional Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5565/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5565/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:21 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5570",
+    "title": "International Criminal Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5570/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:22 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students should have prior knowledge of international law and national criminal law."
+    }
+  },
+  {
+    "code": "JUS5580",
+    "title": "Kommunalrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5580/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:39",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5590",
+    "title": "Likestillings- og diskrimineringrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5590/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:41",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5630",
+    "title": "Privacy and Data Protection",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5630/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:43 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5645",
+    "title": "Data Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5645/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5645/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:45 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5645N",
+    "title": "Datarett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5645N/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5645N/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5650",
+    "title": "Cybersecurity Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5650/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5650/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:49 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Three years of law studies. In addition, it is recommended that students have a general understanding of information and communications technology (ICT) law. It is recommended that students combine this course with other courses focusing on ICT law."
+    }
+  },
+  {
+    "code": "JUS5671",
+    "title": "Legal Technology: Artificial Intelligence and Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5671/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5671/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:51 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended that students have a general understanding of information and communications technology (ICT) law and that students combine this course with other courses focusing on ICT Law."
+    }
+  },
+  {
+    "code": "JUS5680",
+    "title": "Transnational Platform Governance",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5680/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5680/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:22 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5690",
+    "title": "Robot Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5690/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5690/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:24 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "In addition, it is recommended that students have a general understanding of information and communications technology (ICT) law. It is recommended that students combine this course with other courses focusing on ICT Law."
+    }
+  },
+  {
+    "code": "JUS5710",
+    "title": "International Human Rights Law: Institutions and Procedures",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5710/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:22 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5730",
+    "title": "International Humanitarian Law (The Law of Armed Conflict)",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5730/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/humanrights/JUS5730/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:24 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5810",
+    "title": "Opphavsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5810/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:27",
+      "sourceOfferedTerms": "Høst\nHøst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5815",
+    "title": "Transaksjonsrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5815/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5815/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:53",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5818",
+    "title": "Insolvensrett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5818/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5818/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:53",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier og JUS3213 – Formuerett II"
+    }
+  },
+  {
+    "code": "JUS5820",
+    "title": "Patent- og varemerkerett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5820/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5820/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:54",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier.\nEksamen i JUR1285 – Innføring i markeds-, konkurranse- og immaterialrett"
+    }
+  },
+  {
+    "code": "JUS5850",
+    "title": "International Trade Law",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5850/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5850/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:34 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students are expected to have prior knowledge of international law and some general knowledge of international trade law."
+    }
+  },
+  {
+    "code": "JUS5851",
+    "title": "International Investment Law & Arbitration",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5851/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5851/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:54 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students are expected to have basic knowledge of international law."
+    }
+  },
+  {
+    "code": "JUS5880",
+    "title": "Financial Market Law and Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5880/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5880/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:38 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5910",
+    "title": "Women's Law and Human Rights",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5910/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5910/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:40 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5911",
+    "title": "International Climate Change Law",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5911/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5911/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:42 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students are expected to have prior knowledge of public international law."
+    }
+  },
+  {
+    "code": "JUS5932",
+    "title": "Law of Obligations in a Comparative-Historical Perspective",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5932/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5932/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:54 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5940",
+    "title": "Offentlige anskaffelser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5940/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5940/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:45",
+      "sourceOfferedTerms": "Høst\nHøst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "JUS5960",
+    "title": "Trygderett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5970",
+    "title": "Barnerett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5970/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5970/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5981",
+    "title": "Grunnleggende skatterett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5981/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5981/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst tre års jusstudier."
+    }
+  },
+  {
+    "code": "JUS5983",
+    "title": "Selskapsskatterett og internasjonal skatterett",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5983/",
+    "prerequisiteText": "Studenter må fylle ett av disse kravene :\nBestått 1. - 3. studieår i masterstudiet i rettsvitenskap (eller eksamener som kvalifiserer for fritak for disse) eller\nFullført masterstudium i rettsvitenskap ved UiO (profesjonsstudium) eller tilsvarende.\nDu er unntatt fra forkunnskapskravene hvis du har opptak til et annet masterprogram ved UiO der juridiske valgemner er integrert i studieprogrammet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/JUS5983/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:17:52",
+      "sourceOfferedTerms": "Høst\nHver høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Der det forutsettes selskapsrettslig eller regnskapsrettslig kunnskap, er det nødvendige forsøkt tatt med i læremidlene.\nDet er ingen formelle krav til forkunnskaper, men faget bygger videre på Skatterett I Grunnleggende skatterett."
+    }
+  },
+  {
+    "code": "KRIM1100",
+    "title": "Innføring i kriminologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1100/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM1300",
+    "title": "Sosial kontroll",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:29",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2026",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KRIM1100 – Innføring i kriminologi eller tilsvarende"
+    }
+  },
+  {
+    "code": "KRIM1500",
+    "title": "Lovbrudd, lovbrytere og ofre",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM1500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:32",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KRIM1100 – Innføring i kriminologi eller tilsvarende"
+    }
+  },
+  {
+    "code": "KRIM2000",
+    "title": "Sentrale teoretiske perspektiver",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2000/",
+    "prerequisiteText": "Emnet forutsetter grunnleggende kunnskaper i kriminologi. Søkere til emnet må ha bestått eksamen i KRIM1100 – Innføring i kriminologi , KRIM1500 – Lovbrudd, lovbrytere og ofre og KRIM1300 – Sosial kontroll eller tilsvarende, og minst ha 40 studiepoeng i andre emner.",
+    "prerequisiteCourses": [
+      "KRIM1100",
+      "KRIM1500",
+      "KRIM1300"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:34",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2101",
+    "title": "Fordypningsoppgave i kriminologi",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2101/",
+    "prerequisiteText": "Opptak forutsetter at man har bestått emnene KRIM1100 – Innføring i kriminologi , KRIM1500 – Lovbrudd, lovbrytere og ofre , KRIM1300 – Sosial kontroll og KRIM2000 – Sentrale teoretiske perspektiver eller tilsvarende.\nDet er tilsvarende krav om at man har bestått emnene SOSGEO1120 – Kvantitativ metode og SVMET1010 – Kvalitative metoder .",
+    "prerequisiteCourses": [
+      "KRIM1100",
+      "KRIM1500",
+      "KRIM1300",
+      "KRIM2000",
+      "SOSGEO1120",
+      "SVMET1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2101/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:37",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2904",
+    "title": "Fengsler, fanger, samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2904/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2904/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:39",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2920",
+    "title": "Grønn (øko-global) kriminologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2920/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2920/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2017",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2921",
+    "title": "Politi og samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2921/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2921/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2952",
+    "title": "A criminology of globalization",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2952/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2952/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:43 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2953",
+    "title": "Criminological and Socio-legal Perspectives on Sexual Violence",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2953/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2953/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:45 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge of gender and crime is recommended."
+    }
+  },
+  {
+    "code": "KRIM2954",
+    "title": "Cultural and Narrative Criminology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2954/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2954/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2956",
+    "title": "International Criminal Justice and Mass Violence",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2956/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2956/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:48 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2957",
+    "title": "Surveillance: Data, technologies, practices",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2957/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2957/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:50 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2960",
+    "title": "Green Criminology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2960/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:52 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2961",
+    "title": "Kriminalitetsforebygging",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2961/",
+    "prerequisiteText": "Ingen forkunnskaper",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2961/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2962",
+    "title": "The Sociology of Legal and Illegal Drug Use",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2962/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2962/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:53 PM",
+      "sourceOfferedTerms": "Spring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2963",
+    "title": "Crime and Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2963/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2963/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2964",
+    "title": "Det kriminalitetsfrie samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2964/",
+    "prerequisiteText": "Ingen forkunnskaper.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2964/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:42:23",
+      "sourceOfferedTerms": "Høst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM2965",
+    "title": "Social Harm and Criminalization",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2965/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM2965/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:42:55 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4101",
+    "title": "Sentrale teoretiske perspektiver i kriminologien 1",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4101/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4101/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:57",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4102",
+    "title": "Sentrale teoretiske perspektiver i kriminologien 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4102/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4102/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:42:59",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KRIM4101 - Sentrale teoretiske perspektiver i kriminologien 1"
+    }
+  },
+  {
+    "code": "KRIM4904",
+    "title": "Fengsler, fanger, samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4904/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4904/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:02",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4920",
+    "title": "Grønn (øko-global) kriminologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4920/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4920/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2017",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4921",
+    "title": "Politi og samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4921/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4921/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4952",
+    "title": "A criminology of globalization",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4952/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4952/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:05 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4953",
+    "title": "Criminological and Socio-legal Perspectives on Sexual Violence",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4953/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4953/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:07 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge of gender and crime is recommended."
+    }
+  },
+  {
+    "code": "KRIM4954",
+    "title": "Cultural and Narrative Criminology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4954/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4954/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4956",
+    "title": "International Criminal Justice and Mass Violence",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4956/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4956/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:10 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4957",
+    "title": "Surveillance: Data, technologies, practices",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4957/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4957/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:12 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4960",
+    "title": "Green Criminology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4960/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:14 PM",
+      "sourceOfferedTerms": "Spring 2026",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4961",
+    "title": "Kriminalitetsforebygging",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4961/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4961/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4962",
+    "title": "The Sociology of Legal and Illegal Drug Use",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4962/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4962/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:16 PM",
+      "sourceOfferedTerms": "Spring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4963",
+    "title": "Crime and Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4963/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4963/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4964",
+    "title": "Det kriminalitetsfrie samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4964/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4964/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:42:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM4965",
+    "title": "Social Harm and Criminalization",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4965/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM4965/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:17 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRIM5001",
+    "title": "Masteroppgave i kriminologi",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM5001/",
+    "prerequisiteText": "For å levere masteroppgave i kriminologi, må studenten ha bestått KRIM4101 – Sentrale teoretiske perspektiver i kriminologien 1 , KRIM4102 – Sentrale teoretiske perspektiver i kriminologien 2 , i tillegg til:\nKRS4105 – Kvantitativ metode og KRS4106 – Kvalitativ metode for studenter som har opptak til masterprogrammet fra og med høst 2018, eller:\nKRIM4103 – Metode (nedlagt) eller tilsvarende for studenter som har opptak til masterprogrammet høst 2017 eller tidligere.",
+    "prerequisiteCourses": [
+      "KRIM4101",
+      "KRIM4102",
+      "KRS4105",
+      "KRS4106",
+      "KRIM4103"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRIM5001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:20",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KRS4105",
+    "title": "Kvantitativ metode",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4105/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4105/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er en fordel med kjennskap til kvantitativ metode SOSGEO1120 – Kvantitativ metode , eller tilsvarende kunnskaper i kvantitativ metode."
+    }
+  },
+  {
+    "code": "KRS4106",
+    "title": "Kvalitativ metode",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4106/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4106/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det anbefales forkunnskaper tilsvarende SVMET1010 – Kvalitative metoder"
+    }
+  },
+  {
+    "code": "KRS4210",
+    "title": "Kriminologi og rettssosiologi i praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4210/",
+    "prerequisiteText": "Se opptak og adgangsregulering.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/KRS4210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:26",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MARL5110",
+    "title": "Maritime Law: Safety, Competition and EU",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/MARL5110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/MARL5110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:17:54 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MARL5120",
+    "title": "Maritime Law in Practice - Mock Trial",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/MARL5120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/MARL5120/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:56 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "Recommended prerequisites: It is recommended that you have passed and completed the mandatory courses JUS5406 – Maritime Law and JUS5450 – Marine Insurance (or JUS5401 – Maritime Law - Contracts (discontinued) and JUS5402 – Maritime Law: Liability and Insurance (discontinued) for students admitted in 2022 or earlier)"
+    }
+  },
+  {
+    "code": "MARLTHESIS",
+    "title": "Master Thesis",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/MARLTHESIS/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/MARLTHESIS/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:56 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "It is recommended that you have passed and completed the mandatory courses\nJUS5406 – Maritime Law (or JUS5401 – Maritime Law - Contracts (discontinued) and JUS5402 – Maritime Law: Liability and Insurance (discontinued) for students admitted in 2022 or earlier), MARL5110 – Maritime Law: Safety, Competition and EU and MARL5120 – Maritime Law in Practice - Mock Trial in addition to two elective courses chosen among the listed courses below before you hand in your thesis.\nElective courses:\nJUS5420 – Forsikringsrett\nJUS5430 – Tilvirkningskontrakter (dynamisk kontraktsrett)\nJUS5450 – Marine Insurance\nJUS5230 – International Commercial Law: contracts, applicable law and arbitration\nJUS5911 – International Climate Change Law\nJUS5851 – International Investment Law & Arbitration\nJUS5520 – International Environmental Law and Sustainability\nJUS5850 – International Trade Law\nemne: JUS5932\nJUS5411 – Petroleum Law (discontinued)\nJUS5440 – EU Substantive Law (discontinued)\nJUS5260 – English Law of Contract (discontinued)"
+    }
+  },
+  {
+    "code": "NSELP4002",
+    "title": "Upstream Oil and Gas: Public and Contractual Law Aspects",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/NSELP4002/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/NSELP4002/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Every other spring starting 2015",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "PIL5060",
+    "title": "Master thesis",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/PIL5060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/PIL5060/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:58 PM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "PILTHESIS",
+    "title": "Master Thesis",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/PILTHESIS/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/PILTHESIS/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:47:58 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RINF1100",
+    "title": "Ytringsfrihet, medie- og nettregulering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/RINF1100/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/RINF1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:47:59",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RINF1200",
+    "title": "Opphavsrett og beslektede rettigheter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/jus/RINF1200/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/jus/RINF1200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS1801",
+    "title": "Retten i samfunnet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS1801/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.\nFor å bli tatt opp til masterprogrammet i rettssosiologi er det en fordel at studentene har gjennomført dette emnet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS1801/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:28",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS2950",
+    "title": "Torture, Surveillance and Rights",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2950/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2950/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2018",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS2952",
+    "title": "Law, Ideology and Human Rights Violations",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2952/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2952/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:30 PM",
+      "sourceOfferedTerms": "Spring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS2953",
+    "title": "Legal Anthropology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2953/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2953/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2019",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS2958",
+    "title": "International Migration: Sovereigns, Borders, Control",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2958/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS2958/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:32 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS4102",
+    "title": "Sentrale teoretiske perspektiver i rettssosiologi 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4102/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4102/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:34",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "JUS4122 Rettssosiologi 1"
+    }
+  },
+  {
+    "code": "RSOS4950",
+    "title": "Torture, Surveillance and Rights",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4950/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4950/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2018",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS4952",
+    "title": "Law, Ideology and Human Rights Violations",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4952/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4952/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:37 PM",
+      "sourceOfferedTerms": "Spring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS4953",
+    "title": "Legal Anthropology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4953/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4953/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2020",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS4958",
+    "title": "International Migration: Sovereigns, Borders, Control",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4958/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS4958/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:43:39 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RSOS5001",
+    "title": "Masteroppgave i rettssosiologi",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Law",
+    "officialUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS5001/",
+    "prerequisiteText": "For å levere masteroppgave i rettssosiologi, må studenten ha bestått JUS4122 – Rettssosiologi 1 og RSOS4102 – Sentrale teoretiske perspektiver i rettssosiologi 2 , i tillegg til:\nKRS4105 – Kvantitativ metode og KRS4106 – Kvalitativ metode for studenter som har opptak til masterprogrammet fra og med høst 2018, eller:\nRSOS4103 – Metode (nedlagt) eller tilsvarende for studenter som har opptak til masterprogrammet høst 2017 eller tidligere.",
+    "prerequisiteCourses": [
+      "JUS4122",
+      "RSOS4102",
+      "KRS4105",
+      "KRS4106",
+      "RSOS4103"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/jus/ikrs/RSOS5001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:43:41",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

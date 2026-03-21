@@ -1,0 +1,4004 @@
+[
+  {
+    "code": "CS5960MASC",
+    "title": "CS: Materials Science. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/CS5960MASC/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/CS5960MASC/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:48",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "CS5960PHYS",
+    "title": "CS: Physics. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/CS5960PHYS/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/CS5960PHYS/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:22:43",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "EIT5960",
+    "title": "Elektronikk, informatikk og teknologi. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/EIT5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/EIT5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:22:54",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS-KJM3506",
+    "title": "Nukleære målemetoder og instrumentering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-KJM3506/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått tidligere enn første obligatorisk laboratorieundervisning i FYS-KJM3506:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-KJM3506/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:22:57",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi\nKJM3900 – Radioaktivitet"
+    }
+  },
+  {
+    "code": "FYS-KJM4506",
+    "title": "Nukleære målemetoder og instrumentering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-KJM4506/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått tidligere enn første obligatorisk laboratorieundervisning i FYS-KJM4506:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-KJM4506/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:01",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi\nKJM3900 – Radioaktivitet"
+    }
+  },
+  {
+    "code": "FYS-MENA4111",
+    "title": "Kvantemekanisk modellering av nanomaterialer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-MENA4111/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-MENA4111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:08",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA2000 – Faste materialers fundamentale oppbygning\nMENA3001 – Funksjonelle materialer\nMENA3100 – Materialkarakterisering\nFYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS-STK3155",
+    "title": "Anvendt dataanalyse og maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-STK3155/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-STK3155/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Grunnleggende kunnskap om programmering og numerikk:\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nEtt eller flere av følgende emner:\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nMAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nIN-KJM1900 – Introduksjon i programmering for kjemikere\nBIOS1100 – Innføring i beregningsmodeller for biovitenskap"
+    }
+  },
+  {
+    "code": "FYS-STK4155",
+    "title": "Anvendt dataanalyse og maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:23",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Grunnleggende kunnskap om programmering og numerikk:\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nEtt eller flere av følgende emner:\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nMAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nIN-KJM1900 – Introduksjon i programmering for kjemikere\nBIOS1100 – Innføring i beregningsmodeller for biovitenskap"
+    }
+  },
+  {
+    "code": "FYS1001",
+    "title": "Innføring i fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:49",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Studenter uten kunnskaper tilsvarende Fysikk 1 fra den videregående skolen, må forvente å oppleve FYS1001 som relativt krevende."
+    }
+  },
+  {
+    "code": "FYS1030",
+    "title": "Fysikk og energiressurser",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1030/",
+    "prerequisiteText": "Emnet krever ingen forkunnskaper ut over generell studiekompetanse.\nSiden emnet ikke forutsetter fordypning i fysikk eller matematikk, egner det seg både for fysikkstudenter i starten av studiet og studenter fra andre fagområder.\nFor fysikkstudenter i ulike stadier av studiet vil emnet gi gode eksempler på hvordan den grunnleggende fysikken fra andre emner kommer til bruk i energispørsmål som er relevante for samfunnet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS1035",
+    "title": "Fysikk og klimaendringer",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1035/",
+    "prerequisiteText": "Emnet krever ingen forkunnskaper ut over generell studiekompetanse.\nSiden emnet ikke forutsetter fordypning i fysikk eller matematikk, egner det seg både for fysikkstudenter i starten av studiet og studenter fra andre fagområder. For fysikkstudenter i ulike stadier av studiet vil emnet gi gode eksempler på hvordan den grunnleggende fysikken fra andre emner kommer til bruk i klimaspørsmålet.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1035/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:57",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS1040",
+    "title": "Introduksjon til nukleærteknologi",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1040/",
+    "prerequisiteText": "Emnet krever ingen forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:01",
+      "sourceOfferedTerms": "Vår\nDette emnet vil bli undervist fra våren 2024.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS1050",
+    "title": "Fysikk for folk flest",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1050/",
+    "prerequisiteText": "Emnet krever ingen forkunnskaper ut over generell studiekompetanse.\nSiden emnet ikke forutsetter fordypning i fysikk eller matematikk fra videregående skole, egner det seg for alle som vil lære mer om fysikk på et deskriptivt nivå uten tyngre matematiske beskrivelser. Undervisningen vil holde seg til den matematikken som kreves for generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:03",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS1100",
+    "title": "Mekanikk og modellering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:06",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt at studentene har full fordypning i fysikk (Fysikk 2) fra videregående skole.\nMAT1100 – Kalkulus (bør tas før eller parallelt med dette emnet)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser (bør tas før eller parallelt med dette emnet)/ BIOS1100 – Innføring i beregningsmodeller for biovitenskap / IN1000 – Introduksjon til objektorientert programmering / IN-GEO1900 – Introduksjon i programmering for geofagstudenter / IN-KJM1900 – Introduksjon i programmering for kjemikere"
+    }
+  },
+  {
+    "code": "FYS1105",
+    "title": "Klassisk mekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1105/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1105/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:44",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FYS1100 – Mekanikk og modellering eller tilsvarende\nMAT1100 – Kalkulus eller tilsvarende\nMAT1110 – Kalkulus og lineær algebra anbefales også, og normalt tar du dette emnet samme semester."
+    }
+  },
+  {
+    "code": "FYS1120",
+    "title": "Elektromagnetisme",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:51",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nMAT1110 – Kalkulus og lineær algebra\nFYS1100 – Mekanikk og modellering eller FYS-MEK1110 – Mekanikk (nedlagt)\nMEK1100 – Feltteori og vektoranalyse"
+    }
+  },
+  {
+    "code": "FYS1120L",
+    "title": "Elektromagnetisme",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1120L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1120L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:23:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nMAT1110 – Kalkulus og lineær algebra\nFYS1100 – Mekanikk og modellering eller FYS-MEK1110 – Mekanikk (nedlagt)\nMEK1100 – Feltteori og vektoranalyse"
+    }
+  },
+  {
+    "code": "FYS1210",
+    "title": "Elektronikk med prosjektoppgaver",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1210/",
+    "prerequisiteText": "Følgende HMS-emner må være bestått før første obligatorisk laboratorieundervisning i FYS1210:\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:06",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Fysikk 2 fra videregående skole"
+    }
+  },
+  {
+    "code": "FYS1400",
+    "title": "Introduksjon til kvanteteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS1400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:24:09",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "FYS2130",
+    "title": "Svingninger og bølger",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:07",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS2140",
+    "title": "Kvantefysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:08",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS2150",
+    "title": "Eksperimentalfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2150/",
+    "prerequisiteText": "Følgende emner må være bestått før første obligatorisk laboratorieundervisning i FYS2150:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nSTK-FYS1110 – Sannsynlighetsregning, modellering og dataanalyse for de fysiske fagene eller STK1100 – Sannsynlighetsregning og statistisk modellering"
+    }
+  },
+  {
+    "code": "FYS2160",
+    "title": "Termodynamikk og statistisk fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2160/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS2160:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:24:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1105 – Klassisk mekanikk\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS2169",
+    "title": "Statistisk mekanikk og termisk fysikk - Seminarvariant",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2169/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS2169:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2169/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1105 – Klassisk mekanikk\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS2280",
+    "title": "Romteknologi",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2280/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:10",
+      "sourceOfferedTerms": "Vår og høst\nEmnet er et samarbeid mellom norske og kanadiske universiteter, og undervises kun dersom det er tilstrekkelig med finansiering.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS2805",
+    "title": "Prosjektemne",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2805/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2805/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:24:48",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS2810",
+    "title": "Prosjektoppgave I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:11",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS2820",
+    "title": "Prosjektoppgave II",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2820/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2820/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:25:12",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS2830",
+    "title": "Prosjektoppgave III",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2830/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS2830/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:25:22",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS3110",
+    "title": "Kvantemekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:25:29",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra\nFYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk"
+    }
+  },
+  {
+    "code": "FYS3120",
+    "title": "Analytisk mekanikk og elektrodynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra\nFYS1100 – Mekanikk og modellering\nFYS1105 – Klassisk mekanikk\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS3140",
+    "title": "Matematiske metoder i fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:12",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra"
+    }
+  },
+  {
+    "code": "FYS3150",
+    "title": "Computational Physics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:25:49",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "INF1000 – Grunnkurs i objektorientert programmering (videreført) eller IN1000 – Introduksjon til objektorientert programmering\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra"
+    }
+  },
+  {
+    "code": "FYS3220",
+    "title": "Lineær kretsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3220/",
+    "prerequisiteText": "I tillegg må følgende HMS-emner tas i samme semester eller være tatt tidligere enn FYS3220:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:13",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nFYS1210 – Elektronikk med prosjektoppgaver"
+    }
+  },
+  {
+    "code": "FYS3231",
+    "title": "Sensorer og måleteknikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3231/",
+    "prerequisiteText": "Følgende emner må være bestått før prosjektarbeid i FYS3231:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3231/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:26:03",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS1120 – Elektromagnetisme\nFYS1210 – Elektronikk med prosjektoppgaver\nSelv om emnene over ikke er obligatoriske dekker de store deler av nødvendig kunnskap. Det forventes at studentene kjenner følgende konsepter da de vil bli brukt, men ikke undervist:\nEnkel databehandling (Python, Matlab eller lignende)\nElektromagnetisme\nAnalyse av enkle elektriske kretser (Stikkord: Ohm, Kirchhoff, Thevenin, Northon, superposisjon, opampkretser)"
+    }
+  },
+  {
+    "code": "FYS3240",
+    "title": "Datainnsamling og kontroll",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver\nIN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "FYS3260",
+    "title": "Mikrosystemer og elektronikk byggemetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3260/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:18",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver"
+    }
+  },
+  {
+    "code": "FYS3280",
+    "title": "Halvlederkomponenter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3280/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS3280:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:26:16",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS3400",
+    "title": "Kondenserte fasers fysikk og kvantematerialer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nFYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2160 – Termodynamikk og statistisk fysikk"
+    }
+  },
+  {
+    "code": "FYS3415",
+    "title": "Kvantedatamaskiner og kvanteinformasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3415/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3415/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:22",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nMAT1120 – Lineær algebra"
+    }
+  },
+  {
+    "code": "FYS3500",
+    "title": "Innføring i kjerne- og partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:24",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nFYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2160 – Termodynamikk og statistisk fysikk\nFYS3110 – Kvantemekanikk"
+    }
+  },
+  {
+    "code": "FYS3535",
+    "title": "Medisinske anvendelser av kjernefysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3535/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3535/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:26",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi"
+    }
+  },
+  {
+    "code": "FYS3580",
+    "title": "Introduksjon til reaktorfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi"
+    }
+  },
+  {
+    "code": "FYS3600",
+    "title": "Romfysikk og -teknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS2130 – Svingninger og bølger"
+    }
+  },
+  {
+    "code": "FYS3655",
+    "title": "Romsensorer",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3655/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3655/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:36",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3600 – Romfysikk og -teknologi\nFYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nMAT1100 – Kalkulus"
+    }
+  },
+  {
+    "code": "FYS3660",
+    "title": "4DSpace workshop i datasimuleringer og dataanalyse fra romoppdrag",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3660/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3660/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:38",
+      "sourceOfferedTerms": "Vår\nEmnet er et samarbeid mellom UiO og japanske universiteter, og undervises kun dersom det er tilstrekkelig med finansiering.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nINF1000 – Grunnkurs i objektorientert programmering (videreført)"
+    }
+  },
+  {
+    "code": "FYS3665",
+    "title": "Prosjekt i datasimuleringer og dataanalyse fra romoppdrag",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3665/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3665/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:40",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / IN1000 – Introduksjon til objektorientert programmering\nINF1000 – Grunnkurs i objektorientert programmering (videreført) / IN1000 – Introduksjon til objektorientert programmering\nFYS4650 – Modellering av plasma ved bruk av partikler\nFYS4655 – Romsensorer"
+    }
+  },
+  {
+    "code": "FYS3700",
+    "title": "Biofysikk og medisinsk fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3700/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS3700:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Enten FYS-MEK1110 – Mekanikk (nedlagt) , FYS1100 – Mekanikk og modellering , eller FYS1105 – Klassisk mekanikk\nFYS1120 – Elektromagnetisme\nFYS2140 – Kvantefysikk"
+    }
+  },
+  {
+    "code": "FYS3810",
+    "title": "Fysikkdidaktikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:50",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "For studenter på Lektorprogrammet (master) Lektorprogrammet, studieretningene fysikk-matematikk eller matematikk-fysikk, forutsettes det at normalt studieløp er fulgt, og at emnet tas i 6. semester.\nFor andre studenter anbefales minimum 60 studiepoeng innen fysikk og astronomi."
+    }
+  },
+  {
+    "code": "FYS3820",
+    "title": "Arbeidspraksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3820/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS3820/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:50",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS4050",
+    "title": "Introduksjon til prosjektledelse i nukleær kontekst",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:26:39",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS4110",
+    "title": "Videregående kvantemekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:26:47",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk"
+    }
+  },
+  {
+    "code": "FYS4130",
+    "title": "Statistisk mekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:51",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nFYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2160 – Termodynamikk og statistisk fysikk"
+    }
+  },
+  {
+    "code": "FYS4150",
+    "title": "Computational Physics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:27:01",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "INF1000 – Grunnkurs i objektorientert programmering (videreført) eller IN1000 – Introduksjon til objektorientert programmering\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra"
+    }
+  },
+  {
+    "code": "FYS4160",
+    "title": "Generell relativitetsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:54",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Følgende emner er sterkt anbefalt:\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3140 – Matematiske metoder i fysikk"
+    }
+  },
+  {
+    "code": "FYS4170",
+    "title": "Relativistisk kvantefeltteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:27:13",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det anbefales sterkt at du har tatt følgende emner:\nFYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3140 – Matematiske metoder i fysikk"
+    }
+  },
+  {
+    "code": "FYS4220",
+    "title": "Sanntids og embedded datasystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:27:19",
+      "sourceOfferedTerms": "Høst\nEmnet tilbys ikke høsten 2025.\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver og kjennskap til minst ett høynivå programmeringsspråk.\nKunnskaper i måleteknikk ( FYS3230 – Sensorer og måleteknikk (videreført) , FYS3231 – Sensorer og måleteknikk ) og mikroprosessorteknikk ( FYS3240 – Datainnsamling og kontroll ) er en fordel."
+    }
+  },
+  {
+    "code": "FYS4231",
+    "title": "Sensorer og måleteknikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4231/",
+    "prerequisiteText": "Følgende emner må være bestått før prosjektarbeid i FYS4231:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4231/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:54:54",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Følgende kurs er anbefalt:\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS1120 – Elektromagnetisme\nFYS1210 – Elektronikk med prosjektoppgaver\nSelv om emnene over ikke er obligatoriske dekker de store deler av nødvendig kunnskap. Det forventes at studentene kjenner følgende konsepter da de vil bli brukt, men ikke undervist:\nEnkel databehandling (Python, Matlab eller lignende)\nElektromagnetisme\nAnalyse av enkle elektriske kretser (Stikkord: Ohm, Kirchhoff, Thevenin, Northon, superposisjon, opampkretser)"
+    }
+  },
+  {
+    "code": "FYS4239",
+    "title": "Elektrisk bioimpedans",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4239/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4239/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:03",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS4240",
+    "title": "Datainnsamling og kontroll",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:04",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver\nIN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "FYS4250",
+    "title": "Biomedisinsk instrumentering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:06",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1120 – Elektromagnetisme\nFYS1210 – Elektronikk med prosjektoppgaver"
+    }
+  },
+  {
+    "code": "FYS4260",
+    "title": "Mikrosystemer og elektronikk byggemetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4260/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:13",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver"
+    }
+  },
+  {
+    "code": "FYS4280",
+    "title": "Halvlederkomponenter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4280/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS4280:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:19",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS4310",
+    "title": "Material Science of Semiconductors",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:55:32 AM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3280 – Semiconductor Components\nFYS3400 – Condensed Matter Physics and Quantum Materials"
+    }
+  },
+  {
+    "code": "FYS4340",
+    "title": "Transmisjonelektronmikroskopi: avbildning, diffraksjon og spektroskopi I",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:38",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS4400",
+    "title": "Kondenserte fasers fysikk og kvantematerialer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:40",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nFYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2160 – Termodynamikk og statistisk fysikk"
+    }
+  },
+  {
+    "code": "FYS4411",
+    "title": "Computational Physics II: Quantum Mechanical Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4411/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4411/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:55:44 AM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3150 – Computational Physics\nFYS3110 – Quantum Mechanics"
+    }
+  },
+  {
+    "code": "FYS4415",
+    "title": "Kvantedatamaskiner og kvanteinformasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4415/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4415/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:46",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar, gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nMAT1120 – Lineær algebra"
+    }
+  },
+  {
+    "code": "FYS4420",
+    "title": "Eksperimentalteknikker i porøse og komplekse systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:55:52",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS4430",
+    "title": "Kondenserte fasers fysikk II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:08",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS4460",
+    "title": "Uordnede systemer og perkolasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:14",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys som veiledet selvstudium.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer\nFYS3150 – Computational Physics"
+    }
+  },
+  {
+    "code": "FYS4465",
+    "title": "Komplekse mediers dynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4465/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4465/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:20",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3150 – Computational Physics\nFYS2160 – Termodynamikk og statistisk fysikk\nFYS4130 – Statistisk mekanikk"
+    }
+  },
+  {
+    "code": "FYS4480",
+    "title": "Kvantemekanikk for mangepartikkel systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4480/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:25",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner: FYS3110 – Kvantemekanikk"
+    }
+  },
+  {
+    "code": "FYS4505",
+    "title": "Metoder og instrumentering i kjerne- og partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4505/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:31",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2150 – Eksperimentalfysikk\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS4515A",
+    "title": "Kjernereaksjoner",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4515A/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4515A/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:35",
+      "sourceOfferedTerms": "Høst\nAnnethvert høstsemester med start 2023.\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk\nFYS3110 – Kvantemekanikk"
+    }
+  },
+  {
+    "code": "FYS4515B",
+    "title": "Statistiske egenskaper av atomkjernen",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4515B/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4515B/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:38",
+      "sourceOfferedTerms": "Høst\nAnnethvert høstsemester med start 2023.\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk\nFYS3110 – Kvantemekanikk\nFYS4515A – Kjernereaksjoner"
+    }
+  },
+  {
+    "code": "FYS4525",
+    "title": "Advanced Nuclear Reactions and Applications in Astrophysics",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4525/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4525/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:56:42 AM",
+      "sourceOfferedTerms": "Autumn\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3520 – Nuclear physics, structure and spectroscopy (discontinued)"
+    }
+  },
+  {
+    "code": "FYS4530",
+    "title": "Subatomær mange-partikkelteori II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:48",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys som veiledet selvstudium.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3510 – Subatomær fysikk med astrofysiske anvendelser (nedlagt)"
+    }
+  },
+  {
+    "code": "FYS4535",
+    "title": "Medisinske anvendelser av kjernefysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4535/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4535/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:56:55",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi\nFYS3500 – Innføring i kjerne- og partikkelfysikk eller KJM3900 – Radioaktivitet"
+    }
+  },
+  {
+    "code": "FYS4545",
+    "title": "Resonanser i atomkjerner",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4545/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4545/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:01",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS4555",
+    "title": "Partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4555/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4555/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:08",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nFYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS4565",
+    "title": "Virkemåter og bruksområder for moderne partikkelakseleratorer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4565/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4565/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:15",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS4570",
+    "title": "Advanced Nuclear Structure",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4570/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:57:18 AM",
+      "sourceOfferedTerms": "Autumn\nEvery other autumn semester starting 2012.\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3110 – Quantum Mechanics\nFYS3500 – Introduction to Nuclear and Particle Physics"
+    }
+  },
+  {
+    "code": "FYS4575",
+    "title": "Exotic Nuclei",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4575/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4575/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:27:50 PM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3500 – Introduction to Nuclear and Particle Physics\nFYS4570 – Advanced Nuclear Structure\nFYS4505 – Methods and Instrumentation for Nuclear and Particle Physics"
+    }
+  },
+  {
+    "code": "FYS4580",
+    "title": "Introduksjon til reaktorfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:26",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1040 – Introduksjon til nukleærteknologi\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS4590",
+    "title": "Målretta alfaterapi (TAT)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:29",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4535 – Medisinske anvendelser av kjernefysikk"
+    }
+  },
+  {
+    "code": "FYS4600",
+    "title": "Romfysikk og -teknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:34",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS2130 – Svingninger og bølger"
+    }
+  },
+  {
+    "code": "FYS4620",
+    "title": "Grunnleggende plasmafysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4620/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:41",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS2160 – Termodynamikk og statistisk fysikk\nFYS2140 – Kvantefysikk"
+    }
+  },
+  {
+    "code": "FYS4640",
+    "title": "Romvær og navigasjonssatellittsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4640/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4640/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:47",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3600 – Romfysikk og -teknologi\nFYS3610 – Romfysikk (nedlagt)"
+    }
+  },
+  {
+    "code": "FYS4650",
+    "title": "Modellering av plasma ved bruk av partikler",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4650/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4650/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:50",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / IN1000 – Introduksjon til objektorientert programmering\nINF1000 – Grunnkurs i objektorientert programmering (videreført) / IN1000 – Introduksjon til objektorientert programmering\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS3600 – Romfysikk og -teknologi\nFYS4620 – Grunnleggende plasmafysikk"
+    }
+  },
+  {
+    "code": "FYS4655",
+    "title": "Romsensorer",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4655/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4655/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:52",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar, gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3600 – Romfysikk og -teknologi\nFYS1100 – Mekanikk og modellering\nFYS1120 – Elektromagnetisme\nMAT1100 – Kalkulus"
+    }
+  },
+  {
+    "code": "FYS4660",
+    "title": "4DSpace Workshop i datasimuleringer og dataanalyse fra romoppdrag",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4660/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4660/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:54",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nINF1000 – Grunnkurs i objektorientert programmering (videreført)"
+    }
+  },
+  {
+    "code": "FYS4665",
+    "title": "Prosjekt i datasimuleringer og dataanalyse fra romoppdrag",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4665/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4665/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:57:56",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)\nINF1000 – Grunnkurs i objektorientert programmering (videreført)\nFYS4650 – Modellering av plasma ved bruk av partikler\nFYS4655 – Romsensorer"
+    }
+  },
+  {
+    "code": "FYS4700",
+    "title": "Biofysikk og medisinsk fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4700/",
+    "prerequisiteText": "Følgende emner må tas før første obligatorisk laboratorieundervisning i FYS4700:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:02",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Enten FYS-MEK1110 – Mekanikk (nedlagt) , FYS1100 – Mekanikk og modellering , eller FYS1105 – Klassisk mekanikk\nFYS1120 – Elektromagnetisme\nFYS2140 – Kvantefysikk"
+    }
+  },
+  {
+    "code": "FYS4711",
+    "title": "Stråling og dosimetri",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4711/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4711/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:08",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1110 – Kalkulus og lineær algebra\nDet kan være en fordel med kunnskaper i fysikk tilsvarende:\nFYS2140 – Kvantefysikk\nDet kan være en fordel med kunnskaper i programmering tilsvarende:\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "FYS4715",
+    "title": "Biologisk fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:15",
+      "sourceOfferedTerms": "Vår og høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS2160 – Termodynamikk og statistisk fysikk (nødvendig forkunnskap dekkes av de 5 første ukene som kan følges samme semester)"
+    }
+  },
+  {
+    "code": "FYS4720",
+    "title": "Cellulær radiobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4720/",
+    "prerequisiteText": "Følgende emner må være bestått før første obligatoriske laboratorieøvelse i FYS4720:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4720/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:21",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3700 – Biofysikk og medisinsk fysikk"
+    }
+  },
+  {
+    "code": "FYS4730",
+    "title": "Medisinsk strålingsfysikk for stråleterapi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4730/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4730/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4720 – Cellulær radiobiologi\nFYS4711 – Stråling og dosimetri"
+    }
+  },
+  {
+    "code": "FYS4740",
+    "title": "MR-teori og medisinsk diagnostikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4740/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4740/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:34",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1110 – Kalkulus og lineær algebra\nFYS2140 – Kvantefysikk\nFYS3150 – Computational Physics\neller tilsvarende kunnskaper, samt kjennskap til Python, Matlab eller tilsvarende."
+    }
+  },
+  {
+    "code": "FYS4762",
+    "title": "Medisinsk avbildning med ioniserende stråling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4762/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4762/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:39",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4711 – Stråling og dosimetri"
+    }
+  },
+  {
+    "code": "FYS4810",
+    "title": "Fysikkdidaktikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS4810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:46",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "For studenter på Lektorprogrammet (master) , studieretningene fysikk-matematikk eller matematikk-fysikk, forutsettes det at normalt studieløp er fulgt og at emnet tas i sjette semester. For andre studenter anbefales minimum 60 studiepoeng innen fysikk og astronomi."
+    }
+  },
+  {
+    "code": "FYS5120",
+    "title": "Videregående kvantefeltteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:53",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4170 – Relativistisk kvantefeltteori . Det er en stor fordel med FYS4555 – Partikkelfysikk ."
+    }
+  },
+  {
+    "code": "FYS5190",
+    "title": "Supersymmetry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5190/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:58:56 AM",
+      "sourceOfferedTerms": "Autumn\nEvery other autumn semester.\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "For a good foundation in the basics of particle physics, having followed FYS4555 – Particle Physics would be an advantage. Students are also recommended to have either previously taken FYS4170 – Relativistic Quantum Field Theory , or to follow it in the same semester as this course."
+    }
+  },
+  {
+    "code": "FYS5210",
+    "title": "Solceller",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:58:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1120 – Elektromagnetisme\nFYS2140 – Kvantefysikk\nFYS2160 – Termodynamikk og statistisk fysikk\nFYS3280 – Halvlederkomponenter"
+    }
+  },
+  {
+    "code": "FYS5320",
+    "title": "Elektronmikroskopi, -diffraksjon og spektroskopi II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:08",
+      "sourceOfferedTerms": "Emnet tilbys ikke vårsemesteret 2026.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4340 – Transmisjonelektronmikroskopi: avbildning, diffraksjon og spektroskopi I"
+    }
+  },
+  {
+    "code": "FYS5419",
+    "title": "Kvanteberegninger og kvantemaskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5419/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5419/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:12",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner:\nFYS3110 – Kvantemekanikk\nFYS4480 – Kvantemekanikk for mangepartikkel systemer\nFYS-STK4155 – Anvendt dataanalyse og maskinlæring\nMAT3420 – Kvanteberegning"
+    }
+  },
+  {
+    "code": "FYS5429",
+    "title": "Avansert maskinlæring og dataanalyse for fysiske fag",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5429/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5429/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:16",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner:\nFYS-STK4155 – Anvendt dataanalyse og maskinlæring\nIN5400 – Maskinlæring for bildeanalyse (videreført)"
+    }
+  },
+  {
+    "code": "FYS5555",
+    "title": "Forskningsbasert partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5555/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5555/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:23",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4170 – Relativistisk kvantefeltteori\nFYS4555 – Partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS5585",
+    "title": "Avansert reaktorfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5585/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5585/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:25",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3580 – Introduksjon til reaktorfysikk eller FYS4580 – Introduksjon til reaktorfysikk\nFYS4505 – Metoder og instrumentering i kjerne- og partikkelfysikk\nFYS4535 – Medisinske anvendelser av kjernefysikk"
+    }
+  },
+  {
+    "code": "FYS5810",
+    "title": "Fysikkdidaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5810/",
+    "prerequisiteText": "PROF1015 – Profesjonsidentitet, læring og undervisning\nPROF3025 – Ledelse av elevers læring\nPROF4045 – Tilrettelegging for elevers læring\neller\nPPU3310L – PPU del 1 av 2: Undervisning og læringsforløp (nedlagt)\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\neller andre tilsvarende emner.\nI tillegg kreves følgende disiplinære emner:\nMinimum 50 av 60 studiepoeng i lektorprogrammets 60 studiepoengs emnegruppe i fysikk eller tilsvarende emner",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "PPU3310L",
+      "PPU3220"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:28:05",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS5930L",
+    "title": "Masteroppgave i fysikk, Lektorprogrammet",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5930L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5930L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:25",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS5960",
+    "title": "Fysikk. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:26",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS9050",
+    "title": "Introduksjon til prosjektledelse i nukleær kontekst",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:28:21",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FYS9110",
+    "title": "Videregående kvantemekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:28:28",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk"
+    }
+  },
+  {
+    "code": "FYS9120",
+    "title": "Videregående kvantefeltteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:27",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4170 – Relativistisk kvantefeltteori . Det er en stor fordel med FYS4555 – Partikkelfysikk ."
+    }
+  },
+  {
+    "code": "FYS9170",
+    "title": "Relativistisk kvantefeltteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:28:41",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det anbefales sterkt at du har tatt følgende emner:\nFYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3140 – Matematiske metoder i fysikk"
+    }
+  },
+  {
+    "code": "FYS9180",
+    "title": "Condensed Matter Field Theory",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9180/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9180/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:28:44 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS4430 – Condensed Matter Physics II\nFYS4110 – Advanced Quantum Mechanics or similar courses"
+    }
+  },
+  {
+    "code": "FYS9190",
+    "title": "Supersymmetry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9190/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:28:48 PM",
+      "sourceOfferedTerms": "Autumn\nEvery other autumn semester.\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "For a good foundation in the basics of particle physics, having followed FYS4555 – Particle Physics would be an advantage. Students are also recommended to have either previously taken FYS4170 – Relativistic Quantum Field Theory , or to follow it in the same semester as this course."
+    }
+  },
+  {
+    "code": "FYS9220",
+    "title": "Sanntids og embedded datasystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:28:54",
+      "sourceOfferedTerms": "Høst\nEmnet tilbys ikke høsten 2025.\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver og kjennskap til minst ett høynivå programmeringsspråk.\nKunnskaper i måleteknikk ( FYS3230 – Sensorer og måleteknikk (videreført) , FYS3231 – Sensorer og måleteknikk ) og mikroprosessorteknikk ( FYS3240 – Datainnsamling og kontroll ) er en fordel."
+    }
+  },
+  {
+    "code": "FYS9239",
+    "title": "Elektrisk bioimpedans",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9239/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9239/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:28",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver\nFYS1120 – Elektromagnetisme"
+    }
+  },
+  {
+    "code": "FYS9250",
+    "title": "Biomedisinsk instrumentering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:29:14",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1120 – Elektromagnetisme\nFYS1210 – Elektronikk med prosjektoppgaver"
+    }
+  },
+  {
+    "code": "FYS9310",
+    "title": "Material Science of Semiconductors",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:59:28 AM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "FYS3280 – Semiconductor Components\nFYS3400 – Condensed Matter Physics and Quantum Materials"
+    }
+  },
+  {
+    "code": "FYS9320",
+    "title": "Elektronmikroskopi, -diffraksjon og spektroskopi II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:29",
+      "sourceOfferedTerms": "Emnet tilbys ikke vårsemesteret 2026.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4340 – Transmisjonelektronmikroskopi: avbildning, diffraksjon og spektroskopi I"
+    }
+  },
+  {
+    "code": "FYS9340",
+    "title": "Transmisjonelektronmikroskopi: avbildning, diffraksjon og spektroskopi I",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:29:31",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS9411",
+    "title": "Computational Physics II: Quantum Mechanical Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9411/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9411/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:59:29 AM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching. Courses with less than three students registrered will normally be cancelled.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3150 – Computational Physics\nFYS3110 – Quantum Mechanics"
+    }
+  },
+  {
+    "code": "FYS9419",
+    "title": "Kvanteberegninger og kvantemaskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9419/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9419/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:30",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner:\nFYS3110 – Kvantemekanikk\nFYS4480 – Kvantemekanikk for mangepartikkel systemer\nFYS-STK4155 – Anvendt dataanalyse og maskinlæring\nMAT3420 – Kvanteberegning"
+    }
+  },
+  {
+    "code": "FYS9420",
+    "title": "Eksperimentalteknikker i porøse og komplekse systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:29:46",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS9429",
+    "title": "Avansert maskinlæring og dataanalyse for fysiske fag",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9429/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9429/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:31",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner:\nFYS-STK4155 – Anvendt dataanalyse og maskinlæring\nIN5400 – Maskinlæring for bildeanalyse (videreført)"
+    }
+  },
+  {
+    "code": "FYS9430",
+    "title": "Kondenserte fasers fysikk II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:29:57",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer"
+    }
+  },
+  {
+    "code": "FYS9460",
+    "title": "Uordnede systemer og perkolasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:31",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys som veiledet selvstudium.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3400 – Kondenserte fasers fysikk og kvantematerialer\nFYS3150 – Computational Physics"
+    }
+  },
+  {
+    "code": "FYS9465",
+    "title": "Komplekse mediers dynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9465/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9465/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:09",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3150 – Computational Physics\nFYS2160 – Termodynamikk og statistisk fysikk\nFYS4130 – Statistisk mekanikk"
+    }
+  },
+  {
+    "code": "FYS9480",
+    "title": "Kvantemekanikk for mangepartikkel systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9480/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:33",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Gode matematikk-kunnskaper er nødvendig.\nAndre anbefalte emner: FYS3110 – Kvantemekanikk"
+    }
+  },
+  {
+    "code": "FYS9505",
+    "title": "Metoder og instrumentering i kjerne- og partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9505/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:18",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS2130 – Svingninger og bølger\nFYS2140 – Kvantefysikk\nFYS2150 – Eksperimentalfysikk\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS9515A",
+    "title": "Kjernereaksjoner",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9515A/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9515A/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:23",
+      "sourceOfferedTerms": "Høst\nAnnethvert høstsemester med start 2023.\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk\nFYS3110 – Kvantemekanikk"
+    }
+  },
+  {
+    "code": "FYS9515B",
+    "title": "Statistiske egenskaper av atomkjernen",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9515B/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9515B/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:27",
+      "sourceOfferedTerms": "Høst\nAnnethvert høstsemester med start 2023.\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk\nFYS3110 – Kvantemekanikk\nFYS9515A – Kjernereaksjoner"
+    }
+  },
+  {
+    "code": "FYS9525",
+    "title": "Advanced Nuclear Reactions and Applications in Astrophysics",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9525/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9525/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:30:31 PM",
+      "sourceOfferedTerms": "Autumn\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3520 – Nuclear physics, structure and spectroscopy (discontinued)"
+    }
+  },
+  {
+    "code": "FYS9530",
+    "title": "Subatomær mange-partikkelteori II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:34",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys som veiledet selvstudium.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3510 – Subatomær fysikk med astrofysiske anvendelser (nedlagt)"
+    }
+  },
+  {
+    "code": "FYS9535",
+    "title": "Medisinske anvendelser av kjernefysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9535/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9535/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:44",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.\nUndervisning tilbys siste gang\nvår 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er en fordel med forkunnskaper om fremstilling og bruk av radioaktive stoffer innen medisin, for eksempel fra grunnkurs ved UiO i ett av fagfeltene kjernefysikk, kjernekjemi, biofysikk, farmasi/radiofarmasi eller medisin/medisinsk fysikk."
+    }
+  },
+  {
+    "code": "FYS9545",
+    "title": "Resonanser i atomkjerner",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9545/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9545/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:30:50",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke påregne ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS9555",
+    "title": "Forskningsbasert partikkelfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9555/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9555/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:35",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4170 – Relativistisk kvantefeltteori\nFYS4555 – Partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS9565",
+    "title": "Virkemåter og bruksområder for moderne partikkelakseleratorer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9565/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9565/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:36",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys, kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3110 – Kvantemekanikk\nFYS3120 – Analytisk mekanikk og elektrodynamikk\nFYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS9570",
+    "title": "Advanced Nuclear Structure",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9570/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:31:07 PM",
+      "sourceOfferedTerms": "Autumn\nEvery other autumn starting 2012.\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3110 – Quantum Mechanics\nFYS3500 – Introduction to Nuclear and Particle Physics"
+    }
+  },
+  {
+    "code": "FYS9575",
+    "title": "Exotic Nuclei",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9575/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9575/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:31:10 PM",
+      "sourceOfferedTerms": "Spring\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3500 – Introduction to Nuclear and Particle Physics\nFYS4570 – Advanced Nuclear Structure\nFYS4505 – Methods and Instrumentation for Nuclear and Particle Physics"
+    }
+  },
+  {
+    "code": "FYS9580",
+    "title": "Introduksjon til reaktorfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:38",
+      "sourceOfferedTerms": "Høst\nAnnenhver høst i oddetallsår.\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3500 – Innføring i kjerne- og partikkelfysikk"
+    }
+  },
+  {
+    "code": "FYS9585",
+    "title": "Avansert reaktorfysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9585/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9585/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:38",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3580 – Introduksjon til reaktorfysikk eller FYS4580 – Introduksjon til reaktorfysikk\nFYS4505 – Metoder og instrumentering i kjerne- og partikkelfysikk\nFYS4535 – Medisinske anvendelser av kjernefysikk"
+    }
+  },
+  {
+    "code": "FYS9590",
+    "title": "Målretta alfaterapi (TAT)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:39",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4535 – Medisinske anvendelser av kjernefysikk"
+    }
+  },
+  {
+    "code": "FYS9620",
+    "title": "Grunnleggende plasmafysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9620/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:40",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS2160 – Termodynamikk og statistisk fysikk\nFYS2140 – Kvantefysikk"
+    }
+  },
+  {
+    "code": "FYS9640",
+    "title": "Romvær og navigasjonssatellittsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9640/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9640/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:31:26",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3600 – Romfysikk og -teknologi\nFYS3610 – Romfysikk (nedlagt)"
+    }
+  },
+  {
+    "code": "FYS9650",
+    "title": "Modellering av plasma ved bruk av partikler",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9650/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9650/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:42",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nINF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / IN1000 – Introduksjon til objektorientert programmering\nINF1000 – Grunnkurs i objektorientert programmering (videreført) / IN1000 – Introduksjon til objektorientert programmering\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nFYS3600 – Romfysikk og -teknologi\nFYS4620 – Grunnleggende plasmafysikk"
+    }
+  },
+  {
+    "code": "FYS9711",
+    "title": "Stråling og dosimetri",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9711/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9711/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:31:34",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1110 – Kalkulus og lineær algebra\nDet kan være en fordel med kunnskaper i fysikk tilsvarende:\nFYS2140 – Kvantefysikk\nDet kan være en fordel med kunnskaper i programmering tilsvarende:\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "FYS9715",
+    "title": "Biologisk fysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9715/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9715/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:31:40",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS2160 – Termodynamikk og statistisk fysikk (nødvendig forkunnskap dekkes av de 5 første ukene som kan følges samme semester)"
+    }
+  },
+  {
+    "code": "FYS9720",
+    "title": "Cellulær radiobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9720/",
+    "prerequisiteText": "Følgende emner må være bestått før første obligatoriske laboratorieøvelse i FYS9720:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9720/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:31:48",
+      "sourceOfferedTerms": "Høst\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS3700 – Biofysikk og medisinsk fysikk eller FYS4700 – Biofysikk og medisinsk fysikk"
+    }
+  },
+  {
+    "code": "FYS9730",
+    "title": "Medisinsk strålingsfysikk for stråleterapi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9730/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9730/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:43",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4720 – Cellulær radiobiologi\nFYS4711 – Stråling og dosimetri"
+    }
+  },
+  {
+    "code": "FYS9740",
+    "title": "MR-teori og medisinsk diagnostikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9740/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9740/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:44",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1110 – Kalkulus og lineær algebra\nFYS2140 – Kvantefysikk\nFYS3150 – Computational Physics\neller tilsvarende kunnskaper, samt kjennskap til Python, Matlab eller tilsvarende."
+    }
+  },
+  {
+    "code": "FYS9762",
+    "title": "Medisinsk avbildning med ioniserende stråling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9762/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/FYS9762/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:45",
+      "sourceOfferedTerms": "Vår\nDersom emnet tilbys kreves det minst 4 studenter for å ha ordinær undervisning. Hvis det er færre enn 4 studenter som deltar gis det eksamen, men man kan ikke forvente ordinær undervisning.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS4711 – Stråling og dosimetri"
+    }
+  },
+  {
+    "code": "HON1000",
+    "title": "Tverrfaglig tema for honours-studenter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/HON1000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/HON1000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:45",
+      "sourceOfferedTerms": "Høst\nOver to semestre, oppstart hver høst.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "HON2200",
+    "title": "Data-drevne prosjekter",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/HON2200/",
+    "prerequisiteText": "HON1000 – Tverrfaglig tema for honours-studenter\nHON2110 – Innføring i algoritmisk tenkning for honours-studenter eller\nHON2120 – Innføring i tverrfaglige forskningsmetoder for honours-studenter",
+    "prerequisiteCourses": [
+      "HON1000",
+      "HON2110",
+      "HON2120"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/HON2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:46",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MENA1001",
+    "title": "Materialer, energi og nanoteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA1001/",
+    "prerequisiteText": "Følgende emner må være bestått før første obligatoriske laboratorieundervisning i MENA1001:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:47",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Fysikk 2 og Kjemi 2 fra videregående skole."
+    }
+  },
+  {
+    "code": "MENA2000",
+    "title": "Faste materialers fundamentale oppbygning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi eller KJM1101 – Generell kjemi\nFYS1120 – Elektromagnetisme\nMAT1100 – Kalkulus\nMAT1120 – Lineær algebra\nKJM1121 – Uorganisk kjemi"
+    }
+  },
+  {
+    "code": "MENA3001",
+    "title": "Funksjonelle materialer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nKJM1121 – Uorganisk kjemi\nFYS1120 – Elektromagnetisme\nFYS2140 – Kvantefysikk\nMENA2000 – Faste materialers fundamentale oppbygning"
+    }
+  },
+  {
+    "code": "MENA3020",
+    "title": "Prosjektoppgave II",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3020/",
+    "prerequisiteText": "For å få opptak til emnet, må du ha bestått minst 30 studiepoeng i kjemi eller fysikk. For en oppgave i kjemi må du ha bestått laboratoriekurs i ett av emnene KJM1101 – Generell kjemi , KJM1121 – Uorganisk kjemi , MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner. Emner med MENA-kode kan inngå i de 30 studiepoengene. Studenter med annen lignende bakgrunn bes ta kontakt med studieadministrasjonen .\nI tillegg til instituttets eget HMS-kurs (se \"Undervisning\"), må følgende HMS-emner må være bestått før du begynner det eksperimentelle arbeidet i MENA3020:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1121",
+      "MENA1001",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:21",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MENA3100",
+    "title": "Materialkarakterisering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3100/",
+    "prerequisiteText": "Følgende HMS-emne må være tatt tidligere enn MENA3100 eller senest samme semester:\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nMENA3001 – Funksjonelle materialer\nKJM1121 – Uorganisk kjemi\nKJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk\nFYS2140 – Kvantefysikk\nKJM2400 – Analytisk kjemi I"
+    }
+  },
+  {
+    "code": "MENA3201",
+    "title": "Energimaterialer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3201/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:48",
+      "sourceOfferedTerms": "Vår\nEmnet undervises ikke våren 2026.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nKJM1121 – Uorganisk kjemi\nKJM3120 – Uorganisk materialkjemi (videreført)\nMENA3001 – Funksjonelle materialer"
+    }
+  },
+  {
+    "code": "MENA3300",
+    "title": "Nanoteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:24",
+      "sourceOfferedTerms": "Vår\nEmnet undervises hvert vårsemester fra og med våren 2020.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt)\nFYS1001 – Innføring i fysikk\nMENA1001 – Materialer, energi og nanoteknologi\neller tilsvarende."
+    }
+  },
+  {
+    "code": "MENA5020",
+    "title": "Nanochemistry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA5020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA5020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:55:57 PM",
+      "sourceOfferedTerms": "Autumn\nTeaching may be canceled if less than 5 students apply. It will still be possible for students to complete compulsory activities and exams if they wish.\nThe teaching is not offered in Fall 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Bachelor degree in MNB-MENA or Fornybar energi og nanoteknologi (bachelor) from the University of Oslo, or an equivalent background knowledge."
+    }
+  },
+  {
+    "code": "MENA5960",
+    "title": "Materialer, energi og nanoteknologi. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:52",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MENA9020",
+    "title": "Nanochemistry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA9020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA9020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:56:01 PM",
+      "sourceOfferedTerms": "Autumn\nTeaching may be canceled if less than 5 students apply. It will still be possible for students to complete compulsory activities and exams if they wish.\nThe teaching is not offered in Fall 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Bachelor degree in MENA or MENT from Univeristy of Oslo, or an equivalent background knowledge."
+    }
+  },
+  {
+    "code": "MENA9510",
+    "title": "Advanced Characterization Methods",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA9510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA9510/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:32:42 PM",
+      "sourceOfferedTerms": "Autumn\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3400 – Condensed Matter Physics and Quantum Materials\nOR MENA3001 – Functional Materials\nOR similar courses from other universities\nStudents are expected to have good knowledge of condensed matter physics and/or solid state chemistry."
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NAT2010V",
+    "title": "Fysikk og generell kjemi i naturfaget 8-11",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT2010V/",
+    "prerequisiteText": "Generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT2010V/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2015",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "I tillegg til generell studiekompetanse tar undervisningen i emnet utgangspunkt i et visst minstemål av kjennskap til naturvitenskap. Relevant bakgrunn kan f.eks. være «Naturfag 1» fra allmennlærerutdanning, fordypning i realfag fra videregående skole, eller studiepoeng i realfag fra høyere utdanningsinstitusjon."
+    }
+  },
+  {
+    "code": "NAT2020V",
+    "title": "Organisk kjemi og biologi i naturfaget 8-11",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT2020V/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT2020V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:54",
+      "sourceOfferedTerms": "Vår\nEmnet undervises ikke våren 2026.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "I tillegg til generell studiekompetanse tar undervisningen i emnet utgangspunkt i et visst minstemål av kjennskap til naturvitenskap. Relevant bakgrunn kan f.eks. være «Naturfag 1» fra allmennlærerutdanning, fordypning i realfag fra videregående skole eller studiepoeng i realfag fra høyere utdanningsinstitusjon."
+    }
+  },
+  {
+    "code": "NAT4030",
+    "title": "Naturfag 2: Kjemiske reaksjoner, stråling og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:32:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "30 stp. fordypning i naturfag fra lærerutdanning, videreutdanning eller annen høyere utdanning, for eksempel Naturfag 1"
+    }
+  },
+  {
+    "code": "NAT4040",
+    "title": "Naturfag 2: Karbonforbindelser, klima, evolusjon, økologi og praksiser i naturfag 8-13",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NAT4040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har 30 studiepoeng fordypning i naturfag fra lærerutdanning, videreutdanning eller annen høyere utdanning, for eksempel Naturfag 1.\nEmnet bygger på NAT4030 – Naturfag 2: Kjemiske reaksjoner, stråling og praksiser i naturfag 8-13 og forutsetter kunnskap tilsvarende dette emnet."
+    }
+  },
+  {
+    "code": "NUK5960",
+    "title": "Nukleærteknologi. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Physics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/NUK5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/NUK5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:56",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

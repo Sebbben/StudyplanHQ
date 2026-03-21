@@ -1,0 +1,1858 @@
+[
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK-IN5930",
+    "title": "Kybernetikk og autonome systemer. Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK-IN5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK-IN5930/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:49:54",
+      "sourceOfferedTerms": "Vår og høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK-IN5960",
+    "title": "Kybernetikk og autonome systemer. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK-IN5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK-IN5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:49:58",
+      "sourceOfferedTerms": "Vår og høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK3010",
+    "title": "Optikk og lys",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på FYS1120 – Elektromagnetisme og FYS2130 – Svingninger og bølger eller tilsvarende forkunnskaper."
+    }
+  },
+  {
+    "code": "TEK3100",
+    "title": "Arbeidspraksis innen fornybare energisystemer",
+    "credits": 20,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3100/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:16:11",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2021",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK3450",
+    "title": "Interdisciplinary Research for Sustainability: A Toolkit for the Energy Transition",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK3450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:50:06 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK4000",
+    "title": "Systems Engineering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:50:08 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK4010",
+    "title": "Optikk og lys",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på FYS1120 – Elektromagnetisme og FYS2130 – Svingninger og bølger eller tilsvarende forkunnskaper."
+    }
+  },
+  {
+    "code": "TEK4030",
+    "title": "Styring av manipulatorer og mobile roboter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Forkunnskaper fra IN3140 – Introduksjon til robotikk , TEK4040 – Matematisk modellering av dynamiske systemer eller tilsvarende er anbefalt.\nFor studenter uten emnene IN1000 – Introduksjon til objektorientert programmering eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser , MAT1110 – Kalkulus og lineær algebra , samt kjennskap til Laplace-transformasjon, vil dette emnet kreve mer arbeid."
+    }
+  },
+  {
+    "code": "TEK4040",
+    "title": "Matematisk modellering av dynamiske systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt av MAT1110 – Kalkulus og lineær algebra , MAT1120 – Lineær algebra , MAT-INF1310 – Differensiallikninger (nedlagt) , MAT2310 – Optimal kontrollteori (nedlagt) og INF-MAT4350 – Numerisk lineær algebra (nedlagt) ."
+    }
+  },
+  {
+    "code": "TEK4050",
+    "title": "Stokastiske systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:28",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt av MAT1110 – Kalkulus og lineær algebra , MAT1120 – Lineær algebra , MAT-INF1310 – Differensiallikninger (nedlagt) , STK1100 – Sannsynlighetsregning og statistisk modellering og INF-MAT3350 – Numerisk lineær algebra (nedlagt) ."
+    }
+  },
+  {
+    "code": "TEK4090",
+    "title": "Moderne kontrollsystemer og kybernetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4090/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4090/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:38",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK4100",
+    "title": "Signalbehandling i radiokommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4100/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:16:49",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det anbefales å ha tatt IN3190 – Digital signalbehandling / IN4190 – Digital signalbehandling eller IN4160 – Digital systemkonstruksjon ."
+    }
+  },
+  {
+    "code": "TEK4120",
+    "title": "Mobilkommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4120/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:16:56",
+      "sourceOfferedTerms": "Vår og høst\nUndervisning tilbys siste gang\nvår 2021",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kunnskaper innen informatikk og matematikk."
+    }
+  },
+  {
+    "code": "TEK4450",
+    "title": "Interdisciplinary Research for Sustainability: A Toolkit for the Energy Transition",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:50:39 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK4500",
+    "title": "Innføring i kryptografi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:45",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet vektlegger presise matematiske definisjoner, så litt matematisk modenhet vil være nyttig. Men emnet vil stort sett dekke alle de nødvendig forkunnskapene i forelesningene. Når det er sagt, kjennskap til noen av de følgende emnene kan likevel være nyttig (men ikke påkrevd):\nsannsynligetsregning ( STK1100 – Sannsynlighetsregning og statistisk modellering )\ndiskret matematikk ( MAT2250 – Diskret matematikk (nedlagt) )\nalgoritmer ( IN3130 – Algoritmer: Design og effektivitet )\ninformasjonssikkerhet ( IN2120 – Informasjonssikkerhet )"
+    }
+  },
+  {
+    "code": "TEK4560",
+    "title": "Basic Security in Cyber-Physical Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4560/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4560/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:50:47 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK4700",
+    "title": "Romsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:50",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet forutsetter grunnleggende matematikk-, fysikk- og programmeringskunnskaper. Emner som gir nyttig bakgrunnskunnskap, men som ikke er nødvendige for å ha utbytte av emnet, er MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) , FYS1100 – Mekanikk og modellering , FYS1105 – Klassisk mekanikk , FYS1120 – Elektromagnetisme ."
+    }
+  },
+  {
+    "code": "TEK4710",
+    "title": "Romsensorer og kommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK4710/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:52",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er nyttig å ha kjennskap til grunnleggende elektronikk, signalteori og fysikk. Enkel programmering kan være nødvendig for å gjennomføre øvingsoppgavene."
+    }
+  },
+  {
+    "code": "TEK5010",
+    "title": "Multiagent-systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:50:58",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med programmering tilsvarende IN2010 – Algoritmer og datastrukturer er anbefalt. Emnet IN3050 – Introduksjon til kunstig intelligens og maskinlæring kan være nyttig forkunnskap."
+    }
+  },
+  {
+    "code": "TEK5020",
+    "title": "Mønstergjenkjenning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt av MAT1120 – Lineær algebra , MAT1110 – Kalkulus og lineær algebra og STK1000 – Innføring i anvendt statistikk ."
+    }
+  },
+  {
+    "code": "TEK5030",
+    "title": "Maskinsyn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kurs i bildebehandling og bildeanalyse. Gode kunnskaper i lineær algebra anbefales."
+    }
+  },
+  {
+    "code": "TEK5040",
+    "title": "Dyp læring for autonome systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med gode kunnskaper i lineær algebra, statistikk og kalkulus, tilsvarende for eksempel fra MAT1110 – Kalkulus og lineær algebra / MAT1120 – Lineær algebra , STK1100 – Sannsynlighetsregning og statistisk modellering .\nEmnet bygger på grunnleggende kunnskap om maskinlæring og nevrale nettverk, for eksempel fra IN3050 – Introduksjon til kunstig intelligens og maskinlæring / IN4050 – Introduksjon til kunstig intelligens og maskinlæring eller IN5400 – Maskinlæring for bildeanalyse (videreført) ."
+    }
+  },
+  {
+    "code": "TEK5050",
+    "title": "Avbildning og deteksjon av optisk og infrarød stråling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er nyttig å ha kjennskap til grunnleggende elektronikk, signalteori og fysikk, inklusiv grunnleggende halvlederfysikk tilsvarende FYS3400 – Kondenserte fasers fysikk og kvantematerialer , men det blir gitt korte introduksjoner til stoff som hentes fra andre fagfelt."
+    }
+  },
+  {
+    "code": "TEK5070",
+    "title": "Trådløs kommunikasjon for autonome og kritiske sensorsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:25",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har matematikk fra bachelornivå. Noe forståelse av statistikk er en fordel, men ikke et absolutt krav. Det kan også være nyttig med grunnleggende signalbehandling."
+    }
+  },
+  {
+    "code": "TEK5100",
+    "title": "Mobilitet i Internett og ad-hoc nettverk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5100/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:17:44",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2021",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med breddekunnskap om internettprotokoller- og arkitekturer. Emnet bygger på kunnskaper tilsvarende de gitt av INF3190 – Datakommunikasjon (videreført) ."
+    }
+  },
+  {
+    "code": "TEK5110",
+    "title": "Building and Monitoring Communication Networks",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:29 PM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended that you have some knowledge on wave theory, fundamentals of data communication."
+    }
+  },
+  {
+    "code": "TEK5130",
+    "title": "Satellittkommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:29",
+      "sourceOfferedTerms": "Høst\nUndervises når behov og ressurser tilsier det. Kontakt studieinfo@its.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger grunnleggende kunnskap innen radio- og/eller digitalkommunikasjon, og det vil være en fordel med kunnskaper fra et eller flere av emnene TEK5140 – Antenner og radiobølgeutbredelse , TEK4120 – Mobilkommunikasjon , og TEK4100 – Signalbehandling i radiokommunikasjon ."
+    }
+  },
+  {
+    "code": "TEK5140",
+    "title": "Antenner og radiobølgeutbredelse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:39",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2022",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt av FYS1120 – Elektromagnetisme ."
+    }
+  },
+  {
+    "code": "TEK5160",
+    "title": "Fjernmåling med radar",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:49",
+      "sourceOfferedTerms": "Vår\nEmnet undervises ikke vår 2024.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet forutsetter grunnleggende matematikkunnskaper, blant annet regning med komplekse tall, enkel Fourier-analyse og sannsynlighetsregning. Regneøvelsene tar utgangspunkt i moderne numeriske verktøy som python og matlab. Emner som gir nyttig bakgrunnskunnskap, men som ikke er nødvendige for å ha utbytte av emnet, er MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) , FYS1120 – Elektromagnetisme ."
+    }
+  },
+  {
+    "code": "TEK5300",
+    "title": "Renewable Energy: Science and Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:29 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK5310",
+    "title": "Solceller",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:59",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kunnskaper gitt i FYS1120 – Elektromagnetisme , FYS2140 – Kvantefysikk og FYS2160 – Termodynamikk og statistisk fysikk eller tilsvarende er anbefalt. I tillegg vil grunnleggende kjennskap til halvleder fra FYS2210 – Halvlederkomponenter (videreført) være en fordel."
+    }
+  },
+  {
+    "code": "TEK5320",
+    "title": "Battery Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5320/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:25:02 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is based on knowledge as given by the courses TEK5300 – Renewable Energy: Science and Technology and MENA3200 – Energy Materials (continued) . The course is designed for master's students with limited experience in electrochemistry."
+    }
+  },
+  {
+    "code": "TEK5330",
+    "title": "Solenergisystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5330/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:25:08",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1120 – Elektromagnetisme og/eller UNIK4450 – Solceller (videreført) / TEK5310 – Solceller er en fordel."
+    }
+  },
+  {
+    "code": "TEK5340",
+    "title": "Energisystemanalyse: modellering, metoder og scenarioer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:25:15",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt i grunnblokken i bachelorprogrammet Matematikk med informatikk (bachelor) (videreført) . I tillegg vil det være en fordel dersom du har tatt ett eller flere av følgende emner:\nFYS3320 – Fysikk og energiressurser (nedlagt)\nMAT-INF3100 – Lineær optimering (videreført)\nTEK5300 – Renewable Energy: Science and Technology"
+    }
+  },
+  {
+    "code": "TEK5350",
+    "title": "Energy Markets and Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5350/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:30 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course builds on previous knowledge similar to that obtained in the bachelor's degree program in Mathematics, Natural Sciences, Engineering."
+    }
+  },
+  {
+    "code": "TEK5370",
+    "title": "Grid, smartgrid og IoT",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5370/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5370/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK5380",
+    "title": "Prosjekt innen fornybar energi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5380/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5380/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:25:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det vil være fordelaktig med forkunnskaper innen\nfornybare energisystemer, fortrinnsvis systemer basert på solceller eller vindmøller\nenergilagringsteknologier, fortrinnsvis innen batterier, men også noe kunnskap om konvertering til/fra hydrogen via lavtemperatur vannelektrolyse/brenselceller er anbefalt\nMicrosoft Office, inkludert Project Manager og Visio\nmodellering og/eller databehandling i Matlab, Python, EES o.l. (noe erfaring)"
+    }
+  },
+  {
+    "code": "TEK5390",
+    "title": "Hydrogen Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5390/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:31 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in chemistry/physics, thermodynamics, solid-state chemistry/physics is recommended."
+    }
+  },
+  {
+    "code": "TEK5410",
+    "title": "Energy Markets and Regulation - Electricity System Modelling and Analysis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:32 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course links to the course TEK5350 – Energy Markets and Regulation . While TEK5350 is not a prerequisite, we advise you to go through the book Electricity Markets: Pricing, Structures and Economics before starting this course.\nFor those without previous knowledge in programming we advise you to attend one of the workshops on Programming in Python organized by UiO ."
+    }
+  },
+  {
+    "code": "TEK5420",
+    "title": "Norway’s Energy Transitions: Policy Directions and Challenges",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5420/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:32 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is intended for all students at master's level and does not require previous courses within social sciences. It builds on and expands on knowledge and skills similar to that obtained through the bachelor’s degree program in Mathematics, Natural Sciences, Engineering."
+    }
+  },
+  {
+    "code": "TEK5430",
+    "title": "Innovation in Energy Technologies",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5430/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:33 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "You should have a bachelor's degree from the natural sciences or relevant background from the social sciences (e.g. entrepreneurship, innovation studies or science and technology studies)."
+    }
+  },
+  {
+    "code": "TEK5440",
+    "title": "Batteries: Technology and Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5440/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:33 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course builds upon knowledge obtained at the bachelor's level within natural sciences and/or engineering. This includes basic chemistry, physics, and materials science."
+    }
+  },
+  {
+    "code": "TEK5450",
+    "title": "Introduction to the Energy-Climate Interface: How Does the Climate Impact Future Renewable Energy Systems?",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:34 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This interdisciplinary course is equally suited for students with interests in renewable energy systems and in meteorology or climate science. Students from other fields with fundamental mathematical knowledge at the early bachelor's level (i.e., introductory level calculus or statistics or general math) may also apply.\nWe start with the basics of energy and climate modelling. Consequently, there are no strict requirements related to energy or climate modelling knowledge, but an interest in numerical models, climate, renewables, and how to stop climate change is beneficial. Some experience with numerical data analysis is a plus."
+    }
+  },
+  {
+    "code": "TEK5510",
+    "title": "Sikkerhet i operativsystemer og programvare",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5510/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med grunnleggende kunnskaper innen programmering og matematikk."
+    }
+  },
+  {
+    "code": "TEK5520",
+    "title": "Cybersikkerhet i industrielle systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5520/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:36",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har kunnskap tilsvarende IN2120 – Informasjonssikkerhet , TEK5500 – Sikkerhet i distribuerte systemer (nedlagt) eller UNIK4190 – Informasjonsteori og feilkontroll (nedlagt) ."
+    }
+  },
+  {
+    "code": "TEK5530",
+    "title": "Målbar sikkerhet for IoT-baserte systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:26:07",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kunnskaper i informasjonssikkerhet."
+    }
+  },
+  {
+    "code": "TEK5550",
+    "title": "Avanserte områder innen kryptologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5550/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:26:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende en bachelorgrad innen matematikk og informatikk.\nStudentene bør ha tatt TEK4500 – Innføring i kryptografi eller ha tilsvarende kunnskap innen kryptologi.\nDet er en fordel å kjenne til grunnleggende algebra."
+    }
+  },
+  {
+    "code": "TEK5570",
+    "title": "Project Course in Cyber-Physical Systems Security",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5570/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:38 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This course is closely related to the course TEK4560 – Basic Security in Cyber-Physical Systems . Students should have a foundational understanding of (i) cyber-physical systems and (ii) cybersecurity aspects within these systems. Therefore, it is recommended that students have successfully completed the TEK4560 course and possess a basic proficiency in the English language."
+    }
+  },
+  {
+    "code": "TEK5600",
+    "title": "Visualisering av vitenskapelige data",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:26:21",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Noe kunnskap i matematikk og programmering vil være en fordel."
+    }
+  },
+  {
+    "code": "TEK5710",
+    "title": "Design av småsatellitter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5710/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper gitt i emnene TEK4700 – Romsystemer og TEK4710 – Romsensorer og kommunikasjon .\nDet vil være en fordel med kunnskaper fra et eller flere av emnene MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT1120 – Lineær algebra , FYS1100 – Mekanikk og modellering , FYS3600 – Romfysikk og -teknologi , IN3190 – Digital signalbehandling , MAT3440 – Dynamiske systemer .\nVidere er det en fordel med kunnskap om 3D modellering/CAD og programmering i Python, Matlab, C/C++ eller lignende."
+    }
+  },
+  {
+    "code": "TEK5720",
+    "title": "Prosjekt innen romsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5720/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5720/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:26:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt å ha kunnskap om anvendt systemutvikling i rom. Emnene TEK4000 – Systems Engineering og TEK4700 – Romsystemer gir nødvendig kunnskap.\nI tillegg forutsetter emnet grunnleggende matematikk-, fysikk- og programmeringskunnskaper. Emner som gir nyttig bakgrunnskunnskap, men som ikke er nødvendige for å ha utbytte av emnet, er MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) , FYS1100 – Mekanikk og modellering , FYS1105 – Klassisk mekanikk , FYS1120 – Elektromagnetisme ."
+    }
+  },
+  {
+    "code": "TEK5930",
+    "title": "Teknologisystemer. Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5930/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:39",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK5960",
+    "title": "Teknologisystemer. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:40",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK9010",
+    "title": "Multiagent-systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med programmering tilsvarende IN2010 – Algoritmer og datastrukturer er anbefalt. Emnet IN3050 – Introduksjon til kunstig intelligens og maskinlæring kan være nyttig forkunnskap."
+    }
+  },
+  {
+    "code": "TEK9020",
+    "title": "Mønstergjenkjenning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:41",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt av MAT1120 – Lineær algebra , MAT1110 – Kalkulus og lineær algebra , og STK1000 – Innføring i anvendt statistikk ."
+    }
+  },
+  {
+    "code": "TEK9030",
+    "title": "Maskinsyn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:42",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kurs i bildebehandling og bildeanalyse. Gode kunnskaper i lineær algebra anbefales."
+    }
+  },
+  {
+    "code": "TEK9040",
+    "title": "Dyp læring for autonome systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:43",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med gode kunnskaper i lineær algebra, statistikk og kalkulus, tilsvarende for eksempel fra MAT1110 – Kalkulus og lineær algebra / MAT1120 – Lineær algebra , STK1100 – Sannsynlighetsregning og statistisk modellering .\nEmnet bygger på grunnleggende kunnskap om maskinlæring og nevrale nettverk, for eksempel fra IN3050 – Introduksjon til kunstig intelligens og maskinlæring / IN4050 – Introduksjon til kunstig intelligens og maskinlæring eller IN5400 – Maskinlæring for bildeanalyse (videreført) ."
+    }
+  },
+  {
+    "code": "TEK9050",
+    "title": "Avbildning og deteksjon av optisk og infrarød stråling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:44",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er nyttig å ha kjennskap til grunnleggende elektronikk, signalteori og fysikk, inklusiv grunnleggende halvlederfysikk tilsvarende FYS3410 – Kondenserte fasers fysikk (videreført) , men det blir gitt korte introduksjoner til stoff som hentes fra andre fagfelt."
+    }
+  },
+  {
+    "code": "TEK9100",
+    "title": "Mobilitet i Internett og ad-hoc nettverk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:27:11",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2021",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med breddekunnskap om internettprotokoller og -arkitekturer. Emnet bygger på kunnskaper tilsvarende de gitt av INF3190 – Datakommunikasjon (videreført) ."
+    }
+  },
+  {
+    "code": "TEK9110",
+    "title": "Building and Monitoring Communication Networks",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:44 PM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommened that you have some knowledge on wave theory, fundamentals of data communication."
+    }
+  },
+  {
+    "code": "TEK9130",
+    "title": "Satellittkommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:45",
+      "sourceOfferedTerms": "Høst\nUndervises når behov og ressurser tilsier det. Kontakt studieinfo@its.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger grunnleggende kunnskap innen radio- og/eller digitalkommunikasjon, og det vil være en fordel med kunnskaper fra et eller flere av emnene TEK5140 – Antenner og radiobølgeutbredelse , TEK4120 – Mobilkommunikasjon og TEK4100 – Signalbehandling i radiokommunikasjon ."
+    }
+  },
+  {
+    "code": "TEK9140",
+    "title": "Antenner og radiobølgeutbredelse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:27:23",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2022",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper fra FYS1120 – Elektromagnetisme eller tilsvarende."
+    }
+  },
+  {
+    "code": "TEK9160",
+    "title": "Fjernmåling med radar",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:45",
+      "sourceOfferedTerms": "Vår\nDette emnet undervises ikke vår 2024.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet forutsetter grunnleggende matematikkunnskaper, bl.a. regning med komplekse tall, enkel Fourier-analyse og sannsynlighetsregning. Regneøvelsene tar utgangspunkt i moderne numeriske verktøy som Python eller MatLab. Emner som gir nyttig bakgrunnskunnskap, men som ikke er nødvendige for å ha utbytte av emnet, er MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) , FYS1120 – Elektromagnetisme ."
+    }
+  },
+  {
+    "code": "TEK9300",
+    "title": "Renewable Energy: Science and Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:46 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK9310",
+    "title": "Solceller",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:27:42",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kunnskaper gitt i FYS1120 – Elektromagnetisme , FYS2140 – Kvantefysikk og FYS2160 – Termodynamikk og statistisk fysikk eller tilsvarende er anbefalt. I tillegg vil grunnleggende kjennskap til halvleder fra FYS2210 – Halvlederkomponenter (videreført) være en fordel."
+    }
+  },
+  {
+    "code": "TEK9320",
+    "title": "Battery Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9320/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:27:45 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is based on knowledge as given by the courses TEK5300 – Renewable Energy: Science and Technology and MENA3200 – Energy Materials (continued) . The course is designed for master's students with limited experience in electrochemistry."
+    }
+  },
+  {
+    "code": "TEK9330",
+    "title": "Solenergisystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9330/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1120 – Elektromagnetisme og/eller UNIK4450 – Solceller (videreført) / TEK5310 – Solceller er en fordel."
+    }
+  },
+  {
+    "code": "TEK9340",
+    "title": "Energisystemanalyse: modellering, metoder og scenarioer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende de gitt i grunnblokken i bachelorprogrammet Matematikk med informatikk (bachelor) (videreført) . I tillegg vil det være en fordel dersom du har tatt ett eller flere av følgende emner:\nFYS3320 – Fysikk og energiressurser (nedlagt)\nMAT-INF3100 – Lineær optimering (videreført)\nTEK5300 – Renewable Energy: Science and Technology"
+    }
+  },
+  {
+    "code": "TEK9350",
+    "title": "Energy Markets and Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9350/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:48 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course builds on previous knowledge similar to that obtained in the bachelor's degree program in Mathematics, Natural Sciences, Engineering."
+    }
+  },
+  {
+    "code": "TEK9390",
+    "title": "Hydrogen Technology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9390/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:49 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in chemistry/physics, thermodynamics, and solid-state chemistry/physics is recommended."
+    }
+  },
+  {
+    "code": "TEK9410",
+    "title": "Energy Markets and Regulation - Electricity System Modelling and Analysis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:49 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course links to the course TEK5350 – Energy Markets and Regulation . While TEK5350 is not a prerequisite, we advise you to go through the book Electricity Markets: Pricing, Structures and Economics before starting this course.\nFor those without previous knowledge in programming, we advise you to attend one of the workshops on Programming in Python organized by UiO ."
+    }
+  },
+  {
+    "code": "TEK9430",
+    "title": "Innovation in Energy Technologies",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9430/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:51:50 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "You should have a bachelor's degree from the natural sciences or relevant background from the social sciences (e.g. entrepreneurship, innovation studies or science and technology studies)."
+    }
+  },
+  {
+    "code": "TEK9450",
+    "title": "Interdisciplinary Research for Sustainability: A Toolkit for the Energy Transition",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:28:15 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEK9510",
+    "title": "Sikkerhet i operativsystemer og programvare",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9510/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:50",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er anbefalt med grunnleggende kunnskaper innen programmering og matematikk."
+    }
+  },
+  {
+    "code": "TEK9520",
+    "title": "Cybersikkerhet i industrielle systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9520/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:51",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Vi anbefaler at du har kunnskap tilsvarende IN2120 – Informasjonssikkerhet , TEK5500 – Sikkerhet i distribuerte systemer (nedlagt) eller UNIK4190 – Informasjonsteori og feilkontroll (nedlagt) ."
+    }
+  },
+  {
+    "code": "TEK9530",
+    "title": "Målbar sikkerhet for IoT-baserte systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kunnskaper i informasjonssikkerhet."
+    }
+  },
+  {
+    "code": "TEK9550",
+    "title": "Avanserte områder innen kryptologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9550/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:53",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende en bachelorgrad innen matematikk og informatikk.\nStudentene bør ha tatt TEK4500 – Innføring i kryptografi eller ha tilsvarende kunnskap innen kryptologi.\nDet er en fordel å kjenne til grunnleggende algebra."
+    }
+  },
+  {
+    "code": "TEK9600",
+    "title": "Visualisering av vitenskapelige data",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:51:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Noe bakgrunn i matematikk og programmering vil være en fordel."
+    }
+  },
+  {
+    "code": "TEK9610",
+    "title": "Turbulence Theory",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Technology Systems",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/its/TEK9610/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:18:17 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2021",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "UNIK9900 – Advanced Turbulence Modeling and Simulations (continued) / TEK9620 – Advanced Turbulence Modelling and Simulations (discontinued) or similar."
+    }
+  }
+]

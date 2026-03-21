@@ -1,0 +1,2614 @@
+[
+  {
+    "code": "GEO-AST3410",
+    "title": "Planetologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO-AST3410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO-AST3410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:33:16",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling / AST2000 – Innføring i astrofysikk / AST1100 – Innføring i astrofysikk (videreført)\n4.-semester-emner innenfor Geofysikk og klima (bachelor) eller «generell/programmeringsbasert astronomi»"
+    }
+  },
+  {
+    "code": "GEO-AST4410",
+    "title": "Planetologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO-AST4410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO-AST4410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:33:23",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling / AST2000 – Innføring i astrofysikk / AST1100 – Innføring i astrofysikk (videreført)\n4.-semester-emner innenfor Geofysikk og klima (bachelor) eller «generell/programmeringsbasert astronomi»"
+    }
+  },
+  {
+    "code": "GEO1000",
+    "title": "Klima og bærekraft: Naturlige prosesser og menneskets påvirkning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:33:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet krever ingen forkunnskaper ut over generell studiekompetanse."
+    }
+  },
+  {
+    "code": "GEO1100",
+    "title": "Jordens utvikling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1100/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:33:33",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO1110",
+    "title": "Jordens indre og ytre prosesser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1110/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:57",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling"
+    }
+  },
+  {
+    "code": "GEO2110",
+    "title": "Mineralogi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2110/",
+    "prerequisiteText": "GEO1110 – Jordens indre og ytre prosesser\nDet er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1110",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling"
+    }
+  },
+  {
+    "code": "GEO2120",
+    "title": "Sedimentologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2120/",
+    "prerequisiteText": "GEO1110 – Jordens indre og ytre prosesser\nDet er et obligatoriske feltkurs i emnet. Før feltkurset er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1110",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling"
+    }
+  },
+  {
+    "code": "GEO2130",
+    "title": "Strukturgeologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2130/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:06",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling\nGEO1110 – Jordens indre og ytre prosesser\nGEO2120 – Sedimentologi\neller ha tilsvarende forkunnskaper"
+    }
+  },
+  {
+    "code": "GEO2140",
+    "title": "Faste jords geofysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:13",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nGEO1100 – Jordens utvikling\nFYS-MEK1110 – Mekanikk (nedlagt)"
+    }
+  },
+  {
+    "code": "GEO2150",
+    "title": "Petrologi og geokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2150/",
+    "prerequisiteText": "GEO1110 – Jordens indre og ytre prosesser\nGEO2110 – Mineralogi\nEmnet inkluderer laboratoriearbeid. Et HMS-kurs for sikkerhet i laboratorie må være bestått før du kan melde deg opp til emnet:\nHMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "GEO1110",
+      "GEO2110",
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling"
+    }
+  },
+  {
+    "code": "GEO2160",
+    "title": "Paleontologi og paleoøkologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2160/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO2210",
+    "title": "Geomorfologi og glasiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2210/",
+    "prerequisiteText": "GEO1100 – Jordens utvikling\nDet er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1100",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:34",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "GEO1110 – Jordens indre og ytre prosesser / GEO2300 – Geofysisk modellering med Python"
+    }
+  },
+  {
+    "code": "GEO2300",
+    "title": "Geofysisk modellering med Python",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO1100 – Jordens utvikling\nMEK1100 – Feltteori og vektoranalyse\nFYS-MEK1110 – Mekanikk (nedlagt)"
+    }
+  },
+  {
+    "code": "GEO2310",
+    "title": "Meteorologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2310/",
+    "prerequisiteText": "GEO2300 – Geofysisk modellering med Python\nDet er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO2300",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK1100 – Feltteori og vektoranalyse\nFYS-MEK1110 – Mekanikk (nedlagt)"
+    }
+  },
+  {
+    "code": "GEO2320",
+    "title": "Oseanografi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2320/",
+    "prerequisiteText": "GEO2300 – Geofysisk modellering med Python\nDet er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO2300",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:00:54",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK1100 – Feltteori og vektoranalyse\nFYS-MEK1110 – Mekanikk (nedlagt)"
+    }
+  },
+  {
+    "code": "GEO2330",
+    "title": "Hydrologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2330/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO2330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:01",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus eller tilsvarende kunnskap\nGEO1100 – Jordens utvikling eller tilsvarende kunnskap\nGEO2300 – Geofysisk modellering med Python eller tilsvarende kunnskap\nIN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser eller tilsvarende kunnskap"
+    }
+  },
+  {
+    "code": "GEO3000",
+    "title": "Bacheloroppgave i geofag",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3000/",
+    "prerequisiteText": "GEO1100 – Jordens utvikling + GEO1110 – Jordens indre og ytre prosesser / GEO2300 – Geofysisk modellering med Python\nEller:\nGEO1010 – Naturgeografi (nedlagt) + GEO1020 – Geologiske prosesser og materialer (nedlagt) + GEO1030 – Vind, strøm og klima (nedlagt) / GEF1100 – Klimasystemet (nedlagt)\nProsjektarbeidet kan innbefatte felt- og laboratoriearbeid. Du må ha tatt to HMS-emner:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1100",
+      "GEO1110",
+      "GEO2300",
+      "GEO1010",
+      "GEO1020",
+      "GEO1030",
+      "GEF1100",
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Obligatoriske emner i bachelorprogrammene i geofag."
+    }
+  },
+  {
+    "code": "GEO3010",
+    "title": "Felt- og kartkurs",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3010/",
+    "prerequisiteText": "Enten:\nGEO1100 – Jordens utvikling + GEO1110 – Jordens indre og ytre prosesser + GEO2120 – Sedimentologi / GEL2120 – Sedimentologi, paleontologi og stratigrafi (nedlagt)\nGEO2130 – Strukturgeologi / GEL2130 – Strukturgeologi (videreført)\neller:\nGEO1010 – Naturgeografi (nedlagt) + GEO1020 – Geologiske prosesser og materialer (nedlagt) + GEL2120 – Sedimentologi, paleontologi og stratigrafi (nedlagt) / GEO2120 – Sedimentologi\nGEO2130 – Strukturgeologi / GEL2130 – Strukturgeologi (videreført)\nDet er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1100",
+      "GEO1110",
+      "GEO2120",
+      "GEL2120",
+      "GEO2130",
+      "GEL2130",
+      "GEO1010",
+      "GEO1020",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:16",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO3030",
+    "title": "Livets utvikling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentologi / GEL2120 – Sedimentologi, paleontologi og stratigrafi (nedlagt)"
+    }
+  },
+  {
+    "code": "GEO3032",
+    "title": "Klimaforandringer og effekter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3032/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3032/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på GEO1100 – Jordens utvikling og GEO2300 – Geofysisk modellering med Python , og det er også anbefalt å ha noe kunnskap innen GEO2310 – Meteorologi , GEO2320 – Oseanografi og GEO2330 – Hydrologi ."
+    }
+  },
+  {
+    "code": "GEO3034",
+    "title": "Geofarer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3034/",
+    "prerequisiteText": "GEO1100 – Jordens utvikling eller tilsvarende\nGEO1110 – Jordens indre og ytre prosesser / GEO2300 – Geofysisk modellering med Python eller tilsvarende\nDet er obligatoriske ekskursjon i emnet og det er et krav at du har bestått et HMS-kurs i feltsikkerhet før felt:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1100",
+      "GEO1110",
+      "GEO2300",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3034/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentologi / GEO2210 – Geomorfologi og glasiologi / GEO2330 – Hydrologi / GEO3460 – Geografiske informasjonssystemer (GIS) og geografisk datainnsamling / GEO2130 – Strukturgeologi / GEO2140 – Faste jords geofysikk eller tilsvarende"
+    }
+  },
+  {
+    "code": "GEO3050",
+    "title": "Arbeidspraksis i geofag",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:33:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO3100",
+    "title": "Environmental Geology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:01:47 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "At least an introductory course in geosciences and/or environmental sciences is recommended as previous knowledge."
+    }
+  },
+  {
+    "code": "GEO3211",
+    "title": "Petroleumsystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:01:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentologi / GEL2120 – Sedimentologi, paleontologi og stratigrafi (nedlagt) eller lignende\nGrunnleggende kunnskaper i kjemi vil være en fordel."
+    }
+  },
+  {
+    "code": "GEO3240",
+    "title": "Seismisk tolkning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:03",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1001 – Matematikk 1 (nedlagt) / MAT1100 – Kalkulus eller tilsvarende\nFYS1001 – Innføring i fysikk / FYS1000 – Fysikk-basisfag for naturvitenskap og medisin (videreført) eller tilsvarende\nGEO1020 – Geologiske prosesser og materialer (nedlagt) / GEO1100 – Jordens utvikling + GEO1110 – Jordens indre og ytre prosesser\nGEO2140 – Faste jords geofysikk / GEL2140 – Geofysikk og global tektonikk (videreført)"
+    }
+  },
+  {
+    "code": "GEO3460",
+    "title": "Geografiske informasjonssystemer (GIS) og geografisk datainnsamling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3460/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:10",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO3512",
+    "title": "Fjernanalyse av atmosfæren",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3512/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3512/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:13",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO3515",
+    "title": "Fjernanalyse av jordens overflate",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3515/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO3515/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:20",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4012",
+    "title": "Scientific Writing and Presentation",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4012/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:25 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4014",
+    "title": "Basin Analysis Seminar and Field Course",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4014/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4014/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:29 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4034",
+    "title": "Geofarer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4034/",
+    "prerequisiteText": "GEO1100 – Jordens utvikling eller tilsvarende\nGEO1110 – Jordens indre og ytre prosesser / GEO2300 – Geofysisk modellering med Python eller tilsvarende\nDet er obligatoriske ekskursjon i emnet og det er et krav at du har bestått et HMS-kurs i feltsikkerhet før felt:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "GEO1100",
+      "GEO1110",
+      "GEO2300",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4034/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentologi / GEO2210 – Geomorfologi og glasiologi / GEO2330 – Hydrologi / GEO3460 – Geografiske informasjonssystemer (GIS) og geografisk datainnsamling / GEO2130 – Strukturgeologi / GEO2140 – Faste jords geofysikk eller tilsvarende"
+    }
+  },
+  {
+    "code": "GEO4100",
+    "title": "Environmental Geology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:39 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "At least an introductory course in geosciences and/or environmental sciences is recommended as previous knowledge."
+    }
+  },
+  {
+    "code": "GEO4120",
+    "title": "Near-Surface Geophysics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4120/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:43 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus / MAT1001 – Mathematics 1 (discontinued) or equivalent knowledge\nFYS1001 – Introduction to Physics / FYS1000 – Physics- the foundation of natural sciences and medicine (continued) or equivalent knowledge"
+    }
+  },
+  {
+    "code": "GEO4131",
+    "title": "Geomechanics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4131/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4131/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:46 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus\nFYS1001 – Introduction to Physics\nIN-GEO1900 – Introduction to Programming for Geosciences"
+    }
+  },
+  {
+    "code": "GEO4140",
+    "title": "Environmental stratigraphy",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4140/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:50 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A bachelor's degree in geosciences is recommended. Some knowledge of biology and geochemistry would be helpful."
+    }
+  },
+  {
+    "code": "GEO4151",
+    "title": "Earthquake and Volcanic Processes",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4151/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4151/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:53 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4131 – Geomechanics\nBasic maths and programming"
+    }
+  },
+  {
+    "code": "GEO4161",
+    "title": "Contaminants in the Geoenvironment",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4161/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4161/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:02 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4171",
+    "title": "Floods, Avalanches and Landslides",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4171/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4171/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:56 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus / MAT1001 – Mathematics 1 (discontinued)\nFYS1001 – Introduction to Physics / FYS-MEK1110 – Mechanics (discontinued)\nSTK1000 – Introduction to Applied Statistics\nGEO4131 – Geomechanics\nGEO4034 – Geohazards\nor equivalent knowledge"
+    }
+  },
+  {
+    "code": "GEO4190",
+    "title": "Hydrogeology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4190/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:11 PM",
+      "sourceOfferedTerms": "Autumn 2026",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Bachelor's degree in Geosciences or Applied Mathematics"
+    }
+  },
+  {
+    "code": "GEO4211",
+    "title": "Petroleum Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4211/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:15 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentology / GEL2120 – Sedimentology, paleontology and stratigraphy (discontinued) or similar knowledge\nSome basic knowledge in chemistry would be helpful."
+    }
+  },
+  {
+    "code": "GEO4212",
+    "title": "Paleozoologi, systematikk og evolusjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4212/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjon er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4212/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:34:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentologi / GEL2120 – Sedimentologi, paleontologi og stratigrafi (nedlagt)\nGEO2160 – Paleontologi og paleoøkologi"
+    }
+  },
+  {
+    "code": "GEO4214",
+    "title": "Palynology, Palaeobotany and Palaeoclimatology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4214/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4214/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:56 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2120 – Sedimentology / GEO2160 – Paleontology and Paleoecology / GEL2120 – Sedimentology, paleontology and stratigraphy (discontinued)"
+    }
+  },
+  {
+    "code": "GEO4216",
+    "title": "Sedimentology and Sequence Stratigraphy",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4216/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4216/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:30 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4240",
+    "title": "Seismisk tolkning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:57",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1001 – Matematikk 1 (nedlagt) / MAT1100 – Kalkulus eller tilsvarende\nFYS1001 – Innføring i fysikk / FYS1000 – Fysikk-basisfag for naturvitenskap og medisin (videreført) eller tilsvarende\nGEO1020 – Geologiske prosesser og materialer (nedlagt) / GEO1100 – Jordens utvikling + GEO1110 – Jordens indre og ytre prosesser\nGEO2140 – Faste jords geofysikk / GEL2140 – Geofysikk og global tektonikk (videreført)"
+    }
+  },
+  {
+    "code": "GEO4250",
+    "title": "Subsurface Characterization",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4250/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:40 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO3211 – Petroleum Systems"
+    }
+  },
+  {
+    "code": "GEO4260",
+    "title": "Geophysical Monitoring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4260/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:57 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4300",
+    "title": "Geophysical Data Science",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:48 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus / MAT1001 – Mathematics 1 (discontinued) or similar knowledge\nSTK1100 – Probability and Statistical Modelling / STK1000 – Introduction to Applied Statistics or similar knowledge\na bachelor's course in hydrology / meteorology / climatology / physical geography"
+    }
+  },
+  {
+    "code": "GEO4320",
+    "title": "Hydrological Modelling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4320/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:34:52 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus / MAT1001 – Mathematics 1 (discontinued) or similar knowledge\nSTK1000 – Introduction to Applied Statistics / STK1100 – Probability and Statistical Modelling or similar knowledge\nGEO4300 – Geophysical Data Science / GEO4310 – Stochastic methods in hydrology (continued) or similar knowledge\nAlso, a background of bachelor's level courses in hydrology / meteorology / climatology / physical geography would be useful."
+    }
+  },
+  {
+    "code": "GEO4340",
+    "title": "Fluvial Hydrology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4340/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:58 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2330 – Hydrology / GEO2010 – Surface hydrology (continued)"
+    }
+  },
+  {
+    "code": "GEO4360",
+    "title": "Field Methods in Hydrogeology",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4360/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4360/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:58 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2330 – Hydrology\nGEO4190 – Hydrogeologi"
+    }
+  },
+  {
+    "code": "GEO4410",
+    "title": "Glacial and Periglacial Geomorphology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:03 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4420",
+    "title": "Glaciology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4420/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:07 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2210 – Geomorphology and Glaciology or other bachelor's level courses in glaciology"
+    }
+  },
+  {
+    "code": "GEO4432",
+    "title": "The Surface Energy Balance in Cold Environments",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4432/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4432/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:02:58 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO1100 – Evolution of the Earth\nMAT-IN1105 – Programming, Modelling and Computations (discontinued)\nGEO2300 – Geophysical Modelling with Python\nGEO2210 – Geomorphology and Glaciology\nGEO2330 – Hydrology"
+    }
+  },
+  {
+    "code": "GEO4460",
+    "title": "Geografiske informasjonssystemer (GIS) og geografisk datainnsamling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4460/",
+    "prerequisiteText": "Det er obligatoriske feltkurs og ekskursjoner i emnet. Før feltkurs/ekskursjoner er det et krav at du har bestått et HMS-kurs i feltsikkerhet:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:02:59",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4512",
+    "title": "Fjernanalyse av atmosfæren",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4512/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4512/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:35:23",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4515",
+    "title": "Fjernanalyse av jordens overflate",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4515/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4515/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:35:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4520",
+    "title": "Advanced Remote Sensing: Natural Hazards and Climate Change",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4520/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:34 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO3515 – Remote Sensing of the Earth surface / GEG2240 – Introduction to remote sensing (continued) or similar courses/knowledge\nGEO3460 – Geographical Information Systems (GIS) and Geographical Data Acquisition / GEG2250 – Introduction in surveying, photogrammetry and spatial analysis (continued) or similar courses/knowledge\nMAT1100 – Calculus / MAT1001 – Mathematics 1 (discontinued) or similar courses/knowledge\nIN1900 – Introduction to Programming with Scientific Applications / INF1100 – Introduction to programming with scientific applications (continued) or similar courses/knowledge\nAlso, good basics in physics and geosciences are useful."
+    }
+  },
+  {
+    "code": "GEO4530",
+    "title": "Airborne Surveying and Geodesy",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:00 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO4620",
+    "title": "Seismic Waves and Seismology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4620/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 3:58:44 AM",
+      "sourceOfferedTerms": "Spring 2027\nThe course is taught on an irregular basis. Please contact the Student administration for more information.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus\nMAT1120 – Linear Algebra\nIN1900 – Introduction to Programming with Scientific Applications / MAT-IN1105 – Programming, Modelling and Computations (discontinued) / INF1100 – Introduction to programming with scientific applications (continued)\nFYS-MEK1110 – Mechanics (discontinued)\nGEO2140 – Solid Earth Geophysics / GEL2140 – Geophysics and global tectonics (continued)\nGEO2300 – Geophysical Modelling with Python"
+    }
+  },
+  {
+    "code": "GEO4630",
+    "title": "Geodynamics",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4630/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:41 PM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus / MAT1110 – Calculus and Linear Algebra / FYS-MEK1110 – Mechanics (discontinued) or comparable courses are an advantage.\nIt is recommended that students have knowledge equivalent of a bachelor's degree in earth sciences or other physical/mathematical sciences."
+    }
+  },
+  {
+    "code": "GEO4810",
+    "title": "Deformation of Earth Materials",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4810/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:45 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2150 – Petrology and Geochemistry\nGEO2130 – Structural Geology"
+    }
+  },
+  {
+    "code": "GEO4812",
+    "title": "Ore-Forming Processes",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4812/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4812/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:49 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2110 – Mineralogy / GEL2110 – Mineralogy, petrology and geochemistry (continued)"
+    }
+  },
+  {
+    "code": "GEO4822",
+    "title": "Geochemistry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4822/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4822/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:35:53 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO1110 – Earth Processes\nKJM1101 – Generell kjemi\nGEO2110 – Mineralogy\nGEO2150 – Petrology and Geochemistry"
+    }
+  },
+  {
+    "code": "GEO4840",
+    "title": "Tectonics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4840/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4840/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:00 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2130 – Structural Geology\nGEO2150 – Petrology and Geochemistry\nThis is a course at an advanced level, and it is recommended that students have knowledge equivalent to a bachelor's degree in the Earth - or other topics in physics/mathematics."
+    }
+  },
+  {
+    "code": "GEO4850",
+    "title": "Basin Tectonics and Structures",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4850/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4850/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:02 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2130 – Structural Geology / GEL2130 – Structural geology (continued) or similar knowledge\nGEO3240 – Seismic Interpretation"
+    }
+  },
+  {
+    "code": "GEO4901",
+    "title": "Dynamical Meteorology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4901/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4901/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:09 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK1100 – Vector Calculus\nMEK3230 – Fluid Mechanics"
+    }
+  },
+  {
+    "code": "GEO4902",
+    "title": "Numerical Weather Prediction",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4902/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4902/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:13 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2310 – Meteorology"
+    }
+  },
+  {
+    "code": "GEO4904",
+    "title": "Atmospheric Chemistry",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4904/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4904/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:16 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2310 – Meteorology"
+    }
+  },
+  {
+    "code": "GEO4922",
+    "title": "Cloud Physics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4922/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4922/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:20 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "basic knowledge of atmospheric thermodynamics and cloud physics\nGEO2310 – Meteorology / GEF2200 – Atmospheric physics (continued)"
+    }
+  },
+  {
+    "code": "GEO4926",
+    "title": "Turbulent Boundary Layers in the Atmosphere and Ocean",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4926/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4926/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:23 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4901 – Dynamical Meteorology"
+    }
+  },
+  {
+    "code": "GEO4960",
+    "title": "Dynamical Oceanography",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4960/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:29 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2320 – Oceanography / GEF2610 – Physical Oceanography (continued)\nGEO3900 – Atmosphere Ocean Dynamics (discontinued) / GEO4900 – Atmosphere-Ocean Dynamics (continued) / GEF3450 – Geophysical Fluid Dynamics (continued)"
+    }
+  },
+  {
+    "code": "GEO4962",
+    "title": "The General Circulation of the Atmosphere",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4962/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4962/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:33 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4900 – Atmosphere-Ocean Dynamics (continued) / GEF4450 – Geophysical Fluid Dynamics (continued)"
+    }
+  },
+  {
+    "code": "GEO4990",
+    "title": "The Earth System",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4990/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4990/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:37 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2210 – Geomorphology and Glaciology\nGEO2310 – Meteorology\nGEO2320 – Oceanography\nGEO2330 – Hydrology\nGEO4901 – Dynamical Meteorology"
+    }
+  },
+  {
+    "code": "GEO4992",
+    "title": "Data Analysis and Model Evaluation Tools in Environmental and Climate Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4992/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO4992/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:40 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "basic knowledge of atmospheric thermodynamics and cloud physics\nbasic knowledge of Python, Github, Linux"
+    }
+  },
+  {
+    "code": "GEO5000",
+    "title": "Geodidaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5000/",
+    "prerequisiteText": "Emnet forutsetter\nen 30-gruppe bestående av følgende emner:\nPROF1015 – Profesjonsidentitet, læring og undervisning\nPROF3025 – Ledelse av elevers læring\nPROF4045 – Tilrettelegging for elevers læring\neller\nPPU3210 – PPU del 1 av 2: Undervisning og læringsforløp\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\neller andre tilsvarende emner\nI tillegg kreves følgende disiplinære emner:\nminimum 50 av 60 studiepoeng i lektorprogrammets 60 studiepoengs emnegruppe i geofag ( https://www.uio.no/studier/emnegrupper/uv/lekt/ )\neller andre tilsvarende emner\nFor å kunne delta på obligatorisk praksis er det et krav om at følgende emner må være bestått før undervisningen starter:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "PPU3210",
+      "PPU3220",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:03:43",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5411",
+    "title": "Field Course in Glacial and Periglacial Geomorphology/Geocryology",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5411/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5411/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:47 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is taught on an irregular basis, please contact the Student administration ( studieinfo@geo.uio.no ).",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "We recommend that you have a background in geosciences, preferably geomorphology/geophysics."
+    }
+  },
+  {
+    "code": "GEO5440",
+    "title": "Cryospheric Modelling",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5440/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:51 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course is taught on an irregular basis, please contact the Student administration ( studieinfo@geo.uio.no ).",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2210 – Geomorphology and Glaciology\nGEO4410 – Glacial and Periglacial Geomorphology\nGEO4420 – Glaciology"
+    }
+  },
+  {
+    "code": "GEO5450",
+    "title": "Cryospheric Processes in the Nordic Region",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:52 AM",
+      "sourceOfferedTerms": "Spring and/or autumn\nThis course is offered on an irregular basis.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5540",
+    "title": "Special topics in remote sensing and terrain analysis",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5540/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2018",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Good basics in the course theme. The course may be complemented by GEO5550 – Seminar on Current Topics in Geoscience ."
+    }
+  },
+  {
+    "code": "GEO5550",
+    "title": "Seminar on Current Topics in Geoscience",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:03:59 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is mainly directed at master's students and PhD candidates at the Department of Geosciences."
+    }
+  },
+  {
+    "code": "GEO5680",
+    "title": "Floating University: Marine Expedition in Lake Baikal",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5680/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5680/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:00 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5681",
+    "title": "Floating University: Marine Expedition to Barents Sea",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5681/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5681/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:02 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5682",
+    "title": "Azerbaijan Summer School: Mud Volcanism and Petroleum Systems",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5682/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5682/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:05 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5900",
+    "title": "Chemical Processes in Soil and Ground Water",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5900/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:09 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Knowledge in physical chemistry / chemical thermodynamics in addition to general knowledge in chemistry, physics and geosciences."
+    }
+  },
+  {
+    "code": "GEO5911",
+    "title": "CO2 storage - Physical and chemical processes",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5911/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5911/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:11 AM",
+      "sourceOfferedTerms": "The course is taught on an irregular basis. Please contact the Study administration ( studieinfo@geo.uio.no ) for more information.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in mathematics, chemistry, and geology."
+    }
+  },
+  {
+    "code": "GEO5915",
+    "title": "Ecological Climatology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5915/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5915/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:15 AM",
+      "sourceOfferedTerms": "Spring\nEvery other spring starting 2022.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A master’s or bachelor’s degree within one of the following topics:\nmeteorology / hydrology / geography / geology / environmental geography (Geosciences)\necology/evolution/biodiversity/systematics/toxicology/biogeography (Biosciences)\nbiogeosciences / environmental science / environmental sustainability / nature management (Interdisciplinary)"
+    }
+  },
+  {
+    "code": "GEO5930L",
+    "title": "Masteroppgave i geofag, Lektorprogrammet",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5930L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5930L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:04:16",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO5960",
+    "title": "Geofag. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:04:20",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9151",
+    "title": "Earthquake and Volcanic Processes",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9151/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9151/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:24 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4131 – Geomechanics\nbasic maths and programming"
+    }
+  },
+  {
+    "code": "GEO9200",
+    "title": "Basin Analysis - Principles and Applications",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9200/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:25 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course is taught spring 2026.",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "Basic knowledge in geological processes, structural geology, sedimentology and stratigraphy.\nHMS0504 – Field Safety OR MNHMS0015FS – Introduction to Field Safety (discontinued)"
+    }
+  },
+  {
+    "code": "GEO9260",
+    "title": "Geophysical Monitoring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9260/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:29 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9432",
+    "title": "The Surface Energy Balance in Cold Environments",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9432/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9432/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:33 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO1100 – Evolution of the Earth\nMAT-IN1105 – Programming, Modelling and Computations (discontinued)\nGEO2300 – Geophysical Modelling with Python\nGEO2210 – Geomorphology and Glaciology\nGEO2330 – Hydrology"
+    }
+  },
+  {
+    "code": "GEO9440",
+    "title": "Cryospheric Modelling",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9440/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:37 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course is taught on an irregular basis. Please contact the Student administration ( studieinfo@geo.uio.no ) for more information.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in computer programming and a good basis in the course theme:\nGEO2210 – Geomorphology and Glaciology\nGEO4410 – Glacial and Periglacial Geomorphology\nGEO4420 – Glaciology"
+    }
+  },
+  {
+    "code": "GEO9450",
+    "title": "Cryospheric Processes in the Nordic Region",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:38 AM",
+      "sourceOfferedTerms": "Spring and/or autumn\nThis course is offered on an irregular basis.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9530",
+    "title": "Airborne Surveying and Geodesy",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:43 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9540",
+    "title": "Special topics in remote sensing and terrain analysis",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9540/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2018",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Good basics in the course theme. The course may be complemented by GEO9550 – Seminar on Current Topics in Geoscience ."
+    }
+  },
+  {
+    "code": "GEO9550",
+    "title": "Seminar on Current Topics in Geoscience",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:49 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is mainly directed at master's students and PhD candidates at the Department of Geosciences."
+    }
+  },
+  {
+    "code": "GEO9620",
+    "title": "Seismic Waves and Seismology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9620/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:52 AM",
+      "sourceOfferedTerms": "Spring 2027\nThe course is taught on an irregular basis. Please contact the Student administration for more information.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus\nMAT1120 – Linear Algebra\nIN1900 – Introduction to Programming with Scientific Applications / MAT-IN1105 – Programming, Modelling and Computations (discontinued) / INF1100 – Introduction to programming with scientific applications (continued)\nFYS-MEK1110 – Mechanics (discontinued)\nGEO2140 – Solid Earth Geophysics / GEL2140 – Geophysics and global tectonics (continued)\nGEO2300 – Geophysical Modelling with Python"
+    }
+  },
+  {
+    "code": "GEO9680",
+    "title": "Floating University: Marine Expedition in Lake Baikal",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9680/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9680/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:54 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9681",
+    "title": "Floating University. Marine Expedition to Barents Sea",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9681/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9681/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:55 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9682",
+    "title": "Azerbaijan Summer School: Mud Volcanism and Petroleum Systems",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9682/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9682/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:58 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "GEO9840",
+    "title": "Tectonics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9840/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9840/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:58 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2130 – Structural Geology\nGEO2150 – Petrology and Geochemistry\nThis is a course at an advanced level, and it is recommended that students have knowledge equivalent to a bachelor's degree in the Earth - or other topics in physics/mathematics."
+    }
+  },
+  {
+    "code": "GEO9900",
+    "title": "Chemical Processes in Soil and Ground Water",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9900/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:59 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Knowledge in physical chemistry / chemical thermodynamics in addition to general knowledge in chemistry, physics and geosciences."
+    }
+  },
+  {
+    "code": "GEO9904",
+    "title": "Atmospheric Chemistry",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9904/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9904/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:04:59 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2310 – Meteorology"
+    }
+  },
+  {
+    "code": "GEO9911",
+    "title": "CO2 Storage - Physical and Chemical Processes",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9911/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9911/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:00 AM",
+      "sourceOfferedTerms": "The course is taught on an irregular basis. Please contact the Study administration ( studieinfo@geo.uio.no ) for more information.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in mathematics, chemistry, and geology. A MSc in a geological discipline."
+    }
+  },
+  {
+    "code": "GEO9915",
+    "title": "Ecological Climatology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9915/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9915/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:00 AM",
+      "sourceOfferedTerms": "Spring\nEvery other spring starting 2022.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Master’s or bachelor’s degree within one of the following topics:\nMeteorology / hydrology / geography / geology / environmental geography (Geosciences)\nEcology/evolution/biodiversity/systematics/toxicology/biogeography (Biosciences)\nBiogeosciences /environmental science / environmental sustainability / nature management (Interdisciplinary)"
+    }
+  },
+  {
+    "code": "GEO9922",
+    "title": "Cloud Physics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9922/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9922/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:01 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "basic knowledge of atmospheric thermodynamics and cloud physics\nGEO2310 – Meteorology / GEF2200 – Atmospheric physics (continued)"
+    }
+  },
+  {
+    "code": "GEO9926",
+    "title": "Turbulent Boundary Layers in the Atmosphere and Ocean",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9926/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9926/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:02 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4901 – Dynamical Meteorology"
+    }
+  },
+  {
+    "code": "GEO9960",
+    "title": "The General Circulation of the Oceans",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9960/index.html",
+      "sourceUpdatedAt": "Jan. 9, 2025 8:58:50 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO2320 – Oceanography / GEF2610 – Physical Oceanography (continued)\nGEO3900 – Atmosphere Ocean Dynamics (discontinued) / GEO4900 – Atmosphere-Ocean Dynamics (continued) / GEF3450 – Geophysical Fluid Dynamics (continued)"
+    }
+  },
+  {
+    "code": "GEO9962",
+    "title": "The General Circulation of the Atmosphere",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9962/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9962/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:02 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "GEO4900 – Atmosphere-Ocean Dynamics (continued) / GEF4450 – Geophysical Fluid Dynamics (continued)"
+    }
+  },
+  {
+    "code": "GEO9992",
+    "title": "Data Analysis and Model Evaluation Tools in Environmental and Climate Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9992/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/geofag/GEO9992/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:02 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "basic knowledge of atmospheric thermodynamics and cloud physics\nbasic knowledge of Python, Github, Linux"
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Geosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

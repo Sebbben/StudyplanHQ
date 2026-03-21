@@ -1,0 +1,419 @@
+[
+  {
+    "code": "ENT3000",
+    "title": "Forretningsutvikling i team",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT3000/",
+    "prerequisiteText": "Emnet krever at du har tatt minst 100 studiepoeng på bachelornivå.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:07:09",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4000",
+    "title": "Business Creation",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:13 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4000I",
+    "title": "Fra idé til virksomhet - intensivt",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4000I/",
+    "prerequisiteText": "Bachelorgrad eller tilsvarende, eller opptak til studieprogrammene Gründerskolen eller Sosialt entreprenørskap.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4000I/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:28",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4050",
+    "title": "Foundations of Teamwork and Leadership",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4050/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:17 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is designed to be taken in parallel with ENT4000 – Business Creation , ENT4070 – Entrepreneurial Opportunity Evaluation (continued) and ENT4330 – Entrepreneurial Finance (continued) ."
+    }
+  },
+  {
+    "code": "ENT4080",
+    "title": "Entrepreneurial Opportunity Evaluation",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4080/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:22 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4190",
+    "title": "Entrepreneurship Theory in an International Context",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4190/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:29 AM",
+      "sourceOfferedTerms": "Summer, Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "ENT4000I – From idea to business - Intensive"
+    }
+  },
+  {
+    "code": "ENT4200",
+    "title": "Startups in Practice - Entrepreneurship",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4200/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:33 AM",
+      "sourceOfferedTerms": "Summer, Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "ENT4000I – From idea to business - Intensive"
+    }
+  },
+  {
+    "code": "ENT4230",
+    "title": "Entrepreneurial Finance",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4230/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:28 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4300",
+    "title": "Entrepreneurship and Internationalisation",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:36 AM",
+      "sourceOfferedTerms": "Summer, Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is designed to be taken in parallell with ENT4190 – Entrepreneurship Theory in an International Context and ENT4200 – Startups in Practice - Entrepreneurship ."
+    }
+  },
+  {
+    "code": "ENT4340",
+    "title": "Managing New Venture Growth",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4340/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:37 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "ENT4000 – Business Creation , ENT4050 – Foundations of Teamwork and Leadership , ENT4070 – Entrepreneurial Opportunity Evaluation (continued) , ENT4330 – Entrepreneurial Finance (continued)\nThe course is designed to be taken in parallel with ENT4360 – Student Venture Creation Project ."
+    }
+  },
+  {
+    "code": "ENT4350",
+    "title": "Entrepreneurial Sales and Marketing",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4350/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:38 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "ENT4000 – Business Creation\nENT4050 – Foundations of Teamwork and Leadership\nENT4070 – Entrepreneurial Opportunity Evaluation (continued)\nENT4330 – Entrepreneurial Finance (continued)\nThe course is designed to be taken in parallel with ENT4360 – Student Venture Creation Project ."
+    }
+  },
+  {
+    "code": "ENT4360",
+    "title": "Student Venture Creation Project",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4360/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4360/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:39 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "ENT4000 – Business Creation\nENT4050 – Foundations of Teamwork and Leadership\nENT4070 – Entrepreneurial Opportunity Evaluation (continued)\nENT4330 – Entrepreneurial Finance (continued)"
+    }
+  },
+  {
+    "code": "ENT4400",
+    "title": "Corporate Innovation Strategies and Project Management",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4400/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:45 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Either the following subjects for students admitted to the Entrepreneurship and Innovation Management master program:\nENT4000 – Business Creation\nENT4050 – Foundations of Teamwork and Leadership\nENT4070 – Entrepreneurial Opportunity Evaluation (continued)\nENT4330 – Entrepreneurial Finance (continued)\nENT4340 – Managing New Venture Growth\nENT4350 – Entrepreneurial Sales and Marketing\nENT4360 – Student Venture Creation Project\nor the following subjects for students admitted to the Informatics: Digital Economics and Leadership master program:\nIN5160 – Digital Leadership\nIN4270 – Digital forretningsutvikling\nThe course is designed to be taken in parallel with ENT4460 – Corporate Entrepreneurship Project ."
+    }
+  },
+  {
+    "code": "ENT4460",
+    "title": "Corporate Entrepreneurship Project",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4460/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:07:49 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Either the following subjects for students admitted to the Entrepreneurship and Innovation Management master program:\nENT4000 – Business Creation\nENT4050 – Foundations of Teamwork and Leadership\nENT4070 – Entrepreneurial Opportunity Evaluation (continued)\nENT4330 – Entrepreneurial Finance (continued)\nENT4340 – Managing New Venture Growth\nENT4350 – Entrepreneurial Sales and Marketing\nENT4360 – Student Venture Creation Project\nor the following subjects for students admitted to the Informatics: Digital Economics and Leadership master program:\nIN5160 – Digital Leadership\nIN4270 – Digital forretningsutvikling"
+    }
+  },
+  {
+    "code": "ENT4505",
+    "title": "Sosialt entreprenørskap",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4505/",
+    "prerequisiteText": "Du må ha fullført en bachelorgrad, eller være i 6. semester av et bachelorløp. Det er ingen begrensninger med tanke på fagfelt.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:41",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT4510",
+    "title": "Social Entrepreneurship in Practice",
+    "credits": 20,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT4510/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:41 AM",
+      "sourceOfferedTerms": "Summer",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT5100",
+    "title": "Research Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT5100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT5100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:08:01 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Either the following subjects for students admitted to the Entrepreneurship and Innovation Management master's program:\nENT4000 – Business Creation\nENT4050 – Foundations of Teamwork and Leadership\nENT4070 – Entrepreneurial Opportunity Evaluation (continued)\nENT4330 – Entrepreneurial Finance (continued)\nENT4340 – Managing New Venture Growth\nENT4350 – Entrepreneurial Sales and Marketing\nENT4360 – Student Venture Creation Project\nor the following subjects for students admitted to the Informatics: Digital Economics and Leadership master's program:\nIN5160 – Digital Leadership\nIN4270 – Digital forretningsutvikling"
+    }
+  },
+  {
+    "code": "ENT9601",
+    "title": "Entrepreneurship Research",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9601/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:08:05 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ENT9800",
+    "title": "Innovation and Intellectual Property Rights",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Entrepreneurship",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/sfe/ENT9800/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:41 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

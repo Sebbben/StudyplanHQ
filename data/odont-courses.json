@@ -1,0 +1,1694 @@
+[
+  {
+    "code": "OD1100",
+    "title": "Odontologistudiet, modul 1",
+    "credits": 50,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD1100/",
+    "prerequisiteText": "Opptakskravene til odontologistudiet.\nEn programstudent som ikke består eksamen i en modul i odontologistudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til kontinuasjonseksamen/utsatt eksamen, kan likevel fortsette å følge undervisning til sensur er falt, eventuelt til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".\nEn programstudent som har vært borte fra odontologistudiet i mer enn to år sammenhengende, kan pålegges av fakultetet å gjenta tidligere godkjent obligatorisk undervisning og/eller tidligere beståtte eksamener før studenten får gå videre i studiet",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:10",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD2100",
+    "title": "Odontologistudiet 2. studieår, høst (modul 2)",
+    "credits": 28,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD2100/",
+    "prerequisiteText": "OD1100 - Odontologistudiet, Modul 1\nEn student som ikke består eksamen i et semester, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til kontinuasjonseksamen kan likevel fortsette å følge undervisning inntil sensur er falt, eventuelt til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".\nEn student som har vært borte fra odontologistudiet i mer enn to år sammenhengende, kan pålegges av fakultetet å gjenta tidligere godkjent obligatorisk undervisning og/eller tidligere beståtte eksamener før studenten kan gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:11",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD2200",
+    "title": "Odontologistudiet, 4. semester",
+    "credits": 32,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD2200/",
+    "prerequisiteText": "OD2100 - Odontologistudiet 2. studieår, høst (modul 2)\nEn student som ikke består eksamen i et semester, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til kontinuasjonseksamen kan likevel fortsette å følge undervisning inntil sensur er falt, eventuelt til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".\nEn student som har vært borte fra odontologistudiet i mer enn to år sammenhengende, kan pålegges av fakultetet å gjenta tidligere godkjent obligatorisk undervisning og/ eller tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD2100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD3100",
+    "title": "Odontologistudiet, 5. semester",
+    "credits": 30,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD3100/",
+    "prerequisiteText": "OD2200 – Odontologistudiet, 4. semester\nObligatorisk undervisning i 5. semester må være godkjent for å kunne avlegge eksamen.\nEn student som ikke består eksamen i et semester i odontologistudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning inntil sensur er falt, evt. til resultat av klagesensur foreligger. Studenten må avbryte semesteret dersom endelig sensur er \"ikke bestått\".\nEn student som har vært borte fra odontologistudiet sammenhengende i mer enn ett år, kan pålegges av fakultetet å gjennomgå tidligere godkjent obligatorisk undervisning og/eller ta om igjen tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD2200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:12",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD3200",
+    "title": "Odontologistudiet, 6. semester",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD3200/",
+    "prerequisiteText": "OD3100 – Odontologistudiet, 5. semester\nObligatorisk undervisning i 6. semester må være godkjent for å kunne avlegge eksamen.\nEn student som ikke består eksamen i et semester, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan fortsette å følge undervisning inntil endelig sensur er falt, evtentuelt til resultat av klagesensur foreligger.\nEn student som har vært borte fra odontologistudiet sammenhengende i mer enn ett år kan pålegges av fakultetet å gjennomgå tidligere godkjent obligatorisk undervisning og/eller ta om igjen tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD3100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD3200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD4100",
+    "title": "Odontologistudiet, 7. semester",
+    "credits": 27,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD4100/",
+    "prerequisiteText": "OD3200 – Odontologistudiet, 6. semester\nEn student som ikke består eksamen i et semester, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning inntil sensur er falt, evt. til resultat av klagesensur foreligger.\nVed ikke godkjent obligatorisk undervisning eller ikke bestått eksamen på OD4100, må all obligatorisk undervisning gjentas, med mindre det er gjort annen avtale med semesterutvalgsleder.\nEn student som har vært borte fra odontologistudiet sammenhengende i mer enn ett år, kan pålegges av fakultetet å gjennomgå tidligere godkjent obligatorisk undervisning og/eller ta om igjen tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD3200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD4100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD4200",
+    "title": "Dentistry, 8. semester",
+    "credits": 27,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD4200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD4200/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:17 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Before this semester begins it is expected that the students know how to examine the oral cavity and can recognize diseases in the teeth and their supporting tissues and of the oral mucosa (relative to healthy tissue). It is not expected that diagnoses can be made for all conditions, but it is expected that the students have advanced knowledge of extended prophylaxis, what precautions must be taken to prevent diseases in teeth and supporting tissues and which hygiene measurements must be applied to prevent spread of infections in the clinical environment by means of sterilization autoclaving and hygiene regimes. In addition, it is expected that the students know the different treatment modalities and under supervision get training to perform these."
+    }
+  },
+  {
+    "code": "OD5100",
+    "title": "Odontologistudiet, 9. semester",
+    "credits": 26,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5100/",
+    "prerequisiteText": "OD4200 - Odontologistudiet, 8. semester\nObligatorisk undervisning i 9. semester må være godkjent for å kunne avlegge eksamener.\nEn student som ikke består eksamener i et semester, kan ordinært ikke gå videre i studiet før eksamener er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning inntil sensur er falt, evt. til resultat av klagesensur foreligger.\nEn student som har vært borte fra odontologistudiet sammenhengende i mer enn ett år, kan pålegges av fakultetet å gjennomgå tidligere godkjent obligatorisk undervisning og/eller ta om igjen tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD4200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:17",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD5200",
+    "title": "Odontologistudiet, 10. semester",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5200/",
+    "prerequisiteText": "OD5100 – Odontologistudiet, 9. semester\nEn student som har vært borte fra odontologistudiet sammenhengende i mer enn ett år, kan pålegges av fakultetet å gjennomgå tidligere godkjent obligatorisk undervisning og/eller ta om igjen tidligere beståtte eksamener før studenten får gå videre i studiet.",
+    "prerequisiteCourses": [
+      "OD5100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD5930",
+    "title": "Integrert masteroppgave",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD5930/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:19",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8000",
+    "title": "Introduksjonskurs",
+    "credits": 4,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8000/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8011",
+    "title": "Kjernepensum del 1",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8011/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Annankvar haust frå 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8012",
+    "title": "Kjernepensum del 2",
+    "credits": 12,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8012/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:00",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8051",
+    "title": "Tanntraume",
+    "credits": 1,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8051/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8051/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:02",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8052",
+    "title": "Immunologi",
+    "credits": 3,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8052/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8052/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:03",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8054",
+    "title": "Implantologikurs (basics)",
+    "credits": 1,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8054/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8054/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:06",
+      "sourceOfferedTerms": "Vår, Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8055",
+    "title": "Gerodontologi",
+    "credits": 1,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8055/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8055/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:08",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8056",
+    "title": "Farmakologi",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8056/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8056/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8061",
+    "title": "Kjeve- og andletradiologi",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8061/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8061/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:17",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8062",
+    "title": "Oral medisin",
+    "credits": 2,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8062/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8062/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Annankvar vår frå 2004",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8110",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8110/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8120",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:20",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8130",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:21",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8140",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 19,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:23",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8150",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:24",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8195",
+    "title": "Spesialisteksamen i endodonti",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8195/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8195/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:26",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8210",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8210/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8220",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:27",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8230",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 27,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:29",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8240",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8250",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:32",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8295",
+    "title": "Spesialisteksamen i kjeve- og andletradiologi",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8295/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8295/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:33",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8310",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8310/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8320",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:34",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8330",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 25,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8330/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:36",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8340",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 13,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:37",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8350",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:39",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8395",
+    "title": "Spesialisteksamen i kjeveortopedi",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8395/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8395/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:40",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8410",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:15:22",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8420",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:41",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8430",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 26,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:41",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8440",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 11,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8440/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:43",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8450",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8450/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:44",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8460",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 6",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:46",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8470",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 7",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8470/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8470/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:47",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8480",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 8",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8480/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar vår",
+      "sourceLanguage": "Undervisningsspråk er skandinavisk eller engelsk.",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8490",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 9",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8490/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8490/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:48",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8495",
+    "title": "Spesialisteksamen i OKOM",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8495/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8495/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar vår",
+      "sourceLanguage": "Skandinavisk eller engelsk.",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8510",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8510/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8520",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8520/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:49",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8530",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 27,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:51",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8540",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 9,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8540/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8550",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8550/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:54",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8595",
+    "title": "Spesialisteksamen i oral protetikk",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8595/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8595/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:55",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8610",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Unknown",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8610/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Kvar haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8620",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8620/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:56",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8630",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 28,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8630/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:58",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8640",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 19,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8640/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8640/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:42:59",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8650",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8650/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8650/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:01",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8695",
+    "title": "Spesialisteksamen i pedodonti",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8695/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8695/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:02",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8710",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 1",
+    "credits": 21,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8710/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:15:26",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8720",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 2",
+    "credits": 18,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8720/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8720/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:04",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8730",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 3",
+    "credits": 25,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8730/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8730/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:05",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8740",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 4",
+    "credits": 8,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8740/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8740/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:07",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8750",
+    "title": "Klinisk praksis og avdelingsbaserte kurs 5",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8750/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8750/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:08",
+      "sourceOfferedTerms": "Haust",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD8795",
+    "title": "Spesialisteksamen i periodonti",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8795/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/spesialistutdanningen/OD8795/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:09",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD9010",
+    "title": "Essential Tissue Engineering",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:21 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This introductory tissue engineering course assumes that PhD students have foundational understanding of cell biology (e.g., extracellular matrix biology) and biomaterials science.\nPrior experience with core laboratory techniques, such as aseptic cell culture, molecular biology methods, immunohistochemistry, and basic microscopy, is strongly recommended, for exposure to physiological concepts and deeper engagement with course content.\nParticipants should demonstrate proficiency in scientific literature analysis and fundamental data interpretation (including graph evaluation and statistical methods). While preparatory materials can be provided for students with limited background, the course progressively builds core competencies to support interdisciplinary learners.\nWet-lab experience, though beneficial, is not considered mandatory."
+    }
+  },
+  {
+    "code": "OD9012",
+    "title": "Research Techniques I",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9012/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:22 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic understanding of cell biology, biomaterials, and tissue engineering. Familiarity with lab techniques like cell culture, microscopy or spectroscopy and some experience in scientific writing would be beneficial."
+    }
+  },
+  {
+    "code": "OD9020",
+    "title": "Functional Surfaces for Cellular Interface",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:24",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "OD9110",
+    "title": "Development of Implantable Medical Devices",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:25 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Participants should have a basic understanding of biomaterials science (including properties of implantable polymers, metals, and ceramics), human physiology (such as adverse effects and tissue responses to biomaterials). Familiarity with regulatory standards (e.g., ISO 13485, FDA requirements) and lab techniques (e.g., sterilization methods) will be beneficial but not required. While the course accommodates interdisciplinary learners, those without prior exposure to these topics should review the provided introductory materials on core concepts. A basic awareness of clinical challenges (e.g., long-term biocompatibility) will enhance engagement with case studies."
+    }
+  },
+  {
+    "code": "OD9130",
+    "title": "Advances in Stem Cells for Tissue Reconstruction",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9130/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:27 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Participants should have a basic understanding of stem cell biology (e.g., pluripotency, differentiation) and tissue engineering principles for regenerative medicine. Familiarity with laboratory techniques, such as stem cell culture (e.g., maintaining MSCs, iPSCs) would be advantageous. Prior experience in scientific writing (e.g., lab reports, literature reviews) is recommended to enable critical analysis and essay composition. Students with this foundational background will engage more deeply with advanced topics in stem cell-based tissue reconstruction. Introductory reading material will also be provided to accommodate participants without prior wet lab experience and stem cell biology exposure."
+    }
+  },
+  {
+    "code": "OD9213",
+    "title": "Regulatory Affairs",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9213/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannlege/OD9213/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:43:28 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course assumes foundational understanding of biomaterials science (e.g., degradation, biocompatibility) and regulatory frameworks (e.g., FDA/EMA pathways, ISO 13485). Familiarity with ATMPs (cell/gene therapy products) and medical device classification (Class I-III) is advantageous. Basic knowledge of clinical trial design (phases I-III) and quality management systems (GMP/GDP) will enhance engagement. Prior exposure to technical documentation or risk management is helpful but not mandatory. Introductory materials will bridge gaps for interdisciplinary participants."
+    }
+  },
+  {
+    "code": "TP1100",
+    "title": "Innledende tannpleie I",
+    "credits": 20,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP1100/",
+    "prerequisiteText": "Gode norsk-kunnskaper skriftlig og muntlig.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:29",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Studenter med fordypning fra videregående skole innen naturvitenskaplige fag (biologi og/eller kjemi) har en fordel."
+    }
+  },
+  {
+    "code": "TP1200",
+    "title": "Innledende tannpleie II",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP1200/",
+    "prerequisiteText": "TP1100 – Innledende tannpleie I\nEn programstudent som ikke består eksamen i et semester i tannpleierstudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning til sensur er falt, evt. til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".",
+    "prerequisiteCourses": [
+      "TP1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP1200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Gode norskkunnskaper skriftlig og muntlig."
+    }
+  },
+  {
+    "code": "TP2100",
+    "title": "Folkehelse og praksis I",
+    "credits": 30,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP2100/",
+    "prerequisiteText": "TP1200 – Innledende tannpleie II",
+    "prerequisiteCourses": [
+      "TP1200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TP2200",
+    "title": "Folkehelse og praksis II",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP2200/",
+    "prerequisiteText": "TP2100 – Folkehelse og praksis I .\nEn programstudent som ikke består eksamen i et semester i tannpleiestudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning til sensur er falt, evt. til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".",
+    "prerequisiteCourses": [
+      "TP2100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TP3100",
+    "title": "Folkehelse og klinisk fordypning I",
+    "credits": 30,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3100/",
+    "prerequisiteText": "TP2200 – Folkehelse og praksis II\nEn programstudent som ikke består eksamen i et semester i tannpleiestudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått. En student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning til sensur er falt, evt. til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".",
+    "prerequisiteCourses": [
+      "TP2200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TP3200",
+    "title": "Folkehelse og klinisk fordypning II",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3200/",
+    "prerequisiteText": "TP3100 – Folkehelse og klinisk fordypning I\nEn programstudent som ikke består eksamen i et semester i tannpleiestudiet, kan ordinært ikke gå videre i studiet før eksamen er avlagt og bestått.\nEn student som går opp til ny/utsatt eksamen, kan likevel fortsette å følge undervisning til sensur er falt, evt. til klagesensur foreligger, men må da avbryte semesteret dersom endelig sensur er \"ikke bestått\".",
+    "prerequisiteCourses": [
+      "TP3100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TP3290",
+    "title": "Bacheloroppgave",
+    "credits": 15,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3290/",
+    "prerequisiteText": "TP3100 – Folkehelse og klinisk fordypning I",
+    "prerequisiteCourses": [
+      "TP3100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/tannpleie/TP3290/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:43:31",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TP3302B",
+    "title": "Health for sustainable communities",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Dentistry",
+    "officialUrl": "https://www.uio.no/studier/emner/odont/od/TP3302B/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/odont/od/TP3302B/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:41:59 AM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

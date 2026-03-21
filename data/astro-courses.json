@@ -1,0 +1,508 @@
+[
+  {
+    "code": "AST1010",
+    "title": "Astronomi - en kosmisk reise",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST1010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST1010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:17",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet krever ingen forkunnskaper ut over generell studiekompetanse."
+    }
+  },
+  {
+    "code": "AST2000",
+    "title": "Innføring i astrofysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "To semestre med studier på bachelorprogrammet Fysikk og astronomi (bachelor) , eller tilsvarende kunnskaper. Det vil kreve en betydelig ekstrainnsats å gjennomføre emnet uten nødvendige forkunnskaper i matematikk, fysikk og programmering."
+    }
+  },
+  {
+    "code": "AST2100",
+    "title": "Fysikken i stjerner, hvite dverger, nøytronstjerner og svarte hull",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:28",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Tre semestre med studier på bachelorprogrammet Fysikk og astronomi (bachelor) , eller tilsvarende kunnskaper.\nAST2000 – Innføring i astrofysikk eller tilsvarende forkunnskaper er sterkt anbefalt.\nDet vil kreve en betydelig ekstrainnsats å gjennomføre emnet uten nødvendige forkunnskaper i matematikk, fysikk og programmering."
+    }
+  },
+  {
+    "code": "AST2210",
+    "title": "Observasjonsastronomi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST2210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Fire semestre med studier på bachelorprogrammet Fysikk og astronomi (bachelor) , eller tilsvarende kunnskaper. Dessuten bør FYS2160 – Termodynamikk og statistisk fysikk studeres parallelt."
+    }
+  },
+  {
+    "code": "AST3220",
+    "title": "Kosmologi I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST3220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST3220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:41",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Fem semestre på bachelorprogrammet Fysikk og astronomi , eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "AST3310",
+    "title": "Astrofysiske plasma og stjernenes indre",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST3310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST3310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Fem semestre med studier på bachelorprogrammet i Fysikk og astronomi , eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "AST4310",
+    "title": "Strålingsprosesser i astrofysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST4310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST4310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:18:55",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad fra programmet Fysikk og astronomi (bachelor) eller tilsvarende."
+    }
+  },
+  {
+    "code": "AST4320",
+    "title": "Kosmologi og ekstragalaktisk astronomi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST4320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST4320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:01",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad fra programmet Fysikk og astronomi (bachelor) eller tilsvarende."
+    }
+  },
+  {
+    "code": "AST5110",
+    "title": "Numerisk modellering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:10",
+      "sourceOfferedTerms": "Vår\nUndervisning og eksamen tilbys kun om våren fra og med våren 2023.\nDersom emnet tilbys, kreves det at minst 3 studenter melder seg på for å ha ordinær undervisning. Hvis det er færre enn 3 studenter som deltar, kan emnet organiseres som spesialpensum, men man kan ikke påregne ordinær undervisning. Ta kontakt med studieadministrasjonen dersom du er interessert i å ta dette emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad i Fysikk og astronomi (bachelor) eller tilsvarende."
+    }
+  },
+  {
+    "code": "AST5220",
+    "title": "Kosmologi II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5220/",
+    "prerequisiteText": "Bachelorgrad i Fysikk og astronomi (bachelor) eller tilsvarende.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:17",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnene AST3220 – Kosmologi I / AST4220 – Kosmologi I (nedlagt) og FYS4160 – Generell relativitetsteori kan være nyttig.\nI begynnelsen av semesteret vil det gjennomgås det studenten må kunne fra AST3220 – Kosmologi I og FYS4160 – Generell relativitetsteori . Det å kunne manipulere og gjøre utregninger med tensorer er spesielt nyttig. Studenten kan lett følge dette emnet uten å ha tatt AST3220 – Kosmologi I og FYS4160 – Generell relativitetsteori hvis studenten har en god teoretisk bakgrunn.\nStudenten trenger ikke være en ekspert, men grunnleggende kunnskap om programmering er forventet, ellers vil studenten få en tung utfordring med den numeriske prosjektoppgaven. Det er et fritt valg av programmeringsspråk i emnet, men det tilbys maler i C++ og Fortran for å gjøre det enklere å komme i gang med oppgaven."
+    }
+  },
+  {
+    "code": "AST5240",
+    "title": "Bayesiansk kosmologisk dataanalyse",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:23",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad fra programmet Fysikk og astronomi (bachelor)\nAST3220 – Kosmologi I\nAST5220 – Kosmologi II"
+    }
+  },
+  {
+    "code": "AST5770",
+    "title": "Sol- og stjernefysikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5770/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5770/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:28",
+      "sourceOfferedTerms": "Vår\nEmnet kan tilbys som spesialpensum hvis det er færre enn 5 kvalifiserte søkere. Ved færre enn 3 kvalifiserte søkere kan emnet bli avlyst.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Seks semestre med studier på Fysikk og astronomi (bachelor) eller tilsvarende kunnskaper. Dessuten anbefales AST3310 – Astrofysiske plasma og stjernenes indre og AST4310 – Strålingsprosesser i astrofysikk som forkunnskap."
+    }
+  },
+  {
+    "code": "AST5960",
+    "title": "Astrofysikk. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5960/",
+    "prerequisiteText": "Opptak til masterprogrammet med tilhørende krav til forkunnskaper er antatt. I tillegg kreves 60 studiepoeng masteremner som anbefalt av veileder som forberedelse til masteroppgaven.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:34",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "AST9110",
+    "title": "Numerisk modellering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:43",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad fra Fysikk og astronomi (bachelor) eller tilsvarende.\nMastergrad i Astronomi eller tilsvarende."
+    }
+  },
+  {
+    "code": "AST9240",
+    "title": "Bayesiansk kosmologisk dataanalyse",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:49",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad fra programmet Fysikk og astronomi (bachelor)\nEmne:AST3220\nEmne:AST5220"
+    }
+  },
+  {
+    "code": "AST9310",
+    "title": "Stjerneatmosfærer II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:19:57",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad i Fysikk og astronomi (bachelor) eller tilsvarende\nAST4310 – Strålingsprosesser i astrofysikk"
+    }
+  },
+  {
+    "code": "AST9420",
+    "title": "Kosmologi II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/AST9420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:04",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnene AST3220 – Kosmologi I / AST4220 – Kosmologi I (nedlagt) og FYS4160 – Generell relativitetsteori kan være nyttig.\nI begynnelsen av semesteret vil det gjennomgås det studenten må kunne fra AST3220 – Kosmologi I og FYS4160 – Generell relativitetsteori . Det å kunne manipulere og gjøre utregninger med tensorer er spesielt nyttig. Studenten kan lett følge dette emnet uten å ha tatt AST3220 – Kosmologi I og FYS4160 – Generell relativitetsteori hvis studenten har en god teoretisk bakgrunn.\nStudenten trenger ikke være en ekspert, men grunnleggende kunnskap om programmering er forventet ellers vil studenten få en tung utfordring med den numeriske prosjektoppgaven. Det er et fritt valg av programmeringsspråk i emnet, men det tilbys maler i C++ og Fortran for å gjøre det enklere å komme i gang med oppgaven."
+    }
+  },
+  {
+    "code": "CS5960AST",
+    "title": "CS: Astrophysics. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/astro/CS5960AST/",
+    "prerequisiteText": "Opptak til masterprogrammet med tilhørende krav til forkunnskaper er antatt. I tillegg kreves 60 studiepoeng masteremner som anbefalt av veileder som forberedelse til masteroppgaven.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/astro/CS5960AST/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:09",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Astrophysics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

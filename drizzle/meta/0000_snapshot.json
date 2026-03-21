@@ -22,7 +22,7 @@
         },
         "credits": {
           "name": "credits",
-          "type": "integer",
+          "type": "double precision",
           "primaryKey": false,
           "notNull": true
         },

@@ -1,0 +1,4684 @@
+[
+  {
+    "code": "CS5930AMRA",
+    "title": "CS: Anvendt matematikk og risikoanalyse - Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/CS5930AMRA/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/CS5930AMRA/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "CS5930MECH",
+    "title": "CS: Mechanics - Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/CS5930MECH/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/CS5930MECH/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "CS5960AMRA",
+    "title": "CS: Anvendt matematikk og risikoanalyse - Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/CS5960AMRA/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/CS5960AMRA/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "CS5960MECH",
+    "title": "CS: Mechanics - Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/CS5960MECH/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/CS5960MECH/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "DS5930",
+    "title": "Masteroppgave i Datascience, 30 studiepoeng",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/DS5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/DS5930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "DS5960",
+    "title": "Masteroppgave i Datascience, 60 studiepoeng",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/DS5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/DS5960/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT-IN9240",
+    "title": "Numerical analysis of PDEs",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-IN9240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-IN9240/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources.\nContact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT-INF4300 – Partial differential equations and Sobolev spaces I (continued)"
+    }
+  },
+  {
+    "code": "MAT-INF3600",
+    "title": "Matematisk logikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-INF3600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-INF3600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:56:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emner som tilsvarer de to første årene i et bachelorprogram i matematikk og/eller informatikk vil være en fordel."
+    }
+  },
+  {
+    "code": "MAT-MEK4270",
+    "title": "Numeriske metoder for partielle differensialligninger",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-MEK4270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-MEK4270/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:56:26",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nIN1910 – Programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "MAT-MEK9270",
+    "title": "Numerical methods for partial differential equations",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-MEK9270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT-MEK9270/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:56:28 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1120 – Linear Algebra / MAT1125 – Advanced linear algebra\nIN1910 – Programming with Scientific Applications"
+    }
+  },
+  {
+    "code": "MAT1020",
+    "title": "Matematikk og bærekraftig forvaltning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1050 – Matematikk for anvendelser 1 eller MAT1100 – Kalkulus\nDet er en fordel med bakgrunn i programmering, tilsvarende ett av følgende emner:\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nBIOS1100 – Innføring i beregningsmodeller for biovitenskap\nIN-KJM1900 – Introduksjon i programmering for kjemikere"
+    }
+  },
+  {
+    "code": "MAT1050",
+    "title": "Matematikk for anvendelser 1",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:56:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT1060",
+    "title": "Matematikk for anvendelser 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1050 – Matematikk for anvendelser 1"
+    }
+  },
+  {
+    "code": "MAT1080",
+    "title": "Matematisk grunnlag for maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1080/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:56:47",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT1100",
+    "title": "Kalkulus",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:56:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT1100U",
+    "title": "Kalkulus",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1100U/",
+    "prerequisiteText": "Emnet bygger på full fordypning i matematikk fra videregående skole, og man må oppfylle kompetansekrav .",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1100U/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT1105",
+    "title": "Lineær algebra og numeriske metoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1105/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1105/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:57:06",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT1110",
+    "title": "Kalkulus og lineær algebra",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus"
+    }
+  },
+  {
+    "code": "MAT1120",
+    "title": "Lineær algebra",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:57:19",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra"
+    }
+  },
+  {
+    "code": "MAT1125",
+    "title": "Videregående lineær algebra",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1125/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1125/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:57:21",
+      "sourceOfferedTerms": "Høst\nEmnet undervises første gang høsten 2025.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder"
+    }
+  },
+  {
+    "code": "MAT1140",
+    "title": "Strukturer og argumenter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT1140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:57:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus"
+    }
+  },
+  {
+    "code": "MAT2000",
+    "title": "Prosjektarbeid i matematikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2000/",
+    "prerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nog minst ett av følgende emner:\nMAT2400 – Reell analyse\nMAT2200 – Grupper, ringer og kropper\nMAT2410 – Innføring i kompleks analyse\nMAT2500 – Geometri",
+    "prerequisiteCourses": [
+      "MAT1100",
+      "MAT1110",
+      "MAT1120",
+      "MAT1125",
+      "MAT2400",
+      "MAT2200",
+      "MAT2410",
+      "MAT2500"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2400 – Reell analyse\nMAT2410 – Innføring i kompleks analyse\nMAT2200 – Grupper, ringer og kropper (kan tas samtidig)"
+    }
+  },
+  {
+    "code": "MAT2100",
+    "title": "Elementær reell analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nDet er også en fordel å ha tatt følgende emner:\nMAT1110 – Kalkulus og lineær algebra"
+    }
+  },
+  {
+    "code": "MAT2200",
+    "title": "Grupper, ringer og kropper",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT2400",
+    "title": "Reell analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:32",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT2410",
+    "title": "Innføring i kompleks analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:58:05",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nDet er også en fordel å ha tatt følgende emner:\nMAT2400 – Reell analyse"
+    }
+  },
+  {
+    "code": "MAT2500",
+    "title": "Geometri",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT2500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:58:11",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT3055",
+    "title": "Arbeidspraksis, Matematisk institutt",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3055/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3055/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:27:17",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT3100",
+    "title": "Lineær optimering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MAT3110",
+    "title": "Innføring i numerisk analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:58:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) eller MAT-IN1105 – Programmering, modellering og beregninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MAT3250",
+    "title": "Diskret matematikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:34",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT3360",
+    "title": "Innføring i partielle differensiallikninger",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3360/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3360/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:35",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT3400",
+    "title": "Lineær analyse med anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:36",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nMAT2400 – Reell analyse"
+    }
+  },
+  {
+    "code": "MAT3420",
+    "title": "Kvanteberegning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:36",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT3440",
+    "title": "Dynamiske systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3440/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:37",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MAT3500",
+    "title": "Topologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT3500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:58:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT2400 – Reell analyse\nDet er også en fordel å ha tatt følgende emner:\nMAT2200 – Grupper, ringer og kropper"
+    }
+  },
+  {
+    "code": "MAT4010",
+    "title": "Skolematematikk fra et avansert synspunkt",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4010/",
+    "prerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra",
+    "prerequisiteCourses": [
+      "MAT1100",
+      "MAT1110"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Minst 40 studiepoeng i matematikk på universitetsnivå, deriblant spesielt et av følgende emner vil være en fordel:\nMAT1140 – Strukturer og argumenter\nMAT2400 – Reell analyse"
+    }
+  },
+  {
+    "code": "MAT4110",
+    "title": "Innføring i numerisk analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:09",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) eller MAT-IN1105 – Programmering, modellering og beregninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MAT4120",
+    "title": "Matematisk optimering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:13",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.\nHøstsemsteret 2025: Emnet vil kun tilbys som selvstudiumsemne.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT2400 – Reell analyse\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nMAT3100 – Lineær optimering\nMAT-INF3100 – Lineær optimering (videreført)"
+    }
+  },
+  {
+    "code": "MAT4170",
+    "title": "Spline metoder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:17",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt)\nIN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "MAT4200",
+    "title": "Kommutativ algebra",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:23",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2200 – Grupper, ringer og kropper"
+    }
+  },
+  {
+    "code": "MAT4210",
+    "title": "Algebraisk geometri I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:39",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4200 – Kommutativ algebra"
+    }
+  },
+  {
+    "code": "MAT4215",
+    "title": "Algebraisk geometri II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4215/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:39",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4200 – Kommutativ algebra\nMAT4210 – Algebraisk geometri I"
+    }
+  },
+  {
+    "code": "MAT4230",
+    "title": "Algebraisk geometri III",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4230/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:28:41",
+      "sourceOfferedTerms": "Høst 2022\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4215 – Algebraisk geometri II"
+    }
+  },
+  {
+    "code": "MAT4240",
+    "title": "Elliptiske kurver",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4240/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:28:42",
+      "sourceOfferedTerms": "Vår 2022\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.\nVårsemesteret 2022 : Emnet vil kun tilbys som selvstudiumsemne",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT4200"
+    }
+  },
+  {
+    "code": "MAT4250",
+    "title": "Tallteori",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4250/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:28:44",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4200 – Kommutativ algebra\nMAT4500 – Topologi"
+    }
+  },
+  {
+    "code": "MAT4270",
+    "title": "Representasjonsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4270/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:39",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2200 – Grupper, ringer og kropper\nMAT2400 – Reell analyse\nMAT4520 – Mangfoldigheter"
+    }
+  },
+  {
+    "code": "MAT4301",
+    "title": "Partielle differensialligninger",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4301/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4301/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT3360 – Innføring i partielle differensiallikninger"
+    }
+  },
+  {
+    "code": "MAT4305",
+    "title": "Partielle differensialligninger og Sobolev-rom",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4305/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4305/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:41",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2400 – Reell analyse\nMAT3360 – Innføring i partielle differensiallikninger"
+    }
+  },
+  {
+    "code": "MAT4400",
+    "title": "Lineær analyse med anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:49",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra\nMAT2400 – Reell analyse"
+    }
+  },
+  {
+    "code": "MAT4410",
+    "title": "Videregående lineær analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT2400 – Reell analyse\nMAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser\nMAT3500 – Topologi / MAT4500 – Topologi (kan tas samtidig)"
+    }
+  },
+  {
+    "code": "MAT4430",
+    "title": "Kvanteinformasjonsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:58",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra eller MAT1125\nMAT2400 – Reell analyse\nMAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser\nKjennskap til sannsynlighetsteori kan også være en fordel."
+    }
+  },
+  {
+    "code": "MAT4450",
+    "title": "Videregående funksjonalanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4450/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:05",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser\nMAT3500 – Topologi / MAT4500 – Topologi\nMAT4410 – Videregående lineær analyse"
+    }
+  },
+  {
+    "code": "MAT4460",
+    "title": "C*-algebraer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:55",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4450 – Videregående funksjonalanalyse"
+    }
+  },
+  {
+    "code": "MAT4500",
+    "title": "Topologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT2400 – Reell analyse\nDet er også en fordel å ha tatt følgende emner:\nMAT2200 – Grupper, ringer og kropper"
+    }
+  },
+  {
+    "code": "MAT4510",
+    "title": "Geometriske strukturer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4510/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:59:57",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT2200 – Grupper, ringer og kropper\nMAT2400 – Reell analyse\nMAT2410 – Innføring i kompleks analyse\nMAT3500 – Topologi / MAT4500 – Topologi (kan tas samtidig)"
+    }
+  },
+  {
+    "code": "MAT4520",
+    "title": "Mangfoldigheter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4520/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:26",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT3500 – Topologi / MAT4500 – Topologi\nDet kan også være nyttig å ha tatt MAT4510 – Geometriske strukturer"
+    }
+  },
+  {
+    "code": "MAT4530",
+    "title": "Algebraisk topologi I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4530/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:32",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT3500 – Topologi / MAT4500 – Topologi\nDet kan også være nyttig å ha tatt MAT4510 – Geometriske strukturer"
+    }
+  },
+  {
+    "code": "MAT4540",
+    "title": "Algebraisk topologi II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4540/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:00",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4520 – Mangfoldigheter\nMAT4530 – Algebraisk topologi I"
+    }
+  },
+  {
+    "code": "MAT4551",
+    "title": "Symplektisk geometri",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4551/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4551/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2019",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT4520 – Mangfoldigheter / MAT9520 – Manifolds"
+    }
+  },
+  {
+    "code": "MAT4580",
+    "title": "Algebraisk topologi III",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:39",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4530 – Algebraisk topologi I\nMAT4540 – Algebraisk topologi II\nDet kan også være en fordel å ta tatt MAT4520 – Mangfoldigheter , MAT2200 – Grupper, ringer og kropper eller MAT4200 – Kommutativ algebra ."
+    }
+  },
+  {
+    "code": "MAT4590",
+    "title": "Differensialgeometri",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:40",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4510 – Geometriske strukturer\nMAT4520 – Mangfoldigheter / MAT9520 – Manifolds"
+    }
+  },
+  {
+    "code": "MAT4595",
+    "title": "Geometri og analyse",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4595/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4595/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4520 – Mangfoldigheter / MAT9520 – Manifolds og MAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser"
+    }
+  },
+  {
+    "code": "MAT4720",
+    "title": "Stokastisk analyse og stokastiske differensiallikninger",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4720/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4720/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser\nDet er også en fordel å ha tatt følgende emner:\nSTK-MAT3700 – En introduksjon til matematisk finans / STK-MAT4700 – En introduksjon til matematisk finans"
+    }
+  },
+  {
+    "code": "MAT4735",
+    "title": "Avansert finansiell modellering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4735/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4735/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:46",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4720 – Stokastisk analyse og stokastiske differensiallikninger"
+    }
+  },
+  {
+    "code": "MAT4740",
+    "title": "Malliavinkalkulus og anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4740/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4740/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:49",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "emne: MAT4720 (emne: MAT4701)"
+    }
+  },
+  {
+    "code": "MAT4750",
+    "title": "Matematisk finans: modellering og risikostyring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4750/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4750/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:33:55",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2024",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT3400 – Lineær analyse med anvendelser / MAT4400 – Lineær analyse med anvendelser"
+    }
+  },
+  {
+    "code": "MAT4760",
+    "title": "Avanserte Matematiske Metoder i Finans",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4760/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4760/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4720 - Stokastisk analyse og stokastiske differensialligninger (MAT4701)"
+    }
+  },
+  {
+    "code": "MAT4770",
+    "title": "Stokastisk modellering i energi og råvaremarkeder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4770/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4770/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:01",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2024",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK-MAT3700 – En introduksjon til matematisk finans eller STK4510 – Innføring i finansmatematiske metoder og teknikker (nedlagt)\nMAT4720 – Stokastisk analyse og stokastiske differensiallikninger eller MAT4701 – Stokastisk analyse med anvendelser (videreført)"
+    }
+  },
+  {
+    "code": "MAT4790",
+    "title": "Stokastisk filtrering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4790/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4790/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:05",
+      "sourceOfferedTerms": "Vår og høst\nVårsemesteret 2026: Emnet vil kun tilbys som leseemne.\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4720 - Stokastisk analyse og stokastiske differensialligninger"
+    }
+  },
+  {
+    "code": "MAT4800",
+    "title": "Kompleks analyse",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4800/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:10",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2400 – Reell analyse\nMAT2410 – Innføring i kompleks analyse"
+    }
+  },
+  {
+    "code": "MAT4810",
+    "title": "Innføring i flere komplekse variable",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:14",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.\nHøstsemesteret 2024: Emnet vil kun tilbys som selvstudiumsemne for masterstudenter ved Matematisk institutt.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4800 – Kompleks analyse / MAT9800 – Complex Analysis ."
+    }
+  },
+  {
+    "code": "MAT4820",
+    "title": "Kompleks dynamikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4820/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4820/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT2400 – Reell analyse og MAT2410 – Innføring i kompleks analyse . Det vil være en fordel med MAT4800 – Kompleks analyse og litt kunnskap om målteori, men det er ikke absolutt nødvendig."
+    }
+  },
+  {
+    "code": "MAT4830",
+    "title": "Emner i kompleks analyse og dynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4830/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4830/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:16",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.\nHøstsemesteret 2023: Emnet vil kun tilbys som selvstudiumsemne for masterstudenter ved Matematisk institutt.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT4800 - Kompleks analyse og/eller MAT4810 - Innføring i flere komplekse variable og/eller MAT4820 - Kompleks dynamikk , eller et tilsvarende emne. Det kan ogsa? være nyttig a? ha tatt MAT3440 - Dynamiske systemer og MAT4210 - Algebraisk geometri 1 ."
+    }
+  },
+  {
+    "code": "MAT4930",
+    "title": "Graduate research",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT4930/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:18 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT5000",
+    "title": "Matematikkdidaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5000/",
+    "prerequisiteText": "PROF1015 – Profesjonsidentitet, læring og undervisning\nPROF3025 – Ledelse av elevers læring\nPROF4045 – Tilrettelegging for elevers læring\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nMAT2500 – Geometri\nSTK1100 – Sannsynlighetsregning og statistisk modellering",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "MAT1100",
+      "MAT1110",
+      "MAT1120",
+      "MAT-IN1105",
+      "MAT2500",
+      "STK1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:03",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT5930",
+    "title": "Masteroppgave i matematikk 30 studiepoeng",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT5930L",
+    "title": "Masteroppgave i matematikk, Lektorprogrammet",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5930L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5930L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:34:25",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT5960",
+    "title": "Masteroppgave i matematikk 60 studiepoeng",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT5960/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MAT9120",
+    "title": "Mathematical Optimization",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9120/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:04 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nAutumn semester 2025: This course will only be given as a self-study course.",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "MAT2400 – Real Analysis\nMAT-INF1100 – Modelling and Computations (discontinued) / MAT1105 – Linear algebra and numerical methods\nMAT3100 – Linear optimization\nMAT-INF3100 – Linear Optimization (continued)"
+    }
+  },
+  {
+    "code": "MAT9170",
+    "title": "Spline Methods",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9170/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:04 PM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus\nMAT1110 – Calculus and Linear Algebra\nMAT1120 – Linear Algebra\nMAT-INF1100 – Modelling and Computations (discontinued)\nIN1000 – Introduction to Object-oriented Programming / IN1900 – Introduction to Programming with Scientific Applications"
+    }
+  },
+  {
+    "code": "MAT9210",
+    "title": "Algebraic Geometry I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9210/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:32 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4200 – Commutative Algebra"
+    }
+  },
+  {
+    "code": "MAT9215",
+    "title": "Algebraic Geometry II",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9215/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:35 AM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4200 – Commutative Algebra\nMAT4210 – Algebraic Geometry I"
+    }
+  },
+  {
+    "code": "MAT9230",
+    "title": "Algebraic Geometry III",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9230/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:36 AM",
+      "sourceOfferedTerms": "Autumn 2022\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4215 – Algebraic Geometry II / MAT9215 – Algebraic Geometry II"
+    }
+  },
+  {
+    "code": "MAT9240",
+    "title": "Elliptic Curves",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9240/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:37 AM",
+      "sourceOfferedTerms": "Spring 2022\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nSpring semester 2022: This course will only be given as a self-study course.",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "MAT4200 – Commutative Algebra"
+    }
+  },
+  {
+    "code": "MAT9270",
+    "title": "Representation Theory",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9270/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:05 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT2200 – Groups, Rings and Fields\nMAT2400 – Real Analysis\nMAT4520 – Manifolds"
+    }
+  },
+  {
+    "code": "MAT9305",
+    "title": "Partial Differential Equations and Sobolev Spaces",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9305/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9305/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:43 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT2400 – Real Analysis\nMAT3360 – Introduction to Partial Differential Equations"
+    }
+  },
+  {
+    "code": "MAT9390",
+    "title": "Topics in Operator Algebras",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9390/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:47 AM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4450 – Advanced Functional Analysis and MAT4460 – C*-algebras or equivalent."
+    }
+  },
+  {
+    "code": "MAT9460",
+    "title": "C*-Algebras",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9460/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:08 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nThe course will only be given as a self-study course for master students at the Department of Mathematics.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4450 – Advanced Functional Analysis"
+    }
+  },
+  {
+    "code": "MAT9520",
+    "title": "Manifolds",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9520/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9520/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:50 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT3500 – Topology / MAT4500 – Topology\nIt may also be useful to have taken MAT4510 – Geometric Structures"
+    }
+  },
+  {
+    "code": "MAT9530",
+    "title": "Algebraic Topology I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:54 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT3500 – Topology / MAT4500 – Topology\nIt may also be useful to have taken MAT4510 – Geometric Structures"
+    }
+  },
+  {
+    "code": "MAT9540",
+    "title": "Algebraic Topology II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9540/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:11 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4520 – Manifolds\nMAT4530 – Algebraic Topology I"
+    }
+  },
+  {
+    "code": "MAT9551",
+    "title": "Symplectic geometry",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9551/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9551/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2019",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "MAT4520 – Manifolds / MAT9520 – Manifolds"
+    }
+  },
+  {
+    "code": "MAT9560",
+    "title": "Lie groups",
+    "credits": 15,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9560/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9560/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4520 – Manifolds ."
+    }
+  },
+  {
+    "code": "MAT9570",
+    "title": "Algebraic K-theory",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9570/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT2200 – Groups, Rings and Fields , MAT3500 – Topology / MAT4500 – Topology and MAT4530 – Algebraic Topology I .\nThe following may be useful in some applications: MAT4200 – Commutative Algebra , MAT4210 – Algebraic Geometry I , MAT4250 – Number Theory , MAT4520 – Manifolds and MAT4540 – Algebraic Topology II ."
+    }
+  },
+  {
+    "code": "MAT9580",
+    "title": "Algebraic Topology III",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9580/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:59 AM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4530 – Algebraic Topology I\nMAT4540 – Algebraic Topology II\nIt may be an advantage to have taken MAT4520 – Manifolds , MAT2200 – Groups, Rings and Fields or MAT4200 – Commutative Algebra ."
+    }
+  },
+  {
+    "code": "MAT9590",
+    "title": "Differential Geometry",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9590/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:34:59 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4510 – Geometric Structures\nMAT4520 – Manifolds / MAT9520 – Manifolds"
+    }
+  },
+  {
+    "code": "MAT9595",
+    "title": "Geometry and analysis",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9595/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9595/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4520 – Manifolds / MAT9520 – Manifolds and MAT3400 – Linear Analysis with Applications / MAT4400 – Linear Analysis with Applications"
+    }
+  },
+  {
+    "code": "MAT9650",
+    "title": "Advanced Topics in Logic",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9650/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9650/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:03 AM",
+      "sourceOfferedTerms": "Spring 2020\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nSpring semester 2020: This course will only be given as a self-study course for PhD-students who has this in their study plan.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT-INF3600 – Mathematical Logic , MAT4630 – Computability Theory (discontinued) and MAT4640 – Axiomatic Set Theory (discontinued) / MAT9640 – Axiomatic Set Theory (discontinued) ."
+    }
+  },
+  {
+    "code": "MAT9720",
+    "title": "Stochastic Analysis and Stochastic Differential Equations",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9720/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9720/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:11 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT3400 – Linear Analysis with Applications / MAT4400 – Linear Analysis with Applications\nIt will also be an advantage to have taken the following courses:\nSTK-MAT3700 – Introduction to Mathematical Finance and Investment Theory / STK-MAT4700 – Introduction to Mathematical Finance and Investment Theory"
+    }
+  },
+  {
+    "code": "MAT9735",
+    "title": "Advanced financial modelling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9735/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9735/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:06 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4720 – Stochastic Analysis and Stochastic Differential Equations"
+    }
+  },
+  {
+    "code": "MAT9740",
+    "title": "Malliavin Calculus and Applications",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9740/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9740/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:08 AM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4720 – Stochastic Analysis and Stochastic Differential Equations ( MAT4701 – Stochastic analysis with applications (continued) )"
+    }
+  },
+  {
+    "code": "MAT9750",
+    "title": "Mathematical Finance: Modelling and Risk Management",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9750/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9750/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:12 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT3400 – Linear Analysis with Applications / MAT4400 – Linear Analysis with Applications"
+    }
+  },
+  {
+    "code": "MAT9760",
+    "title": "Advanced Mathematical Methods in Finance",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9760/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9760/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4720 - Stochastic analysis and stochastic differential equations (MAT4701)"
+    }
+  },
+  {
+    "code": "MAT9770",
+    "title": "Stochastic Modelling in Energy and Commodity Markets",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9770/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9770/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:16 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK-MAT3700 – Introduction to Mathematical Finance and Investment Theory or STK4510 – Introduction to methods and techniques in financial mathematics (discontinued)\nMAT4720 – Stochastic Analysis and Stochastic Differential Equations or MAT4701 – Stochastic analysis with applications (continued)"
+    }
+  },
+  {
+    "code": "MAT9790",
+    "title": "Stochastic Filtering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9790/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9790/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:19 AM",
+      "sourceOfferedTerms": "Spring and autumn\nSpring semester 2026: This course will only be given as a self-study course.\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4720 - Stochastic analysis and stochastic differential equations"
+    }
+  },
+  {
+    "code": "MAT9800",
+    "title": "Complex Analysis",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9800/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:22 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT2400 – Real Analysis\nMAT2410 – Introduction to Complex Analysis"
+    }
+  },
+  {
+    "code": "MAT9810",
+    "title": "Introduction to Several Complex Variables",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9810/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:25 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nAutumn semester 2024: The course will only be given as a self-study course for master students at the Department of Mathematics.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4800 – Complex Analysis / MAT9800 – Complex Analysis ."
+    }
+  },
+  {
+    "code": "MAT9820",
+    "title": "Complex Dynamics",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9820/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9820/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT2400 – Real Analysis and MAT2410 – Introduction to Complex Analysis . It will be useful to have MAT4800 – Complex Analysis and some knowledge of measure theory, but it's not absolutely necessary."
+    }
+  },
+  {
+    "code": "MAT9830",
+    "title": "Topics in complex analysis and dynamics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9830/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MAT9830/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:35:26 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.\nAutumn semester 2023: The course will only be given as a self-study course for master students at the Department of Mathematics.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT4800 - Complex Analysis and/or MAT4810 - Introduction to Several Complex Variables and/or MAT4820 - Complex Dynamics , or a similar course. MAT3440 - Dynamical systems og MAT4210 - Algebraic Geometry 1 are also useful courses to have done previously."
+    }
+  },
+  {
+    "code": "MEK1010",
+    "title": "Fornybar energi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK1010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK1010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:14",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MEK1100",
+    "title": "Feltteori og vektoranalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:35:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nEmnet bør tas samtidig med eller etter MAT1110 – Kalkulus og lineær algebra ."
+    }
+  },
+  {
+    "code": "MEK2200",
+    "title": "Kontinuumsmekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK2200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:16",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nMEK1100 – Feltteori og vektoranalyse\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra (kan tas samtidig)"
+    }
+  },
+  {
+    "code": "MEK3200",
+    "title": "Prosjektarbeid i mekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3200/",
+    "prerequisiteText": "MEK1100 – Feltteori og vektoranalyse\nog minst to av følgende emner:\nFYS1100 – Mekanikk og modellering eller FYS-MEK1110 – Mekanikk (nedlagt)\nMEK2200 – Kontinuumsmekanikk\nMEK3230 – Fluidmekanikk",
+    "prerequisiteCourses": [
+      "MEK1100",
+      "FYS1100",
+      "FYS-MEK1110",
+      "MEK2200",
+      "MEK3230"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:35:42",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MEK3230",
+    "title": "Fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:17",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt)\nMEK1100 – Feltteori og vektoranalyse\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "MEK3700",
+    "title": "Aktuelle problemstillinger innen bio-mekanikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:18",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMEK1100 – Feltteori og vektoranalyse\nMEK2200 – Kontinuumsmekanikk\nog minst ett av emnene:\nMEK3230 – Fluidmekanikk\nMEK3570 – Faststoffmekanikk med numeriske beregninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MEK3800",
+    "title": "Prosesser i fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK3800/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:18",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMEK1100 – Feltteori og vektoranalyse\nMEK2200 – Kontinuumsmekanikk eller MEK3230 – Fluidmekanikk"
+    }
+  },
+  {
+    "code": "MEK4020",
+    "title": "Viskøse væsker og elastiske stoffer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4020/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på MAT1100 - Kalkulus , MAT1110 - Kalkulus og lineær algebra , MAT-INF1100 - Modellering og beregninger , MAT1120 - Lineær algebra og MEK1100 - Feltteori og vektoranalyse ."
+    }
+  },
+  {
+    "code": "MEK4100",
+    "title": "Matematiske metoder i mekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:19",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nDet er også en fordel å ha tatt følgende emner:\nMAT1110 – Kalkulus og lineær algebra\nFYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering"
+    }
+  },
+  {
+    "code": "MEK4250",
+    "title": "Elementmetoden i beregningsorientert mekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:20",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN5270 – Numeriske metoder for partielle differensiallikninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MEK4300",
+    "title": "Viskøs strømning og turbulens",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:21",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MEK2200 – Kontinuumsmekanikk\nDet er også en fordel å ha tatt følgende emner:\nMEK3230 – Fluidmekanikk\nMAT3360 – Innføring i partielle differensiallikninger"
+    }
+  },
+  {
+    "code": "MEK4320",
+    "title": "Hydrodynamisk bølgeteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:13",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MEK2200 – Kontinuumsmekanikk\nMEK3230 – Fluidmekanikk\nMAT3360 – Innføring i partielle differensiallikninger"
+    }
+  },
+  {
+    "code": "MEK4350",
+    "title": "Stokastiske og ikke-lineære havbølger",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:18",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bør tas samtidig med eller etter MEK4100 – Matematiske metoder i mekanikk eller MEK4320 – Hydrodynamisk bølgeteori ."
+    }
+  },
+  {
+    "code": "MEK4400",
+    "title": "Hydrodynamisk stabilitetsteori",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4400/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK3230 – Fluidmekanikk , MEK4300 – Viskøs strømning og turbulens , MAT-INF3360 – Innføring i partielle differensialligninger (videreført) . Det vil være nyttig med kjennskap til kompleks funksjonsteori."
+    }
+  },
+  {
+    "code": "MEK4410",
+    "title": "Havvind og vindturbiners aerodynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:21",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk\nNorsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK2200 – Kontinuumsmekanikk\nMEK3230 – Fluidmekanikk\nMAT3360 – Innføring i partielle differensiallikninger\nDet vil være en fordel med noe kunnskap i kompleks funksjonsteori."
+    }
+  },
+  {
+    "code": "MEK4420",
+    "title": "Marin hydrodynamikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4420/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:24",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MEK2200 – Kontinuumsmekanikk\nMEK3230 – Fluidmekanikk\nMAT3360 – Innføring i partielle differensiallikninger\nDet vil være en fordel med noe kunnskap i kompleks funksjonsteori."
+    }
+  },
+  {
+    "code": "MEK4470",
+    "title": "Beregningsorientert fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4470/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4470/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:33",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MEK4300 – Viskøs strømning og turbulens"
+    }
+  },
+  {
+    "code": "MEK4480",
+    "title": "Overflatestrømninger",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4480/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:36",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK1100 – Feltteori og vektoranalyse\nMEK2200 – Kontinuumsmekanikk\nMEK3230 – Fluidmekanikk"
+    }
+  },
+  {
+    "code": "MEK4490",
+    "title": "Prosjekt i fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4490/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4490/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:36:39",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MEK2200 – Kontinuumsmekanikk og MEK3230 – Fluidmekanikk"
+    }
+  },
+  {
+    "code": "MEK4600",
+    "title": "Eksperimentelle metoder i fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:04:22",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MEK1100 – Feltteori og vektoranalyse\nMEK3230 – Fluidmekanikk\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "MEK4700",
+    "title": "Aktuelle problemstillinger innen bio-mekanikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:25",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMEK1100 – Feltteori og vektoranalyse\nMEK2200 – Kontinuumsmekanikk\nog minst ett av emnene:\nMEK3230 – Fluidmekanikk\nMEK3570 – Faststoffmekanikk med numeriske beregninger (nedlagt)"
+    }
+  },
+  {
+    "code": "MEK4800",
+    "title": "Prosesser i fluidmekanikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4800/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:26",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS-MEK1110 – Mekanikk (nedlagt) eller FYS1100 – Mekanikk og modellering\nMEK1100 – Feltteori og vektoranalyse\nMEK2200 – Kontinuumsmekanikk eller MEK3230 – Fluidmekanikk"
+    }
+  },
+  {
+    "code": "MEK4930",
+    "title": "Graduate research in Mechanics",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK4930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Self study with supervision",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MEK5930",
+    "title": "Masteroppgave i Fluidmekanikk, 30 studiepoeng",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK5930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MEK5960",
+    "title": "Masteroppgave i Fluidmekanikk, 60 studiepoeng",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK5960/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MEK9250",
+    "title": "Finite Element Methods in Computational Mechanics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9250/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:26 PM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN5270 – Numerical methods for partial differential equations (discontinued)"
+    }
+  },
+  {
+    "code": "MEK9300",
+    "title": "Viscous Flow and Turbulence",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:27 PM",
+      "sourceOfferedTerms": "Autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK2200 – Continuum Mechanics\nIt will also be an advantage to have taken the following courses:\nMEK3230 – Fluid Mechanics\nMAT3360 – Introduction to Partial Differential Equations"
+    }
+  },
+  {
+    "code": "MEK9320",
+    "title": "Hydrodynamic Wave Theory",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9320/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:02 AM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK2200 – Continuum Mechanics\nMEK3230 – Fluid Mechanics\nMAT3360 – Introduction to Partial Differential Equations"
+    }
+  },
+  {
+    "code": "MEK9350",
+    "title": "Stochastic and Nonlinear Ocean Waves",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9350/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:05 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "Should be taken in the same semester as or after MEK4100 – Mathematical Methods in Mechanics or MEK4320 – Hydrodynamic Wave Theory / MEK9320 – Hydrodynamic Wave Theory ."
+    }
+  },
+  {
+    "code": "MEK9400",
+    "title": "Theory of Hydrodynamic Stability",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9400/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK3230 – Fluid Mechanics , MEK4300 – Viscous Flow and Turbulence , INF-MAT3360 – Partial differential equations (discontinued) . It will be useful to have knowledge about complex functional theory."
+    }
+  },
+  {
+    "code": "MEK9410",
+    "title": "Offshore wind and aerodynamics of wind turbines",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Unknown",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:07 AM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "MEK2200 – Continuum Mechanics\nMEK3230 – Fluid Mechanics\nMAT3360 – Introduction to Partial Differential Equations\nSome knowledge in complex functional theory will be an advantage."
+    }
+  },
+  {
+    "code": "MEK9420",
+    "title": "Marine Hydrodynamics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9420/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:28 PM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK2200 – Continuum Mechanics\nMEK3230 – Fluid Mechanics\nMAT3360 – Introduction to Partial Differential Equations\nSome knowledge in complex functional theory will be an advantage."
+    }
+  },
+  {
+    "code": "MEK9430",
+    "title": "Multiphase Flow",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9430/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9430/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK3230 – Fluid Mechanics , MEK3220 – Continuum Mechanics (discontinued) / MEK4220 – Continuum Mechanics (discontinued) , MEK4300 – Viscous Flow and Turbulence , MAT-INF3360 – Introduction to Partial Differential Equations (continued) . It will be an advantage to have some knowledge about elementary thermodynamics."
+    }
+  },
+  {
+    "code": "MEK9460",
+    "title": "LES in marine hydrodynamics and offshore wind power",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9460/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK3230 – Fluid Mechanics , MEK3220 – Continuum Mechanics (discontinued) , MEK4330 – Turbulence theory and modeling (discontinued) / MEK9330 – Turbulence theory and modeling (discontinued) . It is an advantage to have taken MEK4420 – Marine Hydrodynamics / MEK9420 – Marine Hydrodynamics ."
+    }
+  },
+  {
+    "code": "MEK9470",
+    "title": "Computational Fluid Mechanics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9470/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9470/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:13 AM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK4300 – Viscous Flow and Turbulence"
+    }
+  },
+  {
+    "code": "MEK9480",
+    "title": "Free Surface Flows",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9480/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:15 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK1100 – Vector Calculus\nMEK2200 – Continuum Mechanics\nMEK3230 – Fluid Mechanics"
+    }
+  },
+  {
+    "code": "MEK9600",
+    "title": "Experimental Methods in Fluid Mechanics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MEK9600/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:19 AM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MEK1100 – Vector Calculus\nMEK3230 – Fluid Mechanics\nIN1900 – Introduction to Programming with Scientific Applications"
+    }
+  },
+  {
+    "code": "MIEVU4020",
+    "title": "Introduksjon til dyp læring",
+    "credits": 2.5,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MIEVU4020/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MIEVU4020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:21",
+      "sourceOfferedTerms": "Dersom det er 8 eller færre påmeldt, vil emnet bli avlyst.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Anbefalte forkunnskaper: Det anbefales å ha en bachelor i et realfag samt å ha tatt emnet ITEVU4120 – Verdien av data i beslutningsprosesser før dette emnet. Videre er følgende kurs anbefalt forkunnskap: MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , STK1000 – Innføring i anvendt statistikk og IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser ."
+    }
+  },
+  {
+    "code": "MIEVU4030",
+    "title": "Metoder for beregning av usikkerhet",
+    "credits": 2.5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/MIEVU4030/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/MIEVU4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:24",
+      "sourceOfferedTerms": "Dersom det er 8 eller færre påmeldt, vil emnet bli avlyst.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Anbefalte forkunnskaper: Det anbefales å ha en bachelor i et realfag samt å ha tatt emnet ITEVU4120 – Verdien av data i beslutningsprosesser før dette emnet. Videre er følgende kurs anbefalt forkunnskap: MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra , MAT-INF1100 – Modellering og beregninger (nedlagt) , STK1000 – Innføring i anvendt statistikk og IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser ."
+    }
+  },
+  {
+    "code": "SMR5930",
+    "title": "Stokastisk modellering, statistikk og risikoanalyse",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/SMR5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/SMR5930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "SMR5960",
+    "title": "Stokastisk modellering, statistikk og risikoanalyse - Masteroppgave 60 studiepoeng",
+    "credits": 60,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/SMR5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/SMR5960/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "STK-FYS1110",
+    "title": "Sannsynlighetsregning, modellering og dataanalyse for de fysiske fagene",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-FYS1110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-FYS1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:28",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser eller FYS1100 – Mekanikk og modellering"
+    }
+  },
+  {
+    "code": "STK-IN1050",
+    "title": "Statistikk for informatikere",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN1050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN1050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1080 – Matematisk grunnlag for maskinlæring og IN1000 – Introduksjon til objektorientert programmering"
+    }
+  },
+  {
+    "code": "STK-IN4300",
+    "title": "Statistiske læringsmetoder i Data Science",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN4300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN4300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kjennskap til statistikk tilsvarende STK1100 – Sannsynlighetsregning og statistisk modellering .\nLineær regresjon tilsvarende STK1110 – Statistiske metoder og dataanalyse .\nLineær algebra tilsvarende MAT1120 – Lineær algebra eller MAT1125 – Videregående lineær algebra .\nGrunnleggende programmeringsferdigheter tilsvarende IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser ."
+    }
+  },
+  {
+    "code": "STK-IN4355",
+    "title": "Internship i Data Science",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN4355/",
+    "prerequisiteText": "Følgende emner er obligatoriske forkunnskaper og må være bestått før studentene kan ta STK-IN4355.\nSTK-IN4300 – Statistiske læringsmetoder i Data Science\nIN-STK5000 – Ansvarlig datavitenskap",
+    "prerequisiteCourses": [
+      "STK-IN4355",
+      "STK-IN4300",
+      "IN-STK5000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN4355/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2019",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "STK-IN9300",
+    "title": "Statistical Learning Methods in Data Science",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN9300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-IN9300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:00:31 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic mathematical knowledge in probability equal to STK1100 – Probability and Statistical Modelling .\nLinear regression equal to STK1110 – Statistical Methods and Data Analysis .\nLinear algebra equal to MAT1120 – Linear Algebra eller emne: MAT1125.\nBasic programming skills equal to IN1900 – Introduction to Programming with Scientific Applications ."
+    }
+  },
+  {
+    "code": "STK-MAT2011",
+    "title": "Prosjektarbeid i finans, forsikring, risiko og dataanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT2011/",
+    "prerequisiteText": "Minst ett av følgende emner:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2120 – Statistiske metoder og dataanalyse 2 (nedlagt)\nSTK2130 – Modellering av stokastiske prosesser",
+    "prerequisiteCourses": [
+      "STK2100",
+      "STK2120",
+      "STK2130"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT2011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:44",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2130 – Modellering av stokastiske prosesser\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT-IN1105 – Programmering, modellering og beregninger (nedlagt)\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / IN1000 – Introduksjon til objektorientert programmering\nIN1910 – Programmering for naturvitenskapelige anvendelser / IN1010 – Objektorientert programmering"
+    }
+  },
+  {
+    "code": "STK-MAT3700",
+    "title": "En introduksjon til matematisk finans",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT3700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT3700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nDet kan i tillegg være nyttig å ha tatt STK2130 – Modellering av stokastiske prosesser ."
+    }
+  },
+  {
+    "code": "STK-MAT3710",
+    "title": "Sannsynlighetsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT3710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT3710/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:45",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nSTK1100 – Sannsynlighetsregning og statistisk modellering"
+    }
+  },
+  {
+    "code": "STK-MAT4700",
+    "title": "En introduksjon til matematisk finans",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT4700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT4700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:51",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nDet kan i tillegg være nyttig å ha tatt STK2130 – Modellering av stokastiske prosesser ."
+    }
+  },
+  {
+    "code": "STK-MAT4710",
+    "title": "Sannsynlighetsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT4710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK-MAT4710/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:00:57",
+      "sourceOfferedTerms": "Høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nSTK1100 – Sannsynlighetsregning og statistisk modellering"
+    }
+  },
+  {
+    "code": "STK1000",
+    "title": "Innføring i anvendt statistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK1000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK1000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kunnskaper tilsvarende R1 fra videregående skole."
+    }
+  },
+  {
+    "code": "STK1100",
+    "title": "Sannsynlighetsregning og statistisk modellering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:45",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1105 – Lineær algebra og numeriske metoder eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK1110",
+    "title": "Statistiske metoder og dataanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK1110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:18",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK1500",
+    "title": "Forsikring, økonomi og risiko",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK1500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK1500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:46",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nMAT1105 – Lineær algebra og numeriske metoder"
+    }
+  },
+  {
+    "code": "STK2100",
+    "title": "Maskinlæring og statistiske metoder for prediksjon og klassifikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering eller STK-FYS1110 – Sannsynlighetsregning, modellering og dataanalyse for de fysiske fagene\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT1125 – Videregående lineær algebra\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK2130",
+    "title": "Modellering av stokastiske prosesser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK2130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK2130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering eller STK-FYS1110 – Sannsynlighetsregning, modellering og dataanalyse for de fysiske fagene\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra\nMAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "STK3100",
+    "title": "Innføring i generaliserte lineære modeller",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK3100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "STK3405",
+    "title": "Elementær innføring i risiko- og pålitelighetsanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK3405/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK3405/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nIN1910 – Programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK3505",
+    "title": "Introduksjon til forsikringsmatematikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK3505/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK3505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:52",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2130 – Modellering av stokastiske prosesser"
+    }
+  },
+  {
+    "code": "STK4000",
+    "title": "Spesialpensum og seminar",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4000/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering , STK1110 – Statistiske metoder og dataanalyse , STK2120 – Statistiske metoder og dataanalyse 2 (nedlagt) , STK2130 – Modellering av stokastiske prosesser"
+    }
+  },
+  {
+    "code": "STK4011",
+    "title": "Statistisk inferensteori",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:01:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon eller STK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4021",
+    "title": "Anvendt Bayesiansk analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4021/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4021/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:05",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon eller STK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4051",
+    "title": "Numeriske metoder for statistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4051/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4051/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:48",
+      "sourceOfferedTerms": "Vår\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1120 – Lineær algebra\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse"
+    }
+  },
+  {
+    "code": "STK4060",
+    "title": "Tidsrekker",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:14",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering , STK1110 – Statistiske metoder og dataanalyse og ett av følgende emner: STK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon eller STK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4080",
+    "title": "Forløpsanalyse",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4080/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:18",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nett av følgende emner:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2120 – Statistiske metoder og dataanalyse 2 (nedlagt)\nSTK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4090",
+    "title": "Statistisk large-sample-teori",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4090/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4090/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:21",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det anbefales på det sterkeste å ha tatt STK4011 – Statistisk inferensteori .\nI tillegg anbefales\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nMAT2400 – Reell analyse"
+    }
+  },
+  {
+    "code": "STK4100",
+    "title": "Innføring i generaliserte lineære modeller",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra"
+    }
+  },
+  {
+    "code": "STK4141",
+    "title": "Grafiske sannsynlighetsmodeller",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4141/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4141/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:31",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Sannsynlighetsregning og -modeller tilsvarende STK1100 – Sannsynlighetsregning og statistisk modellering\nStatistiske metoder tilsvarende STK1110 – Statistiske metoder og dataanalyse\nGrunnleggende programmeringsferdigheter tilsvarende IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK4150",
+    "title": "Miljøstatistikk og romlig statistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:49",
+      "sourceOfferedTerms": "Vår og høst\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nett av følgende emner:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4160",
+    "title": "Statistisk modellvalg",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4160/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:35",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nett av følgende emner:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2120 – Statistiske metoder og dataanalyse 2 (nedlagt)\nSTK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4180",
+    "title": "Konfidensfordelinger",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4180/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4180/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:36",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK4100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4190",
+    "title": "Ikke-parametrisk Bayesiansk analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4190/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2019",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK4021 – Anvendt Bayesiansk analyse / STK9021 – Applied Bayesian Analysis\nsamt ett av følgende:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2120 – Statistiske metoder og dataanalyse 2 (nedlagt)\nSTK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4205",
+    "title": "Intensivkurs i utvalgte temaer i statistikk",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4205/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4205/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:41",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelor i statistikk samt minst 20 studiepoeng i statistikk på masternivå."
+    }
+  },
+  {
+    "code": "STK4215",
+    "title": "Spesialiserte temaer i statistikk",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4215/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:44",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelor i statistikk samt minst 20 studiepoeng i statistikk på masternivå."
+    }
+  },
+  {
+    "code": "STK4290",
+    "title": "Utvalgte temaer i avansert statistikk",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4290/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4290/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:31:47",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nett av følgende emner:\nSTK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon\nSTK2120 – Statistiske metoder og dataanalyse 2 (nedlagt)\nSTK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4400",
+    "title": "Risiko- og pålitelighetsanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:50",
+      "sourceOfferedTerms": "Vår og høst\nVårsemesteret 2026: Emnet vil kun tilbys som leseemne for masterstudenter ved Matematisk institutt.\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK3405 – Elementær innføring i risiko- og pålitelighetsanalyse"
+    }
+  },
+  {
+    "code": "STK4405",
+    "title": "Elementær innføring i risiko- og pålitelighetsanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4405/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4405/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nMAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nIN1910 – Programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "STK4500",
+    "title": "Livsforsikring og finans",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:50",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt)\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK1500 – Forsikring, økonomi og risiko\nSTK3505 – Introduksjon til forsikringsmatematikk"
+    }
+  },
+  {
+    "code": "STK4505",
+    "title": "Introduksjon til forsikringsmatematikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4505/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4505/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT1120 – Lineær algebra / MAT1125 – Videregående lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nIN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2130 – Modellering av stokastiske prosesser"
+    }
+  },
+  {
+    "code": "STK4530",
+    "title": "Rentemodellering via SPDEer",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4530/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:32:11",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK-MAT3700 – En introduksjon til matematisk finans / STK-MAT4700 – En introduksjon til matematisk finans\nMAT4720 – Stokastisk analyse og stokastiske differensiallikninger"
+    }
+  },
+  {
+    "code": "STK4540",
+    "title": "Skadeforsikring og risiko",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4540/index.html",
+      "sourceUpdatedAt": "21. mars 2026 18:02:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MAT1100 – Kalkulus\nMAT1110 – Kalkulus og lineær algebra\nMAT-INF1100 – Modellering og beregninger (nedlagt) / MAT1105 – Lineær algebra og numeriske metoder\nSTK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK3505 – Introduksjon til forsikringsmatematikk"
+    }
+  },
+  {
+    "code": "STK4550",
+    "title": "Ekstremverdistatistikk og store avvik",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4550/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:32:22",
+      "sourceOfferedTerms": "Når behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering\nSTK1110 – Statistiske metoder og dataanalyse\nSTK2130 – Modellering av stokastiske prosesser\nSTK3505 – Introduksjon til forsikringsmatematikk\nSTK-MAT3710 – Sannsynlighetsteori"
+    }
+  },
+  {
+    "code": "STK4610",
+    "title": "Statistiske metoder for samfunnsvitenskap: Utvalgsundersøkelse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4610/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:32:24",
+      "sourceOfferedTerms": "Vår 2020\nNår behov og ressurser tilsier det. Kontakt studieinfo@math.uio.no hvis du er interessert i emnet.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1100 – Sannsynlighetsregning og statistisk modellering , STK1110 – Statistiske metoder og dataanalyse og ett av følgende emner: STK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon eller STK3100 – Innføring i generaliserte lineære modeller"
+    }
+  },
+  {
+    "code": "STK4900",
+    "title": "Statistiske metoder og anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:37:51",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "STK1000 – Innføring i anvendt statistikk eller STK1100 – Sannsynlighetsregning og statistisk modellering eller STK-FYS1110 – Sannsynlighetsregning, modellering og dataanalyse for de fysiske fagene\net innføringsemne i matematikk"
+    }
+  },
+  {
+    "code": "STK4930",
+    "title": "Graduate research in Statistics",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK4930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK4930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "STK9011",
+    "title": "Statistical Inference Theory",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9011/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:03:10 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification or STK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9021",
+    "title": "Applied Bayesian Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9021/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9021/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:03:13 PM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification or STK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9051",
+    "title": "Computational Statistics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9051/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9051/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:52 AM",
+      "sourceOfferedTerms": "Spring\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1120 – Linear Algebra\nSTK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis"
+    }
+  },
+  {
+    "code": "STK9060",
+    "title": "Time Series",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9060/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:03:19 PM",
+      "sourceOfferedTerms": "Spring and autumn\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling , STK1110 – Statistical Methods and Data Analysis and one of the following courses: STK2100 – Machine Learning and Statistical Methods for Prediction and Classification or STK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9080",
+    "title": "Survival and Event History Analysis",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9080/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:03:22 PM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\none of the following courses:\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification\nSTK2120 – Statistical Methods and Data Analysis 2 (discontinued)\nSTK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9090",
+    "title": "Statistical large-sample theory",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9090/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9090/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 6:03:23 PM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is strongly recommended to have taken STK4011 – Statistical Inference Theory .\nIn addition:\nSTK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nMAT2400 – Real Analysis"
+    }
+  },
+  {
+    "code": "STK9141",
+    "title": "Probabilistic graphical models",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9141/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9141/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:49 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Probability and probability models equivalent to STK1100 – Probability and Statistical Modelling\nStatistical methods equivalent to STK1110 – Statistical Methods and Data Analysis\nBasic programming skills equivalent to IN1900 – Introduction to Programming with Scientific Applications"
+    }
+  },
+  {
+    "code": "STK9160",
+    "title": "Statistical Model Selection",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9160/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:52 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\none of the following courses:\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification\nSTK2120 – Statistical Methods and Data Analysis 2 (discontinued)\nSTK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9180",
+    "title": "Confidence Distributions",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9180/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9180/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:52 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK4100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9190",
+    "title": "Bayesian nonparametrics",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9190/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2019",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK4021 – Applied Bayesian Analysis / STK9021 – Applied Bayesian Analysis\nand one of the following courses:\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification\nSTK2120 – Statistical Methods and Data Analysis 2 (discontinued)\nSTK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9200",
+    "title": "Advanced Statistical Methods",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9200/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:55 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Background with a master degree in statistics, or knowledge on an equivalent level."
+    }
+  },
+  {
+    "code": "STK9205",
+    "title": "Short Course in Selected Topics of Statistics",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9205/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9205/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:57 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Bachelor in statistics and at least 20 ECTS credits in statistics at Master's level."
+    }
+  },
+  {
+    "code": "STK9215",
+    "title": "Specialized Topics in Statistics",
+    "credits": 5,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9215/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:32:59 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Bachelor in statistics and at least 20 ECTS credits in statistics at Master's level."
+    }
+  },
+  {
+    "code": "STK9290",
+    "title": "Selected Themes in Advanced Statistics",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9290/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9290/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:53 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\none of the following courses:\nSTK2100 – Machine Learning and Statistical Methods for Prediction and Classification\nSTK2120 – Statistical Methods and Data Analysis 2 (discontinued)\nSTK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9400",
+    "title": "Risk and Reliability Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9400/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9400/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:55 AM",
+      "sourceOfferedTerms": "Spring and autumn\nSpring semester 2026: This course will only be given as a self-study course for PhD-students at the Department of Mathematics.\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK3405 – Introduction to Risk and Reliability Analysis"
+    }
+  },
+  {
+    "code": "STK9500",
+    "title": "Life Insurance and Finance",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9500/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:57 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "MAT1100 – Calculus\nMAT1110 – Calculus and Linear Algebra\nMAT-INF1100 – Modelling and Computations (discontinued)\nSTK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK1500 – Insurance, economy and risk\nSTK3505 – Introduction to Insurance Mathematics"
+    }
+  },
+  {
+    "code": "STK9530",
+    "title": "Interest Rate Modelling via SPDE's",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9530/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:33:05 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK-MAT3700 – Introduction to Mathematical Finance and Investment Theory / STK-MAT4700 – Introduction to Mathematical Finance and Investment Theory\nMAT4720 – Stochastic Analysis and Stochastic Differential Equations"
+    }
+  },
+  {
+    "code": "STK9550",
+    "title": "Extreme value statistics and large devia-tions",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:37:59 AM",
+      "sourceOfferedTerms": "Taught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling\nSTK1110 – Statistical Methods and Data Analysis\nSTK2130 – Modelling by Stochastic Processes\nSTK3505 – Introduction to Insurance Mathematics\nSTK-MAT3710 – Probability Theory"
+    }
+  },
+  {
+    "code": "STK9610",
+    "title": "Statistical methods for social sciences: Survey sampling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9610/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:01 AM",
+      "sourceOfferedTerms": "Spring 2020\nTaught according to demand and resources. Contact studieinfo@math.uio.no if you are interested in this course.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1100 – Probability and Statistical Modelling , STK1110 – Statistical Methods and Data Analysis and one of the following courses: STK2100 – Machine Learning and Statistical Methods for Prediction and Classification or STK3100 – Introduction to Generalized Linear Models"
+    }
+  },
+  {
+    "code": "STK9900",
+    "title": "Statistical Methods and Applications",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Mathematics, Mechanics and Statistics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/math/STK9900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/math/STK9900/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:04 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "STK1000 – Introduction to Applied Statistics or STK1100 – Probability and Statistical Modelling or STK-FYS1110 – Probability, modeling and data analysis for the physical subjects\nAn introductory course in mathematics"
+    }
+  }
+]

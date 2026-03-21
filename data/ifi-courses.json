@@ -1,0 +1,4916 @@
+[
+  {
+    "code": "DIGHEL4350",
+    "title": "Helsetjenester og informasjonsbehov",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/DIGHEL4350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/DIGHEL4350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "DIGHEL4360",
+    "title": "Informatikk for helsearbeidere",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/DIGHEL4360/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/DIGHEL4360/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:16",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN-GEO1900",
+    "title": "Introduksjon i programmering for geofagstudenter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-GEO1900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-GEO1900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:18",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN-KJM1900",
+    "title": "Introduksjon i programmering for kjemikere",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-KJM1900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-KJM1900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:19",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN-STK5000",
+    "title": "Ansvarlig datavitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:20",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kjennskap til sannsynlighetsberegning ( STK1000 – Innføring i anvendt statistikk eller STK1100 – Sannsynlighetsregning og statistisk modellering ) eller diskret matematikk, kjennskap til elementær kalkulus (differensiering, integrering) og elementære programmeringsferdigheter (Python) anbefales.\nDet er sterkt anbefalt å ha en viss kjennskap til matematisk sannsynlighetsanalyse (f.eks. STK1100), lineær algebra (f.eks. MAT1120 – Lineær algebra ) og algoritmer (f.eks. IN2010 – Algoritmer og datastrukturer )"
+    }
+  },
+  {
+    "code": "IN-STK9000",
+    "title": "Ansvarlig datavitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-STK9000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kjennskap til sannsynlighetsberegning ( STK1000 – Innføring i anvendt statistikk eller STK1100 – Sannsynlighetsregning og statistisk modellering ) eller diskret matematikk, kjennskap til elementær kalkulus (differensiering, integrering) og elementære programmeringsferdigheter (Python) anbefales.\nDet er sterkt anbefalt å ha en viss kjennskap til matematisk sannsynlighetsanalyse (f.eks. STK1100), lineær algebra (f.eks. MAT1120 – Lineær algebra ) og algoritmer (f.eks. IN2010 – Algoritmer og datastrukturer )"
+    }
+  },
+  {
+    "code": "IN1000",
+    "title": "Introduksjon til objektorientert programmering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:13:03",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1010",
+    "title": "Objektorientert programmering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1010/",
+    "prerequisiteText": "Emnet forutsetter IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) / INF1001 – Grunnkurs i objektorientert programmering (nedlagt) / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / IN-KJM1900 – Introduksjon i programmering for kjemikere / BIOS1101 – Innføring i beregningsmodeller for biovitenskap /IN105/INF101/IN101.",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "INF1001",
+      "INF1100",
+      "IN1900",
+      "IN-KJM1900",
+      "BIOS1101",
+      "IN105",
+      "INF101",
+      "IN101"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:13:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1020",
+    "title": "Introduksjon til datateknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:25",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1030",
+    "title": "Systemer, krav og konsekvenser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1030/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) / INF1001 – Grunnkurs i objektorientert programmering (nedlagt) / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) /INF101/HUMIT1700/INF103/IN101.",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "INF1001",
+      "IN1900",
+      "INF1100",
+      "INF101",
+      "HUMIT1700",
+      "INF103",
+      "IN101"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:13:24",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bør tas samtidig med eller etter IN1010 – Objektorientert programmering / INF1010 – Objektorientert programmering (videreført)"
+    }
+  },
+  {
+    "code": "IN1050",
+    "title": "Introduksjon til design, bruk, interaksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1060",
+    "title": "Bruksorientert design",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1060/",
+    "prerequisiteText": "Emnet forutsetter IN1050 – Introduksjon til design, bruk, interaksjon / INF1500 - Introduksjon til design, bruk, interaksjon .",
+    "prerequisiteCourses": [
+      "IN1050",
+      "INF1500"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:13:36",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1080",
+    "title": "Mekatronikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1080/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:13:43",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper tilsvarende Fysikk-1 og -2 fra videregående skole, samt begynneremnene i informatikk: IN1000/INF1000/INF1001/IN1900/IN-KJM1900/INF1100, IN1020."
+    }
+  },
+  {
+    "code": "IN1140",
+    "title": "Introduksjon til språkteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:28",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1150",
+    "title": "Logiske metoder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:14:01",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1160",
+    "title": "Introduksjon til maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1160/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering /INF1000 eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser /INF1100/IN-KJM1900/IN-GEO1900",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "IN1900",
+      "INF1100",
+      "IN-KJM1900",
+      "IN-GEO1900"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:14:03",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1900",
+    "title": "Introduksjon i programmering for naturvitenskapelige anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:29",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN1910",
+    "title": "Programmering for naturvitenskapelige anvendelser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1910/",
+    "prerequisiteText": "Ett av emnene IN1000, IN1900/IN-KJM1900/IN-GEO1900, INF1000, INF1100, IN105 eller INF101.",
+    "prerequisiteCourses": [
+      "IN1000",
+      "IN1900",
+      "IN-KJM1900",
+      "IN-GEO1900",
+      "INF1000",
+      "INF1100",
+      "IN105",
+      "INF101"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN1910/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet forutsetter kunnskap om programmering i Python. Studenter som kun har erfaring med andre programmeringsspråk anbefales å sette seg inn i grunnleggende Python før kurset. Dette kan f.eks. gjøres som selvstudium basert på de første kapitlene i anbefalt pensumlitteratur."
+    }
+  },
+  {
+    "code": "IN2000",
+    "title": "Software Engineering med prosjektarbeid",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2000/",
+    "prerequisiteText": "IN1010 – Objektorientert programmering /INF1010 og IN1030 – Systemer, krav og konsekvenser /INF1050/INF1055, samt minst ett av disse fire emnene: IN1060 – Bruksorientert design /INF1510, IN2020 – Metoder i interaksjonsdesign /INF2260, IN2010 – Algoritmer og datastrukturer /INF2220, IN2090 – Databaser og datamodellering /INF1300\nDersom du mener å fylle alle krav for emnet (programbegrensning og opptakskrav med gammel emnekode) kontakt instituttet hvis du ikke får meldt deg i Studentweb.",
+    "prerequisiteCourses": [
+      "IN1010",
+      "INF1010",
+      "IN1030",
+      "INF1050",
+      "INF1055",
+      "IN1060",
+      "INF1510",
+      "IN2020",
+      "INF2260",
+      "IN2010",
+      "INF2220",
+      "IN2090",
+      "INF1300"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:14:22",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2010",
+    "title": "Algoritmer og datastrukturer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2010/",
+    "prerequisiteText": "Emnet forutsetter IN1010 - Objektorientert programmering/ INF1010 - Objektorientert programmering / IN1910 – Programmering for naturvitenskapelige anvendelser /INF101/IN105.",
+    "prerequisiteCourses": [
+      "IN1010",
+      "INF1010",
+      "IN1910",
+      "INF101",
+      "IN105"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:33",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2020",
+    "title": "Metoder i interaksjonsdesign",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2020/",
+    "prerequisiteText": "Emnet forutsetter IN1050 eller IN1060 .",
+    "prerequisiteCourses": [
+      "IN1050",
+      "IN1060"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk\nNorsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2031",
+    "title": "Prosjektoppgave i programmering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2031/",
+    "prerequisiteText": "Emnet forutsetter IN1010 - Objektorientert programmering / INF1010 - Objektorientert programmering (videreført) .",
+    "prerequisiteCourses": [
+      "IN1010",
+      "INF1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2031/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:36",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2040",
+    "title": "Funksjonell programmering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2040/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) / INF1001 – Grunnkurs i objektorientert programmering (nedlagt) / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / HUMIT1700 – Grunnkurs i programmering for humanister (nedlagt)",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "INF1001",
+      "IN1900",
+      "INF1100",
+      "HUMIT1700"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:37",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2060",
+    "title": "Digitalteknikk og datamaskinarkitektur",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN1000/INF1000/INF1001/IN1900/IN-KJM1900/INF1100, IN1020, IN1080"
+    }
+  },
+  {
+    "code": "IN2080",
+    "title": "Beregninger og kompleksitet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2080/",
+    "prerequisiteText": "Emnet forutsetter IN1150 – Logiske metoder / INF1080 – Logiske metoder for informatikk (videreført)",
+    "prerequisiteCourses": [
+      "IN1150",
+      "INF1080"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2080/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:06",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2090",
+    "title": "Databaser og datamodellering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2090/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) / INF1001 – Grunnkurs i objektorientert programmering (nedlagt) / IN-KJM1900 – Introduksjon i programmering for kjemikere / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) / HUMIT1700 – Grunnkurs i programmering for humanister (nedlagt)",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "INF1001",
+      "IN-KJM1900",
+      "IN1900",
+      "INF1100",
+      "HUMIT1700"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2090/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:41",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN1030 – Systemer, krav og konsekvenser"
+    }
+  },
+  {
+    "code": "IN2100",
+    "title": "Logikk for distribuerte systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er en fordel å ha tatt ett innføringsemne i programmering (f.eks. IN1000). Du vil også ha nytte av å ha tatt et innføringsemne i logikk (f.eks. IN1150)."
+    }
+  },
+  {
+    "code": "IN2120",
+    "title": "Informasjonssikkerhet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:42",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er en fordel å ha tatt et innføringsemne i datateknologi (f.eks. IN1020)."
+    }
+  },
+  {
+    "code": "IN2140",
+    "title": "Introduksjon til operativsystemer og datakommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2140/",
+    "prerequisiteText": "IN1020 – Introduksjon til datateknologi og enten IN1000 – Introduksjon til objektorientert programmering /INF1000 eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser /INF1100",
+    "prerequisiteCourses": [
+      "IN1020",
+      "IN1000",
+      "INF1000",
+      "IN1900",
+      "INF1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN1010 – Objektorientert programmering . Spesielt er det viktig at du kan rekursjon, arrayer og lister."
+    }
+  },
+  {
+    "code": "IN2150",
+    "title": "IT i organisasjoner",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:46",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN2160",
+    "title": "Probabilistisk maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2160/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering",
+    "prerequisiteCourses": [
+      "IN1000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN2160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på grunnleggende kunnskap i matematikk, statistikk og maskinlæring. Det er sterkt anbefalt å ha fullført følgende emner:\nSTK-IN1050 – Statistikk for informatikere\nMAT1080 – Matematisk grunnlag for maskinlæring\nIN1160 – Introduksjon til maskinlæring"
+    }
+  },
+  {
+    "code": "IN3000",
+    "title": "Operativsystemer",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3000/",
+    "prerequisiteText": "IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) / INF1020 – Algoritmer og datastrukturer (nedlagt)",
+    "prerequisiteCourses": [
+      "IN2010",
+      "INF2220",
+      "INF1020"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:15:54",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2140 – Introduksjon til operativsystemer og datakommunikasjon"
+    }
+  },
+  {
+    "code": "IN3010",
+    "title": "Transformativt design",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3010/",
+    "prerequisiteText": "IN2020 – Metoder i interaksjonsdesign",
+    "prerequisiteCourses": [
+      "IN2020"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:16:02",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3015",
+    "title": "Ultralydavbildning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3015/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3015/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:44",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1010 – Objektorientert programmering / IN1910 – Programmering for naturvitenskapelige anvendelser\nIN3190 – Digital signalbehandling / IN4190 – Digital signalbehandling og MAT1120 – Lineær algebra bør tas før eller parallelt med dette emnet"
+    }
+  },
+  {
+    "code": "IN3020",
+    "title": "Databasesystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3020/",
+    "prerequisiteText": "IN2090 – Databaser og datamodellering /INF1300",
+    "prerequisiteCourses": [
+      "IN2090",
+      "INF1300"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:16:13",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer /INF2220 og IN1150 – Logiske metoder /INF1080.\nKunnskap om hashing, søketrær og grafer (fra IN2010/INF2220) og mengdelære, 1. ordens logikk og induksjonsbevis (fra IN1150/INF1080) ansees som kjent og vil ikke bli gjennomgått."
+    }
+  },
+  {
+    "code": "IN3030",
+    "title": "Effektiv parallellprogrammering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3030/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) (eller IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført) ) og IN1010 – Objektorientert programmering / INF1010 – Objektorientert programmering (videreført)",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "IN1900",
+      "INF1100",
+      "IN1010",
+      "INF1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:16:21",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN2010 – Algoritmer og datastrukturer /INF2220"
+    }
+  },
+  {
+    "code": "IN3040",
+    "title": "Programmeringsspråk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer"
+    }
+  },
+  {
+    "code": "IN3050",
+    "title": "Introduksjon til kunstig intelligens og maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:16:34",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2026",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Du bør ha erfaring med å programmere. Helst bør du ha tatt emnet IN2010 – Algoritmer og datastrukturer ."
+    }
+  },
+  {
+    "code": "IN3060",
+    "title": "Semantiske teknologier",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3060/",
+    "prerequisiteText": "IN1010 – Objektorientert programmering /INF1010.",
+    "prerequisiteCourses": [
+      "IN1010",
+      "INF1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:16:41",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Logikk tilsvarende minst IN1150 – Logiske metoder og IN2010 – Algoritmer og datastrukturer"
+    }
+  },
+  {
+    "code": "IN3070",
+    "title": "Logikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1150 / INF1080"
+    }
+  },
+  {
+    "code": "IN3090",
+    "title": "Prosjektoppgave i informatikk: Digital økonomi og ledelse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3090/",
+    "prerequisiteText": "INEC1810 – Marknad, markedsføring og produktutvikling , INEC1821 – Digital økonomi, organisering og ledelse /INEC1820, INEC1831 – Strategi /INEC1830 og ECON1210 – Mikroøkonomi 1 /INEC1800",
+    "prerequisiteCourses": [
+      "INEC1810",
+      "INEC1821",
+      "INEC1820",
+      "INEC1831",
+      "INEC1830",
+      "ECON1210",
+      "INEC1800"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3090/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:49",
+      "sourceOfferedTerms": "Vår og høst\nVår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3120",
+    "title": "Søketeknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3120/",
+    "prerequisiteText": "IN1010 – Objektorientert programmering eller INF1010 – Objektorientert programmering (videreført) ,",
+    "prerequisiteCourses": [
+      "IN1010",
+      "INF1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:51",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2010 – Algoritmer og datastrukturer eller IN2040 – Funksjonell programmering"
+    }
+  },
+  {
+    "code": "IN3130",
+    "title": "Algoritmer: Design og effektivitet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3130/",
+    "prerequisiteText": "Emnet forutsetter IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) .",
+    "prerequisiteCourses": [
+      "IN2010",
+      "INF2220"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:52",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3140",
+    "title": "Introduksjon til robotikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper i mekanikk tilsvarende Fysikk-1 og -2 fra videregående, man bør kunnskap om minst ett høynivå programmeringsspråk, samt erfaring med lineæralgebra (matriseregning) og partielle differensialligninger. Eksempler på emner det kan være lurt å ha tatt er MAT1110 - Kalkulus og lineær algebra , IN1080 - Mekatronikk og IN1000 - Introduksjon til objektorientert programmering ."
+    }
+  },
+  {
+    "code": "IN3160",
+    "title": "Digital systemkonstruksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:16",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emner som gir bakgrunn i ett høynivå programmeringspråk, boolsk algebra og innføring i kombinatoriske og sekvensielle kretser, elektronikk eller mekatronikk, samt datamaskinarkitektur: F. eks. IN1080 – Mekatronikk , IN2060 – Digitalteknikk og datamaskinarkitektur og ett begynneremne i programmering."
+    }
+  },
+  {
+    "code": "IN3170",
+    "title": "Microelectronics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3170/",
+    "prerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver eller IN1080 – Mekatronikk",
+    "prerequisiteCourses": [
+      "FYS1210",
+      "IN1080"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:23",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS3220 – Lineær kretsteori og FYS2210 – Halvlederkomponenter (videreført)"
+    }
+  },
+  {
+    "code": "IN3190",
+    "title": "Digital signalbehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3190/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:40:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på: IN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser , MAT1110 – Kalkulus og lineær algebra , MAT1120 – Lineær algebra (bør tas før eller parallelt med dette emnet)."
+    }
+  },
+  {
+    "code": "IN3200",
+    "title": "High-Performance Computing and Numerical Projects",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3200/",
+    "prerequisiteText": "MAT1100 (eller tilsvarende) og minst ett av de tilsvarende beregning- og programmering-emnene:\nINF1000/IN1000/INF1010/IN1010 eller MAT-INF1100/MAT-INF1100L/BIOS1100/IN-KJM1900",
+    "prerequisiteCourses": [
+      "MAT1100",
+      "INF1000",
+      "IN1000",
+      "INF1010",
+      "IN1010",
+      "MAT-INF1100",
+      "MAT-INF1100L",
+      "BIOS1100",
+      "IN-KJM1900"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:35",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1110 og MAT1120"
+    }
+  },
+  {
+    "code": "IN3210",
+    "title": "Network and Communications Security",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3210/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:41:02 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about networking and computer security, e.g. IN2140 and IN2120."
+    }
+  },
+  {
+    "code": "IN3220",
+    "title": "Å forstå bruk før bruk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3220/",
+    "prerequisiteText": "IN1060 – Bruksorientert design",
+    "prerequisiteCourses": [
+      "IN1060"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3220/index.html",
+      "sourceUpdatedAt": "18. des. 2025 03:56:50",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3230",
+    "title": "Nettverk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3230/",
+    "prerequisiteText": "Emnet forutsetter IN2140 – Introduksjon til operativsystemer og datakommunikasjon /INF1060.",
+    "prerequisiteCourses": [
+      "IN2140",
+      "INF1060"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:13",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer ."
+    }
+  },
+  {
+    "code": "IN3240",
+    "title": "Testing av programvare",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3240/",
+    "prerequisiteText": "IN1000 – Introduksjon til objektorientert programmering /INF1000/IN1900/INF1100/IN-KJM1900",
+    "prerequisiteCourses": [
+      "IN1000",
+      "INF1000",
+      "IN1900",
+      "INF1100",
+      "IN-KJM1900"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger delvis på IN1030 – Systemer, krav og konsekvenser eller INF1050 – Systemutvikling (videreført) . Det anbefales også å ha tatt IN1010 – Objektorientert programmering ."
+    }
+  },
+  {
+    "code": "IN3250",
+    "title": "Prosjektoppgave i informatikk: interaksjonsdesign",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3250/",
+    "prerequisiteText": "INF2260 – Interaksjonsdesign (nedlagt) / IN2020 – Metoder i interaksjonsdesign , INF1510 – Bruksorientert design (videreført) / IN1060 – Bruksorientert design og INF1010 – Objektorientert programmering (videreført) / IN1010 – Objektorientert programmering",
+    "prerequisiteCourses": [
+      "INF2260",
+      "IN2020",
+      "INF1510",
+      "IN1060",
+      "INF1010",
+      "IN1010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:17",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3260",
+    "title": "Prosjektoppgave i informatikk: datakommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3260/",
+    "prerequisiteText": "IN1010 – Objektorientert programmering og enten IN2010 – Algoritmer og datastrukturer eller IN2140 – Introduksjon til operativsystemer og datakommunikasjon",
+    "prerequisiteCourses": [
+      "IN1010",
+      "IN2010",
+      "IN2140"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3260/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:19",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3280",
+    "title": "Forskerlinjen I",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3280/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:20",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nvår 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3290",
+    "title": "Digital teknologi og samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3290/",
+    "prerequisiteText": "IN1030 – Systemer, krav og konsekvenser",
+    "prerequisiteCourses": [
+      "IN1030"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3290/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN3310",
+    "title": "Dyp læring for bildeanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3310/",
+    "prerequisiteText": "FYS-STK3155 – Anvendt dataanalyse og maskinlæring eller STK2100 – Maskinlæring og statistiske metoder for prediksjon og klassifikasjon",
+    "prerequisiteCourses": [
+      "FYS-STK3155",
+      "STK2100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det er anbefalt å ha god kunnskap om\nprogrammering, for eksempel fra IN2010;\nmatematikk (kalkulus og lineær algebra), for eksempel fra MAT1110, og er også en fordel å ha tatt MAT1120;\nDet er også anbefalt å ha kjennskap til applikasjoner relatert til bilder, for eksempel fra IN3370/IN2070."
+    }
+  },
+  {
+    "code": "IN3370",
+    "title": "Digital bildebehandling og analyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3370/",
+    "prerequisiteText": "Emnet forutsetter IN1010 – Objektorientert programmering / IN1910 – Programmering for naturvitenskapelige anvendelser og MAT1100 – Kalkulus / MAT1050 – Matematikk for anvendelser 1",
+    "prerequisiteCourses": [
+      "IN1010",
+      "IN1910",
+      "MAT1100",
+      "MAT1050"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN3370/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er en fordel med god bakgrunn i programmering, f.eks. IN2010.\nEmnet bruker lineær algebra, spesielt basisfunksjoner/matriser og komplekse tall, så det er en fordel med MAT1120."
+    }
+  },
+  {
+    "code": "IN4000",
+    "title": "Operativsystemer",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:53",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) / INF1020 – Algoritmer og datastrukturer (nedlagt)\nIN2140 – Introduksjon til operativsystemer og datakommunikasjon"
+    }
+  },
+  {
+    "code": "IN4011",
+    "title": "Transformativt design",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN2020 – Metoder i interaksjonsdesign"
+    }
+  },
+  {
+    "code": "IN4015",
+    "title": "Ultralydavbildning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4015/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4015/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:41:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "INF1010 – Objektorientert programmering (videreført) / IN1910 – Programmering for naturvitenskapelige anvendelser\nIN3190 – Digital signalbehandling / IN4190 – Digital signalbehandling og MAT1120 – Lineær algebra bør tas før eller parallelt med dette emnet"
+    }
+  },
+  {
+    "code": "IN4020",
+    "title": "Databasesystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) , IN2090 – Databaser og datamodellering /INF1300 og IN1150 – Logiske metoder / INF1080 – Logiske metoder for informatikk (videreført) .\nKunnskap om hashing, søketrær og grafer (fra IN2010/INF2220) og mengdelære, 1. ordens logikk og induksjonsbevis (fra IN1150/INF1080) ansees som kjent og vil ikke bli gjennomgått."
+    }
+  },
+  {
+    "code": "IN4030",
+    "title": "Introduksjon til bioinformatikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4030/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:56",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1000 – Introduksjon til objektorientert programmering / INF1000 – Grunnkurs i objektorientert programmering (videreført) / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser / INF1100 – Grunnkurs i programmering for naturvitenskapelige anvendelser (videreført)"
+    }
+  },
+  {
+    "code": "IN4050",
+    "title": "Introduksjon til kunstig intelligens og maskinlæring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:17:58",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Erfaring med programmering, som forhåpentligvis inkluderer emnet IN2010 – Algoritmer og datastrukturer ."
+    }
+  },
+  {
+    "code": "IN4060",
+    "title": "Semantiske teknologier",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:05",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1010 – Objektorientert programmering er sterkt anbefalt. Logikk tilsvarende minst IN1150 – Logiske metoder og IN2010 – Algoritmer og datastrukturer"
+    }
+  },
+  {
+    "code": "IN4070",
+    "title": "Logikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1150 / INF1080"
+    }
+  },
+  {
+    "code": "IN4080",
+    "title": "Natural Language Processing",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4080/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:01 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN4120",
+    "title": "Søketeknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2010 – Algoritmer og datastrukturer eller IN2040 – Funksjonell programmering"
+    }
+  },
+  {
+    "code": "IN4140",
+    "title": "Introduksjon til robotikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på kunnskaper i mekanikk tilsvarende Fysikk-1 og -2 fra videregående, man bør kunnskap om minst ett høynivå programmeringsspråk, samt erfaring med lineæralgebra (matriseregning) og partielle differensialligninger. Eksempler på emner det kan være lurt å ha tatt er MAT1110 - Kalkulus og lineær algebra , IN1080 - Mekatronikk og IN1000 - Introduksjon til objektorientert programmering ."
+    }
+  },
+  {
+    "code": "IN4150",
+    "title": "Digitale økosystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:03",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emner innen Informatikk og Business disipliner som IN2000 – Software Engineering med prosjektarbeid og INEC1830 – Strategi (videreført) / INEC1831 – Strategi"
+    }
+  },
+  {
+    "code": "IN4160",
+    "title": "Digital systemkonstruksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emner som gir bakgrunn i ett høynivå programmeringspråk, boolsk algebra og innføring i kombinatoriske og sekvensielle kretser, elektronikk eller mekatronikk, samt datamaskinarkitektur: F. eks. IN1080 – Mekatronikk , IN2060 – Digitalteknikk og datamaskinarkitektur og ett begynneremne i programmering."
+    }
+  },
+  {
+    "code": "IN4170",
+    "title": "Microelectronics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:43",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver eller IN1080 – Mekatronikk , FYS3220 – Lineær kretsteori og FYS2210 – Halvlederkomponenter (videreført)"
+    }
+  },
+  {
+    "code": "IN4180",
+    "title": "Cyber Operations",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4180/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4180/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:18:46 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about computer security and computer networks, e.g. IN2120 – Information Security and IN2140 – Introduction to operating systems and data communication ."
+    }
+  },
+  {
+    "code": "IN4190",
+    "title": "Digital signalbehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4190/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:10",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på: IN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser , MAT1110 – Kalkulus og lineær algebra , MAT1120 – Lineær algebra (bør tas før eller parallelt med dette emnet)."
+    }
+  },
+  {
+    "code": "IN4200",
+    "title": "High-Performance Computing and Numerical Projects",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MAT1100, MAT1110 og MAT1120 og IN1000/IN1010/MAT-IN1100."
+    }
+  },
+  {
+    "code": "IN4210",
+    "title": "Network and Communications Security",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4210/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:14 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about networking and computer security, e.g. course IN2140 – Introduction to operating systems and data communication and IN2120 – Information Security"
+    }
+  },
+  {
+    "code": "IN4220",
+    "title": "Å forstå bruk før bruk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:18:59",
+      "sourceOfferedTerms": "Høst\nEmnet endret 2024 semester fra Vår til Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN1060 – Bruksorientert design"
+    }
+  },
+  {
+    "code": "IN4230",
+    "title": "Nettverk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2140 – Introduksjon til operativsystemer og datakommunikasjon og IN2010 – Algoritmer og datastrukturer"
+    }
+  },
+  {
+    "code": "IN4240",
+    "title": "Testing av programvare",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:19:07",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på og delvis på IN1030 - Systemer, krav og konsekvenser eller INF1050 - Systemutvikling (videreført) . Det anbefales også å ha tatt IN1010 - Objektorientert programmering ."
+    }
+  },
+  {
+    "code": "IN4260MCT",
+    "title": "Networked Systems and Creative Computing",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4260MCT/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4260MCT/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:20 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN4270",
+    "title": "Digital Business Development",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4270/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:24 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended to have taken at least 30 credits in business courses prior to this course, such as ECON1210 – Mikroøkonomi 1 /INEC1800, INEC1810 – Markets, Marketing and Product Development , INEC1820 – Organization and Management (continued) /IN1821, INEC1831 – Strategi"
+    }
+  },
+  {
+    "code": "IN4310",
+    "title": "Deep Learning for Image Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:19:07 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The student ought to have a strong background in\nprogramming, for this we recommend IN2010;\nmathematics (calculus and linear algebra), we recommend that the student has taken MAT1110, and it will be good to have MAT1120;\nstatistics and machine learning, we recommend that the student has taken either FYS-STK3155 or STK-IN4300.\nIt is also recommended to have some knowledge on applications related to images, such as from IN2070."
+    }
+  },
+  {
+    "code": "IN4330",
+    "title": "Effektiv parallellprogrammering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4330/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:19:12",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1000 – Introduksjon til objektorientert programmering /IN1900 og IN1010 – Objektorientert programmering\nIN2010 – Algoritmer og datastrukturer /INF2220"
+    }
+  },
+  {
+    "code": "IN4340",
+    "title": "Deltakende kvalitative forskningsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN4380",
+    "title": "Digital Transformation of Healthcare",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4380/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN4380/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:19:18 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN5210 – Informasjonssystemer , and DIGHEL4360 – Informatics for health workers or DIGHEL4350 – Health Services and Information needs .\nThe course builds on the foundational concepts from Information Systems (IS) theory and presupposes a sociotechnical understanding of the interplay between technology and people in the organizational and institutional context of healthcare. A basic understanding of health services is also expected. It is possible to take the course without having completed the recommended previous courses but with an expectation of self-study of the basic concepts and theories of IS and/or healthcare."
+    }
+  },
+  {
+    "code": "IN5000",
+    "title": "Qualitative Research Methods",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:19:22 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5010",
+    "title": "Design, Technology and Society",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:19:27 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5020",
+    "title": "Distribuerte systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet bygger på IN1010 – Objektorientert programmering , IN2140 – Introduksjon til operativsystemer og datakommunikasjon , og IN3000 – Operativsystemer . Det vil også være en fordel med IN2010 – Algoritmer og datastrukturer ."
+    }
+  },
+  {
+    "code": "IN5031",
+    "title": "Protokoller og AI for fremtidens Internet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5031/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5031/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:19:41",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det vil være en fordel å ha grunnleggende kunnskapo om nettverk, f.eks fra IN3230 – Nettverk /IN4230."
+    }
+  },
+  {
+    "code": "IN5040",
+    "title": "Advanced Database Systems for Big Data",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5040/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:32 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "IN2090 – Databases and Data Modellering and IN3020 – Database Systems /IN4020/INF3100/INF212."
+    }
+  },
+  {
+    "code": "IN5050",
+    "title": "Programming heterogeneous multi-core architectures",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:19:50",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "C eller C++ programmering, operativsystemer (f.eks. IN3000 – Operativsystemer / IN4000 – Operativsystemer )"
+    }
+  },
+  {
+    "code": "IN5060",
+    "title": "Kvantitativ ytelsesanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2140 – Introduksjon til operativsystemer og datakommunikasjon"
+    }
+  },
+  {
+    "code": "IN5070",
+    "title": "The future internet protocols",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5070/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:35 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5080",
+    "title": "Sikkerhets- og risikostyring",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5080/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5080/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:20:04",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Generell kunnskap om informasjonssikkerhet, f.eks. IN2120 Informasjonssikkerhet og IN1020 Introduksjon til datateknologi ."
+    }
+  },
+  {
+    "code": "IN5090",
+    "title": "Health data and decision-making",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5090/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5090/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:20:07 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "DIGHEL4350 – Health Services and Information needs or DIGHEL4360 – Informatics for health workers"
+    }
+  },
+  {
+    "code": "IN5100",
+    "title": "Utvalgte emner i omskrivningslogikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:36",
+      "sourceOfferedTerms": "Høst 2027",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN2100 – Logikk for distribuerte systemer (INF3230/3232/4231/4232)"
+    }
+  },
+  {
+    "code": "IN5110",
+    "title": "Specification and Verification of Parallel Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:37 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN2010 – Algorithms and Data Structures (former INF2220), IN1150 – Logical Methods , IN2100 – Logic for Distributed Systems (formerly INF3232/INF3230)"
+    }
+  },
+  {
+    "code": "IN5120",
+    "title": "Tangible interaction",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:20:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1050 – Introduksjon til design, bruk, interaksjon , IN1060 – Bruksorientert design og IN3010 – Transformativt design eller tilsvarende HCI-kompetanse på 30 studiepoeng"
+    }
+  },
+  {
+    "code": "IN5130",
+    "title": "Uangripelige IT-systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:38",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det kan være nyttig med kunnskaper innen modellering og innen formelle teknikker, men det er ikke noen nødvendighet."
+    }
+  },
+  {
+    "code": "IN5140",
+    "title": "Smarte prosesser og smidige metoder i systemutvikling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN1030 – Systemer, krav og konsekvenser"
+    }
+  },
+  {
+    "code": "IN5150",
+    "title": "Recent Advancements in Internet Protocols",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5150/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:41 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3230 – Computer Networks / INF3190 – Data communications (continued) ."
+    }
+  },
+  {
+    "code": "IN5160",
+    "title": "Digital Leadership",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5160/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5160/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:20:36 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended to have taken at least 20 credits in business courses prior to this course, such as INEC1800, INEC1810, INEC1820, INEC1831"
+    }
+  },
+  {
+    "code": "IN5170",
+    "title": "Modeller for parallellitet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:42",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) / INF1020 – Algoritmer og datastrukturer (nedlagt) ."
+    }
+  },
+  {
+    "code": "IN5180",
+    "title": "Analog Microelectronics Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5180/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5180/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:43 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3170 – Microelectronics , FYS3220 – Linear Circuit Theory , IN3190 – Digital Signal Processing"
+    }
+  },
+  {
+    "code": "IN5190",
+    "title": "Design for Sustainability",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5190/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5190/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:44 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5200",
+    "title": "Avansert digital systemkonstruksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:45",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med digital integrert kretsdesign, VHDL og FPGA-teknologi (f.eks. fra IN3160 – Digital systemkonstruksjon ) er sterkt anbefalt."
+    }
+  },
+  {
+    "code": "IN5210",
+    "title": "Information Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5210/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:46 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5220",
+    "title": "Advanced mixed-signal CMOS integrated circuit design",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5220/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:20:59 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3170 – Microelectronics , IN5180 – Analog Microelectronics Design , IN3190 – Digital Signal Processing"
+    }
+  },
+  {
+    "code": "IN5230",
+    "title": "Elektrisk støy - beregning og mottiltak",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver , INF3400 – Digital nanoelektronikk (nedlagt) , INF3410 – Analog mikroelektronikk (nedlagt) og INF4420 – Prosjekter i analog/mixed-signal CMOS konstruksjon (nedlagt)"
+    }
+  },
+  {
+    "code": "IN5240",
+    "title": "Design av CMOS RF-integrete kretser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:50",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "INF4420 – Prosjekter i analog/mixed-signal CMOS konstruksjon (nedlagt) , INF3410 – Analog mikroelektronikk (nedlagt) / INF4411 – Analog mikroelektronikk (nedlagt) , FYS3220 – Lineær kretsteori"
+    }
+  },
+  {
+    "code": "IN5250",
+    "title": "Seminar i aksjonsforskning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:21:17",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5260",
+    "title": "Low Power IoT nodes",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5260/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:21:21 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic background at university level within analog CMOS integrated circuits as well as digital circuits and systems. This can include for example:\nIN5180 – Analog Microelectronics Design\nIN2060 – Digital Design and Computer Architecture"
+    }
+  },
+  {
+    "code": "IN5290",
+    "title": "Ethical Hacking",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5290/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5290/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:50 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about information security,\nIN2120 – Information Security"
+    }
+  },
+  {
+    "code": "IN5310",
+    "title": "Advanced Deep Learning for Image Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:51 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students ought to have taken IN4310 – Deep Learning for Image Analysis prior to taking this course."
+    }
+  },
+  {
+    "code": "IN5320",
+    "title": "Development in platform ecosystems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5320/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:52 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN1000 - Introduction to Object-oriented Programming , IN1010 - Object-oriented Programming or similar programming experience is expected."
+    }
+  },
+  {
+    "code": "IN5340",
+    "title": "Statistisk signalbehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:21:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN3190 – Digital signalbehandling , MAT1120 – Lineær algebra og IN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "IN5350",
+    "title": "Design av CMOS bildesensor",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:54",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Forkunnskaper innenfor analog/mixed-signal CMOS konstruksjon, digital avbildning og lineær kretselektronikk anbefales."
+    }
+  },
+  {
+    "code": "IN5360",
+    "title": "Forskerlinjen II",
+    "credits": 15,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5360/",
+    "prerequisiteText": "IN3280 – Forskerlinjen I",
+    "prerequisiteCourses": [
+      "IN3280"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5360/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:21:54",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2022",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5370",
+    "title": "IKT og Globale Ulikheter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5370/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5370/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Ingen forkunnskaper om IKT og globale ulikheter kreves for å ta emnet. Emnet passer godt for studenter med et kritisk blikk på bruk av digitale teknologier i utviklingsspørsmål, i og utenfor det såkalte «Globale Sør», og som er interessert i både styrken og svakheter med IKT for utvikling."
+    }
+  },
+  {
+    "code": "IN5380",
+    "title": "Kompilatorteknikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5380/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5380/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:21:59",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN2010 – Algoritmer og datastrukturer og IN3040 – Programmeringsspråk"
+    }
+  },
+  {
+    "code": "IN5390",
+    "title": "ICT for Development: Building a Better World?",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5390/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:57 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5410",
+    "title": "Energiinformatikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:22:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Dette kurset dekker nødvendig kunnskap knyttet til IKT-verktøy og energisystemer. Studentene bør ha grunnleggende informatikk-kunnskap, f. eks. via IN2010, IN2140 og IN3230."
+    }
+  },
+  {
+    "code": "IN5420",
+    "title": "Distributed Blockchain Technologies",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5420/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:22:17 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN5020 – Distributed Systems /INF5040 or another course in distributed systems. The most relevant aspects of distributed systems are P2P, data replication, and consensus protocols.\nKnowledge in security and applied cryptography and in distributed databases.\nPython programming experience for a programming assignment."
+    }
+  },
+  {
+    "code": "IN5431",
+    "title": "IT and Management",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5431/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5431/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:22:23 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN2150 – IT in Organizations and IN5210 – Informasjonssystemer"
+    }
+  },
+  {
+    "code": "IN5440",
+    "title": "Selected topics in static analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5440/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:42:57 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN2010 – Algorithms and Data Structures , IN1150 – Logical Methods"
+    }
+  },
+  {
+    "code": "IN5450",
+    "title": "Array Signal Processing",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:22:30 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "IN3190 – Digital Signal Processing / IN4190 – Digital Signal Processing , MAT1120 – Linear Algebra , IN1910 – Programming with Scientific Applications / IN1010 – Object-oriented Programming and IN3015 – Ultrasound Imaging / IN4015 – Ultrasound Imaging"
+    }
+  },
+  {
+    "code": "IN5460",
+    "title": "Kunstig intelligens for energiinformatikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:42:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Studenter bør ha grunnleggende kunnskap om ICT og nettverk, f. eks. fra IN2010 og IN3230.\nDet vil også være fordelaktig å ha erfaring med linear algebra, f. eks fra MAT1120."
+    }
+  },
+  {
+    "code": "IN5470",
+    "title": "Avansert forskningstema i design av IT",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5470/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5470/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:22:42",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1050 – Introduksjon til design, bruk, interaksjon , IN1060 – Bruksorientert design , IN3010 – Transformativt design"
+    }
+  },
+  {
+    "code": "IN5480",
+    "title": "Spesialisering innen forskning i design av IT",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5480/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:02",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1050 – Introduksjon til design, bruk, interaksjon , IN1060 – Bruksorientert design , IN2020 – Metoder i interaksjonsdesign / INF2260 – Interaksjonsdesign (nedlagt)"
+    }
+  },
+  {
+    "code": "IN5490",
+    "title": "Advanced Topics in Artificial Intelligence for Intelligent Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5490/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5490/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:03 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3050 – Introduction to Artificial Intelligence and Machine Learning / IN4050 – Introduction to Artificial Intelligence and Machine Learning , INF3490/ INF4490 – Biologically Inspired Computing (continued) or similar"
+    }
+  },
+  {
+    "code": "IN5500",
+    "title": "IT-støttet samarbeid",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:22:57",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5510",
+    "title": "Deltakende eksperimentell design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5510/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:05",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN2020 – Metoder i interaksjonsdesign / INF2260 – Interaksjonsdesign (nedlagt) , IN3010 – Transformativt design / INF3290 – Store og komplekse informasjonssystemer (videreført)"
+    }
+  },
+  {
+    "code": "IN5530",
+    "title": "Research Through Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:06 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN1050 - Introduction to Design, Use, Interaction , IN2020 - Methods in Interaksjonsdesign"
+    }
+  },
+  {
+    "code": "IN5540",
+    "title": "Privacy by Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5540/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:07 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about information security (e.g. IN2120 – Information Security ) and system design (e.g. IN1030 – Systems, Requirements and Consequences )"
+    }
+  },
+  {
+    "code": "IN5550",
+    "title": "Neural Methods in Natural Language Processing",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:23:19 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN4080 – Natural Language Processing"
+    }
+  },
+  {
+    "code": "IN5560",
+    "title": "Datastyring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5560/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5560/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:09",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5580",
+    "title": "Computability theory",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5580/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:23:30 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It will be an advantage to have completed one or more of the following courses: IN1150 – Logical Methods , IN2080 – Computability and Complexity , IN3070 – Logic , MAT-INF3600 – Mathematical Logic"
+    }
+  },
+  {
+    "code": "IN5590",
+    "title": "Hurtig modellframstilling av robotikksystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:23:36",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1080 – Mekatronikk"
+    }
+  },
+  {
+    "code": "IN5610",
+    "title": "Advanced Topic in Digital Innovation",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5610/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:23:44 AM",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It is recommended to have taken at least 20 credits in business courses prior to this course, such as INEC1800, INEC1810, INEC1820/INEC1821, INEC1831"
+    }
+  },
+  {
+    "code": "IN5620",
+    "title": "Interaction with AI and autonomous systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5620/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:12 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "Norwegian",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN5630",
+    "title": "Programming Language Implementation and Formalisation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5630/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:23:49 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3040 – Programming Languages\nIN3070 – Logic /IN4070\nIt is an advantage to have a basic understanding of functional programming and formal reasoning. IN3040 introduces some of the aspects (functional programming and higher-order functions) that are used in this course. IN3070 works with formal reasoning for a logic model that is useful for working with deduction systems."
+    }
+  },
+  {
+    "code": "IN5700",
+    "title": "Tåke og Sky Databehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:14",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN5020 – Distribuerte systemer\nDen mest relevante kunnskapen som studentene tilegner seg i IN5020 er Java-kunnskap og kunnskap om de grunnleggende prinsipper og begreper for distribuerte systemer."
+    }
+  },
+  {
+    "code": "IN5800",
+    "title": "Declarative Data Engineering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5800/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN5800/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:23:56 AM",
+      "sourceOfferedTerms": "Spring 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A course on Semantic Technologies (e.g. IN3060/IN4060 - Semantic Technologies)\nA course on relational databases systems (e.g. IN2090 - Databaser og Datamodellering)"
+    }
+  },
+  {
+    "code": "IN9000",
+    "title": "Qualitative Research Methods",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:00 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9010",
+    "title": "Design, Technology and Society",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:04 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9020",
+    "title": "Distributed Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:16 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9031",
+    "title": "Protokoller og AI for fremtidens Internet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9031/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9031/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:08",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det vil være en fordel å ha grunnleggende kunnskapo om nettverk, f.eks fra IN4230 – Nettverk ."
+    }
+  },
+  {
+    "code": "IN9040",
+    "title": "Advanced Database Systems for Big Data",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9040/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9040/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:26 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "IN2090 – Databases and Data Modellering and IN3020 – Database Systems /IN4020/INF3100/INF212."
+    }
+  },
+  {
+    "code": "IN9050",
+    "title": "Programming heterogeneous multi-core architectures",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "C eller C++ programmering,operativsystemer (som f.eks. IN3000/ IN4000 – Operativsystemer )"
+    }
+  },
+  {
+    "code": "IN9060",
+    "title": "Kvantitativ ytelsesanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9070",
+    "title": "The Future Internet Protocols",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9070/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:44 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9100",
+    "title": "Utvalgte emner i omskrivningslogikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:43:49",
+      "sourceOfferedTerms": "Høst 2027",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "IN2100 – Logikk for distribuerte systemer (INF3230/3232/4231/4232)"
+    }
+  },
+  {
+    "code": "IN9110",
+    "title": "Specification and Verification of Parallel Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:43:53 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN2010 – Algorithms and Data Structures (former INF2220), IN1150 – Logical Methods , IN2100 – Logic for Distributed Systems (formerly INF3232/INF3230)"
+    }
+  },
+  {
+    "code": "IN9120",
+    "title": "Tangible interaction",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:10",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN1050 – Introduksjon til design, bruk, interaksjon , IN1060 – Bruksorientert design og IN3020 – Databasesystemer eller tilsvarende HCI-kompetanse på 30 studiepoeng"
+    }
+  },
+  {
+    "code": "IN9130",
+    "title": "Unassailable IT-Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9130/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9130/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:44:00 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It may be useful with knowledge of modeling and formal methods, but it is not necessary."
+    }
+  },
+  {
+    "code": "IN9140",
+    "title": "Smarte prosesser og smidige metoder i systemutvikling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:44:07",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9150",
+    "title": "Recent Advancements in Internet Protocols",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9150/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9150/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:44:11 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3230 – Computer Networks / INF3190 – Data communications (continued) ."
+    }
+  },
+  {
+    "code": "IN9170",
+    "title": "Modeller for parallellitet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9170/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:44:18",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet bygger på IN2010 – Algoritmer og datastrukturer / INF2220 – Algoritmer og datastrukturer (videreført) / INF1020 – Algoritmer og datastrukturer (nedlagt)"
+    }
+  },
+  {
+    "code": "IN9200",
+    "title": "Avansert digital systemkonstruksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:44:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med digital integrert kretsdesign, VHDL og FPGA-teknologi (f.eks. fra IN3160 – Digital systemkonstruksjon ) er sterkt anbefalt."
+    }
+  },
+  {
+    "code": "IN9210",
+    "title": "Information Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9210/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:44:28 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9220",
+    "title": "Advanced mixed-signal CMOS integrated circuit design",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9220/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:10 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN4170 – Microelectronics , IN5180 – Analog Microelectronics Design , IN4190 – Digital Signal Processing"
+    }
+  },
+  {
+    "code": "IN9230",
+    "title": "Elektrisk støy - beregning og mottiltak",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:44:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "FYS1210 – Elektronikk med prosjektoppgaver , INF3400 – Digital nanoelektronikk (nedlagt) , INF3410 – Analog mikroelektronikk (nedlagt) og INF4420 – Prosjekter i analog/mixed-signal CMOS konstruksjon (nedlagt)"
+    }
+  },
+  {
+    "code": "IN9240",
+    "title": "Design av CMOS RF-integrete kretser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:44:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "INF4420 – Prosjekter i analog/mixed-signal CMOS konstruksjon (nedlagt) , INF3410 – Analog mikroelektronikk (nedlagt) / INF4411 – Analog mikroelektronikk (nedlagt) , FYS3220 – Lineær kretsteori"
+    }
+  },
+  {
+    "code": "IN9260",
+    "title": "Low Power IoT nodes",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9260/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9260/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:10 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Solid background at university level within analog CMOS integrated circuits as well as digital circuits and systems. This can include for example: IN5180 – Analog Microelectronics Design , IN2060 – Digital Design and Computer Architecture\nA master's degree within micro-/ Nano-electronics or related fields."
+    }
+  },
+  {
+    "code": "IN9290",
+    "title": "Ethical Hacking",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9290/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9290/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:44:53 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about information security,\nIN2120 – Information Security"
+    }
+  },
+  {
+    "code": "IN9310",
+    "title": "Advanced Deep Learning for Image Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9310/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:44:56 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students ought to have taken IN4310 – Deep Learning for Image Analysis prior to taking this course."
+    }
+  },
+  {
+    "code": "IN9340",
+    "title": "Statistisk signalbehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9340/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:11",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "IN3190 – Digital signalbehandling , MAT1120 – Lineær algebra og IN1000 – Introduksjon til objektorientert programmering / IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser"
+    }
+  },
+  {
+    "code": "IN9350",
+    "title": "Design av CMOS bildesensor",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:45:07",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Forkunnskaper innenfor analog/mixed-signal CMOS konstruksjon, analog mikroelektronikk, digital bildebehandling og lineær kretselektronikk anbefales."
+    }
+  },
+  {
+    "code": "IN9370",
+    "title": "IKT og Globale Ulikheter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9370/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9370/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:45:11",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Ingen forkunnskaper om IKT og globale ulikheter kreves for å ta emnet. Emnet passer godt for studenter med et kritisk blikk på bruk av digitale teknologier i utviklingsspørsmål, i og utenfor det såkalte «Globale Sør», og som er interessert i både styrken og svakheter med IKT for utvikling."
+    }
+  },
+  {
+    "code": "IN9390",
+    "title": "ICT for Development: Building a Better World?",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9390/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:45:15 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9410",
+    "title": "Energy Informatics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:12 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course assumes basic informatics knowledge."
+    }
+  },
+  {
+    "code": "IN9420",
+    "title": "Distributed Blockchain Technologies",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9420/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9420/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:12 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN5200 – Advanced Digital System Design /INF5040 or another course in distributed systems. The most relevant aspects of distributed systems are P2P, data replication, and consensus protocols\nKnowledge in security and applied cryptography.\nKnowledge in distributed databases.\nPython programming experience for a programming assignment."
+    }
+  },
+  {
+    "code": "IN9440",
+    "title": "Selected Topics in Static Analysis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9440/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9440/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:45:25 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9450",
+    "title": "Array Signal Processing",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9450/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9450/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:12 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "Norwegian (English on request)",
+      "recommendedPrerequisiteText": "IN3190 – Digital Signal Processing / IN4190 – Digital Signal Processing , MAT1120 – Linear Algebra , IN1910 – Programming with Scientific Applications / IN1010 – Object-oriented Programming and IN3015 – Ultrasound Imaging /IN4015"
+    }
+  },
+  {
+    "code": "IN9460",
+    "title": "Kunstig intelligens for energiinformatikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9460/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9460/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:45:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Studenter bør ha grunnleggende kunnskap om ICT og nettverk, f. eks. fra IN2010 og IN3230.\nDet vil også være fordelaktig å ha erfaring med linear algebra, f. eks fra MAT1120."
+    }
+  },
+  {
+    "code": "IN9490",
+    "title": "Advanced Topics in Artificial Intelligence for Intelligent Systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9490/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9490/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:45:37 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3050 – Introduction to Artificial Intelligence and Machine Learning / IN4050 – Introduction to Artificial Intelligence and Machine Learning , INF3490 – Biologically inspired computing (continued) / INF4490 – Biologically Inspired Computing (continued) or similar"
+    }
+  },
+  {
+    "code": "IN9500",
+    "title": "IT-støttet samarbeid",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:13",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9510",
+    "title": "Deltakende eksperimentell design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9510/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:45:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9530",
+    "title": "Research Through Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:45:52 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN1050 - Introduction to Design, Use, Interaction , IN2020 - Methods in Interaksjonsdesign"
+    }
+  },
+  {
+    "code": "IN9540",
+    "title": "Privacy by Design",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9540/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9540/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:45:57 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "General knowledge about information security (e.g. IN2120) and system design (e.g. IN1030)"
+    }
+  },
+  {
+    "code": "IN9550",
+    "title": "Neural Methods in Natural Language Processing",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:13 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9570",
+    "title": "Distribuerte objekter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9570/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9570/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:14",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN4000 – Operativsystemer\nEn eller flere av:\nUNIK4290, IN5020, IN5060, IN9020, IN9070, IN9060 (Ok å ta emnet i samme semester som IN9570)"
+    }
+  },
+  {
+    "code": "IN9580",
+    "title": "Computability theory",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9580/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9580/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:15 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "It will be an advantage to have completed one or more of the following courses: IN1150 – Logical Methods , IN2080 – Computability and Complexity , IN3070 – Logic , MAT-INF3600 – Mathematical Logic"
+    }
+  },
+  {
+    "code": "IN9600",
+    "title": "Programmering av mobile applikasjoner i tingenes internett",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:17",
+      "sourceOfferedTerms": "Vår\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9620",
+    "title": "Interaction with AI and autonomous systems",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9620/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:46:13 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "Norwegian",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "IN9630",
+    "title": "Programming Language Implementation and Formalisation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9630/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9630/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:17 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "IN3040 – Programming Languages\nIN3070 – Logic /IN4070\nIt is an advantage to have a basic understanding of functional programming and formal reasoning. IN3040 introduces some of the aspects (functional programming and higher-order functions) that are used in this course. IN3070 works with formal reasoning for a logic model that is useful for working with deduction systems."
+    }
+  },
+  {
+    "code": "IN9700",
+    "title": "Tåke og Sky Databehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:46:21",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "IN5020 – Distribuerte systemer /IN9020\nDen mest relevante kunnskapen som studentene tilegner seg i IN5020/IN9020 er Java-kunnskap og kunnskap om de grunnleggende prinsipper og begreper for distribuerte systemer."
+    }
+  },
+  {
+    "code": "IN9900",
+    "title": "Selected Theoretical Topics in Information Systems Development",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN9900/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:46:25 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This course assumes a basic understanding of information systems concepts and perspectives such as socio-technical approaches, IT in organizations, the importance of context, user participation etc."
+    }
+  },
+  {
+    "code": "INEC1810",
+    "title": "Marknad, markedsføring og produktutvikling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:46:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "INEC1821",
+    "title": "Digital økonomi, organisering og ledelse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1821/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1821/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:46:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "INEC1831",
+    "title": "Strategi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1831/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/INEC1831/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:17",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på emnene INEC1800 – Økonomi, finans og regnskap (nedlagt) / ECON1210 – Mikroøkonomi 1 , INEC1810 – Marknad, markedsføring og produktutvikling og INEC1820 – Organisasjon og ledelse (videreført) ."
+    }
+  },
+  {
+    "code": "INF0010",
+    "title": "Forkurs i informatikk",
+    "credits": 0,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "level-VS",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/INF0010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/INF0010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:46:42",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4010",
+    "title": "Digitalisering, IT og ledelse: Å være leder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4010/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:18",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Erfaring fra deltakelse i IT-prosjekter eller drift av IT-systemer vil være en fordel."
+    }
+  },
+  {
+    "code": "ITEVU4020",
+    "title": "IT Governance",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4020/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring innen IT.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:46:55",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4030",
+    "title": "Organisasjon, samarbeid og nye arbeidsformer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4030/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:18",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Erfaring fra deltakelse i IT-prosjekter vil være en fordel."
+    }
+  },
+  {
+    "code": "ITEVU4040",
+    "title": "Gjennomføring av prosjekter i egen virksomhet",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4040/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4040/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4050",
+    "title": "Design av masteroppgaven",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4050/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4050/index.html",
+      "sourceUpdatedAt": "20. nov. 2025 04:01:23",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4070",
+    "title": "Strategi, verdi og bærekraft",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4070/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:19",
+      "sourceOfferedTerms": "Vår 2026",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Erfaring fra uformell eller formell ledelse og IT-kompetanse er en fordel."
+    }
+  },
+  {
+    "code": "ITEVU4120",
+    "title": "Verdien av data i beslutningsprosesser",
+    "credits": 2.5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4120/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:11",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4230",
+    "title": "Cybersikkerhetsstyring",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4230/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4230/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:13",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Enten 40 studiepoeng informatikkfag eller 3 års relevant yrkeserfaring."
+    }
+  },
+  {
+    "code": "ITEVU4261",
+    "title": "IT-arkitektur",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4261/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4261/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:17",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4290",
+    "title": "Innovasjonsledelse og digitalisering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4290/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4290/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:19",
+      "sourceOfferedTerms": "Høst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4310",
+    "title": "Plattformer og økosystemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4310/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:19",
+      "sourceOfferedTerms": "Høst 2027",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er en fordel med erfaring fra digitaliseringsprosjekter i offentlig eller privat sektor."
+    }
+  },
+  {
+    "code": "ITEVU4330",
+    "title": "Robusthet i store og komplekse software systemer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4330/",
+    "prerequisiteText": "Generell studiekompetanse .",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:25",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det anbefales å ha gode programmeringskunnskaper og ferdigheter."
+    }
+  },
+  {
+    "code": "ITEVU4340",
+    "title": "Robust IT-arkitektur",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4340/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4340/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:26",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt å ha forkunnskaper innenfor datakommunikasjon."
+    }
+  },
+  {
+    "code": "ITEVU4350",
+    "title": "Moderne systemutviklingsprosesser",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4350/",
+    "prerequisiteText": "Generell studiekompetanse\nEmnet er erfaringsbasert og forutsetter at studentene har noe praktisk erfaring og kjennskap til smidige systemutviklingsprosesser.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITEVU4360",
+    "title": "IT-arkitektur og Digital innovasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4360/",
+    "prerequisiteText": "Generell studiekompetanse",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4360/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:47:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet forutsetter at studenten har erfaring med utvikling og organisering av IT-arkitektur, og anbefaler kunnskapsgrunnlag fra emnene ITLED4261 – IT-arkitektur (videreført) / ITEVU4261 – IT-arkitektur og ITLED4350 – Moderne systemutviklingsprosesser (videreført) . Emnet trekker aktivt studentenes erfaring inn i undervisningen."
+    }
+  },
+  {
+    "code": "ITEVU4410",
+    "title": "Digital innovasjon og teknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4410/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring innen IT.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet anbefaler at studenten har noe erfaring fra digitaliseringsprosjekter, utvikling og teamarbeid."
+    }
+  },
+  {
+    "code": "ITEVU4430",
+    "title": "Ansvarlig digitalisering av helsesektoren",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4430/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITEVU4430/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:20",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "ITLED4390",
+    "title": "IT-arkitektur prosjektoppgave",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITLED4390/",
+    "prerequisiteText": "Generell studiekompetanse\nMinimum to års relevant yrkeserfaring innen IT.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITLED4390/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:24:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet forutsetter at studenten har erfaring med utvikling og organisering av IT-arkitektur, og forutsetter i tillegg at alle 5 obligatoriske kurs i årsenheten IT-arkitektur er bestått.\nEmnet er forbeholdt studenter på årsenheten i IT-arkitektur."
+    }
+  },
+  {
+    "code": "ITLED5930",
+    "title": "Masteroppgave i digitalisering og ledelse",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITLED5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/ITLED5930/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "SIFI2000",
+    "title": "Foundations of Digitalization",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:22 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "SIFI2100",
+    "title": "Programming: Principles and Practice",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:23 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "You ought to have completed SIFI2000 – Foundations of Digitalization prior to taking this course."
+    }
+  },
+  {
+    "code": "SIFI2200",
+    "title": "Digital Innovation",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2200/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:23 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "SIFI2300",
+    "title": "Artificial Intelligence and Digitalization",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Informatics",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/SIFI2300/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:24:24 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "You ought to have completed SIFI2000 – Foundations of Digitalization prior to taking this course."
+    }
+  }
+]

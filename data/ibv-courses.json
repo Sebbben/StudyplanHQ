@@ -1,0 +1,2964 @@
+[
+  {
+    "code": "BIO9905MERG1",
+    "title": "Bioinformatics for Environmental Sequencing (DNA metabarcoding)",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIO9905MERG1/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:47 AM",
+      "sourceOfferedTerms": "Spring\nThe course is offered in odd-numbered years in the spring semester",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in molecular biology and DNA analyses. Basic knowledge in R and some insight in programming/scripting will be highly advantageous."
+    }
+  },
+  {
+    "code": "BIOS-IN5010",
+    "title": "Computational physiology",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:47 AM",
+      "sourceOfferedTerms": "Summer",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Fundamental knowledge of ordinary differential equations and their numerical solution, corresponding to IN1900 – Introduction to Programming with Scientific Applications and MAT-INF1100 – Modelling and Computations (discontinued) or equivalent. It is also useful to have a basic knowledge of partial differential equations, corresponding to the introductory parts of MAT3360 – Introduction to Partial Differential Equations , or similar.\nFormal coding experience is important and used heavily during the course. We offer an introductory Python workshop the Sunday evening before the course starts, and any student without substantial Python experience should expect to take that workshop."
+    }
+  },
+  {
+    "code": "BIOS-IN5410",
+    "title": "Bioinformatics for Molecular Biology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:37:09 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This course is open to students studying biology, mathematics or computer science. Students must have at least 120 study points to apply. Students must have a basic understanding of biology/molecular biology at least corresponding to 10 university study points in molecular biology or similar.\nThe course might be relevant also for students without this background, but candidates should in this case contact the course coordinator before signing up."
+    }
+  },
+  {
+    "code": "BIOS-IN9010",
+    "title": "Computational Physiology",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:05:48 AM",
+      "sourceOfferedTerms": "Summer",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Fundamental knowledge of ordinary differential equations and their numerical solution, corresponding to IN1900 – Introduction to Programming with Scientific Applications MAT-INF1100 – Modelling and Computations (discontinued) or equivalent. It is also useful to have a basic knowledge of partial differential equations, corresponding to the introductory parts of MAT3360 – Introduction to Partial Differential Equations or similar.\nFormal coding experience is important and used heavily during the course. We offer an introductory Python workshop the Sunday evening before the course starts, and any student without substantial Python experience should expect to take that workshop."
+    }
+  },
+  {
+    "code": "BIOS-IN9410",
+    "title": "Bioinformatics for Molecular Biology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN9410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN9410/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:37:16 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "This course is open to students studying biology, mathematics or computer science. Students must have at least 120 study points to apply. Students must have a basic understanding of biology/molecular biology at least corresponding to 10 university study points in molecular biology or similar.\nThe course might be relevant also for students without this background, but candidates should in this case contact the course coordinator before signing up."
+    }
+  },
+  {
+    "code": "BIOS0100V",
+    "title": "Grunnleggende biologi i naturfag",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS0100V/",
+    "prerequisiteText": "Søkere må ha:\ngenerell studiekompetanse, les mer her: http://www.uio.no/studier/opptak/gsk/\nfullført praktisk-pedagogisk utdanning",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS0100V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:20",
+      "sourceOfferedTerms": "Høst\nEmnet undervises ikke høst 2025.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS1010",
+    "title": "Introduksjon i rettsmedisin",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1010/",
+    "prerequisiteText": "HMS0503 - Laboratoriesikkerhet må være bestått før oppstart av laboratorieøvelser i dette emnet.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:05:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS1100",
+    "title": "Innføring i beregningsmodeller for biovitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:28",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS1101",
+    "title": "Innføring i beregningsmodeller for biovitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1101/",
+    "prerequisiteText": "Følgende emner må tas før første obligatoriske feltøvelse i BIOS1101:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1101/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS1110",
+    "title": "Celle- og molekylærbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1110/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:34",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Karbonkjemi og oppbygging av biologiske makromolekyler (fra VGS Kjemi 2) er særlig relevant."
+    }
+  },
+  {
+    "code": "BIOS1120",
+    "title": "Fysiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1120/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet og HMS0505 – El-sikkerhet må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:05:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap"
+    }
+  },
+  {
+    "code": "BIOS1130",
+    "title": "Biokjemi 1",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1130/",
+    "prerequisiteText": "HMS0503 og HMS0505 må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:05:49",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi og KJM1101 – Generell kjemi eller KJM1002 – Innføring i kjemi (nedlagt) eller KJM1003 – Kjemi for biologer ."
+    }
+  },
+  {
+    "code": "BIOS1140",
+    "title": "Evolusjon og genetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS1150",
+    "title": "Biologisk mangfold",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1150/",
+    "prerequisiteText": "I tillegg må følgende emner være tatt før første laboratorieøvelse i BIOS1150:\nHMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:52",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS2000",
+    "title": "Adferdsbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det er en fordel å ha en generell biologisk bakgrunn, med basiskunnskap i økologi, evolusjon og fysiologi."
+    }
+  },
+  {
+    "code": "BIOS2100",
+    "title": "Generell økologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:05:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS1100 – Innføring i beregningsmodeller for biovitenskap , STK1000 – Innføring i anvendt statistikk ."
+    }
+  },
+  {
+    "code": "BIOS2200",
+    "title": "Botanisk mangfold",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2200/",
+    "prerequisiteText": "I tillegg må følgende emner være tatt før første laboratorieøvelse og feltekskursjon i BIOS2200:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS2210",
+    "title": "Terrestrisk zoologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2210/",
+    "prerequisiteText": "Følgende emner må være tatt før første laboratorieøvelse og feltekskursjon i BIOS2210:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:58",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS2220",
+    "title": "Akvatisk biomangfold",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2220/",
+    "prerequisiteText": "Følgende emner må være tatt før første laboratorieøvelse og feltekskursjon i BIOS2220:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:17",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS2910",
+    "title": "Molekylærbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2910/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet må være bestått før oppstart av laboratorieøvelser i dette emnet.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS2910/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:28",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi eller MBV1010 – Cellebiologi og genetikk (nedlagt) , og BIOS1130 – Biokjemi 1 eller KJM1140 – Biokjemi 1 for kjemikere ."
+    }
+  },
+  {
+    "code": "BIOS3000",
+    "title": "Design og analyse av biologiske studier",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3000/",
+    "prerequisiteText": "STK1000 – Innføring i anvendt statistikk eller tilsvarende.",
+    "prerequisiteCourses": [
+      "STK1000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:36",
+      "sourceOfferedTerms": "Vår\nKurset undervises ikke i vårsemesteret 2024. Kurset undervises neste gang våren 2025.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Elementære forkunnskaper i programmering tilsvarende innholdet i BIOS1100 – Innføring i beregningsmodeller for biovitenskap er sterkt anbefalt.\nAndre anbefalte forkunnskaper er BIOS1110 – Celle- og molekylærbiologi , BIOS1120 – Fysiologi , BIOS1140 – Evolusjon og genetikk og BIOS2100 – Generell økologi ."
+    }
+  },
+  {
+    "code": "BIOS3011",
+    "title": "Bioinformatikk i teams",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3011/",
+    "prerequisiteText": "Elementære forkunnskaper i programmering, tilsvarende innholdet i BIOS1100 – Innføring i beregningsmodeller for biovitenskap .",
+    "prerequisiteCourses": [
+      "BIOS1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3011/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:45",
+      "sourceOfferedTerms": "Høst\nEt nytt emne i bioinformatikk: BIOS3011 - Bioinformatikk i teams, kommer fra høsten 2026.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi og STK1000 – Innføring i anvendt statistikk"
+    }
+  },
+  {
+    "code": "BIOS3050",
+    "title": "Arbeidspraksis i biovitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3050/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:49",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS3060",
+    "title": "Forskningspraksis i biovitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3060/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3060/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:06:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS3070",
+    "title": "Biogeokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3070/",
+    "prerequisiteText": "I tillegg må følgende emne være tatt før første ekskursjon:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:37:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Grunnleggende kunnskaper i kjemi og økologi"
+    }
+  },
+  {
+    "code": "BIOS3250",
+    "title": "Soppenes biologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3250/",
+    "prerequisiteText": "Følgende emner må være tatt før første laboratorieøvelse og feltekskursjon:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:03",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi , BIOS1140 – Evolusjon og genetikk , BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS3300",
+    "title": "Marinbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3300/",
+    "prerequisiteText": "HMS0504 – Feltsikkerhet , må være bestått før feltekskursjonen i BIOS3300.",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS2100 – Generell økologi BIOS2220 – Akvatisk biomangfold"
+    }
+  },
+  {
+    "code": "BIOS3600",
+    "title": "Genetikk og utviklingsbiologi",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3600/",
+    "prerequisiteText": "I tillegg til generell studiekompetanse eller realkompetanse må du dekke spesielle opptakskrav.\nDu må ha:\nMatematikk R1 (eller Matematikk S1 og S2) + R2\nOg en av disse:\nFysikk (1+2)\nKjemi (1+2)\nBiologi (1+2)\nInformasjonsteknologi (1+2)\nGeofag (1+2)\nTeknologi og forskningslære (1+2)\nDe spesielle opptakskravene kan også dekkes med fag fra videregående opplæring før Kunnskapsløftet, eller på andre måter .\nHMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3600/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap\nBIOS1120 – Fysiologi\nBIOS1140 – Evolusjon og genetikk\nBIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS3601",
+    "title": "Genetikk og utviklingsbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3601/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap\nBIOS1120 – Fysiologi\nBIOS1140 – Evolusjon og genetikk\nBIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS3610",
+    "title": "Molekylær plantevitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3610/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3610/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:20",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap , BIOS1120 – Fysiologi , BIOS1140 – Evolusjon og genetikk og BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS3700",
+    "title": "Cellebiologi 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3700/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet må være bestått før oppstart av laboratorieøvelser i dette emnet.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi , BIOS1130 – Biokjemi 1 , og BIOS1120 – Fysiologi"
+    }
+  },
+  {
+    "code": "BIOS3800",
+    "title": "Humanfysiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3800/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet og HMS0505 – El-sikkerhet må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3800/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:37",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1120 – Fysiologi\nDet er anbefalt å ha tatt FYS1001 – Innføring i fysikk tildligere og BIOS1130 – Biokjemi 1 tidligere eller i samme semester."
+    }
+  },
+  {
+    "code": "BIOS3900",
+    "title": "Biokjemi 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3900/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet og HMS0505 – El-sikkerhet må tas før første laboratorieøvelse",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:44",
+      "sourceOfferedTerms": "Vår\nEmnet vil fra og med vår 2025 undervises på vårsemesteret. Siste gang emnet ble undervist i høstsemesteret var 2024.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1130 – Biokjemi 1 eller KJM1140 – Biokjemi 1 for kjemikere\nBIOS1110 – Celle- og molekylærbiologi\nBIOS2900 – Molekylærbiologi (videreført) eller BIOS2910 – Molekylærbiologi\nBIOS1100 – Innføring i beregningsmodeller for biovitenskap"
+    }
+  },
+  {
+    "code": "BIOS3910",
+    "title": "Mikrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3910/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet og HMS0505 – El-sikkerhet må være bestått før oppstart av laboratorieøvelser i dette emnet.",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3910/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:07:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold og BIOS1130 – Biokjemi 1\nGode ​​allmennkunnskaper i kjemi er viktig for kurset."
+    }
+  },
+  {
+    "code": "BIOS3920",
+    "title": "Forskningslitteratur i kreftbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3920/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS3920/index.html",
+      "sourceUpdatedAt": "21. mars 2026 02:40:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS3600 – Genetikk og utviklingsbiologi eller BIOS3601 – Genetikk og utviklingsbiologi eller tilsvarende kunnskap er sterkt anbefalt.\nBIOS2900 – Molekylærbiologi (videreført) eller BIOS2910 – Molekylærbiologi , BIOS1130 – Biokjemi 1 og BIOS1110 – Celle- og molekylærbiologi\nHvis du ikke har de anbefalte forkunnskapene ta kontakt med emneansvarlig."
+    }
+  },
+  {
+    "code": "BIOS4000",
+    "title": "Design og analyse av biologiske studier",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4000/",
+    "prerequisiteText": "STK1000 – Innføring i anvendt statistikk eller tilsvarende.",
+    "prerequisiteCourses": [
+      "STK1000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:01",
+      "sourceOfferedTerms": "Vår\nEmnet undervises ikke i vårsemesteret 2024. Emnet undervises neste gang våren 2025.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Elementære forkunnskaper i programmering tilsvarende innholdet i BIOS1100 – Innføring i beregningsmodeller for biovitenskap er sterkt anbefalt.\nAndre anbefalte forkunnskaper er BIOS1110 – Celle- og molekylærbiologi , BIOS1120 – Fysiologi , BIOS1140 – Evolusjon og genetikk og BIOS2100 – Generell økologi ."
+    }
+  },
+  {
+    "code": "BIOS4010",
+    "title": "Arbeidsmetoder i molekylærbiologi og biokjemi I",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4010/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:12",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kunnskaper i molekylærbiologi tilsvarende en bachelor i Biovitenskap."
+    }
+  },
+  {
+    "code": "BIOS4020",
+    "title": "Arbeidsmetoder i molekylærbiologi og biokjemi II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4020/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:16",
+      "sourceOfferedTerms": "Høst\nEmnet tilbys to ganger i periodene uke 40-44 og 46-50 med eksamen etter hvert undervisningsparti. Du skal kun delta på ett av undervisningspartiene.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Emnet forutsetter basiskunnskaper innen biokjemi og molekylærbiologi tilsvarende en bachelor i Biovitenskap."
+    }
+  },
+  {
+    "code": "BIOS4030",
+    "title": "Cellebiologiske arbeidsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4030/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:08",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3700 – Cellebiologi 2"
+    }
+  },
+  {
+    "code": "BIOS4070",
+    "title": "Biogeokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4070/",
+    "prerequisiteText": "I tillegg må følgende emne være tatt før første ekskursjon:\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4070/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:12",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Grunnleggende kunnskaper i kjemi og økologi"
+    }
+  },
+  {
+    "code": "BIOS4120",
+    "title": "Norsk naturvariasjon - typeinndeling, beskrivelse og kartlegging av natur basert på Natur i Norge (NiN)",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4120/",
+    "prerequisiteText": "HMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:18",
+      "sourceOfferedTerms": "Vår\nVår og høst samme år",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "BIOS2200 – Botanisk mangfold og BIOS2100 – Generell økologi eller tilsvarende.\nEmnet krever grunnleggende forkunnskaper i generell økologi, i tillegg til en viss kompetanse i artsbestemmelse av karplanter, lav og moser. Kunnskap om og erfaring i bruk av GIS er en klar fordel for kartleggingsdelen av kurset."
+    }
+  },
+  {
+    "code": "BIOS4215",
+    "title": "Evolusjon og systematikk i utvalgte grupper: dyreriket",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4215/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:19",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys hvert annet år i oddetallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3100 – Evolusjon (nedlagt) og BIOS5213 – Fylogeni og klassifikasjon"
+    }
+  },
+  {
+    "code": "BIOS4216",
+    "title": "Evolusjon og systematikk i utvalgte grupper: planteriket",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4216/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:20",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys hvert annet år i partallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS2200 – Botanisk mangfold , BIOS3100 – Evolusjon (nedlagt) og BIOS5213 – Fylogeni og klassifikasjon ."
+    }
+  },
+  {
+    "code": "BIOS4218",
+    "title": "Feltkurs i tropisk regnskogsøkologi og biomangfold",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4218/",
+    "prerequisiteText": "Må være tatt opp til et masterprogram i biologiske fag ved UiO eller NMBU.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4218/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:35",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS4221",
+    "title": "Biodiversity Field Research",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4221/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4221/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:08:22 AM",
+      "sourceOfferedTerms": "Spring and autumn\nSpring: Mandatory meeting/lecture, either in person or online. Autumn: Two weeks of mandatory fieldwork in another country.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Basic knowledge in biodiversity and ecology"
+    }
+  },
+  {
+    "code": "BIOS4250",
+    "title": "Soppenes biologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4250/",
+    "prerequisiteText": "Følgende emner må være tatt før første laboratorieøvelse og feltekskursjon:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1110 – Celle- og molekylærbiologi , BIOS1140 – Evolusjon og genetikk , BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS4300",
+    "title": "Marinbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4300/",
+    "prerequisiteText": "HMS0504 – Feltsikkerhet må være bestått før feltekskursjonen i BIOS4300.",
+    "prerequisiteCourses": [
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS2100 – Generell økologi BIOS2220 – Akvatisk biomangfold"
+    }
+  },
+  {
+    "code": "BIOS4301",
+    "title": "Marin bentisk økologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4301/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4301/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:38:52",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold\nBIOS2220 – Akvatisk biomangfold"
+    }
+  },
+  {
+    "code": "BIOS4315",
+    "title": "Fiskeøkologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4315/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4315/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:23",
+      "sourceOfferedTerms": "Vår\nEmnet undervises våren 2026. Neste gang våren 2028.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Bachelorgrad i biologi eller tilsvarende. God bakgrunn i økologi."
+    }
+  },
+  {
+    "code": "BIOS4400",
+    "title": "Pelagisk økologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4400/",
+    "prerequisiteText": "HMS0503 - Laboratoriesikkerhet\nHMS0504 - Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:02",
+      "sourceOfferedTerms": "Vår\nEmnet undervises siste gang våren 2026.\nUndervisning tilbys siste gang\nvår 2026",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Generell økologi og biomangfold tillsvarende feks BIOS1150 – Biologisk mangfold / BIOS2220 – Akvatisk biomangfold , fysikk tilsvarende FYS1001 – Innføring i fysikk , og kjennskap til R-programmering tilsvarende STK1000 – Innføring i anvendt statistikk ."
+    }
+  },
+  {
+    "code": "BIOS4500",
+    "title": "Generell toksikologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:08",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kunnskap i biologi, organisk kjemi, cellebiologi og biokjemi, f. eks. emnene BIOS1110 – Celle- og molekylærbiologi , BIOS1130 – Biokjemi 1 , BIOS2220 – Akvatisk biomangfold , BIOS2900 – Molekylærbiologi (videreført) og BIOS3900 – Biokjemi 2 ."
+    }
+  },
+  {
+    "code": "BIOS4600",
+    "title": "Genetikk og utviklingsbiologi",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "Unknown",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4600/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": null,
+      "sourceLanguage": null,
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap\nBIOS1120 – Fysiologi\nBIOS1140 – Evolusjon og genetikk\nBIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS4601",
+    "title": "Genetikk og utviklingsbiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4601/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:14",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap\nBIOS1120 – Fysiologi\nBIOS1140 – Evolusjon og genetikk\nBIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS4610",
+    "title": "Molekylær plantevitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4610/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet må tas før første laboratorieøvelse.",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4610/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:20",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1100 – Innføring i beregningsmodeller for biovitenskap , BIOS1120 – Fysiologi , BIOS1140 – Evolusjon og genetikk og BIOS1150 – Biologisk mangfold"
+    }
+  },
+  {
+    "code": "BIOS4910IGEM",
+    "title": "International Genetically Engineered Machine",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4910IGEM/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS4910IGEM/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:08:23 AM",
+      "sourceOfferedTerms": "Spring and autumn\nCovers two semesters (including July), starting every spring. February to October or November (depending on the date for the iGEM Jamboree).",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Master's students from all disciplines and Bachelor's students in their final year at the Faculty of Mathematics and Natural Sciences are eligible to apply. The team will benefit from diverse academic backgrounds."
+    }
+  },
+  {
+    "code": "BIOS5000",
+    "title": "Biologididaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5000/",
+    "prerequisiteText": "PROF1015 – Profesjonsidentitet, læring og undervisning\nPROF3025 – Ledelse av elevers læring\nPROF4045 – Tilrettelegging for elevers læring\neller\nPPU3210 – PPU del 1 av 2: Undervisning og læringsforløp\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\neller andre tilsvarende emner.\nI tillegg kreves følgende disiplinære emner:\nMinimum 50 av 60 studiepoeng i lektorprogrammets 60 studiepoengs emnegruppe biologi eller andre tilsvarende emner.\nFor å kunne delta på obligatorisk praksis er det et krav om at følgende emner må være bestått før undervisningen starter:\nHMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "PPU3210",
+      "PPU3220",
+      "HMS0503",
+      "HMS0504",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5100",
+    "title": "Videregående evolusjonsteori",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:25",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS1140 – Evolusjon og genetikk"
+    }
+  },
+  {
+    "code": "BIOS5111",
+    "title": "Elektronmikroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5111/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:26",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Bachelorgrad i molekylærbiologi eller biologi."
+    }
+  },
+  {
+    "code": "BIOS5112",
+    "title": "Livshistoriestrategier og klimaeffekter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5112/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5112/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad i biologi eller liknende. Grunnkunnskap i økologi og evolusjonsbiologi. Kjennskap til programmering i R er en fordel for øvingene."
+    }
+  },
+  {
+    "code": "BIOS5114",
+    "title": "Molekylær evolusjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5114/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5114/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5115",
+    "title": "Current Research in Natural History",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5115/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5115/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:08:27 AM",
+      "sourceOfferedTerms": "Spring\nThe course runs over two semesters.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5210",
+    "title": "Gradientanalyseteknikker",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:33",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med bruk av statistikkprogrammet R anbefales."
+    }
+  },
+  {
+    "code": "BIOS5211",
+    "title": "Utbredelsesmodellering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:37",
+      "sourceOfferedTerms": "Annenhver høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2100 – Generell økologi , STK1000 – Innføring i anvendt statistikk og BIOS5210 – Gradientanalyseteknikker .\nEmnet gir ikke teknisk kursing i geografiske informasjonssystemer (GIS). Kunnskap om og erfaring i bruk av GIS og statistisk programvare (R) er en klar fordel."
+    }
+  },
+  {
+    "code": "BIOS5213",
+    "title": "Fylogeni og klassifikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5213/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5213/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5214",
+    "title": "Biogeografi og biodiversitet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5214/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:49",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys i oddetallsår.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5217",
+    "title": "Avanserte emner i mykologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5217/",
+    "prerequisiteText": "Følgende emner være tatt før første laboratorieøvelse og feltkurs:\nHMS0503 - Laboratoriesikkerhet\nHMS0504 - Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5217/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:08:54",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys hvert annet år i oddetallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold og BIOS3250 – Soppenes biologi / BIOS4250 – Soppenes biologi\nEller grunnleggende kunnskap om mykologi."
+    }
+  },
+  {
+    "code": "BIOS5219",
+    "title": "Bevaringsbiologi: Grønne landplanter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5219/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5219/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:52",
+      "sourceOfferedTerms": "Høst\nUndervises annenhver høst. Undervises neste gang høsten 2025.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS2200 – Botanisk mangfold\nBIOS4216 – Evolusjon og systematikk i utvalgte grupper: planteriket"
+    }
+  },
+  {
+    "code": "BIOS5226",
+    "title": "Natural History Collections – Diversity in time and space",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5226/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5226/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:39:53 PM",
+      "sourceOfferedTerms": "Autumn\nThe subject is taught every other autumn, with the next time being autumn 2026.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Recommend one or more systematic courses in biology and mineralogy."
+    }
+  },
+  {
+    "code": "BIOS5311",
+    "title": "Marine algers systematikk og økologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5311/",
+    "prerequisiteText": "HMS0503 - Laboratoriesikkerhet\nHMS0504 - Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5311/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:09:09",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2100 – Generell økologi , BIOS2220 – Akvatisk biomangfold , BIOS3100 – Evolusjon (nedlagt) , BIOS4400 – Pelagisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS5311F",
+    "title": "Identification of Marine Microalgae and Macroalgae",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5311F/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5311F/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:09:11 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5312",
+    "title": "Alpine Ecology",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5312/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5312/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:09:12 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Bachelor degree in biology or similar. Good basic knowledge in ecology and evolution."
+    }
+  },
+  {
+    "code": "BIOS5313",
+    "title": "Menneskelig påvirkning på det marine miljø",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5313/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5313/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kunnskap i generell biologi, BIOS4400 – Pelagisk økologi og BIOS4301 – Marin bentisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS5316",
+    "title": "Giftige alger og algedyrking",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5316/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5316/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:54",
+      "sourceOfferedTerms": "Høst\nAnnenhver høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2220 – Akvatisk biomangfold og BIOS4400 – Pelagisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS5400",
+    "title": "Human toksikologi og økotoksikologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5400/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:56",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kurset er en basert på emne: BIOS4500. Studenter bør enten ha fullført det emnet eller ha tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "BIOS5410",
+    "title": "Regulatorisk toksikologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:09:27",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys annet hvert år i oddetallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi"
+    }
+  },
+  {
+    "code": "BIOS5411",
+    "title": "Miljøgifter i økosystem og mennesker: Effekter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5411/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5411/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:57",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi\nBIOS1110 – Celle- og molekylærbiologi\nBIOS1120 – Fysiologi\nBIOS1130 – Biokjemi 1\nBIOS1150 – Biologisk mangfold\nBIOS2220 – Akvatisk biomangfold"
+    }
+  },
+  {
+    "code": "BIOS5412",
+    "title": "Miljøgifter i økosystem og mennesker: eksponering og akkumulering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5412/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5412/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:09:38",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi\nBIOS1120 – Fysiologi\nBIOS2100 – Generell økologi\nBIOS3000 – Design og analyse av biologiske studier"
+    }
+  },
+  {
+    "code": "BIOS5610",
+    "title": "Eukaryote gener og genomer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5610/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5610/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:09:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad i molekylærbiologi / biokjemi og/eller opptak til masterprogrammet i Biovitenskap eller tilsvarende bakgrunn. I tillegg anbefales emnet MBV3020 – Molekylær genetikk og utviklingsbiologi (nedlagt) eller BIOS3601 – Genetikk og utviklingsbiologi"
+    }
+  },
+  {
+    "code": "BIOS5710",
+    "title": "Advanced Cancer Biology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5710/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:09:51 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Bachelor's degree in molecular biology/cell biology/biochemistry and/or admission to a Master program in molecular biology/cell biology/biochemistry/physiology or equivalent background.\nBIOS3700 – Cell Biology 2 and MBV3020 – Molecular genetics and developmental biology (discontinued) or corresponding knowledge."
+    }
+  },
+  {
+    "code": "BIOS5810",
+    "title": "Komparativ og økologisk fysiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5810/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:58",
+      "sourceOfferedTerms": "Høst\nEmnet undervises annet hvert høstsemester. Neste undervisningstermin er høsten 2025.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3800 – Humanfysiologi"
+    }
+  },
+  {
+    "code": "BIOS5812",
+    "title": "Avansert nevrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5812/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5812/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:10:02",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3800 – Humanfysiologi / MBV3050 – Humanfysiologi (videreført)"
+    }
+  },
+  {
+    "code": "BIOS5910",
+    "title": "Molecular biology of microbes - host interactions",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5910/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5910/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:10:05 AM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "BIOS1130 – Biokjemi 1 , BIOS2900 – Molecular Biology (continued) , BIOS3910 – Microbiology"
+    }
+  },
+  {
+    "code": "BIOS5912",
+    "title": "Eukaryotic Transcription Factors - Structures, Function, Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5912/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5912/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:10:10 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course will be taught in the spring semester from 2026 onwards. The last time the course was taught in the autumn semester was 2024.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "BIOS3900 – Biochemistry 2 , BIOS4010 – Methods in Molecular Biology and Biochemistry I , BIOS4020 – Methods in Molecular Biology and Biochemistry II or corresponding knowledge."
+    }
+  },
+  {
+    "code": "BIOS5913",
+    "title": "Molekylære mekanismer i intracellulær transport",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5913/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5913/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:39:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS3700 – Cellebiologi 2 , BIOS4030 – Cellebiologiske arbeidsmetoder eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "BIOS5914",
+    "title": "Cellular and molecular Immunology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5914/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5914/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:39:59 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A general cell biology course with immunology, such as BIOS3700 – Cell Biology 2 , is strongly recommended. BIOS3700 uses The Cell (Alberts et al., 6th Edition) as textbook. The content of Chapters 23: Pathogens and Infection and Chapter 24: The Innate and Adaptive Immune System, is assumed as prior knowledge for students taking this course."
+    }
+  },
+  {
+    "code": "BIOS5930L",
+    "title": "Masteroppgave i biovitenskap, Lektorprogrammet",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5930L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5930L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:10:23",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS5960",
+    "title": "Biovitenskap. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:10:30",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9100",
+    "title": "Advanced evolution",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:10:32 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "BIOS1140 – Evolusjon og genetikk"
+    }
+  },
+  {
+    "code": "BIOS9111",
+    "title": "Elektronmikroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9111/",
+    "prerequisiteText": "Opptak til et PhD program\nHMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:10:39",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Mastergrad i molekylærbiologi, biologi eller tilsvarende fagområde"
+    }
+  },
+  {
+    "code": "BIOS9112",
+    "title": "Livshistoriestrategier og klimaeffekter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9112/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9112/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:10:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Bachelorgrad i biologi eller liknende. Grunnkunnskap i økologi og evolusjonsbiologi. Kjennskap til programmering i R er en fordel for øvingene."
+    }
+  },
+  {
+    "code": "BIOS9114",
+    "title": "Molekylær evolusjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9114/",
+    "prerequisiteText": "Ingen obligatoriske forkunnskaper utover generell studiekompetanse.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9114/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9115",
+    "title": "Current Research in Natural History",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9115/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9115/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:10:55 AM",
+      "sourceOfferedTerms": "Spring\nThe course runs over two semesters.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9140",
+    "title": "IBA - Infection Biology of Microbial Symbiosis",
+    "credits": 2,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9140/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:10:57 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2017",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9210",
+    "title": "Gradientanalyseteknikker",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:04",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Erfaring med bruk av statistikkprogrammet R vil være en fordel."
+    }
+  },
+  {
+    "code": "BIOS9211",
+    "title": "Utbredelsesmodellering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9211/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:09",
+      "sourceOfferedTerms": "Annenhver høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2100 – Generell økologi , STK1000 – Innføring i anvendt statistikk og BIOS5210 – Gradientanalyseteknikker .\nEmnet gir ikke teknisk kursing i geografiske informasjonssystemer (GIS). Kunnskap om og erfaring i bruk av GIS og statistisk programvare (R) er en klar fordel."
+    }
+  },
+  {
+    "code": "BIOS9213",
+    "title": "Fylogeni og klassifikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9213/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9213/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:03",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9214",
+    "title": "Biogeografi og biodiversitet",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9214/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9214/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:18",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys i oddetallsår.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9217",
+    "title": "Avanserte emner i mykologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9217/",
+    "prerequisiteText": "Følgende emner være tatt før første laboratorieøvelse og feltkurs.\nHMS0503 - Laboratoriesikkerhet\nHMS0504 - Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9217/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:22",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys hvert annet år i oddetallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold og BIOS3250 – Soppenes biologi / BIOS4250 – Soppenes biologi\nEller grunnleggende kunnskap om mykologi."
+    }
+  },
+  {
+    "code": "BIOS9219",
+    "title": "Bevaringsbiologi: Grønne landplanter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9219/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9219/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:12",
+      "sourceOfferedTerms": "Høst\nUndervises annenhver høst. Undervises neste gang høsten 2025.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS2200 – Botanisk mangfold eller BIOS2220 – Akvatisk biomangfold\nBIOS4216 – Evolusjon og systematikk i utvalgte grupper: planteriket"
+    }
+  },
+  {
+    "code": "BIOS9220",
+    "title": "Protein Crystal Spectroscopy",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9220/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:03:37",
+      "sourceOfferedTerms": "Høst\nThe course will not be offered in 2023\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "BIOS9226",
+    "title": "Natural History Collections – Diversity in time and space",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9226/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9226/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:40:14 PM",
+      "sourceOfferedTerms": "Autumn\nThe subject is taught every other autumn, with the next time being autumn 2026.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Recommend one or more systematic courses in biology and mineralogy."
+    }
+  },
+  {
+    "code": "BIOS9311",
+    "title": "Marine algers systematikk og økologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9311/",
+    "prerequisiteText": "HMS0503 - Laboratoriesikkerhet\nHMS0504 - Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9311/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:24",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2100 – Generell økologi , BIOS2220 – Akvatisk biomangfold , BIOS3100 – Evolusjon (nedlagt) , BIOS4400 – Pelagisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS9312",
+    "title": "Alpine Ecology",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9312/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9312/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:26 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Bachelor degree in biology or similar. Good basic knowledge in ecology and evolution."
+    }
+  },
+  {
+    "code": "BIOS9313",
+    "title": "Menneskelig påvirkning på det marine miljø",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9313/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9313/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:25",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kunnskap i generell biologi, BIOS4400 – Pelagisk økologi og BIOS4301 – Marin bentisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS9316",
+    "title": "Giftige alger og algedyrking",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9316/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9316/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:29",
+      "sourceOfferedTerms": "Høst\nAnnenhver høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS1150 – Biologisk mangfold , BIOS2220 – Akvatisk biomangfold og BIOS4400 – Pelagisk økologi ."
+    }
+  },
+  {
+    "code": "BIOS9400",
+    "title": "Human toksikologi og økotoksikologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9400/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Kurset er en basert på emne: BIOS4500. Studenter bør enten ha fullført det emnet eller ha tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "BIOS9410",
+    "title": "Regulatorisk toksikologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9410/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9410/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:27",
+      "sourceOfferedTerms": "Vår\nEmnet tilbys annet hvert år i oddetallsår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi"
+    }
+  },
+  {
+    "code": "BIOS9411",
+    "title": "Miljøgifter i økosystem og mennesker: Effekter",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9411/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9411/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:40:44",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2024",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi\nBIOS1110 – Celle- og molekylærbiologi\nBIOS1120 – Fysiologi\nBIOS1130 – Biokjemi 1\nBIOS1150 – Biologisk mangfold\nBIOS2220 – Akvatisk biomangfold"
+    }
+  },
+  {
+    "code": "BIOS9412",
+    "title": "Miljøgifter i økosystem og mennesker: eksponering og akkumulering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9412/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet\nHMS0504 – Feltsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0504"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9412/index.html",
+      "sourceUpdatedAt": "20. mars 2026 04:04:12",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS4500 – Generell toksikologi\nBIOS1120 – Fysiologi\nBIOS2100 – Generell økologi\nBIOS3000 – Design og analyse av biologiske studier"
+    }
+  },
+  {
+    "code": "BIOS9500",
+    "title": "Scientific Writing",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9500/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:27 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The course is most beneficial if you are ready to write up your study as first author."
+    }
+  },
+  {
+    "code": "BIOS9530",
+    "title": "Biomolecular NMR",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9530/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9530/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:28 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The students should have followed the BIOS4020 course or have NMR knowledge at similar level."
+    }
+  },
+  {
+    "code": "BIOS9610",
+    "title": "Eukaryote gener og genomer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9610/",
+    "prerequisiteText": "Opptak til et PhD program",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9610/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS4601 – Genetikk og utviklingsbiologi eller tilsvarende kunnskaper"
+    }
+  },
+  {
+    "code": "BIOS9710",
+    "title": "Advanced Cancer Biology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9710/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9710/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:29 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Master degree in molecular biology/cell biology/biochemistry/physiology or equivalent background.\nBIOS3700 – Cell Biology 2 or corresponding knowledge."
+    }
+  },
+  {
+    "code": "BIOS9810",
+    "title": "Komparativ og økologisk fysiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9810/",
+    "prerequisiteText": "HMS0503 – Laboratoriesikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:41:04",
+      "sourceOfferedTerms": "Høst\nEmnet undervises annnet hvert høstsemester. Neste undervisningstermin er høsten 2025.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3800 – Humanfysiologi"
+    }
+  },
+  {
+    "code": "BIOS9812",
+    "title": "Avansert nevrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9812/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9812/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:11:30",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "BIOS3800 – Humanfysiologi / MBV3050 – Humanfysiologi (videreført)"
+    }
+  },
+  {
+    "code": "BIOS9905FBI2",
+    "title": "Phylogenomics",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9905FBI2/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9905FBI2/index.html",
+      "sourceUpdatedAt": "Mar. 20, 2026 4:04:39 AM",
+      "sourceOfferedTerms": "Autumn\nThe course is last held\nautumn 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "BIOS5114 – Molecular Evolution ."
+    }
+  },
+  {
+    "code": "BIOS9910",
+    "title": "Molecular Biology of Microbes - Host Interactions",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9910/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9910/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:41:14 PM",
+      "sourceOfferedTerms": "Spring\nThe course is last held\nspring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "BIOS1130 – Biokjemi 1 , BIOS2900 – Molecular Biology (continued) , BIOS3910 – Microbiology"
+    }
+  },
+  {
+    "code": "BIOS9912",
+    "title": "Eukaryotic Transcription Factors - Structures, Function, Regulation",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9912/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9912/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:11:31 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course will be taught in the spring semester from 2026 onwards. The last time the course was taught in the autumn semester was 2024.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "emne.BIOS3900, BIOS4010 – Methods in Molecular Biology and Biochemistry I , BIOS4020 – Methods in Molecular Biology and Biochemistry II or corresponding knowledge"
+    }
+  },
+  {
+    "code": "BIOS9913",
+    "title": "Molekylære mekanismer i intracellulær transport",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9913/",
+    "prerequisiteText": "Opptak til et PhD program.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9913/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:41:24",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "BIOS3700 – Cellebiologi 2 BIOS4030 – Cellebiologiske arbeidsmetoder eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "BIOS9914",
+    "title": "Cellular and Molecular Immunology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9914/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9914/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:41:28 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A general cell biology course with immunology, such as BIOS3700 – Cell Biology 2 , is strongly recommended. BIOS3700 uses The Cell (Alberts et al., 6th Edition) as textbook. The content of Chapters 23: Pathogens and Infection and Chapter 24: The Innate and Adaptive Immune System, is assumed as prior knowledge for students taking this course."
+    }
+  },
+  {
+    "code": "BIOS9980",
+    "title": "Proteomics Basic Course",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9980/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/BIOS9980/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:41:31 PM",
+      "sourceOfferedTerms": "Spring and autumn\nEvery other autumn, odd-numbered years. The course will be offered next in the autumn semester 2025.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARMBIOS4860",
+    "title": "Avansert molekylær og farmasøytisk mikrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARMBIOS4860/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARMBIOS4860/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:37",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LSI4015",
+    "title": "Introduction to (life science) start-up world",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/LSI4015/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/LSI4015/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:41:33 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The admission requirements for the Life Science Innovation (honors certificate) ."
+    }
+  },
+  {
+    "code": "LSI4020",
+    "title": "Innovation Project in Life Sciences",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ibv/LSI4020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ibv/LSI4020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:41:34 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "The admission requirements for the Life Science Innovation (honours certificate) ."
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Biosciences",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

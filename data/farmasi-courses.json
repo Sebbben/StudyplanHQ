@@ -1,0 +1,1960 @@
+[
+  {
+    "code": "FARM-KJM5010",
+    "title": "Bioanalytisk kjemi I: Avansert bioanalyse i livsvitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM-KJM5010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM-KJM5010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:15",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "For studenter med kjemibakgrunn: Analytisk kjemi tilsvarende KJM2400 – Analytisk kjemi I og KJM3400 – Analytisk kjemi II - separasjonsmetoder .\nFor studenter med farmasibakgrunn: Analytisk kjemi tilsvarende FRM2010 – Kvalitetskontroll av farmasøytiske råvarer (nedlagt) og FRM3030 – Bruk av legemidler, del III (nedlagt) eller FARM2130 – Legemiddelanalyse ."
+    }
+  },
+  {
+    "code": "FARM-KJM9010",
+    "title": "Bioanalytisk kjemi I: Avansert bioanalyse i livsvitenskap",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM-KJM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM-KJM9010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:21",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "For studenter med kjemibakgrunn: Analytisk kjemi tilsvarende KJM2400 – Analytisk kjemi I og KJM3400 – Analytisk kjemi II - separasjonsmetoder .\nFor studenter med farmasibakgrunn: Legemiddelanalyse tilsvarende FRM2010 – Kvalitetskontroll av farmasøytiske råvarer (nedlagt) og FRM3030 – Bruk av legemidler, del III (nedlagt) eller FARM2130 – Legemiddelanalyse"
+    }
+  },
+  {
+    "code": "FARM1100",
+    "title": "Farmasøytisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1100/",
+    "prerequisiteText": "Gjeldende opptakskrav til det 5-årige masterprogrammet i farmasi.\nHelse, miljø og sikkerhet (HMS): Det er obligatorisk sikkerhetsopplæring i begynnelsen av 1. semester. For studenter som starter på det 5-årige masterprogrammet i farmasi kreves følgende HMS-emner .\nVed ikke gjennomførte og beståtte HMS-emner vil du bli satt ned et kull. Du vil da miste ett års studium.\nAlle HMS-emnene må være godkjente før oppstart på emner fra og med 2. semester. Dette gjelder også ved fritak for emner på 1. semester.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på Kjemi 2 fra videregående skole."
+    }
+  },
+  {
+    "code": "FARM1110",
+    "title": "Farmakologi, fysiologi og cellebiologi 1",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1110/",
+    "prerequisiteText": "Gjeldende opptakskrav til det 5-årige masterprogrammet i farmasi.\nHelse, miljø og sikkerhet (HMS): Det er obligatorisk sikkerhetsopplæring i begynnelsen av 1. semester. For studenter som starter på det 5-årige masterprogrammet i farmasi kreves følgende HMS-emner .\nVed ikke gjennomførte og beståtte HMS-emner vil du bli satt ned et kull. Du vil da miste ett års studium.\nAlle HMS-emner må være godkjente før oppstart på emner fra og med 2. semester. Dette gjelder også ved fritak for emner på 1. semester.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjonen om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:10",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM1120",
+    "title": "Samfunnsfarmasi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1120/",
+    "prerequisiteText": "Gjeldende opptakskrav til det 5-årige masterprogrammet i farmasi.\nHelse, miljø og sikkerhet (HMS): Det er obligatorisk sikkerhetsopplæring i begynnelsen av 1. semester. For studenter som starter opp på det det 5-årige masterprogrammet i farmasi kreves følgende HMS-emner .\nVed ikke gjennomførte og beståtte HMS-emner vil du bli satt ned et kull. Du vil da miste ett års studium.\nAlle HMS-emnene må være godkjente før oppstart på emner fra og med 2.semester. Dette gjelder også ved fritak for emner på 1.semester.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nDet gis ikke fritak for FARM1120 – Samfunnsfarmasi på bakgrunn av bestått eksamen i FRM1020 – Farmasi i samfunnet (nedlagt) .",
+    "prerequisiteCourses": [
+      "FRM1020"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:16",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM1130",
+    "title": "Farmasøytisk rettet organisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1130/",
+    "prerequisiteText": "Godkjent de obligatoriske delene av FARM1100 – Farmasøytisk kjemi .\nBestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:24",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM1100 – Farmasøytisk kjemi"
+    }
+  },
+  {
+    "code": "FARM1140",
+    "title": "Farmakologi, fysiologi og cellebiologi 2",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1140/",
+    "prerequisiteText": "Godkjent de obligatoriske delene av FARM1110 – Farmakologi, fysiologi og cellebiologi 1 .\nBestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1110"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:32",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM1110 – Farmakologi, fysiologi og cellebiologi 1"
+    }
+  },
+  {
+    "code": "FARM1150",
+    "title": "Farmasøytisk rettet biokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1150/",
+    "prerequisiteText": "Godkjent de obligatoriske delene av FARM1100 – Farmasøytisk kjemi og FARM1110 – Farmakologi, fysiologi og cellebiologi 1\nBestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM1150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:40",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1"
+    }
+  },
+  {
+    "code": "FARM2100",
+    "title": "Legemiddelkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2100/",
+    "prerequisiteText": "​ FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjonen om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM2110",
+    "title": "Farmakoterapi 1",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2110/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjonen om overlapp er ikke fullstendig fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:45:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM2120",
+    "title": "Legemiddelteknologi og biofarmasi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2120/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterstudiet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nFor fritak for FARM2120 – Legemiddelteknologi og biofarmasi må alle overlappende emner, FRM2020 – Produksjon, kvalitetskontroll og distribusjon av legemidler (nedlagt) , FRM2030 – Kvalitetssikring ved produksjon av legemidler (nedlagt) og FRM3000 – Formulering av legemidler (nedlagt) , være beståtte.\nInformasjonen om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FRM2020",
+      "FRM2030",
+      "FRM3000"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:46:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM2130",
+    "title": "Legemiddelanalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2130/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi\nGodkjent de obligatoriske delene av:\nFARM2100 – Legemiddelkjemi\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 19:46:07",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM2100 – Legemiddelkjemi"
+    }
+  },
+  {
+    "code": "FARM2140",
+    "title": "Farmasøytisk mikrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2140/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:51:29",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM2150",
+    "title": "Legemiddelformulering og kvalitetssikring ved produksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2150/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nDe obligatoriske delene av:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nFor fritak for FARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon må alle overlappende emner, FRM2020 – Produksjon, kvalitetskontroll og distribusjon av legemidler (nedlagt) , FRM2030 – Kvalitetssikring ved produksjon av legemidler (nedlagt) og FRM3010 – Formulering, produksjon og kontroll av legemidler med krav til sterilitet (nedlagt) være beståtte.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FRM2020",
+      "FRM2030",
+      "FRM3010"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM2150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:51:36",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi"
+    }
+  },
+  {
+    "code": "FARM3100",
+    "title": "Farmakognosi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3100/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterstudiet i farmasi.\nGodkjent de obligatoriske aktivitetene i:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjonen om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:51:43",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått eksamen i:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon"
+    }
+  },
+  {
+    "code": "FARM3110",
+    "title": "Farmakoterapi 2 og fysiologi 3",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3110/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske aktivitetene i:\nFARM2110 – Farmakoterapi 1\nFritak for emner: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjonen om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2110"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:51:49",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått eksamen i:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2130 – Legemiddelanalyse"
+    }
+  },
+  {
+    "code": "FARM3120",
+    "title": "Legemiddelbruk og folkehelse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3120/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske aktivitetene i:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nInformasjon om overlapp er ikke fullstendig.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:51:55",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Bestått eksamen i:\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon"
+    }
+  },
+  {
+    "code": "FARM3130",
+    "title": "Farmasøytisk praksis",
+    "credits": 30,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3130/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nDe obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM3130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:02",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4010P",
+    "title": "Pharmaceutical research project",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4010P/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4010P/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:52:13 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students must have a sufficient knowledge basis within the field of study for the research project and have a level of knowledge comparable to last year of a Norwegian Bachelor`s degree or first year of a Norwegian Master`s degree."
+    }
+  },
+  {
+    "code": "FARM4020P",
+    "title": "Pharmaceutical research project",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4020P/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4020P/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:52:15 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students must have a sufficient knowledge basis within the field of study for the research project and have a level of knowledge comparable to last year of a Norwegian Bachelor`s degree or first year of a Norwegian Master`s degree."
+    }
+  },
+  {
+    "code": "FARM4030P",
+    "title": "Pharmaceutical research project",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4030P/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4030P/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:52:17 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Students must have a sufficient knowledge basis within the field of study for the research project and have a level of knowledge comparable to last year of a Norwegian Bachelor`s degree or first year of a Norwegian Master`s degree."
+    }
+  },
+  {
+    "code": "FARM4100",
+    "title": "Persontilpasset legemiddelbehandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4100/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\ngodkjent praksisperioden i FARM3130 – Farmasøytisk praksis\nbestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:23",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4110",
+    "title": "Videregående biofarmasi og formuleringsteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4110/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\ngodkjent praksisperioden i FARM3130 – Farmasøytisk praksis\nbestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:38",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4120",
+    "title": "Utvikling av legemidler",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4120/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\ngodkjent praksisperioden i FARM3130 – Farmasøytisk praksis\nbestått de obligatoriske HMS-emnene som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:44",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4130",
+    "title": "Anvendt statistikk for farmasøyter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4130/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nBestått de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.\nDet gis ikke fritak for FARM4130 - Anvendt statistikk for farmasøyter på bakgrunn av bestått eksamen i FRM4110 - Anvendt statistikk for farmasøyter , STK1000 - Innføring i anvendt statistikk eller STK1005 - Innføring i anvendt statistikk B .",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FRM4110",
+      "STK1000",
+      "STK1005"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4910K",
+    "title": "Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4910K/",
+    "prerequisiteText": "Gjeldende opptakskrav til innpassingsopptaket for farmasøyter med mastergrad fra land utenfor EU/EØS .\nHelse, miljø og sikkerhet (HMS): Det er obligatorisk sikkerhetsopplæring i begynnelsen av 7. semester. Følgende HMS emner kreves:\nHMS0501 – Sikkerhet og fysisk miljø\nHMS0502 – Utviklende læringsmiljø\nHMS0503 – Laboratoriesikkerhet\nHMS0506 – Klinikksikkerhet\nHMS0507 – Brannsikkerhet\nFor oppstart på 8. semester må alle HMS-emnene være beståtte.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4910K/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4920K",
+    "title": "Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4920K/",
+    "prerequisiteText": "Gjeldende opptakskrav til innpassingsopptaket for farmasøyter med mastergrad fra land utenfor EU/EØS .\nHelse, miljø og sikkerhet (HMS): Det er obligatorisk sikkerhetsopplæring i begynnelsen av 7. semester. Følgende HMS-emner kreves:\nHMS0501 – Sikkerhet og fysisk miljø\nHMS0502 – Utviklende læringsmiljø\nHMS0503 – Laboratoriesikkerhet\nHMS0506 – Klinikksikkerhet\nHMS0507 – Brannsikkerhet\nFor oppstart på 8. semester må alle HMS-emnene være beståtte.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4920K/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:56",
+      "sourceOfferedTerms": "Høst\nEmnet strekker seg over høst- og vårsemesteret.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM4930K",
+    "title": "Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4930K/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM4930K/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:52:58",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5000",
+    "title": "Masterforberedende emne i farmasi",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5000/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nFritak for emnet: Farmasiutdanningen er en profesjonsutdanning regulert av fastsatte lover og regler for hva som skal inngå i utdanningen. Fritak innvilges kun hvis alle læringsutbytter i emnet er dekket.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:04",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5110",
+    "title": "Industriell farmasi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5110/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nde obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske delene av:\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:10",
+      "sourceOfferedTerms": "Vår\nEmnet avholdes ikke våren 2026.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5140",
+    "title": "Idrettsfarmasi og antidoping",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5140/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\nde obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:27",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5150",
+    "title": "Anvendt farmakokinetikk og dosering i klinisk praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5150/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nde obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske delene av:\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5150/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5160",
+    "title": "Klinisk laboratoriemedisin",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5160/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5160/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:36",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5170",
+    "title": "Legemidler ved behandling av degenerative- og livsstilssykdommer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5170/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nde obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske delene av:\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5170/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:32",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5180",
+    "title": "Legemidler ved kreft og autoimmune sykdommer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5180/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nEgne obligatoriske forkunnskapskrav gjelder for studenter tatt opp på det 5-årige masterprogrammet i farmasi til og med høsten 2016 og som er overført fra gammel studieplan. Disse er i faglig samsvar med de obligatoriske forkunnskapskravene som gjelder for emnet, men kan være erstattet av emner fra gammel studieplan, samt overgangsemner. Studenter på overgangsordninger kan ta kontakt med studieadministrasjonen for fullstendig oversikt over obligatoriske forkunnskapskrav.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5180/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:48",
+      "sourceOfferedTerms": "Høst\nUndervisning tilbys siste gang\nhøst 2022",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5190",
+    "title": "Organisk syntese av bioaktive forbindelser",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5190/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5190/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:53",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5200",
+    "title": "Bruk av biopolymerer i legemidler og forbedring av helse",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5200/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:20:59",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5220",
+    "title": "Farmakoepidemiologi og legemiddelovervåkning i praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5220/",
+    "prerequisiteText": "Bestått eksamen i:\nFARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nde obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nGodkjent de obligatoriske delene av:\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet , som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5220/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:34",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5230",
+    "title": "Radiopharmacy: Making Drugs for Diagnosis and Treatment",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5230/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5230/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:53:35 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FARM5945",
+    "title": "Masteroppgave i farmasi",
+    "credits": 45,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5945/",
+    "prerequisiteText": "FARM1100 – Farmasøytisk kjemi\nFARM1110 – Farmakologi, fysiologi og cellebiologi 1\nFARM1120 – Samfunnsfarmasi\nFARM1130 – Farmasøytisk rettet organisk kjemi\nFARM1140 – Farmakologi, fysiologi og cellebiologi 2\nFARM1150 – Farmasøytisk rettet biokjemi\nFARM2100 – Legemiddelkjemi\nFARM2110 – Farmakoterapi 1\nFARM2120 – Legemiddelteknologi og biofarmasi\nFARM2130 – Legemiddelanalyse\nFARM2140 – Farmasøytisk mikrobiologi\nFARM2150 – Legemiddelformulering og kvalitetssikring ved produksjon\nFARM3100 – Farmakognosi\nFARM3110 – Farmakoterapi 2 og fysiologi 3\nFARM3120 – Legemiddelbruk og folkehelse\nFARM3130 – Farmasøytisk praksis\nFARM4100 – Persontilpasset legemiddelbehandling\nFARM4110 – Videregående biofarmasi og formuleringsteknologi\nFARM4120 – Utvikling av legemidler\ngjennomført fellesmoduler og de valgfrie modulene som er aktuelle for fagområdet masteroppgaven er innenfor i FARM5000 – Masterforberedende emne i farmasi . Modulene må gjennomføres i samme semester som oppstart på masteroppgaven.\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.\nObligatoriske forkunnskaper for studenter på studieløp for farmasøyter med mastergrad fra land utenfor EU/EØS:\nFARM4910K – Farmakoterapi og samfunnsfarmasi med fokus på norske terapitradisjoner og norske forhold\nFARM4920K – Fra virkestoff til ferdig formulering med fokus på avanserte legemiddelformer\nFARM4930K – Kvalitetssikring ved produksjon og klinisk utprøvning av legemidler\ngjennomført fellesmoduler og de valgfrie modulene som er aktuelle for fagområdet masteroppgaven er innenfor i FARM5000 – Masterforberedende emne i farmasi . Modulene må gjennomføres i samme semester som oppstart på masteroppgaven.\ngodkjent de obligatoriske HMS-emnene HMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0506 – Klinikksikkerhet og HMS0507 – Brannsikkerhet som kreves for studenter på det 5-årige masterprogrammet i farmasi.",
+    "prerequisiteCourses": [
+      "FARM1100",
+      "FARM1110",
+      "FARM1120",
+      "FARM1130",
+      "FARM1140",
+      "FARM1150",
+      "FARM2100",
+      "FARM2110",
+      "FARM2120",
+      "FARM2130",
+      "FARM2140",
+      "FARM2150",
+      "FARM3100",
+      "FARM3110",
+      "FARM3120",
+      "FARM3130",
+      "FARM4100",
+      "FARM4110",
+      "FARM4120",
+      "FARM5000",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0506",
+      "HMS0507",
+      "FARM4910K",
+      "FARM4920K",
+      "FARM4930K"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARM5945/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:36",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "FARM4130 – Anvendt statistikk for farmasøyter"
+    }
+  },
+  {
+    "code": "FARMBIOS4860",
+    "title": "Avansert molekylær og farmasøytisk mikrobiologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARMBIOS4860/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FARMBIOS4860/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:37",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM-KJM9930",
+    "title": "Bioanalysis - Forefront Technologies and Applications",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM-KJM9930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM-KJM9930/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:21:28 PM",
+      "sourceOfferedTerms": "Autumn\nThe course is held irregulary. It is uncertain when the course will be held next time.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM2730V",
+    "title": "Diabetes og metabolsk syndrom",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM2730V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\nMinst 2 års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM2730V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:21:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5000V",
+    "title": "Planlegging av masteroppgaven i klinisk farmasi",
+    "credits": 0,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5000V/",
+    "prerequisiteText": "FRM5905V – Klinisk farmasøytisk arbeidsmetodikk\nFRM5921V – Klinisk biokjemi i relasjon til legemiddelbruk\nFRM5931V – Farmakologisk variabilitet og individtilpasset behandling",
+    "prerequisiteCourses": [
+      "FRM5905V",
+      "FRM5921V",
+      "FRM5931V"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5000V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:37",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5905V",
+    "title": "Klinisk farmasøytisk arbeidsmetodikk og klinisk kommunikasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5905V/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5905V/index.html",
+      "sourceUpdatedAt": "20. mars 2026 03:43:30",
+      "sourceOfferedTerms": "Høst\nAntall plasser: 15 (det må være minimum 5 påmeldte).",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5921V",
+    "title": "Klinisk biokjemi i relasjon til legemiddelbruk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5921V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi og minst 2 års relevant yrkeserfaring.\nMinimumskrav for relevant yrkeserfaring er at du har jobbet som autorisert reseptarfarmasøyt eller provisorfarmasøyt i 100 % stilling i minst 2 år.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5921V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:21:45",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Forkunnskaper tilsvarende grunnstudiet i farmasi, Universitetet i Oslo."
+    }
+  },
+  {
+    "code": "FRM5925V",
+    "title": "Persontilpasset legemiddeladministrasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5925V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\nMinst 2 års relevant yrkeserfaring. Minimumskrav for relevant yrkesfaring er at du har jobbet i 100 % stilling som autorisert reseptarfarmasøyt eller provisorfarmasøyt i 2 år.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5925V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:21:49",
+      "sourceOfferedTerms": "Vår\nMaksimalt antall deltakere er 15. Ved få påmeldte kan emnet bli avlyst.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5931V",
+    "title": "Farmakologisk variabilitet og individtilpasset behandling",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5931V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\nMinst 2 års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5931V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:21:52",
+      "sourceOfferedTerms": "Høst\nEmnet tilbys annenhver høst.\nVed mindre enn 5 påmeldte blir emnet avlyst. Kurset er fulltegnet ved 15 påmeldte.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5941V",
+    "title": "Videregående emne i farmakoterapi i psykiatri og nevrologi med vekt på eldre pasienter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5941V/",
+    "prerequisiteText": "Emnet forutsetter kunnskaper tilegnet gjennom bachelorgrad eller mastergrad i farmasi og minst 2 års relevant yrkeserfaring.\nMinimumskrav for relevant yrkeserfaring er at du har jobbet som autorisert reseptarfarmasøyt eller provisorfarmasøyt i 100% stilling i minst 2 år.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5941V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:38",
+      "sourceOfferedTerms": "Vår\nEmnet går annenhver høst. Emnet undervises neste gang høsten 2026.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5942V",
+    "title": "Videregående farmakoterapi med vekt på diabetes og hjerte-karsykdom",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5942V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\n2 års relevant yrkeserfaring. Minimumskravet for relevant yrkeserfaring er to år i full stilling som autorisert farmasøyt.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5942V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:21:57",
+      "sourceOfferedTerms": "Høst\nEmnet tilbys annenhver høst.\nVed mindre enn 5 påmeldte blir emnet avlyst. Kurset er fulltegnet ved 15 påmeldte.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5943V",
+    "title": "Videregående farmakoterapi med vekt på antimikrobielle midler",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5943V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\nMinst 2. års relevant yrkeserfaring. Minimumskrav for relevant yrkeserfaring er at du har jobbet i 100 % stilling som autorisert reseptarfarmasøyt eller provisorfarmasøyt i 2 år.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5943V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:22:01",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM5944V",
+    "title": "Væsketerapi og ernæring - en praktisk tilnærming",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5944V/",
+    "prerequisiteText": "Cand.pharm./master i farmasi eller reseptar/bachelor i farmasi\nMinst 2 års relevant yrkeserfaring",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5944V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:22:04",
+      "sourceOfferedTerms": "Høst\nAntall plasser: 15 (det må være minimum 5 påmeldte)",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Erfaring fra et klinisk miljø er en stor fordel. Solid bakgrunn i galenisk farmasi vil bidra til større gevinst for deltakeren."
+    }
+  },
+  {
+    "code": "FRM5990V",
+    "title": "Klinisk farmasi, masteroppgave",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5990V/",
+    "prerequisiteText": "Følgende emner må være bestått for å kunne ta emnet:\nFRM5000V – Planlegging av masteroppgaven i klinisk farmasi\nFRM5905V – Klinisk farmasøytisk arbeidsmetodikk\nFRM5921V – Klinisk biokjemi i relasjon til legemiddelbruk\nFRM5931V – Farmakologisk variabilitet og individtilpasset behandling\nminst 3 av de valgbare spesialiseringsemnene i klinisk farmasi (EVU), på tilsammen 30 studiepoeng\nOversikt emner i Klinisk farmasi (master - erfaringsbasert) .",
+    "prerequisiteCourses": [
+      "FRM5000V",
+      "FRM5905V",
+      "FRM5921V",
+      "FRM5931V"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM5990V/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:53:38",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM9550",
+    "title": "Photobiology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9550/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9550/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:53:39 AM",
+      "sourceOfferedTerms": "Spring\nThe course is held irregularly.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM9905",
+    "title": "Molecular Microbiology in Pathogenesis and Evolution",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9905/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9905/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:22:17 PM",
+      "sourceOfferedTerms": "Autumn\nThe course is held irregularly. It is uncertain when the course will be held next time.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM9915",
+    "title": "Introduction to and Application of Propensity Scores",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9915/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9915/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:53:39 AM",
+      "sourceOfferedTerms": "Spring\nThe course is held irregularly.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM9920",
+    "title": "Ethnopharmacology",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9920/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9920/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:22:23 PM",
+      "sourceOfferedTerms": "Autumn\nThe course is held irregularly. It is uncertain when the course will be held next time.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "FRM9925",
+    "title": "Real World Research - Qualitative Methods",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9925/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/FRM9925/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:53:39 AM",
+      "sourceOfferedTerms": "Spring and autumn\nThe course is held irregularly.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM-FRM5055",
+    "title": "Bioanalytisk kjemi II: avanserte separasjonsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM5055/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM5055/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:52:04",
+      "sourceOfferedTerms": "Høst\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt å ha en bakgrunn i analytisk kjemi tilsvarende KJM2400 – Analytisk kjemi I og KJM3400 – Analytisk kjemi II - separasjonsmetoder (for studenter med kjemibakgrunn) eller FRM2010 – Kvalitetskontroll av farmasøytiske råvarer (nedlagt) og FRM3030 – Bruk av legemidler, del III (nedlagt) (for studenter med farmasibakgrunn), samt FRM-KJM5050 – Bioanalytisk kjemi I: avanserte separasjonsmetoder og bioanalyse (videreført) ."
+    }
+  },
+  {
+    "code": "LSI4005",
+    "title": "Introduction to innovation in life science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/farmasi/LSI4005/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/farmasi/LSI4005/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 3:53:40 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Pharmacy",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

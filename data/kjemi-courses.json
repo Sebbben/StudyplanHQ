@@ -1,0 +1,2262 @@
+[
+  {
+    "code": "IN-KJM1900",
+    "title": "Introduksjon i programmering for kjemikere",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-KJM1900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/ifi/IN-KJM1900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 20:41:45",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM-FRM5055",
+    "title": "Bioanalytisk kjemi II: avanserte separasjonsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM5055/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM5055/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:50:24",
+      "sourceOfferedTerms": "Høst\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt å ha en bakgrunn i analytisk kjemi tilsvarende KJM2400 – Analytisk kjemi I og KJM3400 – Analytisk kjemi II - separasjonsmetoder (for studenter med kjemibakgrunn) eller FRM2010 – Kvalitetskontroll av farmasøytiske råvarer (nedlagt) og FRM3030 – Bruk av legemidler, del III (nedlagt) (for studenter med farmasibakgrunn), samt FRM-KJM5050 – Bioanalytisk kjemi I: avanserte separasjonsmetoder og bioanalyse (videreført) ."
+    }
+  },
+  {
+    "code": "KJM-FRM9055",
+    "title": "Bioanalytisk kjemi II: avanserte separasjonsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM9055/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-FRM9055/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:50:31",
+      "sourceOfferedTerms": "Høst\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Det er sterkt anbefalt å ha en bakgrunn i analytisk kjemi tilsvarende KJM2400 – Analytisk kjemi I og KJM3400 – Analytisk kjemi II - separasjonsmetoder (for studenter med kjemibakgrunn) eller FRM2010 – Kvalitetskontroll av farmasøytiske råvarer (nedlagt) og FRM3030 – Bruk av legemidler, del III (nedlagt) (for studenter med farmasibakgrunn), samt FRM-KJM9050 – Bioanalytisk kjemi I: avanserte separasjonsmetoder og bioanalyse (videreført) ."
+    }
+  },
+  {
+    "code": "KJM-MENA5110",
+    "title": "Uorganisk strukturkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA5110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA5110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:43",
+      "sourceOfferedTerms": "Vår\nEmnet kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1121 – Uorganisk kjemi , 2500, KJM3121 – Uorganisk materialkjemi , MENA1001 – Materialer, energi og nanoteknologi , MENA2000 – Faste materialers fundamentale oppbygning og MENA3100 – Materialkarakterisering eller tilsvarende emner"
+    }
+  },
+  {
+    "code": "KJM-MENA5555",
+    "title": "Polymerer og makromolekyler",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA5555/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM-MENA5555:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA5555/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:44",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.\nEmnet gis ikke våren 2024.\nEmnet ble avlyst våren 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM-MENA3300 – Fysikalsk kjemi III - makromolekyler, kondenserte faser og dynamikk (videreført) eller KJM3310 – Fysikalsk kjemi III - Statistisk termodynamikk for kjemi eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM-MENA9110",
+    "title": "Uorganisk strukturkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA9110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA9110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:45",
+      "sourceOfferedTerms": "Vår\nVår\nEmnet kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1121 – Uorganisk kjemi , KJM2500 – Syntese og karakterisering , KJM4121 – Uorganisk materialkjemi , MENA1001 – Materialer, energi og nanoteknologi , MENA2000 – Faste materialers fundamentale oppbygning og MENA3100 – Materialkarakterisering eller tilsvarende emner"
+    }
+  },
+  {
+    "code": "KJM-MENA9555",
+    "title": "Polymerer og makromolekyler",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA9555/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM-MENA9555:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM-MENA9555/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:46",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.\nEmnet gis ikke våren 2024\nEmnet ble avlyst våren 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM-MENA3300 – Fysikalsk kjemi III - makromolekyler, kondenserte faser og dynamikk (videreført) eller KJM3310 – Fysikalsk kjemi III - Statistisk termodynamikk for kjemi"
+    }
+  },
+  {
+    "code": "KJM1003",
+    "title": "Kjemi for biologer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1003/",
+    "prerequisiteText": "Følgende emner må tas før første obligatoriske laboratorieundervisning i KJM1003:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:47",
+      "sourceOfferedTerms": "Vår\nVår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kjemi 1 fra videregående skole."
+    }
+  },
+  {
+    "code": "KJM1101",
+    "title": "Generell kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1101/",
+    "prerequisiteText": "Følgende emner må tas før første obligatoriske laboratorieundervisning i KJM1101:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1101/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:51:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kjemi 2 fra videregående skole."
+    }
+  },
+  {
+    "code": "KJM1111",
+    "title": "Organisk kjemi I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1111/",
+    "prerequisiteText": "Følgende emner må tas før første obligatoriske laboratorieundervisning i KJM1111:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nGodkjent laboratoriekurs i enten KJM1002 – Innføring i kjemi (nedlagt) , eller KJM1003 – Kjemi for biologer , eller MENA1001 – Materialer, energi og nanoteknologi , eller KJM1101 – Generell kjemi eller ett tilsvarende emne.",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505",
+      "KJM1002",
+      "KJM1003",
+      "MENA1001",
+      "KJM1101"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1111/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Emnet bygger på KJM1101 – Generell kjemi eller tilsvarende emner. For studenter med KJM1002 – Innføring i kjemi (nedlagt) kan emnet være krevende."
+    }
+  },
+  {
+    "code": "KJM1121",
+    "title": "Uorganisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1121/",
+    "prerequisiteText": "Godkjent laboratoriekurs i ett av følgende emner: KJM1101 – Generell kjemi , KJM1002 – Innføring i kjemi (nedlagt) , MENA1001 – Materialer, energi og nanoteknologi , KJM1003 – Kjemi for biologer eller ett tilsvarende emne.\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM1121:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1002",
+      "MENA1001",
+      "KJM1003",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1121/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:49",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Enten KJM1101 – Generell kjemi , eller MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM1130",
+    "title": "Fysikalsk kjemi I - termodynamikk og kinetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1130/",
+    "prerequisiteText": "Du må ha fullført laboratoriekurs i minst ett av følgende emner: KJM1101 – Generell kjemi , KJM1100 – Generell kjemi (videreført) , KJM1121 – Uorganisk kjemi , KJM1120 – Uorganisk kjemi (videreført) eller MENA1001 – Materialer, energi og nanoteknologi\nFølgende emner må tas før første obligatorisk laboratorieundervisning i KJM1130:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1100",
+      "KJM1121",
+      "KJM1120",
+      "MENA1001",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:51:20",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1100 – Generell kjemi (videreført) eller KJM1101 – Generell kjemi og matematikk tilsvarende MAT1100 – Kalkulus eller MAT1012 – Matematikk 2 (nedlagt) ."
+    }
+  },
+  {
+    "code": "KJM1140",
+    "title": "Biokjemi 1 for kjemikere",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1140/",
+    "prerequisiteText": "Du må ha fullført laboratoriekurs i enten KJM1101 – Generell kjemi eller KJM1002 – Innføring i kjemi (nedlagt)\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM1140:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1002",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1140/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:50",
+      "sourceOfferedTerms": "Vår\nEmnet har endret undervisning fra høst til vår fra og med 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kjemi 2 fra videregående skole."
+    }
+  },
+  {
+    "code": "KJM1700",
+    "title": "Miljø- og klimautfordringer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM1700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Kjemi 1 fra den videregående skole."
+    }
+  },
+  {
+    "code": "KJM2400",
+    "title": "Analytisk kjemi I",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2400/",
+    "prerequisiteText": "Godkjent laboratoriekurs i KJM1101 – Generell kjemi og laborstoriekurs i KJM1111 – Organisk kjemi I , eller tilsvarende emner. Av sikkerhetsmessige grunner er dette absolutte opptakskrav som ikke kan fravikes for studenter med 120 studiepoeng eller mer.\nFølgende emner må være bestått før første obligatorisk laboratorieundervisning i KJM2400:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1111",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:51:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi og KJM1111 – Organisk kjemi I , eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM2500",
+    "title": "Syntese og karakterisering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2500/",
+    "prerequisiteText": "KJM1101 – Generell kjemi eller tilsvarende.\nGodkjente laboratoriekurs i KJM1111 – Organisk kjemi I , og KJM1121 – Uorganisk kjemi\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM2500:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1111",
+      "KJM1121",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I , KJM1121 – Uorganisk kjemi , KJM1140 – Biokjemi 1 for kjemikere\nGodkjent laboratoriekurs i KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk og KJM2400 – Analytisk kjemi I"
+    }
+  },
+  {
+    "code": "KJM2601",
+    "title": "Fysikalsk kjemi II - kvantekjemi og spektroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM2601/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:51:49",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi eller MENA1001 – Materialer, energi og nanoteknologi\nKJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk\nIN-KJM1900 – Introduksjon i programmering for kjemikere\nMAT1050 – Matematikk for anvendelser 1 og MAT1060 – Matematikk for anvendelser 2\nFYS1001 – Innføring i fysikk"
+    }
+  },
+  {
+    "code": "KJM3000",
+    "title": "Anvendt spektroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3000/",
+    "prerequisiteText": "Ett av følgende emner: KJM1002 – Innføring i kjemi (nedlagt) , KJM1101 – Generell kjemi eller KJM1111 – Organisk kjemi I , eller tilsvarende emner.",
+    "prerequisiteCourses": [
+      "KJM1002",
+      "KJM1101",
+      "KJM1111"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:51:55",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I , KJM1121 – Uorganisk kjemi , KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk , KJM2400 – Analytisk kjemi I og KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi ."
+    }
+  },
+  {
+    "code": "KJM3010",
+    "title": "Prosjektoppgave I",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3010/",
+    "prerequisiteText": "For å få opptak til emnet, må du ha bestått minst 30 studiepoeng i kjemi og ha bestått laboratoriekurs i ett av emnene KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner. For prosjektoppgaver der en slik bakgrunn er relevant, kan emnene BIOS1130 – Biokjemi 1 , BIOS2910 – Molekylærbiologi eller tilsvarende emner, og MENA-emner som undervises på Kjemisk institutt regnes med blant de 30 studiepoengene. Studenter med annen lignende bakgrunn bes ta kontakt med studieadministrasjonen .\nI tillegg til instituttets eget HMS-kurs (se \"Undervisning\"), må følgende HMS-emner må være fullført før du begynner det eksperimentelle arbeidet i KJM3010:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1111",
+      "MENA1001",
+      "BIOS1130",
+      "BIOS2910",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3010/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:52",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM3020",
+    "title": "Prosjektoppgave II",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3020/",
+    "prerequisiteText": "For å få opptak til emnet, må du ha bestått minst 30 studiepoeng i kjemi og ha bestått laboratoriekurs i ett av emnene KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner. For prosjektoppgaver der en slik bakgrunn er relevant, kan emnene BIOS1130 – Biokjemi 1 , BIOS2910 – Molekylærbiologi eller tilsvarende emner, og MENA-emner som undervises på Kjemisk institutt regnes med blant de 30 studiepoengene. Studenter med annen lignende bakgrunn bes ta kontakt med studieadministrasjonen .\nI tillegg til instituttets eget HMS-kurs (se \"Undervisning\"), må følgende HMS-emner må være fullført før du begynner det eksperimentelle arbeidet i KJM3020:\nHMS0507 – Brannsikkerhet\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1111",
+      "MENA1001",
+      "BIOS1130",
+      "BIOS2910",
+      "HMS0507",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:53",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM3030",
+    "title": "Prosjektoppgave III",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3030/",
+    "prerequisiteText": "For å få opptak til emnet, må du ha bestått minst 30 studiepoeng i kjemi og ha bestått labkurs i ett av emnene KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner. For prosjektoppgaver der en slik bakgrunn er relevant, kan emnene BIOS1130 – Biokjemi 1 , BIOS2910 – Molekylærbiologi eller tilsvarende emner, og MENA-emner som undervises på Kjemisk institutt regnes med blant de 30 studiepoengene. Studenter med annen lignende bakgrunn bes ta kontakt med studieadministrasjonen .\nI tillegg til instituttets eget HMS-kurs (se \"Undervisning\"), må følgende HMS-emner må være fullført før du begynner det eksperimentelle arbeidet i KJM3030:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1111",
+      "MENA1001",
+      "BIOS1130",
+      "BIOS2910",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3030/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:54",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM3050",
+    "title": "Kjemididaktikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3050/",
+    "prerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt) , eller KJM1101 – Generell kjemi , eller tilsvarende.\nHMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0505 – El-sikkerhet og HMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1002",
+      "KJM1101",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:55",
+      "sourceOfferedTerms": "Vår og høst\nEmnet gis ikke vårsemesteret 2026.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I eller tilsvarende er sterkt anbefalt. Studenter som ikke har organisk kjemi, må regne med merarbeid."
+    }
+  },
+  {
+    "code": "KJM3110",
+    "title": "Elektrokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3110/",
+    "prerequisiteText": "KJM1101 – Generell kjemi , eller MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner.\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende HMS-kurs må være bestått før første obligatoriske laboratorieundervisning i KJM3110:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "MENA1001",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:55",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk"
+    }
+  },
+  {
+    "code": "KJM3121",
+    "title": "Uorganisk materialkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3121/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3121/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:52:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1121 – Uorganisk kjemi og enten KJM1101 – Generell kjemi eller MENA1001 – Materialer, energi og nanoteknologi"
+    }
+  },
+  {
+    "code": "KJM3200",
+    "title": "Organisk kjemi II",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3200/",
+    "prerequisiteText": "KJM1111 – Organisk kjemi I og KJM3000 – Anvendt spektroskopi , eller tilsvarende emner. Det er også mulig å ta KJM3000 – Anvendt spektroskopi samtidig med KJM3200. Av sikkerhetsmessige grunner er dette absolutte opptakskrav som ikke kan fravikes for studenter med 120 studiepoeng eller mer.\nFølgende emner må tas før første obligatorisk laboratorieundervisning i KJM3200:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet\nFor studenter som tar KJM3200 høsten 2015 eller senere gjelder at KJM3200 ikke kan inngå i grad før følgene emner er bestått:\nHMS0503 – Laboratoriesikkerhet eller MNHMS0010LS – Innføring i laboratoriesikkerhet (nedlagt) eller MNHMS0020LS – In-depth Laboratory Safety (nedlagt)\nHMS0505 – El-sikkerhet eller MNHMS0015ES – Innføring i el-sikkerhet (nedlagt)\nHMS0507 – Brannsikkerhet eller MNHMS0015 – Innføring i Helse, miljø og sikkerhet (HMS) (nedlagt)",
+    "prerequisiteCourses": [
+      "KJM1111",
+      "KJM3000",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507",
+      "MNHMS0010LS",
+      "MNHMS0020LS",
+      "MNHMS0015ES",
+      "MNHMS0015"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:52:52",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1121 – Uorganisk kjemi og KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk , eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM3310",
+    "title": "Fysikalsk kjemi III - Statistisk termodynamikk for kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:56",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk og KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi"
+    }
+  },
+  {
+    "code": "KJM3400",
+    "title": "Analytisk kjemi II - separasjonsmetoder",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3400/",
+    "prerequisiteText": "Du må ha godkjent laboratoriekurs i KJM2400 – Analytisk kjemi I eller tilsvarende emne. Av sikkerhetsmessige grunner er dette opptakskravet absolutt og kan ikke fravikes for studenter med 120 studiepoeng eller mer.\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM3400:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM2400",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3400/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:28:57",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , KJM1121 – Uorganisk kjemi , KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk og KJM1140 – Biokjemi 1 for kjemikere eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM3810",
+    "title": "Katalyse og industriell kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:10",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , KJM1121 – Uorganisk kjemi og KJM2600 – Fysikalsk kjemi II - kvantekjemi og spektroskopi (videreført) / KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi kan tas før eller samtidig med KJM3810 – Katalyse og industriell kjemi"
+    }
+  },
+  {
+    "code": "KJM3900",
+    "title": "Radioaktivitet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM3900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:15",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt) eller tilsvarende emner. Det anbefales å ikke ta emnet før tidligst i fjerde semester av bachelorstudiet."
+    }
+  },
+  {
+    "code": "KJM4050",
+    "title": "Kjemididaktikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4050/",
+    "prerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt) eller KJM1101 – Generell kjemi , eller tilsvarende.\nHMS0501 – Sikkerhet og fysisk miljø , HMS0502 – Utviklende læringsmiljø , HMS0503 – Laboratoriesikkerhet , HMS0505 – El-sikkerhet , og HMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1002",
+      "KJM1101",
+      "HMS0501",
+      "HMS0502",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:02",
+      "sourceOfferedTerms": "Vår og høst\nEmnet gis ikke vårsemesteret 2026.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I eller tilsvarende er sterkt anbefalt. Studenter som ikke har organisk kjemi, må regne med merarbeid."
+    }
+  },
+  {
+    "code": "KJM4110",
+    "title": "Elektrokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4110/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende HMS-kurs må være bestått før første obligatoriske laboratorieundervisning i KJM4110:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4110/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:04",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi , eller MENA1001 – Materialer, energi og nanoteknologi og KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM4121",
+    "title": "Uorganisk materialkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4121/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4121/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1121 – Uorganisk kjemi og enten KJM1101 – Generell kjemi eller MENA1001 – Materialer, energi og nanoteknologi"
+    }
+  },
+  {
+    "code": "KJM4310",
+    "title": "Fysikalsk kjemi III - Statistisk termodynamikk for kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:04",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk og KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi"
+    }
+  },
+  {
+    "code": "KJM4350",
+    "title": "Proteinkrystallografi",
+    "credits": 10,
+    "offeredTerms": [],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:05",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det er en fordel å ha noe kunnskap om proteiner og grunnlegende matematiske kunnskaper."
+    }
+  },
+  {
+    "code": "KJM4900",
+    "title": "Radioaktivitet",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4900/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM4900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:40",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt) eller tilsvarende"
+    }
+  },
+  {
+    "code": "KJM5050",
+    "title": "Kjemididaktikk i praksis",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5050/",
+    "prerequisiteText": "En av følgende emnekombinasjoner:\nPROF1015 – Profesjonsidentitet, læring og undervisning ,\nPROF3025 – Ledelse av elevers læring og\nPROF4045 – Tilrettelegging for elevers læring\neller\nPPU3310L – PPU del 1 av 2: Undervisning og læringsforløp (nedlagt) og\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\neller tilsvarende emnekombinasjoner.\nI tillegg kreves følgende disiplinære emner: Minimum 50 av 60 studiepoeng i lektorprogrammets 60 studiepoengs emnegruppe i kjemi (https://www.uio.no/studier/emnegrupper/uv/lekt/).\neller andre tilsvarende emner.\nFor å kunne delta på obligatorisk praksis er det et krav om at følgende emner må være bestått før undervisningen i KJM5050 starter:\nHMS0503 - Laboratoriesikkerhet\nHMS0505 - El-sikkerhet\nHMS0507 - Brannsikkerhet",
+    "prerequisiteCourses": [
+      "PROF1015",
+      "PROF3025",
+      "PROF4045",
+      "PPU3310L",
+      "PPU3220",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5050/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:44",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "KJM2400 – Analytisk kjemi I"
+    }
+  },
+  {
+    "code": "KJM5100",
+    "title": "Uorganisk materialsyntese",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:53:50",
+      "sourceOfferedTerms": "Høst\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi og KJM1121 – Uorganisk kjemi ."
+    }
+  },
+  {
+    "code": "KJM5120",
+    "title": "Defektkjemi og reaksjoner",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:06",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi , KJM1121 – Uorganisk kjemi , KJM3300 – Fysikalsk kjemi II (nedlagt) , KJM5110 – Uorganisk strukturkjemi (videreført) og MAT1100 – Kalkulus , eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM5140",
+    "title": "Chemistry of Battery Materials",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5140/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:53:58 PM",
+      "sourceOfferedTerms": "Autumn\nThe course may be cancelled if less than 5 students apply.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "One or more of KJM3110 – Electrochemistry , MENA3100 – Characterization of Materials and MENA3201 – Energy Materials or similar courses"
+    }
+  },
+  {
+    "code": "KJM5200",
+    "title": "Reaksjonsmekanismer i organisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:05",
+      "sourceOfferedTerms": "Hvert 4. semester fra høsten 2011.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I eller tilsvarende."
+    }
+  },
+  {
+    "code": "KJM5210",
+    "title": "Metallorganisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:10",
+      "sourceOfferedTerms": "Høst\nHvert fjerde semester fra høsten 2010. Undervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Ett eller flere av KJM3000 – Anvendt spektroskopi , KJM3200 – Organisk kjemi II , KJM3300 – Fysikalsk kjemi II (nedlagt) vil gi et bra utgangspunkt."
+    }
+  },
+  {
+    "code": "KJM5240",
+    "title": "Massespektrometri",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:07",
+      "sourceOfferedTerms": "Vår\nEmnet kan bli avlyst hvis færre enn fem studenter melder seg.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM5250",
+    "title": "Organisk NMR spektroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5250/",
+    "prerequisiteText": "KJM5280 – NMR spektroskopi",
+    "prerequisiteCourses": [
+      "KJM5280"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:26",
+      "sourceOfferedTerms": "Vår\nEmnet undervises annenhver vår.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3000 – Anvendt spektroskopi , i tillegg til praktisk kunnskap i tilegnelse av endimensjonale 1H- og 13C-NMR spektra med Bruker Avance instrumenter ved hjelp av programmet TopSpin 1.3."
+    }
+  },
+  {
+    "code": "KJM5280",
+    "title": "NMR spektroskopi",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5280/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:39",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3000 – Anvendt spektroskopi og KJM3200 – Organisk kjemi II"
+    }
+  },
+  {
+    "code": "KJM5310",
+    "title": "Biologiske makromolekylers struktur og funksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:46",
+      "sourceOfferedTerms": "Høst\nHøst semesteret. Fra 2025 vil kurset undervises bare i oddetallsår, som 2025- 2027 - 2029 osv. Det er ikke ennå avklart om emnet gis intensivt i 2025. Dette vil bli bestemt når undervisning planlegges.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , KJM1140 – Biokjemi 1 for kjemikere eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "KJM5320",
+    "title": "BIOCAT - Strukturbiologiske teknikker",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:07",
+      "sourceOfferedTerms": "Vår\nEmnet undervises annenhver vår fra 2018.\nEmnet undervises ikke våren 2026",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kunnskap om proteinstruktur (for eksempel fra KJM5310 – Biologiske makromolekylers struktur og funksjon / KJM9310 – Biologiske makromolekylers struktur og funksjon )"
+    }
+  },
+  {
+    "code": "KJM5500",
+    "title": "Overflate- og nanokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5500/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende HMS-kurs må være bestått før første obligatoriske laboratorieundervisning i KJM5500:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:15",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.\nEmnet avlyses våren 2026",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi og KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk , eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM5600",
+    "title": "Kvantekjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:22",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.\nEmnet skiftes undervisningssemester fra høst til vår fra høst 2024. Emnet tilbys på vår fra og med vår 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi , og kunnskaper tilsvarende minimum MAT1050 – Matematikk for anvendelser 1 og MAT1060 – Matematikk for anvendelser 2 i matematikk eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM5631",
+    "title": "Multi-skala molekylmodellering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5631/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5631/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:54",
+      "sourceOfferedTerms": "Høst\nEmnet blir ikke undervist høsten 2023.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi , KJM3300 – Fysikalsk kjemi II (nedlagt) , MAT1050 – Matematikk for anvendelser 1 , MAT1060 – Matematikk for anvendelser 2 , IN-KJM1900 – Introduksjon i programmering for kjemikere eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM5700",
+    "title": "Miljøkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:55",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3070 – Biogeokjemi (videreført)"
+    }
+  },
+  {
+    "code": "KJM5810",
+    "title": "Heterogen katalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:39",
+      "sourceOfferedTerms": "Vår\nUndervises hvert fjerde semester i partallsår.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3810 – Katalyse og industriell kjemi"
+    }
+  },
+  {
+    "code": "KJM5903",
+    "title": "Strålevern",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5903/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5903/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:47",
+      "sourceOfferedTerms": "Vår\nFra og med våren 2024 gis emnet om våren (ikke høst).",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emne:KJM3900 eller tilsvarende. Studenter som ikke møter forkunnskapskravet må regne med å investere omlag 2-3 studiepoeng arbeidsmengde for å tillegne seg nødvendig kunnskap.\nVi forventer at studentene har grunnleggende ferdigheter i laboratoriearbeid på et kjemi-laboratorium. Dette vil man typisk ha lært ved å følge 2-3 grunnleggende kjemikurs som inkluderer praktiske laboratorieøvelser."
+    }
+  },
+  {
+    "code": "KJM5912",
+    "title": "Radiokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5912/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5912/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:54:57",
+      "sourceOfferedTerms": "Høst\nEmnet er avlyst høsten 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet tar utgangspunkt i grunnleggende kunnskaper om radioaktivitet (slik du får ved å ta for eksempel emnet KJM3900 – Radioaktivitet ) og basiskunnskaper i kjemi (fra foreksempel grunnkurs i kjemi og kurs i uorganisk kjemi). Det er mulig å ta KJM3900 – Radioaktivitet parallelt med KJM5912, men det er anbefalt å ha tatt KJM3900 – Radioaktivitet på forhånd."
+    }
+  },
+  {
+    "code": "KJM5922",
+    "title": "Radiokjemiske måleteknikker",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5922/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5922/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:29:59",
+      "sourceOfferedTerms": "Vår\nEmnet er avlyst våren 2025.\nEmnet er avlyst våren 2026",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3900 – Radioaktivitet\nKJM5912 – Radiokjemi"
+    }
+  },
+  {
+    "code": "KJM5930",
+    "title": "Kjemi. Masteroppgave",
+    "credits": 30,
+    "offeredTerms": [],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5930/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5930/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:30:08",
+      "sourceOfferedTerms": null,
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM5930L",
+    "title": "Masteroppgave i kjemi, Lektorprogrammet",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5930L/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5930L/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:30:14",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM5960",
+    "title": "Kjemi. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:30:25",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM9100",
+    "title": "Uorganisk materialsyntese",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:00",
+      "sourceOfferedTerms": "Høst\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1100 – Generell kjemi (videreført) og KJM1120 – Uorganisk kjemi (videreført) eller tilsvarende emner"
+    }
+  },
+  {
+    "code": "KJM9120",
+    "title": "Defektkjemi og reaksjoner",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9120/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:30:40",
+      "sourceOfferedTerms": "Vår\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi , KJM1121 – Uorganisk kjemi , KJM-MENA3300 – Fysikalsk kjemi III - makromolekyler, kondenserte faser og dynamikk (videreført) , KJM-MENA5110 – Uorganisk strukturkjemi og MAT1100 – Kalkulus , eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM9140",
+    "title": "Chemistry of Battery Materials",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9140/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9140/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:55:00 PM",
+      "sourceOfferedTerms": "Autumn\nThe course may be cancelled if less than 5 students apply.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "one or more of KJM3110 – Electrochemistry , MENA3100 – Characterization of Materials and MENA3201 – Energy Materials or similar courses"
+    }
+  },
+  {
+    "code": "KJM9200",
+    "title": "Reaksjonsmekanismer i organisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:02",
+      "sourceOfferedTerms": "Hvert 4. semester fra høsten 2011.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1111 – Organisk kjemi I eller tilsvarende."
+    }
+  },
+  {
+    "code": "KJM9210",
+    "title": "Metallorganisk kjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9210/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9210/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:03",
+      "sourceOfferedTerms": "Høst\nHvert fjerde semester fra høsten 2010. Undervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Ett eller flere av KJM3000 – Anvendt spektroskopi , KJM3200 – Organisk kjemi II , KJM3300 – Fysikalsk kjemi II (nedlagt) vil gi et bra utgangspunkt."
+    }
+  },
+  {
+    "code": "KJM9240",
+    "title": "Massespektrometri",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9240/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:04",
+      "sourceOfferedTerms": "Vår\nEmnet kan bli avlyst hvis færre enn fem studenter melder seg.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "KJM9250",
+    "title": "Organisk NMR spektroskopi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9250/",
+    "prerequisiteText": "KJM5280 – NMR spektroskopi",
+    "prerequisiteCourses": [
+      "KJM5280"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9250/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:09",
+      "sourceOfferedTerms": "Vår og høst\nEmnet undervises annenhver vår.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg til emnet sammen med KJM5250.\nUndervisning tilbys siste gang\nvår 2025",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3000 – Anvendt spektroskopi , i tillegg til praktisk kunnskap i tilegnelse av endimensjonale 1H- og 13C-NMR spektramed Bruker Avance instrumenter ved hjelp av programmet TopSpin 1.3"
+    }
+  },
+  {
+    "code": "KJM9280",
+    "title": "NMR spektroskopi",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9280/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9280/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3000 – Anvendt spektroskopi og KJM3200 – Organisk kjemi II"
+    }
+  },
+  {
+    "code": "KJM9310",
+    "title": "Biologiske makromolekylers struktur og funksjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9310/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9310/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:29",
+      "sourceOfferedTerms": "Høst\nHøst semesteret. Fra 2025 vil kurset undervises bare i oddetallsår, som 2025- 2027 - 2029 osv. Det er ikke ennå avklart om emnet gis intensivt i 2025. Dette vil bli bestemt når undervisning planlegges.\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi , KJM1111 – Organisk kjemi I , KJM1140 – Biokjemi 1 for kjemikere eller tilsvarende kunnskaper."
+    }
+  },
+  {
+    "code": "KJM9320",
+    "title": "BIOCAT - Strukturbiologiske teknikker",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9320/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9320/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:05",
+      "sourceOfferedTerms": "Vår\nAnnenhver vår fra 2018.\nEmnet undervises ikke våren 2026",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Kunnskap om proteinstruktur (for eksempel fra KJM5310 – Biologiske makromolekylers struktur og funksjon eller KJM9310 – Biologiske makromolekylers struktur og funksjon )"
+    }
+  },
+  {
+    "code": "KJM9350",
+    "title": "Proteinkrystallografi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9350/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9350/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:05",
+      "sourceOfferedTerms": "Vår og høst\nHvert 4. semester. Emnet endrer undervisningssemster fra vår til høst, og tilbys annenhver høst fra og med høsten 2026\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "Det er en fordel å ha noe kunnskap om proteiner og grunnlegende matematiske kunnskaper."
+    }
+  },
+  {
+    "code": "KJM9500",
+    "title": "Overflate- og nanokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9500/",
+    "prerequisiteText": "For å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende HMS-kurs må være bestått før første obligatoriske laboratorieundervisning i KJM5500:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "KJM5500",
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:14",
+      "sourceOfferedTerms": "Vår\nEmnet kan bli avlyst hvis færre enn fem studenter melder seg til undervisningen. Det vil likevel være mulig å gjennomføre obligatoriske aktiviteter og eksamen for studenter som ønsker det.\nEmnet er avlyses våren 2026",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1101 – Generell kjemi og KJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk eller tilsvarende emner"
+    }
+  },
+  {
+    "code": "KJM9600",
+    "title": "Kvantekjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:20",
+      "sourceOfferedTerms": "Vår\nVår\nEmnet skiftes undervisningssemester fra høst til vår fra høst 2024. Emnet tilbys første gang på vår fra og med vår 2025\nUndervisningen kan bli avlyst hvis færre enn 5 studenter melder seg. Det vil likevel være mulig å gjennomføre obligatoriske aktiivteter og eksamen for studenter som ønsker det.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM2600 – Fysikalsk kjemi II - kvantekjemi og spektroskopi (videreført) , KJM3600 – Molekylmodellering (videreført) og kunnskaper tilsvarende minimum MAT1001 – Matematikk 1 (nedlagt) i matematikk eller tilsvarende emner"
+    }
+  },
+  {
+    "code": "KJM9620",
+    "title": "Temaer fra kvantekjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9620/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9620/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Emnet vil undervises hvert fjerde semester. Det er ikke planlagt undervisning våren 2012",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM2600 – Fysikalsk kjemi II - kvantekjemi og spektroskopi (videreført) og KJM5600 – Kvantekjemi eller tilsvarende. Matematiske kunnskaper svarende til MAT1100 – Kalkulus , MAT1110 – Kalkulus og lineær algebra og MAT1120 – Lineær algebra ."
+    }
+  },
+  {
+    "code": "KJM9631",
+    "title": "Multi-skala molekylmodellering",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9631/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9631/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:43",
+      "sourceOfferedTerms": "Høst\nEmnet blir ikke undervist høsten 2023.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "KJM2601 – Fysikalsk kjemi II - kvantekjemi og spektroskopi , KJM3300 – Fysikalsk kjemi II (nedlagt) , MAT1050 – Matematikk for anvendelser 1 , MAT1060 – Matematikk for anvendelser 2 , IN-KJM1900 – Introduksjon i programmering for kjemikere eller tilsvarende emner."
+    }
+  },
+  {
+    "code": "KJM9700",
+    "title": "Miljøkjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9700/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9700/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:44",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3070 – Biogeokjemi (videreført)"
+    }
+  },
+  {
+    "code": "KJM9810",
+    "title": "Heterogen katalyse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9810/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9810/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:39",
+      "sourceOfferedTerms": "Vår\nUndervises hvert fjerde semester i partallsår.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3810 – Katalyse og industriell kjemi"
+    }
+  },
+  {
+    "code": "KJM9903",
+    "title": "Strålevern",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9903/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9903/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:31:47",
+      "sourceOfferedTerms": "Vår\nFra og med våren 2024 gis emnet om våren (ikke høst).",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emne:KJM3900 eller tilsvarende. Studenter som ikke møter forkunnskapskravet må regne med å investere omlag 2-3 studiepoeng arbeidsmengde for å tillegne seg nødvendig kunnskap.\nVi forventer at studentene har grunnleggende ferdigheter i laboratoriearbeid på et kjemi-laboratorium. Dette vil man typisk ha lært ved å følge 2-3 grunnleggende kjemikurs som inkluderer praktiske laboratorieøvelser."
+    }
+  },
+  {
+    "code": "KJM9912",
+    "title": "Radiokjemi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9912/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9912/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:45",
+      "sourceOfferedTerms": "Høst\nEmnet er avlyst høsten 2023",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "Emnet tar utgangspunkt i grunnleggende kunnskaper om radioaktivitet (slik du får ved å ta for eksempel emnet KJM3900 – Radioaktivitet ) og basiskunnskaper i kjemi. Det er mulig å ta KJM3900 – Radioaktivitet parallelt med KJM5912, men det er anbefalt å ha tatt KJM3900 – Radioaktivitet på forhånd."
+    }
+  },
+  {
+    "code": "KJM9922",
+    "title": "Radiokjemiske måleteknikker",
+    "credits": 5,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Ph.d.",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9922/",
+    "prerequisiteText": "KJM5903 – Strålevern\nFor å kunne delta på obligatorisk laboratorieundervisning er det et krav at følgende emner må være bestått før første obligatoriske laboratorieundervisning i KJM9922:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM5903",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/KJM9922/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:00",
+      "sourceOfferedTerms": "Vår\nEmnet er avlyst våren 2025.\nEmnet er avlyst våren 2026.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM3900 – Radioaktivitet\nKJM5912 – Radiokjemi"
+    }
+  },
+  {
+    "code": "MENA1001",
+    "title": "Materialer, energi og nanoteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA1001/",
+    "prerequisiteText": "Følgende emner må være bestått før første obligatoriske laboratorieundervisning i MENA1001:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0503",
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:47",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Fysikk 2 og Kjemi 2 fra videregående skole."
+    }
+  },
+  {
+    "code": "MENA2000",
+    "title": "Faste materialers fundamentale oppbygning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi eller KJM1101 – Generell kjemi\nFYS1120 – Elektromagnetisme\nMAT1100 – Kalkulus\nMAT1120 – Lineær algebra\nKJM1121 – Uorganisk kjemi"
+    }
+  },
+  {
+    "code": "MENA3001",
+    "title": "Funksjonelle materialer",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 17:55:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nKJM1121 – Uorganisk kjemi\nFYS1120 – Elektromagnetisme\nFYS2140 – Kvantefysikk\nMENA2000 – Faste materialers fundamentale oppbygning"
+    }
+  },
+  {
+    "code": "MENA3020",
+    "title": "Prosjektoppgave II",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3020/",
+    "prerequisiteText": "For å få opptak til emnet, må du ha bestått minst 30 studiepoeng i kjemi eller fysikk. For en oppgave i kjemi må du ha bestått laboratoriekurs i ett av emnene KJM1101 – Generell kjemi , KJM1121 – Uorganisk kjemi , MENA1001 – Materialer, energi og nanoteknologi eller tilsvarende emner. Emner med MENA-kode kan inngå i de 30 studiepoengene. Studenter med annen lignende bakgrunn bes ta kontakt med studieadministrasjonen .\nI tillegg til instituttets eget HMS-kurs (se \"Undervisning\"), må følgende HMS-emner må være bestått før du begynner det eksperimentelle arbeidet i MENA3020:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "KJM1101",
+      "KJM1121",
+      "MENA1001",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3020/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:21",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MENA3100",
+    "title": "Materialkarakterisering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3100/",
+    "prerequisiteText": "Følgende HMS-emne må være tatt tidligere enn MENA3100 eller senest samme semester:\nHMS0505 – El-sikkerhet",
+    "prerequisiteCourses": [
+      "HMS0505"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:48",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nMENA3001 – Funksjonelle materialer\nKJM1121 – Uorganisk kjemi\nKJM1130 – Fysikalsk kjemi I - termodynamikk og kinetikk\nFYS2140 – Kvantefysikk\nKJM2400 – Analytisk kjemi I"
+    }
+  },
+  {
+    "code": "MENA3201",
+    "title": "Energimaterialer",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3201/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA3201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:48",
+      "sourceOfferedTerms": "Vår\nEmnet undervises ikke våren 2026.",
+      "sourceLanguage": "Engelsk",
+      "recommendedPrerequisiteText": "MENA1001 – Materialer, energi og nanoteknologi\nKJM1121 – Uorganisk kjemi\nKJM3120 – Uorganisk materialkjemi (videreført)\nMENA3001 – Funksjonelle materialer"
+    }
+  },
+  {
+    "code": "MENA3300",
+    "title": "Nanoteknologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian and English",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3300/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA3300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:24",
+      "sourceOfferedTerms": "Vår\nEmnet undervises hvert vårsemester fra og med våren 2020.",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": "KJM1002 – Innføring i kjemi (nedlagt)\nFYS1001 – Innføring i fysikk\nMENA1001 – Materialer, energi og nanoteknologi\neller tilsvarende."
+    }
+  },
+  {
+    "code": "MENA5020",
+    "title": "Nanochemistry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA5020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA5020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:55:57 PM",
+      "sourceOfferedTerms": "Autumn\nTeaching may be canceled if less than 5 students apply. It will still be possible for students to complete compulsory activities and exams if they wish.\nThe teaching is not offered in Fall 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Bachelor degree in MNB-MENA or Fornybar energi og nanoteknologi (bachelor) from the University of Oslo, or an equivalent background knowledge."
+    }
+  },
+  {
+    "code": "MENA5960",
+    "title": "Materialer, energi og nanoteknologi. Masteroppgave",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian and English",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA5960/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA5960/index.html",
+      "sourceUpdatedAt": "21. mars 2026 03:59:52",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk (engelsk på forespørsel)",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MENA9020",
+    "title": "Nanochemistry",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA9020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/MENA9020/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:56:01 PM",
+      "sourceOfferedTerms": "Autumn\nTeaching may be canceled if less than 5 students apply. It will still be possible for students to complete compulsory activities and exams if they wish.\nThe teaching is not offered in Fall 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A Bachelor degree in MENA or MENT from Univeristy of Oslo, or an equivalent background knowledge."
+    }
+  },
+  {
+    "code": "MENA9510",
+    "title": "Advanced Characterization Methods",
+    "credits": 5,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA9510/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/fys/MENA9510/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 8:32:42 PM",
+      "sourceOfferedTerms": "Autumn\nIf the course is offered, a minimum of four students is required for ordinary lectures to take place. If less than four students participate, an exam will be given, but one should not expect ordinary teaching.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "FYS3400 – Condensed Matter Physics and Quantum Materials\nOR MENA3001 – Functional Materials\nOR similar courses from other universities\nStudents are expected to have good knowledge of condensed matter physics and/or solid state chemistry."
+    }
+  },
+  {
+    "code": "MNKOM3000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM3000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:19",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM4000",
+    "title": "Formidling og vitenskapsjournalistikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/",
+    "prerequisiteText": "Det kreves minimum 120 studiepoeng, hvorav minst 100 studiepoeng i realfag.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM4000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:38:20",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "EXPHIL03 – Examen philosophicum"
+    }
+  },
+  {
+    "code": "MNKOM9010",
+    "title": "Communicating Science",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNKOM9010/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNPED9000",
+    "title": "Teaching in STEM",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNPED9000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:20 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "MNSES9100",
+    "title": "Science, Ethics and Society",
+    "credits": 5,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "PhD",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/mn/MNSES9100/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:38:21 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NAT2000",
+    "title": "Naturfag i praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Chemistry",
+    "officialUrl": "https://www.uio.no/studier/emner/matnat/kjemi/NAT2000/",
+    "prerequisiteText": "Studentene må ha minst ett av følgende emner eller tilsvarende emner fra Universitetet i Oslo eller andre læresteder:\nFYS1001 – Innføring i fysikk ( FYS1100 – Mekanikk og modellering og FYS1120 – Elektromagnetisme vil i dette tilfellet regnes som tilsvarende).\nKJM1101 – Generell kjemi eller KJM1003 – Kjemi for biologer\nBIOS1110 – Celle- og molekylærbiologi eller BIOS1150 – Biologisk mangfold\nHelse, miljø og sikkerhet:\nHMS0503 – Laboratoriesikkerhet\nHMS0505 – El-sikkerhet\nHMS0507 – Brannsikkerhet",
+    "prerequisiteCourses": [
+      "FYS1001",
+      "FYS1100",
+      "FYS1120",
+      "KJM1101",
+      "KJM1003",
+      "BIOS1110",
+      "BIOS1150",
+      "HMS0503",
+      "HMS0505",
+      "HMS0507"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/matnat/kjemi/NAT2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:32:24",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Opptak til emnet krever ett av emnene listet opp under obligatoriske forkunnskaper. De resterende emnene er anbefalte. Hvis du mangler bakgrunn fra ett eller flere av emnene over (fysikk, kjemi eller ett av de to biologiemnene), må du regne med noe merarbeid da det kan være nødvendig å friske opp eller lære seg fagstoff parallelt med at du lærer hvordan man kan undervise det."
+    }
+  }
+]

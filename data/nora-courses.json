@@ -1,0 +1,123 @@
+[
+  {
+    "code": "NORA0110",
+    "title": "Elementary Norwegian Level I",
+    "credits": 15,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Norwegian for Academics",
+    "officialUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0110/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0110/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:22 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "Norwegian",
+      "recommendedPrerequisiteText": "No previous knowledge of Norwegian language is necessary for this beginner's course."
+    }
+  },
+  {
+    "code": "NORA0120",
+    "title": "Intermediate Norwegian Level 2",
+    "credits": 15,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Norwegian for Academics",
+    "officialUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0120/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0120/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 10:41:27 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "Norwegian",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NORA0130",
+    "title": "Mellomkurs i norsk, trinn 3",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Norwegian for Academics",
+    "officialUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0130/",
+    "prerequisiteText": "Søkere må fylle kravene til generell studiekompetanse i Norge (unntatt i norsk) og fremlegge dokumentasjon . Det forutsettes at søkeren har bestått enten NORA trinn II, alle fire deler av Norskprøven på nivå B1, eller et kurs ekvivalent med NORA0120 ved et akkreditert universitet. Studenter som har tatt et kurs ekvivalent til NORA0120 ved et annet institutt eller fakultet ved UiO som opererer med karakterskala, må ha minst karakter D på alle deler av eksamen for å få opptak til NORA0130.\nStudenter som ikke kan dokumentere at de er på B1-nivå, vil bli flyttet til trinn II eller trinn I.",
+    "prerequisiteCourses": [
+      "NORA0120"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0130/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:33",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NORA0130D",
+    "title": "Mellomkurs i norsk, trinn 3",
+    "credits": 20,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Norwegian for Academics",
+    "officialUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0130D/",
+    "prerequisiteText": "Søkere må fylle kravene til generell studiekompetanse i Norge (unntatt i norsk) og fremlegge dokumentasjon . Det forutsettes at søkeren har bestått enten NORA trinn II, alle fire deler av Norskprøven på nivå B1, eller et kurs ekvivalent til NORA0120 ved et akkreditert universitet. Studenter som har tatt et kurs ekvivalent til NORA0120 ved et annet institutt eller fakultet ved UiO som gir karakterer må ha minst en D på alle deler av eksamen for å få opptak til NORA0130D.\nStudenter som ikke kan dokumentere at de er på B1-nivå når de søker seg til NORA0103D blir trukket fra faget. Studenter som søker seg inn til NORA0130D kan ikke flyttes til NORA0110 eller NORA0120.",
+    "prerequisiteCourses": [
+      "NORA0120",
+      "NORA0103D",
+      "NORA0110"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0130D/index.html",
+      "sourceUpdatedAt": "21. mars 2026 22:41:35",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "NORA0140",
+    "title": "Norsk for viderekomne, trinn IV",
+    "credits": 15,
+    "offeredTerms": [],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Norwegian for Academics",
+    "officialUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0140/",
+    "prerequisiteText": "Søkere må fylle kravene til generell studiekompetanse i Norge og fremlegge dokumentasjon . Det forutsettes at søkeren har bestått NORA0130 , ISSN0130 eller tilsvarende med karakteren \"D\" eller bedre på både muntlig og skriftlig eksamen.\nVi gjør oppmerksom på at kurset vil være svært krevende for studenter som har lavere karakter enn B, og at man ikke kan forvente å få tilrettelagt undervisning om man skulle mangle forutsatt kunnskap.\nHvis du ikke har tatt norskkurs ved et norsk universitet, må du ha minimum B2 fra Norskprøven, eller «bestått» på Bergenstesten. Hvis disse ikke blir sendt inn, kan du ikke følge kurset.",
+    "prerequisiteCourses": [
+      "NORA0130",
+      "ISSN0130"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/iss/nora-sommerskolen/NORA0140/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Se info om sommerkurset NORA0140IN .",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

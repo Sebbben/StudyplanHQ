@@ -1,0 +1,3032 @@
+[
+  {
+    "code": "LES4200",
+    "title": "Religiøst og livssynsbasert lederskap i en norsk kontekst",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:28",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4201",
+    "title": "Buddhist Care Practices",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4201/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4201/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:29 PM",
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "No basic knowledge of Buddhism is required, but you should have received or read an introduction to Buddhism within the context of the major world religions."
+    }
+  },
+  {
+    "code": "LES4240",
+    "title": "Praksis og praksisfortolkning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4240/",
+    "prerequisiteText": "LES4600 – Dialog og profesjonelle samtaler i et tros- og livssynspluralt samfunn",
+    "prerequisiteCourses": [
+      "LES4600"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4240/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:59:27",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4300",
+    "title": "Religion, livssyn og meningsskaping",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4300/",
+    "prerequisiteText": "LES4600 – Dialog og profesjonelle samtaler i et tros- og livssynspluralt samfunn\nLES4230 – Praksis og praksisfortolkning (nedlagt) (20 studiepoeng) eller både LES4210 – Veiledet praksis i institusjon (nedlagt) og LES4220 – Tolket praksis (nedlagt)",
+    "prerequisiteCourses": [
+      "LES4600",
+      "LES4230",
+      "LES4210",
+      "LES4220"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4300/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4302",
+    "title": "Masteroppgave lederskap, etikk og samtalepraksis",
+    "credits": 30,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4302/",
+    "prerequisiteText": "LES4600 - Dialog og profesjonelle samtaler i et tros- og livssynspluralt samfunn\nLES4230 - Praksis og praksisfortolkning (20 studiepoeng) eller både LES4210 - Veiledet praksis i institusjon og LES4220 - Tolket praksis",
+    "prerequisiteCourses": [
+      "LES4600",
+      "LES4230",
+      "LES4210",
+      "LES4220"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4302/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:30",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4330",
+    "title": "Filosofiske, etiske og eksistensielle dialoger",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4330/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4330/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:31",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4360",
+    "title": "Islamsk omsorgarbeid",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4360/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4360/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:31",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "LES4600",
+    "title": "Dialog og profesjonelle samtaler i et tros- og livssynspluralt samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4600/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/LES4600/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:32",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "REDI4002",
+    "title": "Practices and Receptions of Sacred Scriptures",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/REDI4002/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/REDI4002/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 4:59:40 AM",
+      "sourceOfferedTerms": "Autumn 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "REDI4302",
+    "title": "Master Thesis in Religion and Diversity: Conflict and Coexistence",
+    "credits": 60,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/REDI4302/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/REDI4302/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:33 PM",
+      "sourceOfferedTerms": "Autumn 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA1001",
+    "title": "Religion i det offentlige rom - makt, media, politikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA1001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:33",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA1002",
+    "title": "Islam, kristendom og vesten: historisk og teologisk perspektiv",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA1002/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA1002/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:59:45",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA2000",
+    "title": "Islam, ritualer og estetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2000/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:34",
+      "sourceOfferedTerms": "Høst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA2200",
+    "title": "Sentrale begreper i islam",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:34",
+      "sourceOfferedTerms": "Høst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA2201",
+    "title": "Praksis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2201/",
+    "prerequisiteText": "RESA1001 – Religion i det offentlige rom - makt, media, politikk\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTFF1004 – Hellige tekster\nRESA1002 – Islam, kristendom og vesten: historisk og teologisk perspektiv eller RESA2001 – Islam, kristendom og vesten (nedlagt)\nbestått minst 20 studiepoeng av 40-gruppen godkjent som del av studieprogrammet religion og samfunn\nJevnfør avsnitt om opptak og adgangsregulering med bl.a. krav om C-snitt på emner.",
+    "prerequisiteCourses": [
+      "RESA1001",
+      "TFF1002",
+      "TFF1003",
+      "TFF1004",
+      "RESA1002",
+      "RESA2001"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:35",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA2205",
+    "title": "Sharia",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2205/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2205/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:59:51",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Grunnleggende kunnskap om begrepsapparat og historie knyttet til islam er anbefalt."
+    }
+  },
+  {
+    "code": "RESA2223",
+    "title": "Religion og avkolonisering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2223/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA2223/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:36",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA3221",
+    "title": "What the Qur'an Says: Translation, Interpretation and Society",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA3221/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA3221/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:38 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA3900",
+    "title": "Bacheloroppgave i religion og samfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA3900/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTFF1004 – Hellige tekster\nTFF2003 – Gender Perspectives on Religion and Theology eller TFF3002 – Kjønnsperspektiv på religion og teologi (nedlagt)\nTFF3005 – Bacheloroppgave: metodeseminar\nRESA1001 – Religion i det offentlige rom - makt, media, politikk\nRESA1002 – Islam, kristendom og vesten: historisk og teologisk perspektiv eller RESA2001 – Islam, kristendom og vesten (nedlagt)",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TFF1004",
+      "TFF2003",
+      "TFF3002",
+      "TFF3005",
+      "RESA1001",
+      "RESA1002",
+      "RESA2001"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA3900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:59:56",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4101",
+    "title": "Samtidsreligion",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4101/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4101/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:38",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4203",
+    "title": "Moderne religionskritikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4203/",
+    "prerequisiteText": "Bachelorgrad i religionsstudier, kristendomsstudier eller kultur- og idéstudier med fordypning i religionshistorie eller kristendomskunnskap, eller tilsvarende.",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4203/index.html",
+      "sourceUpdatedAt": "21. mars 2026 04:59:58",
+      "sourceOfferedTerms": "Høst 2024\nHøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4211",
+    "title": "Islamsk teologi og filosofi: klassiske og moderne eksempler",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Dansk",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4211/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4211/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2022",
+      "sourceLanguage": "Dansk",
+      "recommendedPrerequisiteText": "Studentene bør være fortrolige med islamske grunnbegreper og ha elementær kjennskap til islamsk teologi og filosofi."
+    }
+  },
+  {
+    "code": "RESA4212",
+    "title": "Islamsk mystikk i komparativt perspektiv",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Dansk",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4212/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4212/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2023",
+      "sourceLanguage": "Dansk",
+      "recommendedPrerequisiteText": "Studentene bør være fortrolige med islamske grunnbegreper og ha elementær kjennskap til islams, kristendommens og jødedommens historie"
+    }
+  },
+  {
+    "code": "RESA4213",
+    "title": "Islamsk etikk i et komparativt perspektiv",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4213/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4213/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2013",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4215",
+    "title": "Islamsk sosialetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Dansk",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4215/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4215/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2020",
+      "sourceLanguage": "Dansk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4217",
+    "title": "Koranlesning",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4217/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4217/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2020",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Studentene bør være fortrolige med islamske grunnbegreper og ha elementær kjennskap til islams historie og til Koranen.\nKurset forutsetter ikke språkferdigheter i arabisk, men de studentene som har slike ferdigheter kan få anledning til å arbeide med arabiskspråklige kilder."
+    }
+  },
+  {
+    "code": "RESA4220",
+    "title": "Islam, Gender and Sexuality",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4220/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4221",
+    "title": "What the Qur'an Says: Translation, Interpretation and Society",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4221/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4221/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:39 PM",
+      "sourceOfferedTerms": "Autumn 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4222",
+    "title": "Democracy, Religion and Cosmopolitics",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4222/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4222/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2023",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4223",
+    "title": "Religion og avkolonisering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4223/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4223/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:41",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4250",
+    "title": "Muhammad og hans arv",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4250/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4250/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Studentene bør være fortrolige med islamske grunnbegreper og ha elementær kjennskap til islams historie."
+    }
+  },
+  {
+    "code": "RESA4302",
+    "title": "Masteroppgave religion og samfunn",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4302/",
+    "prerequisiteText": "RESA4102 – Theory and Method in the Study of Religion, Society and Diversity (nedlagt) eller TFF4005 – Theory and Method in the Study of Theology and Religion",
+    "prerequisiteCourses": [
+      "RESA4102",
+      "TFF4005"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4302/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:41",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RESA4303",
+    "title": "Masteroppgave religion og samfunn",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4303/",
+    "prerequisiteText": "PPU3210 – PPU del 1 av 2: Undervisning og læringsforløp\nPPU3220 – PPU del 2 av 2: Vurdering og tilpasset opplæring\nTFF4005 – Theory and Method in the Study of Theology and Religion",
+    "prerequisiteCourses": [
+      "PPU3210",
+      "PPU3220",
+      "TFF4005"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RESA4303/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:02",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RRE4000",
+    "title": "Interreligious Relations: Defining Moments, Current Encounters",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4000/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4000/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:44 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RRE4205",
+    "title": "The three religions in contemporary perspective",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4205/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4205/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2017",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RRE4206",
+    "title": "Ritual in Early Judaism, Christianity and Islam",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4206/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4206/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:45 PM",
+      "sourceOfferedTerms": "Spring 2025",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "RRE4302",
+    "title": "Master Thesis in Religious Roots of Europe",
+    "credits": 40,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4302/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/RRE4302/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:25:45 PM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL1003",
+    "title": "Bibelhebraisk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1003/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:46",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL1004",
+    "title": "Hellenistisk gresk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1004/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1004/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:46",
+      "sourceOfferedTerms": "Høst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL1100",
+    "title": "Introduksjon til Bibelen: tekster, lesninger og teologier",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1100/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1100/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:47",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL1200",
+    "title": "Teologi, filosofi og bekjennelse",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1200/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL1200/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:47",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL2003",
+    "title": "Oldkirkens historie",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2003/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:48",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TFF1001 – Kristendommens historie\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse"
+    }
+  },
+  {
+    "code": "TEOL2004",
+    "title": "Martin Luther og 1500-tallets teologiske stridigheter",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2004/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2004/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:15",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie"
+    }
+  },
+  {
+    "code": "TEOL2005",
+    "title": "Middelalderens teologi og trospraksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2005/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2005/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:17",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Fullført første studieår av studieprogrammet."
+    }
+  },
+  {
+    "code": "TEOL2103",
+    "title": "Økoteologi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2103/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2103/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:18",
+      "sourceOfferedTerms": "Høst\nHøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL2503",
+    "title": "Det nye testamentet og homiletikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2503/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2503/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:22",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL2504",
+    "title": "Kirkens ritualer og roller med menighetspraksis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2504/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL2504/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:51",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL3003",
+    "title": "Introduksjon til tolkning av hebraiske bibeltekster",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3003/",
+    "prerequisiteText": "TEOL1003 – Bibelhebraisk",
+    "prerequisiteCourses": [
+      "TEOL1003"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:52",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier"
+    }
+  },
+  {
+    "code": "TEOL3004",
+    "title": "Introduksjon til NT-eksegese",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3004/",
+    "prerequisiteText": "TEOL1004 – Hellenistisk gresk",
+    "prerequisiteCourses": [
+      "TEOL1004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3004/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:53",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier"
+    }
+  },
+  {
+    "code": "TEOL3106",
+    "title": "Religionsfilosofi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3106/",
+    "prerequisiteText": "TEOL1200 – Teologi, filosofi og bekjennelse\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTFF1003 – Etikk og religion\nTFF1001 – Kristendommens historie",
+    "prerequisiteCourses": [
+      "TEOL1200",
+      "TEOL1100",
+      "TFF1003",
+      "TFF1001"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3106/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:27",
+      "sourceOfferedTerms": "Høst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter"
+    }
+  },
+  {
+    "code": "TEOL3151",
+    "title": "Tro på stedet: Solidaritet i flerkulturelle lokalsamfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3151/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3151/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:54",
+      "sourceOfferedTerms": "Høst 2023\nUndervisning tilbys siste gang\nhøst 2023",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL3152",
+    "title": "Jesu lignelser og deres mangfoldige resepsjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3152/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3152/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2023",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL3154",
+    "title": "Pilegrim i Europa før og nå",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3154/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3154/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL3155",
+    "title": "Teologi og estetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3155/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3155/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:55",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL3900",
+    "title": "Bacheloroppgave i teologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3900/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTFF2003 – Gender Perspectives on Religion and Theology eller TFF3002 – Kjønnsperspektiv på religion og teologi (nedlagt)\nTFF3005 – Bacheloroppgave: metodeseminar\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TFF2003",
+      "TFF3002",
+      "TFF3005",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL3900/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:32",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4002",
+    "title": "Christian Ethics in a Changing World",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4002/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4002/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:00:34 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4003",
+    "title": "Religionsmøte og religionsteologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4003/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3106 – Religionsfilosofi\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, er innfridd ved opptaksgrunnlaget til masterprogrammet.",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3106"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:55",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4004",
+    "title": "Historiske perspektiv på norsk og nordisk protestantisme",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4004/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, er innfridd ved opptaksgrunnlaget til masterprogrammet.",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4004/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:38",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4012",
+    "title": "Sjelesorg med institusjonspraksis",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4012/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nenten både TEOL2503 – Det nye testamentet og homiletikk og TEOL2504 – Kirkens ritualer og roller med menighetspraksis eller både TEOL2501 – Menighetspraksis og religionspedagogikk (nedlagt) og TEOL2502 – Pastoralteologi og liturgikk (nedlagt) eller TEOL2500 – Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt)\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på ettårig praktisk-teologisk utdanning og på masterprogrammet i teologi og pastoral praksis er innfridd ved opptaksgrunnlaget til studieprogrammet og følgende 20 studiepoeng i praktisk-teologisk utdanning:\nenten både TEOL2503/ TEOL4028 Det nye testamentet og homiletikk og TEOL2504/ TEOL4029 Kirkens ritualer og roller med menighetspraksis eller både TEOL2501/ 4026 Menighetspraksis og religionspedagogikk og TEOL2502/ TEOL4027 Pastoralteologi og liturgikk eller TEOL2500/ TEOL4025 Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt) .",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL2503",
+      "TEOL2504",
+      "TEOL2501",
+      "TEOL2502",
+      "TEOL2500",
+      "TEOL4028",
+      "TEOL4029",
+      "TEOL4027",
+      "TEOL4025"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4012/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:40",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4021",
+    "title": "Ledelse, kirkerett og pastoralteologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4021/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1003 – Bibelhebraisk\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nenten både TEOL2503 – Det nye testamentet og homiletikk og TEOL2504 – Kirkens ritualer og roller med menighetspraksis eller både TEOL2501 – Menighetspraksis og religionspedagogikk (nedlagt) og TEOL2502 – Pastoralteologi og liturgikk (nedlagt) eller TEOL2500 – Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt)\nTEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster\nTEOL3004 – Introduksjon til NT-eksegese\nTEOL4002 – Christian Ethics in a Changing World\nTEOL4004 – Historiske perspektiv på norsk og nordisk protestantisme\nTEOL4012 – Praktisk teologi med institusjonspraksis: sjelesorg\nTEOL4107 – Sentrale tekster og temaer fra Den hebraiske bibel\nTEOL4201 – Paulus og paulinsk teologi\nTEOL4202 – De synoptiske evangeliene\nTEOL4401 – Dogmatikk\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på ettårig praktisk-teologisk utdanning og på masterprogrammet i teologi og pastoral praksis er innfridd ved opptaksgrunnlaget til studieprogrammet og følgende 30 studiepoeng i praktisk-teologisk utdanning:\nenten både TEOL2503/ TEOL4028 Det nye testamentet og homiletikk og TEOL2504/ TEOL4029 Kirkens ritualer og roller med menighetspraksis eller både TEOL2501/ 4026 Menighetspraksis og religionspedagogikk og TEOL2502/ TEOL4027 Pastoralteologi og liturgikk eller TEOL2500/ TEOL4025 Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt) .\nTEOL4012 – Praktisk teologi med institusjonspraksis: sjelesorg",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL2503",
+      "TEOL2504",
+      "TEOL2501",
+      "TEOL2502",
+      "TEOL2500",
+      "TEOL3003",
+      "TEOL3004",
+      "TEOL4002",
+      "TEOL4004",
+      "TEOL4012",
+      "TEOL4107",
+      "TEOL4201",
+      "TEOL4202",
+      "TEOL4401",
+      "TEOL4028",
+      "TEOL4029",
+      "TEOL4027",
+      "TEOL4025"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4021/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:42",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4022",
+    "title": "Homiletikk, liturgikk og prestetjeneste med stiftspraksis",
+    "credits": 20,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4022/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1003 – Bibelhebraisk\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nenten både TEOL2503 – Det nye testamentet og homiletikk og TEOL2504 – Kirkens ritualer og roller med menighetspraksis eller både TEOL2501 – Menighetspraksis og religionspedagogikk (nedlagt) og TEOL2502 – Pastoralteologi og liturgikk (nedlagt) eller TEOL2500 – Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt)\nTEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster\nTEOL3004 – Introduksjon til NT-eksegese\nTEOL4002 – Christian Ethics in a Changing World\nTEOL4004 – Historiske perspektiv på norsk og nordisk protestantisme\nTEOL4012 – Praktisk teologi med institusjonspraksis: sjelesorg\nTEOL4107 – Sentrale tekster og temaer fra Den hebraiske bibel\nTEOL4201 – Paulus og paulinsk teologi\nTEOL4202 – De synoptiske evangeliene\nTEOL4401 – Dogmatikk\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på ettårig praktisk-teologisk utdanning og på masterprogrammet i teologi og pastoral praksis er innfridd ved opptaksgrunnlaget til studieprogrammet og følgende 30 studiepoeng i praktisk-teologisk utdanning:\nenten både TEOL2503/ TEOL4028 Det nye testamentet og homiletikk og TEOL2504/ TEOL4029 Kirkens ritualer og roller med menighetspraksis eller både TEOL2501/ 4026 Menighetspraksis og religionspedagogikk og TEOL2502/ TEOL4027 Pastoralteologi og liturgikk eller TEOL2500/ TEOL4025 Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt) .\nTEOL4012 – Praktisk teologi med institusjonspraksis: sjelesorg",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL2503",
+      "TEOL2504",
+      "TEOL2501",
+      "TEOL2502",
+      "TEOL2500",
+      "TEOL3003",
+      "TEOL3004",
+      "TEOL4002",
+      "TEOL4004",
+      "TEOL4012",
+      "TEOL4107",
+      "TEOL4201",
+      "TEOL4202",
+      "TEOL4401",
+      "TEOL4028",
+      "TEOL4029",
+      "TEOL4027",
+      "TEOL4025"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4022/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:43",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4028",
+    "title": "Det nye testamentet og homiletikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4028/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4028/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:25:58",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4029",
+    "title": "Kirkens ritualer og roller med menighetspraksis",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4029/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4029/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:00",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4106",
+    "title": "Religionsfilosofi",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4106/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3004 – Introduksjon til NT-eksegese\nForkunnskapskrav for studenter på andre masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, er innfridd ved opptaksgrunnlaget til masterprogrammet.",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4106/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:01",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4107",
+    "title": "Sentrale tekster og temaer fra Den hebraiske bibel",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4107/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1003 – Bibelhebraisk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nStudenter på masterprogram må ha TEOL1003 – Bibelhebraisk og TEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster . For øvrig er forkunnskapskrav for studenter på masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, innfridd ved opptaksgrunnlaget til masterprogrammet",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3003"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4107/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:02",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4152",
+    "title": "Jesu lignelser og deres mangfoldige resepsjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4152/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4152/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2023",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4153",
+    "title": "The Biblical Body",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4153/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4153/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2024",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4154",
+    "title": "Beyond the Canon: Understanding Apocryphal Literature",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4154/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4154/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:00:51 AM",
+      "sourceOfferedTerms": "Autumn 2024\nAutumn 2024.",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4155",
+    "title": "Teologi og estetikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4155/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4155/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:03",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4201",
+    "title": "Paulus og paulinsk teologi",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4201/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3004 – Introduksjon til NT-eksegese\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nStudenter på masterprogram må ha TEOL1004 – Hellenistisk gresk og TEOL3004 – Introduksjon til NT-eksegese . For øvrig er forkunnskapskrav for studenter på masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, innfridd ved opptaksgrunnlaget til masterprogrammet",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4201/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:04",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4202",
+    "title": "De synoptiske evangeliene",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4202/",
+    "prerequisiteText": "TFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3004 – Introduksjon til NT-eksegese\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på masterprogram, der emnet kan inngå, er innfridd ved opptaksgrunnlaget til masterprogrammet og TEOL1004 – Hellenistisk gresk",
+    "prerequisiteCourses": [
+      "TFF1001",
+      "TFF1002",
+      "TFF1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4202/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:05",
+      "sourceOfferedTerms": "Vår 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4401",
+    "title": "Dogmatikk",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4401/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nForkunnskapskrav ovenfor er angitt utfra studieløpet på profesjonsstudiet i teologi. Studenter på profesjonsstudiet må også ha fullført de første tre studieårene i profesjonsstudiet i teologi.\nForkunnskapskrav for studenter på masterprogram i teologi og på masterprogram i teologi og pastoral praksis er innfridd ved opptaksgrunnlaget til masterprogrammet.",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4401/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:00:57",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4500",
+    "title": "Masteroppgave teologi",
+    "credits": 60,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4500/",
+    "prerequisiteText": "TFF4005 – Theory and Method in the Study of Theology and Religion",
+    "prerequisiteCourses": [
+      "TFF4005"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:06",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4580",
+    "title": "Masteroppgave teologi og pastoral praksis",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4580/",
+    "prerequisiteText": "For å begynne på masteroppgaven må studenten ha bestått minst to emner i studieprogrammet, hvorav minst ett teoretisk emne som inngår i del 2 .",
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4580/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:07",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4590",
+    "title": "Masteroppgave i praktisk teologi",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4590/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4590/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:08",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Studenten bør ha gjennomført emnet TEOL4514 Prest og teolog i praksis før oppstart av masteroppgaven. Innføringsemnet kan være avlagt ved et av lærestedene som samarbeider om det erfaringsbaserte masterprogrammet i praktisk teologi (MF, VID eller UiO)."
+    }
+  },
+  {
+    "code": "TEOL4601",
+    "title": "Bønn og kontemplasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4601/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4601/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2020",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4901",
+    "title": "Fordypningsoppgave",
+    "credits": 30,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4901/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1003 – Bibelhebraisk\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster\nTEOL3004 – Introduksjon til NT-eksegese\nStudenter må ha fullført de første tre studieårene i profesjonsstudiet i teologi .",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3003",
+      "TEOL3004"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4901/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:08",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TEOL4903",
+    "title": "Fordypningsoppgave i teologi",
+    "credits": 40,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4903/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTEOL1003 – Bibelhebraisk\nTEOL1004 – Hellenistisk gresk\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nTEOL3003 – Introduksjon til tolkning av hebraiske bibeltekster\nTEOL3004 – Introduksjon til NT-eksegese\nTFF4005 – Theory and Method in the Study of Theology and Religion\nStudenter må ha fullført de første tre studieårene i profesjonsstudiet i teologi .",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "TEOL1003",
+      "TEOL1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TEOL2003",
+      "TEOL2004",
+      "TEOL3003",
+      "TEOL3004",
+      "TFF4005"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TEOL4903/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:09",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFEXFAC03",
+    "title": "Examen facultatum, teologivarianten",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFEXFAC03/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFEXFAC03/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:09",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF1001",
+    "title": "Kristendommens historie",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1001/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:10",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF1002",
+    "title": "Levd religion i Norge",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1002/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1002/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:10",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF1003",
+    "title": "Etikk og religion",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1003/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1003/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:12",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF1004",
+    "title": "Hellige tekster",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1004/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF1004/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:10",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2003",
+    "title": "Gender Perspectives on Religion and Theology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2003/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2003/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:01:16 AM",
+      "sourceOfferedTerms": "Spring and autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Completion of the first year of your study program."
+    }
+  },
+  {
+    "code": "TFF2010",
+    "title": "Kristendom, oppvekst og læring",
+    "credits": 15,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2010/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2010/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Vår 2020",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2020",
+    "title": "Kristendom, oppvekst og læring",
+    "credits": 20,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2020/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2020/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2016",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2216",
+    "title": "Religion og krig",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2216/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2216/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:18",
+      "sourceOfferedTerms": "Vår og høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2218",
+    "title": "Religionspsykologi: Mening, spiritualitet og gudsbilde",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2218/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2218/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:19",
+      "sourceOfferedTerms": "Høst 2024\nHøst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2220",
+    "title": "Film, populærkultur og livstolkning",
+    "credits": 20,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2220/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2220/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2019",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF2500",
+    "title": "Frans av Assisi - mellom fattigdom og mystikk",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2500/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF2500/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:14",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3001",
+    "title": "Humanisme, sekularitet og religion",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3001/",
+    "prerequisiteText": "TFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion eller FIL1003 – Innføring i etikk\nTFF1004 – Hellige tekster eller TEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier",
+    "prerequisiteCourses": [
+      "TFF1002",
+      "TFF1003",
+      "FIL1003",
+      "TFF1004",
+      "TEOL1100"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3001/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:14",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Fullført de to første studieårene av studieprogrammet."
+    }
+  },
+  {
+    "code": "TFF3005",
+    "title": "Bacheloroppgave: metodeseminar",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3005/",
+    "prerequisiteText": "For studenter på Religion og samfunn (bachelor) :\nRESA1001 – Religion i det offentlige rom - makt, media, politikk\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion\nTFF1004 – Hellige tekster\nFor studenter på Teologi (bachelor) :\nTEOL1100 – Introduksjon til Bibelen: tekster, lesninger og teologier\nTEOL1200 – Teologi, filosofi og bekjennelse\nTFF1001 – Kristendommens historie\nTFF1002 – Levd religion i Norge\nTFF1003 – Etikk og religion",
+    "prerequisiteCourses": [
+      "RESA1001",
+      "TFF1002",
+      "TFF1003",
+      "TFF1004",
+      "TEOL1100",
+      "TEOL1200",
+      "TFF1001"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3005/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:14",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "For studenter på Religion og samfunn (bachelor) :\nTFEXFAC03 – Examen facultatum, teologivarianten\nRESA2001 – Islam, kristendom og vesten (nedlagt) eller RESA1002 – Islam, kristendom og vesten: historisk og teologisk perspektiv\nFullført de to første studieårene av bachelorprogrammet\nFor studenter på Teologi (bachelor) :\nTFEXFAC03 – Examen facultatum, teologivarianten\nTEOL2003 – Oldkirkens historie\nTEOL2004 – Martin Luther og 1500-tallets teologiske stridigheter\nFullført de to første studieårene av bachelorprogrammet"
+    }
+  },
+  {
+    "code": "TFF3219",
+    "title": "Tverrfaglig økologi i Antropocen",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3219/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3219/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:16",
+      "sourceOfferedTerms": "Høst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3221",
+    "title": "Material Religion in Medieval Christianity",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3221/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3221/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "A minimum of one year of studies in Religion, Theology, Archeology, History, Art History, Cultural History or similar fields."
+    }
+  },
+  {
+    "code": "TFF3222",
+    "title": "Politisk teologi i det fortidige: juridiske grensedragninger mellom kirke og stat i kirkens historie",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3222/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3222/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:23",
+      "sourceOfferedTerms": "Høst 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er anbefalt at studenten har gjennomført et innføringsemne i kirkehistorie, rettshistorie eller politisk historie."
+    }
+  },
+  {
+    "code": "TFF3223",
+    "title": "Bønn, økologi og kontemplasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3223/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3223/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:25",
+      "sourceOfferedTerms": "Høst 2024",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3224",
+    "title": "Tro på stedet: Solidaritet i flerkulturelle lokalsamfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3224/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3224/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:18",
+      "sourceOfferedTerms": "Vår 2025\n2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3225",
+    "title": "America's Religious Road to Trump",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3225/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3225/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:20 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3226",
+    "title": "The Anthropocene: Ecology and Democracy across the Disciplines",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3226/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3226/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:21 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "Completed the first two years of a bachelor program."
+    }
+  },
+  {
+    "code": "TFF3270",
+    "title": "Kunst, religion og livstolkning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3270/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2020",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TFF1001 – Kristendommens historie"
+    }
+  },
+  {
+    "code": "TFF3390",
+    "title": "Religion and Ecology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3390/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2021",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF3480",
+    "title": "Ortodoks kristendom: introduksjon til Østkirkene",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF3480/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2019",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TFF1001 – Kristendommens historie"
+    }
+  },
+  {
+    "code": "TFF4003",
+    "title": "Space, Art and Identity in Synagogue, Church and Mosque",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4003/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4003/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:01:27 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4005",
+    "title": "Theory and Method in the Study of Theology and Religion",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4005/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4005/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:22 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4006",
+    "title": "Interreligious Child Ethics: Care for Children in an Adult World",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4006/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4006/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:22 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": "TFF1003 – Etikk og religion or an equivalent introduction to ethics."
+    }
+  },
+  {
+    "code": "TFF4007",
+    "title": "Borderland Religion and Migration",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4007/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4007/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:23 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4219",
+    "title": "Tverrfaglig økologi i Antropocen",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4219/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4219/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:24",
+      "sourceOfferedTerms": "Høst 2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4221",
+    "title": "Material Religion in Medieval Christianity",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4221/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4221/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4222",
+    "title": "Politisk teologi i det fortidige: juridiske grensedragninger mellom kirke og stat i kirkens historie",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4222/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4222/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:33",
+      "sourceOfferedTerms": "Høst 2022",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "Det er anbefalt at studenten har gjennomført et innføringsemne i kirkehistorie, rettshistorie eller politisk historie."
+    }
+  },
+  {
+    "code": "TFF4223",
+    "title": "Bønn, økologi og kontemplasjon",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4223/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4223/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:35",
+      "sourceOfferedTerms": "Høst 2024\nEmnet tilbys høst 2024.",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4224",
+    "title": "Tro på stedet: Solidaritet i flerkulturelle lokalsamfunn",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4224/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4224/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:26",
+      "sourceOfferedTerms": "Vår 2025\n2025",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4225",
+    "title": "America's Religious Road to Trump",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4225/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4225/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:28 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4226",
+    "title": "The Anthropocene: Ecology and Democracy across the Disciplines",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4226/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4226/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:29 PM",
+      "sourceOfferedTerms": "Autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4231",
+    "title": "Å møte barn og unge i sorg",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4231/",
+    "prerequisiteText": "Forkunnskapskrav under gjelder for Teologi (profesjonsstudium) :\nTEOL2501 – Menighetspraksis og religionspedagogikk (nedlagt)\nTEOL2502 – Pastoralteologi og liturgikk (nedlagt)\nForkunnskapskrav for studenter på andre masterprogram, der emnet inngår som obligatorisk emne eller som valgemne, er innfridd ved opptaksgrunnlaget til masterprogrammet.",
+    "prerequisiteCourses": [
+      "TEOL2501",
+      "TEOL2502"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4231/index.html",
+      "sourceUpdatedAt": "21. mars 2026 21:26:31",
+      "sourceOfferedTerms": "Høst",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4232",
+    "title": "Negotiating Sacred Scriptures",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4232/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4232/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:32 PM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4233",
+    "title": "Political Theology",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4233/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4233/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 5:01:36 AM",
+      "sourceOfferedTerms": "Spring",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4234",
+    "title": "Tros- og livssynsdialog i Norge",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4234/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4234/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:38",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4235",
+    "title": "Krise- og konflikthåndtering",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4235/",
+    "prerequisiteText": "Enten:\nLES4600 – Dialog og profesjonelle samtaler i et tros- og livssynspluralt samfunn\neller:\nbåde TEOL2503 – Det nye testamentet og homiletikk og TEOL2504 – Kirkens ritualer og roller med menighetspraksis\neller:\nbåde TEOL2501 – Menighetspraksis og religionspedagogikk (nedlagt) og TEOL2502 – Pastoralteologi og liturgikk (nedlagt)\neller:\nTEOL2500 – Praktisk teologi med menighetspraksis: formidling, ritualer og ledelse (nedlagt)",
+    "prerequisiteCourses": [
+      "LES4600",
+      "TEOL2503",
+      "TEOL2504",
+      "TEOL2501",
+      "TEOL2502",
+      "TEOL2500"
+    ],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4235/index.html",
+      "sourceUpdatedAt": "21. mars 2026 05:01:39",
+      "sourceOfferedTerms": "Vår",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4270",
+    "title": "Kunst, religion og livstolkning",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4270/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4270/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2020",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TFF1001 – Kristendommens historie"
+    }
+  },
+  {
+    "code": "TFF4281",
+    "title": "Extremism, Democracy, Religion",
+    "credits": 10,
+    "offeredTerms": [
+      "spring"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4281/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4281/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Spring 2022",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4390",
+    "title": "Religion and Ecology",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4390/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4390/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Autumn 2021",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFF4480",
+    "title": "Ortodoks kristendom: introduksjon til Østkirkene",
+    "credits": 10,
+    "offeredTerms": [
+      "autumn"
+    ],
+    "language": "Norwegian",
+    "level": "Master",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4480/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFF4480/index.html",
+      "sourceUpdatedAt": null,
+      "sourceOfferedTerms": "Høst 2019",
+      "sourceLanguage": "Norsk",
+      "recommendedPrerequisiteText": "TFF1001 – Kristendommens historie"
+    }
+  },
+  {
+    "code": "TFO1011",
+    "title": "Judaism and Jewish History",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1011/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1011/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:33 PM",
+      "sourceOfferedTerms": "Spring and autumn\nCovers two semesters, started during autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFO1012",
+    "title": "Modern Jewish History and Culture - Case Studies",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1012/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1012/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:33 PM",
+      "sourceOfferedTerms": "Spring and autumn\nCovers two semesters, started during autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  },
+  {
+    "code": "TFO1013",
+    "title": "Identity, Ethics and Intercultural Competence",
+    "credits": 10,
+    "offeredTerms": [
+      "spring",
+      "autumn"
+    ],
+    "language": "English",
+    "level": "Bachelor",
+    "department": "Theology and Religion",
+    "officialUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1013/",
+    "prerequisiteText": null,
+    "prerequisiteCourses": [],
+    "tags": [],
+    "metadata": {
+      "sourceUrl": "https://www.uio.no/studier/emner/teologi/tf/TFO1013/index.html",
+      "sourceUpdatedAt": "Mar. 21, 2026 9:26:34 PM",
+      "sourceOfferedTerms": "Spring and autumn\nCovers two semesters, started during autumn",
+      "sourceLanguage": "English",
+      "recommendedPrerequisiteText": null
+    }
+  }
+]

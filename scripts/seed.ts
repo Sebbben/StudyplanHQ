@@ -18,13 +18,14 @@ await db
       language: sql`excluded.language`,
       level: sql`excluded.level`,
       department: sql`excluded.department`,
-      officialUrl: sql`excluded.official_url`,
-      prerequisiteText: sql`excluded.prerequisite_text`,
-      prerequisiteCourses: sql`excluded.prerequisite_courses`,
-      tags: sql`excluded.tags`,
-      updatedAt: sql`now()`,
-    },
-  });
+    officialUrl: sql`excluded.official_url`,
+    prerequisiteText: sql`excluded.prerequisite_text`,
+    prerequisiteCourses: sql`excluded.prerequisite_courses`,
+    tags: sql`excluded.tags`,
+    metadata: sql`excluded.metadata`,
+    updatedAt: sql`now()`,
+  },
+});
 
 await pool.end();
 
