@@ -51,3 +51,30 @@ export function buildSequentialTerms(startTerm: string, count = 6) {
 
   return terms;
 }
+
+export function shiftTermKey(termKey: string, offset: number) {
+  if (offset === 0) {
+    return termKey;
+  }
+
+  let { year, season } = parseTermKey(termKey);
+  const step = offset > 0 ? 1 : -1;
+
+  for (let index = 0; index < Math.abs(offset); index += 1) {
+    if (step > 0) {
+      if (season === "autumn") {
+        year += 1;
+        season = "spring";
+      } else {
+        season = "autumn";
+      }
+    } else if (season === "spring") {
+      year -= 1;
+      season = "autumn";
+    } else {
+      season = "spring";
+    }
+  }
+
+  return `${year}-${season}`;
+}
