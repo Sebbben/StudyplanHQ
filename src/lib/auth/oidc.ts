@@ -6,6 +6,7 @@ import { env } from "@/lib/env";
 const STATE_COOKIE = "studyplanhq_oauth_state";
 const VERIFIER_COOKIE = "studyplanhq_oauth_verifier";
 const NONCE_COOKIE = "studyplanhq_oauth_nonce";
+const RETURN_TO_COOKIE = "studyplanhq_oauth_return_to";
 const REDIRECT_PATH = "/api/auth/callback/keycloak";
 
 type DiscoveryDocument = {
@@ -57,7 +58,19 @@ export function getRedirectUri() {
   return `${env.APP_URL}${REDIRECT_PATH}`;
 }
 
-export async function createAuthorizationUrl() {
+function sanitizeReturnPath(value: string | null | undefined) {
+  if (!value || !value.startsWith("/")) {
+    return null;
+  }
+
+  if (value.startsWith("//")) {
+    return null;
+  }
+
+  return value;
+}
+
+export async function createAuthorizationUrl(returnTo?: string | null) {
   const cookieStore = await cookies();
   const discovery = await discoverOidcConfiguration();
   const state = randomString();
@@ -98,6 +111,19 @@ export async function createAuthorizationUrl() {
     path: "/",
     maxAge: 60 * 10,
   });
+
+  const nextPath = sanitizeReturnPath(returnTo);
+  if (nextPath) {
+    cookieStore.set(RETURN_TO_COOKIE, nextPath, {
+      httpOnly: true,
+      sameSite: "lax",
+      secure: process.env.NODE_ENV === "production",
+      path: "/",
+      maxAge: 60 * 10,
+    });
+  } else {
+    cookieStore.delete(RETURN_TO_COOKIE);
+  }
 
   return authorizationUrl.toString();
 }
@@ -176,6 +202,13 @@ export async function exchangeAuthorizationCode(url: URL) {
   }
 
   return userInfo;
+}
+
+export async function consumePostLoginRedirectPath() {
+  const cookieStore = await cookies();
+  const nextPath = sanitizeReturnPath(cookieStore.get(RETURN_TO_COOKIE)?.value);
+  cookieStore.delete(RETURN_TO_COOKIE);
+  return nextPath ?? "/my-plans";
 }
 
 export async function buildLogoutUrl() {

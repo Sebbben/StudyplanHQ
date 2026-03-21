@@ -47,9 +47,11 @@ export function validateDraft(draft: PlannerDraft, courses: PlannerCourse[]): Pl
 
   for (const [courseCode, terms] of placements.entries()) {
     if (terms.length > 1) {
+      const [firstTerm] = [...terms].sort(compareTermKeys);
       issues.push({
         type: "duplicate",
         severity: "warning",
+        termKey: firstTerm,
         courseCode,
         message: `${courseCode} appears in multiple semesters.`,
       });

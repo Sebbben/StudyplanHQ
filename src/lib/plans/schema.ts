@@ -14,6 +14,6 @@ export const plannerDraftSchema = z.object({
         ),
       }),
     )
-    .min(1)
+    .min(0)
     .max(12),
 });

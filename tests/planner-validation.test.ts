@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test";
 
 import { sampleCourses } from "@/data/sample-courses";
 import { validateDraft } from "@/lib/planner/validation";
+import { plannerDraftSchema } from "@/lib/plans/schema";
 
 describe("validateDraft", () => {
   test("warns when prerequisites are missing or too late", () => {
@@ -35,7 +36,20 @@ describe("validateDraft", () => {
       sampleCourses.map((course) => ({ ...course })),
     );
 
-    expect(issues.some((issue) => issue.type === "duplicate")).toBeTrue();
+    const duplicateIssue = issues.find((issue) => issue.type === "duplicate");
+
+    expect(duplicateIssue).toBeDefined();
+    expect(duplicateIssue?.termKey).toBe("2026-autumn");
     expect(issues.some((issue) => issue.type === "credit-load")).toBeTrue();
+  });
+
+  test("accepts an empty draft while the user is still starting", () => {
+    const parsed = plannerDraftSchema.safeParse({
+      name: "Fresh plan",
+      startTerm: "2026-autumn",
+      semesters: [],
+    });
+
+    expect(parsed.success).toBeTrue();
   });
 });

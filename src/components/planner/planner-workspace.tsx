@@ -300,6 +300,14 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     }
 
     updateSemesters((semesters) => {
+      const targetAlreadyHasCourse = semesters.some(
+        (semester) => semester.termKey === targetTermKey && semester.courses.some((course) => course.code === payload.code),
+      );
+
+      if (targetAlreadyHasCourse) {
+        return semesters;
+      }
+
       const sourceSemester = payload.sourceTermKey
         ? semesters.find((semester) => semester.termKey === payload.sourceTermKey)
         : null;
@@ -376,7 +384,8 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
     setSaveMessage(null);
 
     if (!authenticated) {
-      setSaveMessage("Log in before saving this plan.");
+      setSaveMessage("Redirecting to login so you can save this plan.");
+      window.location.href = `/api/auth/login?next=${encodeURIComponent(window.location.pathname)}`;
       return;
     }
 
@@ -426,6 +435,13 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   }
 
   function handleDragEnd() {
+    const finalTargetTermKey = activeDropTermKeyRef.current;
+    const finalPayload = dragPayloadRef.current;
+
+    if (finalTargetTermKey && finalPayload) {
+      moveCourse(finalPayload, finalTargetTermKey);
+    }
+
     dragPayloadRef.current = null;
     activeDropTermKeyRef.current = null;
     setDraggedCourseCode(null);
@@ -457,6 +473,8 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
       })();
 
     if (payload) {
+      activeDropTermKeyRef.current = null;
+      dragPayloadRef.current = null;
       moveCourse(payload, termKey);
     }
 
