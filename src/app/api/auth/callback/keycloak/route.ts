@@ -19,7 +19,7 @@ export async function GET(request: Request) {
 
     return NextResponse.redirect(new URL(redirectPath, request.url));
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Login failed.";
-    return NextResponse.json({ error: message }, { status: 400 });
+    console.error("Keycloak callback failed", error);
+    return NextResponse.json({ error: "Login failed." }, { status: 400 });
   }
 }

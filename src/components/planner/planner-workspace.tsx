@@ -5,6 +5,7 @@ import { useDeferredValue, useEffect, useMemo, useRef, useState, useTransition }
 import { useRouter } from "next/navigation";
 
 import { deriveDefaultStartTerm, getSeasonFromTermKey, reviewGroupLabel, sortIssuesForReview } from "@/lib/planner/course-search";
+import { collectDraftCourseCodes, fetchCoursesByCodes, mergeCoursesByCode } from "@/lib/planner/draft";
 import { mergeDraftFromPlan, type PlanImportOptions } from "@/lib/planner/import";
 import type { PlannerCourse, PlannerDraft, PlannerIssue } from "@/lib/planner/types";
 import { validateDraft } from "@/lib/planner/validation";
@@ -34,49 +35,6 @@ type PlanResponsePayload = {
   plan?: PlannerDraft;
   error?: string;
 };
-
-const COURSE_LOOKUP_BATCH_SIZE = 40;
-
-function mergeCoursesByCode(current: PlannerCourse[], nextCourses: PlannerCourse[]) {
-  if (nextCourses.length === 0) {
-    return current;
-  }
-
-  const byCode = new Map(current.map((course) => [course.code, course]));
-
-  nextCourses.forEach((course) => {
-    byCode.set(course.code, course);
-  });
-
-  return Array.from(byCode.values()).sort((left, right) => left.code.localeCompare(right.code));
-}
-
-async function fetchCoursesByCodes(codes: string[], signal?: AbortSignal) {
-  const uniqueCodes = Array.from(new Set(codes));
-
-  if (uniqueCodes.length === 0) {
-    return [];
-  }
-
-  const courses: PlannerCourse[] = [];
-
-  for (let index = 0; index < uniqueCodes.length; index += COURSE_LOOKUP_BATCH_SIZE) {
-    const batch = uniqueCodes.slice(index, index + COURSE_LOOKUP_BATCH_SIZE);
-    const response = await fetch(`/api/courses?codes=${encodeURIComponent(batch.join(","))}`, { signal });
-
-    if (!response.ok) {
-      continue;
-    }
-
-    const payload = (await response.json().catch(() => null)) as { courses?: PlannerCourse[] } | null;
-
-    if (payload?.courses) {
-      courses.push(...payload.courses);
-    }
-  }
-
-  return courses;
-}
 
 type DragPayload = {
   code: string;
@@ -317,6 +275,10 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     () => draft.semesters.reduce((sum, semester) => sum + semester.courses.length, 0),
     [draft.semesters],
   );
+  const draftCourseCodes = useMemo(
+    () => collectDraftCourseCodes({ completedCourses: draft.completedCourses, semesters: draft.semesters }),
+    [draft.completedCourses, draft.semesters],
+  );
 
   const modalSemester =
     modalMode === "semester" && modalTermKey
@@ -413,12 +375,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }, [modalSearchResults, searchResults]);
 
   useEffect(() => {
-    const missingCodes = Array.from(
-      new Set([
-        ...draft.completedCourses,
-        ...draft.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
-      ]),
-    ).filter((code) => !courseMap.has(code));
+    const missingCodes = draftCourseCodes.filter((code) => !courseMap.has(code));
 
     if (missingCodes.length === 0) {
       return;
@@ -443,7 +400,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     void loadMissingCourses();
 
     return () => controller.abort();
-  }, [courseMap, draft.completedCourses, draft.semesters]);
+  }, [courseMap, draftCourseCodes]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -877,12 +834,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
         }
 
         const importedPlan = refreshedPayload.plan;
-        const importedCodes = Array.from(
-          new Set([
-            ...importedPlan.completedCourses,
-            ...importedPlan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
-          ]),
-        );
+        const importedCodes = collectDraftCourseCodes(importedPlan);
         const importedCourses = await fetchCoursesByCodes(importedCodes);
 
         if (importedCourses.length > 0) {
@@ -915,12 +867,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
       }
 
       const importedPlan = payload.plan;
-      const importedCodes = Array.from(
-        new Set([
-          ...importedPlan.completedCourses,
-          ...importedPlan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
-        ]),
-      );
+      const importedCodes = collectDraftCourseCodes(importedPlan);
 
       const importedCourses = await fetchCoursesByCodes(importedCodes);
 

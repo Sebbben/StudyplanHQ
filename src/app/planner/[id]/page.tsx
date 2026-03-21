@@ -3,6 +3,7 @@ import { notFound, redirect } from "next/navigation";
 import { PlannerWorkspace } from "@/components/planner/planner-workspace";
 import { getSession } from "@/lib/auth/session";
 import { getCatalogCoursesByCodes } from "@/lib/courses/catalog";
+import { collectDraftCourseCodes } from "@/lib/planner/draft";
 import { getPlanById } from "@/lib/plans/service";
 
 type PlannerPlanPageProps = {
@@ -29,12 +30,7 @@ export default async function PlannerPlanPage({ params }: PlannerPlanPageProps) 
     notFound();
   }
 
-  const courseCodes = Array.from(
-    new Set([
-      ...plan.completedCourses,
-      ...plan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
-    ]),
-  );
+  const courseCodes = collectDraftCourseCodes(plan);
   const courses = await getCatalogCoursesByCodes(courseCodes);
 
   return (
