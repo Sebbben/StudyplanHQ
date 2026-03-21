@@ -598,7 +598,7 @@ export function PlannerWorkspace({ courses, initialDraft, authenticated, planId 
   return (
     <>
       <div className="grid gap-6 2xl:grid-cols-[280px_minmax(0,1fr)_280px]">
-        <aside className="note-panel note-pin relative rounded-[1.9rem] p-5">
+        <aside className="note-panel note-pin relative rounded-[1.9rem] p-5 xl:sticky xl:top-6 xl:self-start">
           <div className="space-y-4">
             <div>
               <p className="note-kicker">Course Search</p>
