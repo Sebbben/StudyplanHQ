@@ -1,5 +1,7 @@
 import { z } from "zod";
 
+export const MAX_PLAN_SEMESTERS = 40;
+
 export const plannerDraftSchema = z.object({
   name: z.string().trim().min(1).max(100),
   startTerm: z.string().regex(/^\d{4}-(spring|autumn)$/),
@@ -16,5 +18,5 @@ export const plannerDraftSchema = z.object({
       }),
     )
     .min(0)
-    .max(12),
+    .max(MAX_PLAN_SEMESTERS),
 });

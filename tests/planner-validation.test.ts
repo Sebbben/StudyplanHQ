@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test";
 
 import { sampleCourses } from "@/data/sample-courses";
 import { validateDraft } from "@/lib/planner/validation";
-import { plannerDraftSchema } from "@/lib/plans/schema";
+import { MAX_PLAN_SEMESTERS, plannerDraftSchema } from "@/lib/plans/schema";
 import type { PlannerCourse } from "@/lib/planner/types";
 
 describe("validateDraft", () => {
@@ -55,6 +55,20 @@ describe("validateDraft", () => {
     if (parsed.success) {
       expect(parsed.data.completedCourses).toEqual([]);
     }
+  });
+
+  test("accepts plans that span many semesters", () => {
+    const parsed = plannerDraftSchema.safeParse({
+      name: "Long plan",
+      startTerm: "2023-autumn",
+      completedCourses: [],
+      semesters: Array.from({ length: MAX_PLAN_SEMESTERS }, (_, index) => ({
+        termKey: `${2023 + Math.floor(index / 2)}-${index % 2 === 0 ? "autumn" : "spring"}`,
+        courses: [],
+      })),
+    });
+
+    expect(parsed.success).toBeTrue();
   });
 
   test("treats completed courses as satisfying prerequisites before the plan starts", () => {

@@ -1,16 +1,26 @@
 import { NextResponse } from "next/server";
 
-import { getCatalogCourses } from "@/lib/courses/catalog";
+import { getCatalogCourses, getCatalogCoursesByCodes } from "@/lib/courses/catalog";
 import { filterAndRankCourses } from "@/lib/planner/course-search";
 
 export async function GET(request: Request) {
   const url = new URL(request.url);
+  const codes = (url.searchParams.get("codes") ?? "")
+    .split(",")
+    .map((value) => value.trim())
+    .filter(Boolean);
   const query = url.searchParams.get("query") ?? undefined;
   const term = url.searchParams.get("term") ?? undefined;
   const department = url.searchParams.get("department") ?? undefined;
   const level = url.searchParams.get("level") ?? undefined;
   const requestedLimit = Number(url.searchParams.get("limit") ?? "60");
   const limit = Number.isFinite(requestedLimit) ? Math.min(Math.max(requestedLimit, 1), 100) : 60;
+
+  if (codes.length > 0) {
+    const courses = await getCatalogCoursesByCodes(codes);
+    return NextResponse.json({ courses });
+  }
+
   const courses = await getCatalogCourses({
     query,
     term,

@@ -5,6 +5,7 @@ import { useDeferredValue, useEffect, useMemo, useRef, useState, useTransition }
 import { useRouter } from "next/navigation";
 
 import { deriveDefaultStartTerm, getSeasonFromTermKey, reviewGroupLabel, sortIssuesForReview } from "@/lib/planner/course-search";
+import { mergeDraftFromPlan, type PlanImportOptions } from "@/lib/planner/import";
 import type { PlannerCourse, PlannerDraft, PlannerIssue } from "@/lib/planner/types";
 import { validateDraft } from "@/lib/planner/validation";
 import { plannerDraftSchema } from "@/lib/plans/schema";
@@ -21,6 +22,61 @@ type PlannerWorkspaceProps = {
   authenticated: boolean;
   planId?: number | null;
 };
+
+type SavedPlanSummary = {
+  id: number;
+  name: string;
+  startTerm: string;
+  updatedAt: string;
+};
+
+type PlanResponsePayload = {
+  plan?: PlannerDraft;
+  error?: string;
+};
+
+const COURSE_LOOKUP_BATCH_SIZE = 40;
+
+function mergeCoursesByCode(current: PlannerCourse[], nextCourses: PlannerCourse[]) {
+  if (nextCourses.length === 0) {
+    return current;
+  }
+
+  const byCode = new Map(current.map((course) => [course.code, course]));
+
+  nextCourses.forEach((course) => {
+    byCode.set(course.code, course);
+  });
+
+  return Array.from(byCode.values()).sort((left, right) => left.code.localeCompare(right.code));
+}
+
+async function fetchCoursesByCodes(codes: string[], signal?: AbortSignal) {
+  const uniqueCodes = Array.from(new Set(codes));
+
+  if (uniqueCodes.length === 0) {
+    return [];
+  }
+
+  const courses: PlannerCourse[] = [];
+
+  for (let index = 0; index < uniqueCodes.length; index += COURSE_LOOKUP_BATCH_SIZE) {
+    const batch = uniqueCodes.slice(index, index + COURSE_LOOKUP_BATCH_SIZE);
+    const response = await fetch(`/api/courses?codes=${encodeURIComponent(batch.join(","))}`, { signal });
+
+    if (!response.ok) {
+      continue;
+    }
+
+    const payload = (await response.json().catch(() => null)) as { courses?: PlannerCourse[] } | null;
+
+    if (payload?.courses) {
+      courses.push(...payload.courses);
+    }
+  }
+
+  return courses;
+}
 
 type DragPayload = {
   code: string;
@@ -102,6 +158,11 @@ function buildDraftForRange(draft: PlannerDraft, startTerm: string, endTerm: str
   };
 }
 
+function deriveEarliestSemesterTerm(draft: PlannerDraft) {
+  const orderedSemesters = [...draft.semesters].sort((left, right) => compareTermKeys(left.termKey, right.termKey));
+  return orderedSemesters[0]?.termKey ?? draft.startTerm;
+}
+
 function issueActionText(issue: PlannerIssue) {
   if (issue.type === "prerequisite" && issue.courseCode && issue.termKey) {
     return `Move ${issue.courseCode} later or place its prerequisite before ${termLabel(issue.termKey)}.`;
@@ -177,6 +238,15 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   const [levels, setLevels] = useState<string[]>([]);
   const [isSidebarLoading, setIsSidebarLoading] = useState(false);
   const [isModalLoading, setIsModalLoading] = useState(false);
+  const [savedPlans, setSavedPlans] = useState<SavedPlanSummary[]>([]);
+  const [isImportModalOpen, setIsImportModalOpen] = useState(false);
+  const [isImporting, setIsImporting] = useState(false);
+  const [importSourcePlanId, setImportSourcePlanId] = useState<number | null>(null);
+  const [importOptions, setImportOptions] = useState<PlanImportOptions>({
+    includeCompletedCourses: true,
+    includeSemesters: true,
+  });
+  const [isCompletedCoursesExpanded, setIsCompletedCoursesExpanded] = useState(false);
   const [isPending, startTransition] = useTransition();
   const activeDropTermKeyRef = useRef<string | null>(null);
   const dragPayloadRef = useRef<DragPayload | null>(null);
@@ -186,6 +256,19 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
       window.localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(buildDraftForRange(draft, planStartTerm, planEndTerm)));
     }
   }, [draft, isEditing, planEndTerm, planStartTerm]);
+
+  useEffect(() => {
+    const earliestSemesterTerm = deriveEarliestSemesterTerm(draft);
+    const latestSemesterTerm = derivePlanEndTerm(draft);
+
+    if (compareTermKeys(earliestSemesterTerm, planStartTerm) < 0) {
+      setPlanStartTerm(earliestSemesterTerm);
+    }
+
+    if (compareTermKeys(latestSemesterTerm, planEndTerm) > 0) {
+      setPlanEndTerm(latestSemesterTerm);
+    }
+  }, [draft, planEndTerm, planStartTerm]);
 
   useEffect(() => {
     if (!modalMode) {
@@ -287,25 +370,80 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
   }, []);
 
   useEffect(() => {
+    if (!authenticated) {
+      setSavedPlans([]);
+      return;
+    }
+
+    const controller = new AbortController();
+
+    async function loadSavedPlans() {
+      try {
+        const response = await fetch("/api/plans", { signal: controller.signal });
+        if (!response.ok) {
+          return;
+        }
+
+        const payload = (await response.json()) as { plans?: SavedPlanSummary[] };
+        const plans = (payload.plans ?? []).filter((plan) => plan.id !== planId);
+        setSavedPlans(plans);
+      } catch (error) {
+        if (!(error instanceof DOMException && error.name === "AbortError")) {
+          setSavedPlans([]);
+        }
+      }
+    }
+
+    void loadSavedPlans();
+
+    return () => controller.abort();
+  }, [authenticated, planId]);
+
+  useEffect(() => {
     function mergeCourses(nextCourses: PlannerCourse[]) {
       if (nextCourses.length === 0) {
         return;
       }
 
-      setKnownCourses((current) => {
-        const byCode = new Map(current.map((course) => [course.code, course]));
-
-        nextCourses.forEach((course) => {
-          byCode.set(course.code, course);
-        });
-
-        return Array.from(byCode.values()).sort((left, right) => left.code.localeCompare(right.code));
-      });
+      setKnownCourses((current) => mergeCoursesByCode(current, nextCourses));
     }
 
     mergeCourses(searchResults);
     mergeCourses(modalSearchResults);
   }, [modalSearchResults, searchResults]);
+
+  useEffect(() => {
+    const missingCodes = Array.from(
+      new Set([
+        ...draft.completedCourses,
+        ...draft.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
+      ]),
+    ).filter((code) => !courseMap.has(code));
+
+    if (missingCodes.length === 0) {
+      return;
+    }
+
+    const controller = new AbortController();
+
+    async function loadMissingCourses() {
+      try {
+        const missingCourses = await fetchCoursesByCodes(missingCodes, controller.signal);
+
+        if (missingCourses.length > 0) {
+          setKnownCourses((current) => mergeCoursesByCode(current, missingCourses));
+        }
+      } catch (error) {
+        if (!(error instanceof DOMException && error.name === "AbortError")) {
+          return;
+        }
+      }
+    }
+
+    void loadMissingCourses();
+
+    return () => controller.abort();
+  }, [courseMap, draft.completedCourses, draft.semesters]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -576,6 +714,29 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
     searchInputRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 
+  function openImportModal() {
+    if (!authenticated) {
+      setSaveMessage("Log in to import courses from another saved plan.");
+      return;
+    }
+
+    setImportSourcePlanId(savedPlans[0]?.id ?? null);
+    setImportOptions({
+      includeCompletedCourses: true,
+      includeSemesters: true,
+    });
+    setIsImportModalOpen(true);
+  }
+
+  function closeImportModal() {
+    if (isImporting) {
+      return;
+    }
+
+    setIsImportModalOpen(false);
+    setImportSourcePlanId(null);
+  }
+
   function handleAddFromModal(courseCode: string) {
     if (modalMode === "completed") {
       addCompletedCourse(courseCode);
@@ -593,12 +754,14 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
 
   const completedCourseDetails = useMemo(
     () =>
-      draft.completedCourses
-        .map((courseCode) => courseMap.get(courseCode))
-        .filter((course): course is PlannerCourse => Boolean(course)),
+      draft.completedCourses.map((courseCode) => ({
+        code: courseCode,
+        course: courseMap.get(courseCode) ?? null,
+      })),
     [courseMap, draft.completedCourses],
   );
   const completedCourseCodes = useMemo(() => new Set(draft.completedCourses), [draft.completedCourses]);
+  const shouldCollapseCompletedCourses = completedCourseDetails.length > 6;
 
   async function savePlan() {
     setSaveMessage(null);
@@ -646,6 +809,147 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
 
       setSaveMessage("Plan saved.");
     });
+  }
+
+  async function importFromSavedPlan() {
+    if (!importSourcePlanId) {
+      return;
+    }
+
+    if (!importOptions.includeCompletedCourses && !importOptions.includeSemesters) {
+      setSaveMessage("Choose at least one thing to import.");
+      return;
+    }
+
+    setIsImporting(true);
+    setSaveMessage(null);
+
+    try {
+      if (isEditing && planId !== null) {
+        const [targetResponse, sourceResponse] = await Promise.all([
+          fetch(`/api/plans/${planId}`),
+          fetch(`/api/plans/${importSourcePlanId}`),
+        ]);
+        const targetPayload = (await targetResponse.json().catch(() => null)) as PlanResponsePayload | null;
+        const sourcePayload = (await sourceResponse.json().catch(() => null)) as PlanResponsePayload | null;
+
+        if (!targetResponse.ok || !targetPayload?.plan) {
+          setSaveMessage(targetPayload?.error ?? "Failed to load the current plan before importing.");
+          return;
+        }
+
+        if (!sourceResponse.ok || !sourcePayload?.plan) {
+          setSaveMessage(sourcePayload?.error ?? "Failed to load the selected source plan.");
+          return;
+        }
+
+        const mergedDraft = mergeDraftFromPlan(targetPayload.plan, sourcePayload.plan, importOptions);
+        const nextPlanStartTerm =
+          compareTermKeys(deriveEarliestSemesterTerm(mergedDraft), targetPayload.plan.startTerm) < 0
+            ? deriveEarliestSemesterTerm(mergedDraft)
+            : targetPayload.plan.startTerm;
+        const nextPlanEndTerm = derivePlanEndTerm(mergedDraft);
+        const normalizedDraft = {
+          ...mergedDraft,
+          startTerm: nextPlanStartTerm,
+        };
+
+        const saveResponse = await fetch(`/api/plans/${planId}`, {
+          method: "PATCH",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(buildDraftForRange(normalizedDraft, nextPlanStartTerm, nextPlanEndTerm)),
+        });
+        const savePayload = (await saveResponse.json().catch(() => null)) as PlanResponsePayload | null;
+
+        if (!saveResponse.ok) {
+          setSaveMessage(savePayload?.error ?? "Failed to save the imported courses.");
+          return;
+        }
+
+        const refreshedResponse = await fetch(`/api/plans/${planId}`);
+        const refreshedPayload = (await refreshedResponse.json().catch(() => null)) as PlanResponsePayload | null;
+
+        if (!refreshedResponse.ok || !refreshedPayload?.plan) {
+          setSaveMessage(refreshedPayload?.error ?? "Imported courses, but failed to reload the updated plan.");
+          return;
+        }
+
+        const importedPlan = refreshedPayload.plan;
+        const importedCodes = Array.from(
+          new Set([
+            ...importedPlan.completedCourses,
+            ...importedPlan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
+          ]),
+        );
+        const importedCourses = await fetchCoursesByCodes(importedCodes);
+
+        if (importedCourses.length > 0) {
+          setKnownCourses((current) => mergeCoursesByCode(current, importedCourses));
+        }
+
+        const refreshedStartTerm = deriveEarliestSemesterTerm(importedPlan);
+        const refreshedEndTerm = derivePlanEndTerm(importedPlan);
+
+        setPlanStartTerm(refreshedStartTerm);
+        setPlanEndTerm(refreshedEndTerm);
+        setDraft({
+          name: importedPlan.name,
+          startTerm: importedPlan.startTerm,
+          completedCourses: importedPlan.completedCourses,
+          semesters: importedPlan.semesters,
+        });
+        setIsImportModalOpen(false);
+        setImportSourcePlanId(null);
+        setSaveMessage("Imported courses and saved the updated plan.");
+        return;
+      }
+
+      const response = await fetch(`/api/plans/${importSourcePlanId}`);
+      const payload = (await response.json().catch(() => null)) as { plan?: PlannerDraft; error?: string } | null;
+
+      if (!response.ok || !payload?.plan) {
+        setSaveMessage(payload?.error ?? "Failed to import from the selected plan.");
+        return;
+      }
+
+      const importedPlan = payload.plan;
+      const importedCodes = Array.from(
+        new Set([
+          ...importedPlan.completedCourses,
+          ...importedPlan.semesters.flatMap((semester) => semester.courses.map((course) => course.code)),
+        ]),
+      );
+
+      const importedCourses = await fetchCoursesByCodes(importedCodes);
+
+      if (importedCourses.length > 0) {
+        setKnownCourses((current) => mergeCoursesByCode(current, importedCourses));
+      }
+
+      const mergedDraft = mergeDraftFromPlan(draft, importedPlan, importOptions);
+      const nextPlanStartTerm = compareTermKeys(deriveEarliestSemesterTerm(mergedDraft), planStartTerm) < 0
+        ? deriveEarliestSemesterTerm(mergedDraft)
+        : planStartTerm;
+      const nextPlanEndTerm = compareTermKeys(derivePlanEndTerm(mergedDraft), planEndTerm) > 0
+        ? derivePlanEndTerm(mergedDraft)
+        : planEndTerm;
+      const normalizedDraft = {
+        ...mergedDraft,
+        startTerm: nextPlanStartTerm,
+      };
+
+      setPlanStartTerm(nextPlanStartTerm);
+      setPlanEndTerm(nextPlanEndTerm);
+      setDraft(normalizedDraft);
+
+      setIsImportModalOpen(false);
+      setImportSourcePlanId(null);
+      setSaveMessage("Imported courses into the current draft.");
+    } finally {
+      setIsImporting(false);
+    }
   }
 
   function handleDragStart(payload: DragPayload) {
@@ -911,6 +1215,15 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                     New plan
                   </Link>
                 ) : null}
+                {authenticated ? (
+                  <button
+                    type="button"
+                    onClick={openImportModal}
+                    className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.86)] px-5 py-3 text-sm font-medium text-stone-800 hover:border-[var(--ink)] hover:text-stone-950"
+                  >
+                    Import from plan
+                  </button>
+                ) : null}
                 <button
                   type="button"
                   onClick={savePlan}
@@ -934,7 +1247,7 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                 <div className="flex shrink-0 items-center gap-3">
                   <div className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-center">
                     <p className="text-xs uppercase tracking-[0.12em] note-copy">Marked completed</p>
-                    <p className="mt-1 text-xl font-semibold text-stone-950">{completedCourseDetails.length}</p>
+                    <p className="mt-1 text-xl font-semibold text-stone-950">{draft.completedCourses.length}</p>
                   </div>
                   <button
                     type="button"
@@ -946,30 +1259,47 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                 </div>
               </div>
               <div className="mt-4 space-y-2">
-                {completedCourseDetails.length > 0 ? (
-                  completedCourseDetails.map((course) => (
-                    <div
-                      key={course.code}
-                      className="flex items-center justify-between gap-3 rounded-[1rem] border border-[rgba(47,61,107,0.16)] bg-white px-4 py-3"
+                {shouldCollapseCompletedCourses ? (
+                  <div className="flex justify-end">
+                    <button
+                      type="button"
+                      onClick={() => setIsCompletedCoursesExpanded((current) => !current)}
+                      className="rounded-full border border-[var(--line)] bg-white px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
                     >
-                      <div className="min-w-0">
-                        <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
-                          <p className="font-mono text-sm font-semibold text-[var(--ink)]">{course.code}</p>
-                          <p className="text-xs note-copy">
-                            {course.department} · {course.level}
+                      {isCompletedCoursesExpanded ? "Collapse list" : "Expand list"}
+                    </button>
+                  </div>
+                ) : null}
+                {completedCourseDetails.length > 0 ? (
+                  <div
+                    className={`space-y-2 pr-1 ${
+                      shouldCollapseCompletedCourses && !isCompletedCoursesExpanded ? "max-h-72 overflow-y-auto" : ""
+                    }`}
+                  >
+                    {completedCourseDetails.map(({ code, course }) => (
+                      <div
+                        key={code}
+                        className="flex items-center justify-between gap-3 rounded-[1rem] border border-[rgba(47,61,107,0.16)] bg-white px-4 py-3"
+                      >
+                        <div className="min-w-0">
+                          <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                            <p className="font-mono text-sm font-semibold text-[var(--ink)]">{code}</p>
+                            {course ? <p className="text-xs note-copy">{course.department} · {course.level}</p> : null}
+                          </div>
+                          <p className="mt-1 truncate text-sm text-stone-900">
+                            {course ? course.title : "Loading course details..."}
                           </p>
                         </div>
-                        <p className="mt-1 truncate text-sm text-stone-900">{course.title}</p>
+                        <button
+                          type="button"
+                          onClick={() => removeCompletedCourse(code)}
+                          className="shrink-0 rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.9)] px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
+                        >
+                          Remove
+                        </button>
                       </div>
-                      <button
-                        type="button"
-                        onClick={() => removeCompletedCourse(course.code)}
-                        className="shrink-0 rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.9)] px-3 py-2 text-xs font-semibold uppercase tracking-[0.12em] text-stone-800 hover:border-[var(--ink)]"
-                      >
-                        Remove
-                      </button>
-                    </div>
-                  ))
+                    ))}
+                  </div>
                 ) : (
                   <div className="rounded-[1.1rem] border border-dashed border-[rgba(47,61,107,0.24)] bg-[rgba(255,255,255,0.62)] p-4 text-sm note-copy">
                     No completed courses added yet. Use `Add completed courses` to choose courses you already passed.
@@ -1093,11 +1423,8 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                       <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
                         {semester.courses.map((item) => {
                           const course = getCourse(item.code);
-                          if (!course) {
-                            return null;
-                          }
-
-                          const courseKey = `${semester.termKey}:${course.code}`;
+                          const courseCode = course?.code ?? item.code;
+                          const courseKey = `${semester.termKey}:${courseCode}`;
 
                           return (
                             <div
@@ -1107,14 +1434,14 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                               }}
                               draggable
                               onDragStart={(event) => {
-                                const payload: DragPayload = { code: course.code, sourceTermKey: semester.termKey };
+                                const payload: DragPayload = { code: courseCode, sourceTermKey: semester.termKey };
                                 event.dataTransfer.effectAllowed = "move";
                                 event.dataTransfer.setData(DRAG_MIME_TYPE, JSON.stringify(payload));
                                 handleDragStart(payload);
                               }}
                               onDragEnd={handleDragEnd}
                               className={`cursor-grab rounded-[1.2rem] border bg-[var(--note)] p-4 shadow-[0_8px_18px_rgba(100,82,41,0.06)] ${
-                                draggedCourseCode === course.code
+                                draggedCourseCode === courseCode
                                   ? "border-dashed border-[var(--ink)] opacity-70"
                                   : "border-[var(--line)] hover:border-dashed hover:border-[var(--ink)]"
                               } ${highlightedCourseKey === courseKey ? "ring-2 ring-[var(--ink)] ring-offset-2 ring-offset-transparent" : ""}`}
@@ -1122,15 +1449,19 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                               <div className="flex items-start justify-between gap-3">
                                 <div className="min-w-0">
                                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
-                                    <p className="font-mono text-sm font-semibold text-[var(--ink)]">{course.code}</p>
-                                    <p className="text-xs note-copy">{course.credits} credits</p>
+                                    <p className="font-mono text-sm font-semibold text-[var(--ink)]">{courseCode}</p>
+                                    {course ? <p className="text-xs note-copy">{course.credits} credits</p> : null}
                                   </div>
-                                  <p className="mt-1 text-sm font-medium text-stone-900">{course.title}</p>
-                                  <p className="mt-2 text-xs note-copy">{course.offeredTerms.join(", ")}</p>
+                                  <p className="mt-1 text-sm font-medium text-stone-900">
+                                    {course ? course.title : "Loading course details..."}
+                                  </p>
+                                  <p className="mt-2 text-xs note-copy">
+                                    {course ? course.offeredTerms.join(", ") : "Looking up course metadata."}
+                                  </p>
                                 </div>
                                 <button
                                   type="button"
-                                  onClick={() => removeCourse(semester.termKey, course.code)}
+                                  onClick={() => removeCourse(semester.termKey, courseCode)}
                                   className="shrink-0 text-sm note-copy hover:text-stone-950"
                                 >
                                   Remove
@@ -1313,6 +1644,113 @@ export function PlannerWorkspace({ initialCourses, initialDraft, authenticated, 
                     No courses match this semester search.
                   </div>
                 ) : null}
+              </div>
+            </div>
+          </div>
+        </div>
+      ) : null}
+
+      {isImportModalOpen ? (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-[rgba(42,36,26,0.4)] px-4 py-8"
+          onClick={closeImportModal}
+        >
+          <div
+            className="note-panel-strong w-full max-w-2xl rounded-[2rem]"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <div className="flex items-start justify-between gap-4 border-b border-[var(--line)] px-6 py-5">
+              <div>
+                <p className="note-kicker">Import From Plan</p>
+                <h2 className="mt-2 font-[family-name:var(--font-display-serif)] text-3xl text-stone-950">
+                  Bring in courses from another saved plan
+                </h2>
+                <p className="mt-2 text-sm note-copy">
+                  Choose whether to import the source plan&apos;s courses into `Completed Courses`, into the semester board, or both. Duplicate courses are skipped automatically.
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={closeImportModal}
+                className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
+              >
+                Close
+              </button>
+            </div>
+            <div className="space-y-5 px-6 py-5">
+              <div>
+                <label className="text-xs uppercase tracking-[0.14em] note-copy" htmlFor="import-source-plan">
+                  Source plan
+                </label>
+                <select
+                  id="import-source-plan"
+                  value={importSourcePlanId ?? ""}
+                  onChange={(event) => setImportSourcePlanId(Number(event.target.value) || null)}
+                  className="mt-2 w-full rounded-[1rem] border border-[var(--line)] bg-white px-4 py-3 text-sm text-stone-900 outline-none"
+                >
+                  <option value="">Select a saved plan</option>
+                  {savedPlans.map((plan) => (
+                    <option key={plan.id} value={plan.id}>
+                      {plan.name} · starts {termLabel(plan.startTerm)}
+                    </option>
+                  ))}
+                </select>
+              </div>
+              <div className="space-y-3">
+                <p className="text-xs uppercase tracking-[0.14em] note-copy">Import options</p>
+                <label className="flex items-center gap-3 rounded-[1rem] border border-[var(--line)] bg-white px-4 py-3 text-sm text-stone-900">
+                  <input
+                    type="checkbox"
+                    checked={importOptions.includeCompletedCourses}
+                    onChange={(event) =>
+                      setImportOptions((current) => ({
+                        ...current,
+                        includeCompletedCourses: event.target.checked,
+                      }))
+                    }
+                  />
+                  <span>
+                    Import as completed courses
+                    <span className="mt-1 block text-xs note-copy">
+                      Add the source plan&apos;s courses to this plan&apos;s `Completed Courses` list instead of placing them on the semester board.
+                    </span>
+                  </span>
+                </label>
+                <label className="flex items-center gap-3 rounded-[1rem] border border-[var(--line)] bg-white px-4 py-3 text-sm text-stone-900">
+                  <input
+                    type="checkbox"
+                    checked={importOptions.includeSemesters}
+                    onChange={(event) =>
+                      setImportOptions((current) => ({
+                        ...current,
+                        includeSemesters: event.target.checked,
+                      }))
+                    }
+                  />
+                  <span>
+                    Import semester plan
+                    <span className="mt-1 block text-xs note-copy">
+                      Add the source plan’s semester courses to this plan in the same semester terms they were planned in there.
+                    </span>
+                  </span>
+                </label>
+              </div>
+              <div className="flex justify-end gap-3">
+                <button
+                  type="button"
+                  onClick={closeImportModal}
+                  className="rounded-full border border-[var(--line)] bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:border-[var(--ink)]"
+                >
+                  Cancel
+                </button>
+                <button
+                  type="button"
+                  onClick={importFromSavedPlan}
+                  disabled={!importSourcePlanId || isImporting}
+                  className="rounded-full border border-[var(--ink)] bg-[var(--ink)] px-5 py-2 text-sm font-medium text-white disabled:cursor-not-allowed disabled:opacity-60"
+                >
+                  {isImporting ? "Importing..." : "Import"}
+                </button>
               </div>
             </div>
           </div>
