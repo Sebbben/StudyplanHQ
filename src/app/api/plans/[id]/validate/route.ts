@@ -1,11 +1,11 @@
-import { NextResponse } from "next/server";
-
 import { getCatalogCoursesByCodes } from "@/lib/courses/catalog";
 import { getSession } from "@/lib/auth/session";
+import { noStoreJson, RouteError, toErrorResponse } from "@/lib/http/response";
 import { collectDraftCourseCodes } from "@/lib/planner/draft";
 import { getPlanById } from "@/lib/plans/service";
 import { validateDraft } from "@/lib/planner/validation";
-import { assertSameOrigin } from "@/lib/security/request";
+import { checkRateLimitForRequest } from "@/lib/security/rate-limit";
+import { assertTrustedMutationRequest } from "@/lib/security/request";
 
 type PlanValidateRouteProps = {
   params: Promise<{
@@ -17,20 +17,31 @@ export async function POST(_: Request, { params }: PlanValidateRouteProps) {
   const session = await getSession();
 
   if (!session) {
-    return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+    return noStoreJson({ error: "Authentication required." }, { status: 401 });
   }
 
   try {
-    await assertSameOrigin();
+    const rateLimit = checkRateLimitForRequest(_, {
+      key: "plans-validate",
+      max: 90,
+      windowMs: 10 * 60 * 1000,
+    });
+    if (!rateLimit.ok) {
+      throw new RouteError("Too many validation requests. Try again later.", 429, {
+        headers: { "Retry-After": String(rateLimit.retryAfterSeconds) },
+      });
+    }
+
+    assertTrustedMutationRequest(_);
 
     const planId = Number((await params).id);
     if (!Number.isInteger(planId)) {
-      return NextResponse.json({ error: "Invalid plan id." }, { status: 400 });
+      return noStoreJson({ error: "Invalid plan id." }, { status: 400 });
     }
 
     const plan = await getPlanById(planId, session.userId);
     if (!plan) {
-      return NextResponse.json({ error: "Plan not found." }, { status: 404 });
+      return noStoreJson({ error: "Plan not found." }, { status: 404 });
     }
 
     const courses = await getCatalogCoursesByCodes(collectDraftCourseCodes(plan));
@@ -44,9 +55,8 @@ export async function POST(_: Request, { params }: PlanValidateRouteProps) {
       courses,
     );
 
-    return NextResponse.json({ issues });
+    return noStoreJson({ issues });
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Failed to validate the plan.";
-    return NextResponse.json({ error: message }, { status: 400 });
+    return toErrorResponse(error, { fallbackMessage: "Failed to validate the plan." });
   }
 }

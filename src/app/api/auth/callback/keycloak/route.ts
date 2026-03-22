@@ -1,8 +1,7 @@
-import { NextResponse } from "next/server";
-
 import { consumePostLoginRedirectPath, exchangeAuthorizationCode } from "@/lib/auth/oidc";
 import { setSessionCookie } from "@/lib/auth/session";
 import { upsertUser } from "@/lib/auth/users";
+import { noStoreJson, noStoreRedirect } from "@/lib/http/response";
 
 export async function GET(request: Request) {
   try {
@@ -17,9 +16,9 @@ export async function GET(request: Request) {
       name: user.name,
     });
 
-    return NextResponse.redirect(new URL(redirectPath, request.url));
+    return noStoreRedirect(new URL(redirectPath, request.url));
   } catch (error) {
     console.error("Keycloak callback failed", error);
-    return NextResponse.json({ error: "Login failed." }, { status: 400 });
+    return noStoreJson({ error: "Login failed." }, { status: 400 });
   }
 }

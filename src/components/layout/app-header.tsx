@@ -1,6 +1,9 @@
+import Image from "next/image";
 import Link from "next/link";
 
 import { getSession } from "@/lib/auth/session";
+import { LogoutButton } from "@/components/layout/logout-button";
+import logoAsset from "@/static/studyplanhq-compass-logo.svg";
 
 export async function AppHeader() {
   const session = await getSession();
@@ -11,8 +14,13 @@ export async function AppHeader() {
         <div className="flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
           <div>
             <p className="note-kicker">Study Plan Notes</p>
-            <Link href="/" className="mt-2 block font-[family-name:var(--font-display-serif)] text-4xl leading-none text-stone-950">
-              StudyPlanHQ
+            <Link href="/" className="mt-2 inline-flex max-w-full items-center">
+              <Image
+                src={logoAsset}
+                alt="StudyPlanHQ"
+                priority
+                className="h-auto w-[17rem] max-w-full sm:w-[20rem]"
+              />
             </Link>
             <p className="mt-2 max-w-2xl text-sm note-copy">
               Course planning support that feels closer to a study notebook than a product funnel.
@@ -30,14 +38,7 @@ export async function AppHeader() {
                 <span className="hidden rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-3 py-2 text-sm note-copy sm:inline">
                   {session.name ?? session.email ?? session.sub}
                 </span>
-                <form action="/api/auth/logout" method="post">
-                  <button
-                    type="submit"
-                    className="rounded-full border border-[var(--line)] bg-[rgba(255,253,247,0.88)] px-4 py-2 text-sm font-medium text-stone-700 hover:border-[var(--ink)] hover:text-stone-950"
-                  >
-                    Log out
-                  </button>
-                </form>
+                <LogoutButton />
               </>
             ) : (
               <>

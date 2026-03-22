@@ -1,17 +1,15 @@
-import { NextResponse } from "next/server";
-
 import { buildLogoutUrl } from "@/lib/auth/oidc";
 import { clearSessionCookie } from "@/lib/auth/session";
-import { assertSameOrigin } from "@/lib/security/request";
+import { noStoreJson, toErrorResponse } from "@/lib/http/response";
+import { assertTrustedMutationRequest } from "@/lib/security/request";
 
-export async function POST() {
+export async function POST(request: Request) {
   try {
-    await assertSameOrigin();
+    assertTrustedMutationRequest(request);
     await clearSessionCookie();
 
-    return NextResponse.redirect(await buildLogoutUrl());
+    return noStoreJson({ logoutUrl: await buildLogoutUrl() });
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Logout failed.";
-    return NextResponse.json({ error: message }, { status: 400 });
+    return toErrorResponse(error, { fallbackMessage: "Logout failed." });
   }
 }

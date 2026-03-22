@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { IBM_Plex_Mono, IBM_Plex_Sans, Newsreader } from "next/font/google";
 
 import { AppHeader } from "@/components/layout/app-header";
+import { env } from "@/lib/env";
+import faviconAsset from "@/static/studyplanhq-compass-favicon.svg";
 
 import "./globals.css";
 
@@ -26,6 +28,11 @@ const bodyMono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   title: "StudyPlanHQ",
   description: "Course exploration and semester planning for UiO students.",
+  metadataBase: new URL(env.APP_URL),
+  icons: {
+    icon: [{ url: faviconAsset.src, type: "image/svg+xml" }],
+    shortcut: [faviconAsset.src],
+  },
 };
 
 export default function RootLayout({
