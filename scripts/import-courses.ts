@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import { parse } from "csv-parse/sync";
 import { sql } from "drizzle-orm";
 
-import { db, pool } from "@/lib/db";
+import { getDb, getPool } from "@/lib/db";
 import { courses } from "@/lib/db/schema";
 
 const fileFlag = process.argv.find((value) => value.startsWith("--file="));
@@ -58,6 +58,7 @@ const values = rows.map((row, index) => {
   };
 });
 
+const db = getDb();
 await db.insert(courses).values(values).onConflictDoUpdate({
   target: courses.code,
   set: {
@@ -76,6 +77,6 @@ await db.insert(courses).values(values).onConflictDoUpdate({
   },
 });
 
-await pool.end();
+await getPool().end();
 
 console.log(`Imported ${values.length} courses from ${filePath}.`);

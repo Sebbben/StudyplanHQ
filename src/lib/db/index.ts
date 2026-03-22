@@ -1,17 +1,26 @@
 import { drizzle } from "drizzle-orm/node-postgres";
 import { Pool } from "pg";
 
-import { env } from "@/lib/env";
+import { getEnv } from "@/lib/env";
 
 declare global {
   var __studyplanhqPool: Pool | undefined;
 }
 
-const pool = global.__studyplanhqPool ?? new Pool({ connectionString: env.DATABASE_URL });
-
-if (process.env.NODE_ENV !== "production") {
-  global.__studyplanhqPool = pool;
+function createPool() {
+  return new Pool({ connectionString: getEnv().DATABASE_URL });
 }
 
-export const db = drizzle({ client: pool });
-export { pool };
+export function getPool() {
+  const pool = global.__studyplanhqPool ?? createPool();
+
+  if (process.env.NODE_ENV !== "production") {
+    global.__studyplanhqPool = pool;
+  }
+
+  return pool;
+}
+
+export function getDb() {
+  return drizzle({ client: getPool() });
+}

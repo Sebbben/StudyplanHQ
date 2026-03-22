@@ -1,6 +1,6 @@
 import { and, asc, eq, ilike, inArray, or, sql } from "drizzle-orm";
 
-import { db } from "@/lib/db";
+import { getDb } from "@/lib/db";
 import { courses } from "@/lib/db/schema";
 import type { PlannerCourse } from "@/lib/planner/types";
 
@@ -13,6 +13,7 @@ export type CourseFilters = {
 };
 
 export async function listCourses(filters: CourseFilters = {}): Promise<PlannerCourse[]> {
+  const db = getDb();
   const conditions = [];
 
   if (filters.query) {
@@ -52,6 +53,7 @@ export async function listCourses(filters: CourseFilters = {}): Promise<PlannerC
 }
 
 export async function getCourseByCode(code: string): Promise<PlannerCourse | null> {
+  const db = getDb();
   const [row] = await db.select().from(courses).where(eq(courses.code, code)).limit(1);
 
   if (!row) {
@@ -78,6 +80,7 @@ export async function listCoursesByCodes(codes: string[]): Promise<PlannerCourse
     return [];
   }
 
+  const db = getDb();
   const rows = await db.select().from(courses).where(inArray(courses.code, codes)).orderBy(asc(courses.code));
 
   return rows.map((row) => ({
@@ -96,6 +99,7 @@ export async function listCoursesByCodes(codes: string[]): Promise<PlannerCourse
 }
 
 export async function listCourseFacets() {
+  const db = getDb();
   const rows = await db
     .select({
       department: courses.department,

@@ -1,9 +1,10 @@
 import { eq, sql } from "drizzle-orm";
 
-import { db } from "@/lib/db";
+import { getDb } from "@/lib/db";
 import { users } from "@/lib/db/schema";
 
 export async function upsertUser(identity: { sub: string; email?: string; name?: string }) {
+  const db = getDb();
   await db
     .insert(users)
     .values({

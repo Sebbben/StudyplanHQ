@@ -1,10 +1,11 @@
 import { sql } from "drizzle-orm";
 
-import { db } from "@/lib/db";
+import { getDb } from "@/lib/db";
 import { noStoreJson } from "@/lib/http/response";
 
 export async function GET() {
   try {
+    const db = getDb();
     await db.execute(sql`select 1`);
 
     return noStoreJson({

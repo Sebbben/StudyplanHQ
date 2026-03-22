@@ -1,9 +1,10 @@
 import { sql } from "drizzle-orm";
 
 import { sampleCourses } from "@/data/sample-courses";
-import { db, pool } from "@/lib/db";
+import { getDb, getPool } from "@/lib/db";
 import { courses } from "@/lib/db/schema";
 
+const db = getDb();
 await db.execute(sql`select 1`);
 
 await db
@@ -27,6 +28,6 @@ await db
   },
 });
 
-await pool.end();
+await getPool().end();
 
 console.log(`Seeded ${sampleCourses.length} courses.`);

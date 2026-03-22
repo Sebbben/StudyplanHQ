@@ -1,8 +1,12 @@
 import { sampleCourses } from "@/data/sample-courses";
-import { getCourseByCode, listCourseFacets, listCourses, listCoursesByCodes } from "@/lib/courses/service";
 
-export async function getCatalogCourses(filters?: Parameters<typeof listCourses>[0]) {
+async function loadCourseService() {
+  return import("@/lib/courses/service");
+}
+
+export async function getCatalogCourses(filters?: Parameters<Awaited<ReturnType<typeof loadCourseService>>["listCourses"]>[0]) {
   try {
+    const { listCourses } = await loadCourseService();
     return await listCourses(filters);
   } catch {
     const query = filters?.query?.toLowerCase();
@@ -30,6 +34,7 @@ export async function getCatalogCourses(filters?: Parameters<typeof listCourses>
 
 export async function getCatalogCourseByCode(code: string) {
   try {
+    const { getCourseByCode } = await loadCourseService();
     return await getCourseByCode(code);
   } catch {
     return sampleCourses.find((course) => course.code === code) ?? null;
@@ -38,6 +43,7 @@ export async function getCatalogCourseByCode(code: string) {
 
 export async function getCatalogCoursesByCodes(codes: string[]) {
   try {
+    const { listCoursesByCodes } = await loadCourseService();
     return await listCoursesByCodes(codes);
   } catch {
     const codeSet = new Set(codes);
@@ -47,6 +53,7 @@ export async function getCatalogCoursesByCodes(codes: string[]) {
 
 export async function getCatalogCourseFacets() {
   try {
+    const { listCourseFacets } = await loadCourseService();
     return await listCourseFacets();
   } catch {
     return {

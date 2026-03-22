@@ -1,7 +1,7 @@
 import { cookies } from "next/headers";
 import { createRemoteJWKSet, jwtVerify } from "jose";
 
-import { env } from "@/lib/env";
+import { getEnv } from "@/lib/env";
 
 const STATE_COOKIE = "studyplanhq_oauth_state";
 const VERIFIER_COOKIE = "studyplanhq_oauth_verifier";
@@ -43,6 +43,7 @@ async function createPkceChallenge(verifier: string) {
 }
 
 export async function discoverOidcConfiguration(): Promise<DiscoveryDocument> {
+  const env = getEnv();
   const response = await fetch(`${env.KEYCLOAK_ISSUER_URL}/.well-known/openid-configuration`, {
     cache: "force-cache",
   });
@@ -55,6 +56,7 @@ export async function discoverOidcConfiguration(): Promise<DiscoveryDocument> {
 }
 
 export function getRedirectUri() {
+  const env = getEnv();
   return `${env.APP_URL}${REDIRECT_PATH}`;
 }
 
@@ -78,6 +80,7 @@ function sanitizeReturnPath(value: string | null | undefined) {
 }
 
 export async function createAuthorizationUrl(returnTo?: string | null) {
+  const env = getEnv();
   const cookieStore = await cookies();
   const discovery = await discoverOidcConfiguration();
   const state = randomString();
@@ -136,6 +139,7 @@ export async function createAuthorizationUrl(returnTo?: string | null) {
 }
 
 export async function exchangeAuthorizationCode(url: URL) {
+  const env = getEnv();
   const cookieStore = await cookies();
   try {
     const expectedState = cookieStore.get(STATE_COOKIE)?.value;
@@ -221,6 +225,7 @@ export async function consumePostLoginRedirectPath() {
 }
 
 export async function buildLogoutUrl() {
+  const env = getEnv();
   const discovery = await discoverOidcConfiguration();
 
   if (!discovery.end_session_endpoint) {

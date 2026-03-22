@@ -1,4 +1,4 @@
-import { env } from "@/lib/env";
+import { getEnv } from "@/lib/env";
 
 function expandLocalOrigins(origin: string) {
   const url = new URL(origin);
@@ -20,6 +20,7 @@ function expandLocalOrigins(origin: string) {
 }
 
 function getAllowedOrigins(request: Request) {
+  const env = getEnv();
   return new Set([
     ...expandLocalOrigins(new URL(env.APP_URL).origin),
     ...expandLocalOrigins(new URL(request.url).origin),

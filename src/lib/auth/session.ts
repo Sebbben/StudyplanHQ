@@ -3,7 +3,7 @@ import { createSecretKey } from "node:crypto";
 import { jwtVerify, SignJWT } from "jose";
 import { cookies } from "next/headers";
 
-import { env } from "@/lib/env";
+import { getEnv } from "@/lib/env";
 
 const SESSION_COOKIE = "studyplanhq_session";
 const ONE_WEEK_IN_SECONDS = 60 * 60 * 24 * 7;
@@ -16,6 +16,7 @@ export type UserSession = {
 };
 
 function getSessionKey() {
+  const env = getEnv();
   return createSecretKey(Buffer.from(env.SESSION_SECRET, "utf8"));
 }
 

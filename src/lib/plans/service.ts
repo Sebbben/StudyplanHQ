@@ -1,10 +1,11 @@
 import { and, asc, eq, inArray } from "drizzle-orm";
 
-import { db } from "@/lib/db";
+import { getDb } from "@/lib/db";
 import { plannedCourses, plannedSemesters, studyPlans } from "@/lib/db/schema";
 import type { PlannerDraft } from "@/lib/planner/types";
 
 export async function listPlansForUser(userId: number) {
+  const db = getDb();
   return db
     .select()
     .from(studyPlans)
@@ -13,6 +14,7 @@ export async function listPlansForUser(userId: number) {
 }
 
 export async function getPlanById(planId: number, userId: number) {
+  const db = getDb();
   const [plan] = await db
     .select()
     .from(studyPlans)
@@ -52,6 +54,7 @@ export async function getPlanById(planId: number, userId: number) {
 }
 
 export async function createPlan(userId: number, draft: PlannerDraft) {
+  const db = getDb();
   return db.transaction(async (tx) => {
     const [plan] = await tx
       .insert(studyPlans)
@@ -89,6 +92,7 @@ export async function createPlan(userId: number, draft: PlannerDraft) {
 }
 
 export async function updatePlan(planId: number, userId: number, draft: PlannerDraft) {
+  const db = getDb();
   return db.transaction(async (tx) => {
     const [existing] = await tx
       .select()
@@ -144,6 +148,7 @@ export async function updatePlan(planId: number, userId: number, draft: PlannerD
 }
 
 export async function deletePlan(planId: number, userId: number) {
+  const db = getDb();
   const [deleted] = await db
     .update(studyPlans)
     .set({
