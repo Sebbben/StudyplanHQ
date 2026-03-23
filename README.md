@@ -16,23 +16,26 @@ StudyPlanHQ is a Bun-based Next.js app for UiO students who want to explore cour
 ```bash
 cp .env.example .env
 docker compose up -d db
-bun run db:push
-bun run db:seed
+bun run setup
 bun dev
 ```
 
 Open `http://localhost:3000`.
+
+`bun run db:generate` is not part of first-time setup. It generates Drizzle migration files after you change [`src/lib/db/schema.ts`](/home/sebbben/Programmering/git/HeadQuarters/StudyPlanHQ/src/lib/db/schema.ts). For local setup in this repo, use `bun run db:migrate`. Reserve `bun run db:push` for interactive schema work.
 
 ### Scripts
 
 - `bun dev`
 - `bun run lint`
 - `bun run test`
+- `bun run setup`
 - `bun run courses:fetch-ifi`
 - `bun run courses:fetch-uio -- --listing=https://www.uio.no/studier/emner/matnat/math/`
 - `bun run db:generate`
 - `bun run db:migrate`
 - `bun run db:push`
+- `bun run db:setup`
 - `bun run db:seed`
 - `bun run db:import-courses -- --file=./path/to/courses.json`
 
